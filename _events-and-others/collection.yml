@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2021 Events/Student Leadership Workshop 2021.md
       - 2021 Events/P4 for P1 Buddy Programme.md
       - 2021 Events/First CCA Day 2021.md
       - 2021 Events/Swimsafer.md
