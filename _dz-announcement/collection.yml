@@ -1,4 +1,5 @@
 collections:
   dz-announcement:
     output: true
-    order: []
+    order:
+      - Highlights and Updates.md
