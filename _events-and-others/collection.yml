@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2020 Events/Wipedown Routine 2020.md
       - 2020 Events/.keep
       - Achievements/2021.md
       - Achievements/Past Achievements.md
