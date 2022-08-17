@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - DZPS Guests.md
       - Student Learning Space.md
       - Koobits.md
       - Parents Gateway.md
