@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Student Learning Space.md
       - Koobits.md
       - Parents Gateway.md
       - External Partners.md
