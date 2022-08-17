@@ -2,4 +2,5 @@ collections:
   dz-announcement:
     output: true
     order:
+      - Announcements.md
       - Highlights and Updates.md
