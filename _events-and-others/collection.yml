@@ -2,6 +2,8 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2022 Events/School Based National School Games Oath Taking Ceremony
+        2022.md
       - 2022 Events/Affirmation Day Term 2.md
       - 2022 Events/Author Talk 2022.md
       - 2022 Events/.keep
