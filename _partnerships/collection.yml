@@ -2,5 +2,6 @@ collections:
   partnerships:
     output: true
     order:
+      - External Partners.md
       - Chinese Development Assistance Council.md
       - Experiential Learning at Dazhong.md
