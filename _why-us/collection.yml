@@ -2,10 +2,10 @@ collections:
   why-us:
     output: true
     order:
+      - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Environmental Education.md
       - P1 Start Right!.md
       - Appreciation Time @ DZ.md
       - Internationalization Programme.md
       - SOAR Programme.md
-      - Applied Learning Programme.md
