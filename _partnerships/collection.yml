@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Information and Letters/Books and Uniform Vendor.md
       - School Information and Letters/School Dental Services.md
       - School Information and Letters/Student Care Center at DZPS.md
       - School Information and Letters/Group Personal Accident Insurance for
