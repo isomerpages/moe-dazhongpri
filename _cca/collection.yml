@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Arts/Arts Club.md
-      - Arts/Choir.md
-      - Arts/Dance Club.md
-      - Arts/Junior Orchestra.md
-      - Arts/.keep
+      - Visual and Performing Arts/Arts Club.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Dance Club.md
+      - Visual and Performing Arts/Junior Orchestra.md
+      - Visual and Performing Arts/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
