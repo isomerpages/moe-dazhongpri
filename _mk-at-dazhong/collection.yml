@@ -2,6 +2,7 @@ collections:
   mk-at-dazhong:
     output: true
     order:
+      - Curriculum Goals.md
       - MK Teaching Staff.md
       - MK Virtual Tour.md
       - DZ Kindergarten Care.md
