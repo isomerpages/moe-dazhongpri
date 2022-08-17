@@ -18,10 +18,4 @@ sections:
         - title: Virtual Open House
           description: ""
           url: /virtual-open-house/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
