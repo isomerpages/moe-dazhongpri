@@ -2,4 +2,5 @@ collections:
   mk-at-dazhong:
     output: true
     order:
+      - DZ Kindergarten Care.md
       - Events.md
