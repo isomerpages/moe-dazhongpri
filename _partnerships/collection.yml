@@ -2,6 +2,8 @@ collections:
   partnerships:
     output: true
     order:
+      - School Information and Letters/Group Personal Accident Insurance for
+        Students.md
       - School Information and Letters/School Bus Service Provider.md
       - School Information and Letters/School Canteen Stall Application.md
       - School Information and Letters/Parent Engagement Session.md
