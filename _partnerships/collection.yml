@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group/.keep
       - Dads for Life/Overview.md
       - Dads for Life/Dads for Life 2022.md
       - Dads for Life/Dads for Life 2021.md
