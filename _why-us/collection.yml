@@ -2,6 +2,7 @@ collections:
   why-us:
     output: true
     order:
+      - Learning for Life Programme.md
       - Environmental Education.md
       - P1 Start Right!.md
       - Appreciation Time @ DZ.md
