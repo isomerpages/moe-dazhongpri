@@ -2,6 +2,7 @@ collections:
   learner-excellence:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Physical Education.md
       - Aesthetics.md
