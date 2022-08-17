@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2020 Events/Chinese New Year 2020.md
       - 2020 Events/Total Defence Week 2020.md
       - 2020 Events/Wipedown Routine 2020.md
       - 2020 Events/.keep
