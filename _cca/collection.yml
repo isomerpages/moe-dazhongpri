@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts/Choir.md
       - Arts/Dance Club.md
       - Arts/Junior Orchestra.md
       - Arts/.keep
