@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/dzps.gif
       key_highlights:
-        - title: "Announcements "
+        - title: DZ Announcement
           description: ""
-          url: /announcements/overview
+          url: /dz-announcement/overview/
         - title: Home-based Learning
           description: ""
           url: /home-based-learning/
