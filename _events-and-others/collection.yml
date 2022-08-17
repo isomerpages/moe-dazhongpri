@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2022 Events/Affirmation Day Term 2.md
       - 2022 Events/Author Talk 2022.md
       - 2022 Events/.keep
       - 2021 Events/First Day of School P1 Start Right Transition Programme.md
