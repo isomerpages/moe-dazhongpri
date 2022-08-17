@@ -2,6 +2,8 @@ collections:
   partnerships:
     output: true
     order:
+      - School Information and Letters/School Information and Letters 2018 to
+        2020.md
       - School Information and Letters/.keep
       - Parent Support Group/Overview.md
       - Parent Support Group/PSD Exco Team.md
