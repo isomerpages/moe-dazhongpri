@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies/Green Tech Club.md
       - Club and Societies/.keep
