@@ -2,4 +2,5 @@ collections:
   character-excellence:
     output: true
     order:
+      - Outdoor Education Programme.md
       - Sexuality Education.md
