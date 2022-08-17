@@ -2,4 +2,5 @@ collections:
   why-us:
     output: true
     order:
+      - SOAR Programme.md
       - Applied Learning Programme.md
