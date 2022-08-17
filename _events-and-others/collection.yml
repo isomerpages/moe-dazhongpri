@@ -2,8 +2,8 @@ collections:
   events-and-others:
     output: true
     order:
-      - Useful Links/For Partners.md
-      - Useful Links/For Staff.md
-      - Useful Links/For Students.md
       - Useful Links/.keep
+      - Useful Links/For Students.md
+      - Useful Links/For Staff.md
+      - Useful Links/For Partners.md
       - Privacy Policy.md
