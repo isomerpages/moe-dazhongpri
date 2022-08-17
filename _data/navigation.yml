@@ -76,6 +76,19 @@ links:
         url: /partnerships/cdac/
       - title: Experiential Learning @ DZ
         url: /partnerships/experiential-learning-at-dz/
+  - title: MK @ Dazhong
+    url: /mk-at-dazhong/about-mk/
+    sublinks:
+      - title: About MK
+        url: /mk-at-dazhong/about-mk/
+      - title: Curriculum Goals
+        url: /mk-at-dazhong/curriculum-goals/
+      - title: MK Teaching Staff
+        url: /mk-at-dazhong/mk-teaching-staff/
+      - title: MK Virtual Tour
+        url: /mk-at-dazhong/mk-virtual-tour/
+      - title: DZ Kindergarten Care
+        url: /mk-at-dazhong/dz-kindergarten-care/
   - title: Events & Others
     url: /events/2022/
     sublinks:
@@ -95,16 +108,3 @@ links:
         url: /others/useful-links/
       - title: Privacy Policy
         url: /others/privacy-policy/
-  - title: MK @ Dazhong
-    url: /mk-at-dazhong/about-mk/
-    sublinks:
-      - title: About MK
-        url: /mk-at-dazhong/about-mk/
-      - title: Curriculum Goals
-        url: /mk-at-dazhong/curriculum-goals/
-      - title: MK Teaching Staff
-        url: /mk-at-dazhong/mk-teaching-staff/
-      - title: MK Virtual Tour
-        url: /mk-at-dazhong/mk-virtual-tour/
-      - title: DZ Kindergarten Care
-        url: /mk-at-dazhong/dz-kindergarten-care/
