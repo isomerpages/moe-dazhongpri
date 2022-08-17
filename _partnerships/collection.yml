@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Dads for Life/.keep
       - DZ Alumni/Overview.md
       - DZ Alumni/Our Amazing DZPS Alumni!.md
       - DZ Alumni/.keep
