@@ -2,5 +2,6 @@ collections:
   character-excellence:
     output: true
     order:
+      - Student Well Being.md
       - Outdoor Education Programme.md
       - Sexuality Education.md
