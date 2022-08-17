@@ -1,8 +1,25 @@
 logo: /images/DZlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message//permalink
+      - title: Milestones
+        url: /about-us/milestones/
+      - title: Vision, Mission & Values
+        url: /about-us/vision-mission-values/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee/
+      - title: Management Team
+        url: /about-us/management-team/
+      - title: Teaching Staff
+        url: /about-us/teaching-staff/
+      - title: MOE Kindergarten Staff
+        url: /about-us/moe-kindergarten-staff/
+      - title: Non-Teaching Staff
+        url: /about-us/non-teaching-staff/
+      - title: FAQ
+        url: /about-us/faq/
