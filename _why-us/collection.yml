@@ -2,6 +2,7 @@ collections:
   why-us:
     output: true
     order:
+      - Appreciation Time at DZ.md
       - Internationalization Programme.md
       - SOAR Programme.md
       - Applied Learning Programme.md
