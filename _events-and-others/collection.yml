@@ -2,5 +2,6 @@ collections:
   events-and-others:
     output: true
     order:
+      - Useful Links/For Students.md
       - Useful Links/.keep
       - Privacy Policy.md
