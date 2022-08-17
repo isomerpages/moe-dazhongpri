@@ -2,6 +2,7 @@ collections:
   mk-at-dazhong:
     output: true
     order:
+      - Overview.md
       - About MK.md
       - Curriculum Goals.md
       - MK Teaching Staff.md
