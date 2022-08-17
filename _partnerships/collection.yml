@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group/Overview.md
       - Parent Support Group/PSD Exco Team.md
       - Parent Support Group/.keep
       - Dads for Life/Overview.md
