@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2021 Events/Chinese New Year 2021.md
       - 2021 Events/Total Defence Day.md
       - 2021 Events/Term 2 Affirmation Day 2021.md
       - 2021 Events/National Day Celebration 2021.md
