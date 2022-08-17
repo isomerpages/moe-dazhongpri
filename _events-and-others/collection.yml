@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2022 Events/Stories Come Alive.md
       - 2022 Events/Earth Day 2022.md
       - 2022 Events/School Based National School Games Oath Taking Ceremony
         2022.md
