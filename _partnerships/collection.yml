@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Information and Letters/Dazhong Assessment Weightings 2021.md
       - School Information and Letters/Books and Uniform Vendor.md
       - School Information and Letters/School Dental Services.md
       - School Information and Letters/Student Care Center at DZPS.md
