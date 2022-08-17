@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2021 Events/Teachers Day 2021.md
       - 2021 Events/Prize Giving Day 2021.md
       - 2021 Events/.keep
       - 2020 Events/Student Leadership 2020.md
