@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Information and Letters/.keep
       - Parent Support Group/Overview.md
       - Parent Support Group/PSD Exco Team.md
       - Parent Support Group/.keep
