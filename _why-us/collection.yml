@@ -2,5 +2,6 @@ collections:
   why-us:
     output: true
     order:
+      - Internationalization Programme.md
       - SOAR Programme.md
       - Applied Learning Programme.md
