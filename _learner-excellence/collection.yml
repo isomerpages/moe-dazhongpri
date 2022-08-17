@@ -2,4 +2,5 @@ collections:
   learner-excellence:
     output: true
     order:
+      - English Language/EL Support Programmes.md
       - English Language/.keep
