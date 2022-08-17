@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - Contact Us.md
       - Quick Links.md
       - 2022 Events/P1 Start Right at Dazhong.md
       - 2022 Events/CNY Celebration MTL Fortnight 2022.md
