@@ -2,8 +2,9 @@ collections:
   events-and-others:
     output: true
     order:
-      - Contact Us.md
       - Quick Links.md
+      - Contact Us.md
+      - 2022 Events/.keep
       - 2022 Events/P1 Start Right at Dazhong.md
       - 2022 Events/CNY Celebration MTL Fortnight 2022.md
       - 2022 Events/Cyber Wellness and Total Defence Day.md
@@ -14,7 +15,7 @@ collections:
         2022.md
       - 2022 Events/Affirmation Day Term 2.md
       - 2022 Events/Author Talk 2022.md
-      - 2022 Events/.keep
+      - 2021 Events/.keep
       - 2021 Events/First Day of School P1 Start Right Transition Programme.md
       - 2021 Events/Student Leadership Workshop 2021.md
       - 2021 Events/P4 for P1 Buddy Programme.md
@@ -26,15 +27,14 @@ collections:
       - 2021 Events/National Day Celebration 2021.md
       - 2021 Events/Teachers Day 2021.md
       - 2021 Events/Prize Giving Day 2021.md
-      - 2021 Events/.keep
+      - 2020 Events/.keep
       - 2020 Events/Student Leadership 2020.md
       - 2020 Events/Chinese New Year 2020.md
       - 2020 Events/Total Defence Week 2020.md
       - 2020 Events/Wipedown Routine 2020.md
-      - 2020 Events/.keep
+      - Achievements/.keep
       - Achievements/2021.md
       - Achievements/Past Achievements.md
-      - Achievements/.keep
       - DZPS 80th Anniversary.md
       - WE Stories.md
       - Useful Links/.keep
