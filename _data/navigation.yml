@@ -23,6 +23,8 @@ links:
         url: /about-us/non-teaching-staff/
       - title: FAQ
         url: /about-us/faq/
+      - title: Useful Information
+        url: /about-us/useful-information/
   - title: Why Us
     url: /why-us/applied-learning-programme/
     sublinks:
@@ -40,8 +42,6 @@ links:
         url: /why-us/internationalization-programme/
       - title: SOAR Programme
         url: /why-us/soar-programme/
-      - title: Useful Information
-        url: /why-us/useful-information/
   - title: Our Education
     url: /learner-excellence/english-language/overview/
     sublinks:
@@ -96,5 +96,15 @@ links:
       - title: Privacy Policy
         url: /others/privacy-policy/
   - title: MK @ Dazhong
-    url: /permalink
-    sublinks: []
+    url: /mk-at-dazhong/about-mk/
+    sublinks:
+      - title: About MK
+        url: /mk-at-dazhong/about-mk/
+      - title: Curriculum Goals
+        url: /mk-at-dazhong/curriculum-goals/
+      - title: MK Teaching Staff
+        url: /mk-at-dazhong/mk-teaching-staff/
+      - title: MK Virtual Tour
+        url: /mk-at-dazhong/mk-virtual-tour/
+      - title: DZ Kindergarten Care
+        url: /mk-at-dazhong/dz-kindergarten-care/
