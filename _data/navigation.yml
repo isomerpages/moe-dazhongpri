@@ -77,8 +77,10 @@ links:
       - title: Experiential Learning @ DZ
         url: /partnerships/experiential-learning-at-dz/
   - title: MK @ Dazhong
-    url: /mk-at-dazhong/about-mk/
+    url: /mk-at-dazhong/overview/
     sublinks:
+      - title: Overview
+        url: /mk-at-dazhong/overview/
       - title: About MK
         url: /mk-at-dazhong/about-mk/
       - title: Curriculum Goals
