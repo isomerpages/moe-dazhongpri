@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Management Team.md
       - Teaching Staff.md
       - MOE Kindergarten Staff.md
       - Non Teaching Staff.md
