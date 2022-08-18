@@ -45,3 +45,14 @@ description: ""
 |   3 Perseverance 	| Ms Siti Munirah Binte Mohd Kamal<br>_[siti\_munirah\_mohd\_kamal@moe.edu.sg](mailto:siti_munirah_mohd_kamal@moe.edu.sg)_ 	|  Mr Choy Yu Wai <br>_[choy\_yu\_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
 
 #### Primary 4
+
+| Class 	| Name of Staff 	| Name of Staff 	|
+|:---:	|:---:	|---	|
+| P4 AYH / P4 YH 	| Mdm Lin Shihua Jan<br><br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
+|  4 Integrity 	| Miss Raywathi D/O Muthu Kanna<br> _[raywathi\_muthu\_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_  	| Miss Nur Nadia Binte Massri<br>_[nur\_nadia\_massri@moe.edu.sg](mailto:nur_nadia_massri@moe.edu.sg)_ 	|
+| 4 Responsibility 	| Mr Brandon Huang Kangjun<br>_[brandon\_huang\_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	| Miss Chang Mei Shan <br>_[chang\_mei\_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_<br> 	|
+|    4 Excellence 	| Miss Swarnapraba Karthigaihini P<br>_[swarnapraba\_karthigaihini\_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_ 	| Mdm Muneera Binte Abu Bakar<br>_[muneera\_abu\_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	|
+|   4 Acceptance 	| Mr Herman Bin Ponijo<br>_[herman\_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_  	| Mrs Michelle Sim (Loh Jee Yann)<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|
+|   4 Perseverance 	| Mr Edwin Lim Wei Heng<br>_[lim\_wei\_heng\_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_   	| Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_ 	|
+| 4 Gracious 	|  Mdm Chen Li Qin<br>_[chen\_li\_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_ 	| Ms Ananthy Marimuthu<br>_[ananthy\_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
+|   	|   Ms Law Ai Ning<br>_[law\_ai\_ning@moe.edu.sg](mailto:law_ai_ning@moe.edu.sg)_ 	|   	|
