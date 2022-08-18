@@ -125,8 +125,195 @@ P4 students engaging with Artworks at the DZ Art Cove.
 
 Students learnt basic mosaic tiling techniques and skills to be able to create mosaic tiles based on the theme 'My Singapore'.
 
-  
-
 They acquired Mosaic Art knowledge, appreciate mosaic as an art form, as well as nurture a disciplined mind.
 
+<img src="/images/aes15.png" 
+     style="width:60%"> 
+		 
+**P5 & P6 Visual Arts: AEP P6 Ceramics**
 
+We introduced Ceramics as part of the Art learning for our P6 students to let students learn the key techniques and skills involved in ceramics such as pinching, coil building, slab building and hollowing.
+
+  
+
+We hope that our P6 students learn about the background of ceramics as an art form, appreciate ceramics works and critique pieces of works and discover the potential of Ceramics as a medium for artistic expression.
+
+<img src="/images/aes16.png" 
+     style="width:60%"> Student 'Underwater World' Ceramic tiles
+		 
+**P6 Advanced Batik Painting**
+
+<img src="/images/aes17.png" 
+     style="width:60%">
+
+<img src="/images/aes18.png" 
+     style="width:60%">
+		 
+<img src="/images/aes19.png" 
+     style="width:60%">
+
+<img src="/images/aes20.png" 
+     style="width:60%">
+
+#### PAL P1 Visual Arts
+
+Students of P1 have their PAL Visual Art Programmes where they learn SEL competencies, and they learn how to team together to get their beautiful artworks done.  
+  
+The P1 PAL (Visual Arts) Module explores the themes of:  
+\-    Friendships<br>\-    School<br>\-    Family<br>\-    Emotions<br>\-    Ambitions: Strengths and interests
+
+<img src="/images/aes20.png" 
+     style="width:60%">
+		 
+<img src="/images/aes21.png" 
+     style="width:60%">
+		 
+**PAL P1 Visual Arts**  
+  
+They get to interact with their friends to learn about SEL (Socio-emotional) Competencies and Collaborate with their friends to create beautiful masterpieces.
+
+<img src="/images/aes22.png" 
+     style="width:60%"> P1 students learnt enjoyable and meaningful PAL Visual Arts Programme
+		 
+**SYF 2021**
+
+**Singapore Youth Festival (SYF) 2021 Art Exhibition** is an opportunity.
+
+  
+\-    to display students' talent in art  
+\-    to promote art appreciation in our schools and community  
+\-    to nurture students to be effective communicators and self-directed learners
+
+  
+
+**SYF 2021 Results**
+
+Our students from Art Club participated in Singapore Youth Festival (SYF) 2021 Art Exhibition.
+
+  
+
+We have done well and here are our results:
+
+  
+
+**Certificate of Recognition**
+<br>\-    Category A (P1, P2)  <br>\-    Category B (P3, P4)
+
+  
+
+**Certificate of Participation**  
+\-    Category C (P5, P6)
+
+  
+
+  
+
+**Theme: Artist & Technology Category A (P1 & P2)**
+
+**About the Artwork:**  
+In this time and age, art has evolved into various forms. Creating an avatar in games has been a form of art that has broadened our creativity skills as it gives us a sense of identity and ownership as a player.
+
+  
+
+**Student Artists:**
+
+Yoong En Yun Jeslene, 2G  
+Marc Josiah Tjoa, 2G  
+Chew Xin Yu, 2P  
+Glenys Fong Ji Tong, 2P  
+Sai Sachinkumar Santhosh, 2P  
+Grace Jade Teo, 2E  
+Soon Kai Lin, 2E
+
+  
+
+**Theme: Artist & Technology Category B (P3 & P4)**
+
+**About the Artwork:**  
+Our artwork shows how technology and creativity come together, to help improve lives! The pandemic changed our lifestyles, but our artwork shows how we stayed connected. Our 3D items represent technology, through mobile applications, from past to present. Technology transforms an artist's ideas and imagination into something useful.
+
+  
+
+**Student Artists:**
+
+Lim Hao Jun Ayden, 4A  
+Thaddeus Wan Zhe, 4I  
+Rainie Goh Yee Shan, 4I  
+Wang Qiaoran, 3A  
+Jenelyn Soh Yi Xin, 3E
+
+Niko Ashlee Chaw Binte Mohammad Faizal, 3E
+
+  
+
+**Theme: Artist & Technology Category A (P5 & P6)**
+
+**About the Artwork:**  
+In a world inseparable from technology, our group created a story about a girl who got 'sucked' into the world of apps. Each of us journeyed through different Apps such as Instagram, Twitter, Spotify, and Food Panda, explored blending with colour pencils and paint to create colourful and vibrant illustrations.
+
+  
+
+**Student Artists:**
+
+Aryaa Della Binte Moch Ridzwandi, 6R  
+Danish Anaqi Zikry Bin Zainal, 6R  
+Jimenez Daniella Baldos, 6A  
+Charmaine Tok Ke Ying, 6P  
+Wong Yu Le Skyler, 6P  
+Cheyenne Ho Xin En, 6P  
+Ong Yu Yan, 6P  
+Tan Tze Zun, 5A  
+Khon Wathan, 5A  
+Delos Reyes Christina Serame, 5A
+
+**Our Aspiring Artists: Peace Poster Contest 2021**
+
+We are constantly looking for opportunities to take part in art competitions because we believe that these are platforms for our students to gain valuable experiences that could benefit them in the future.
+
+  
+
+Our P6 students participated in the 'Peace Poster Contest 2021' organized by Lion's Club last year and 3 of our students have won the consolation prize of $50 and a trophy! The theme was 'We are All Connected'.
+
+  
+
+Here's their artworks and photos taken at the Prize Presentation Ceremony!
+
+<img src="/images/aes23.png" 
+     style="width:60%">
+
+**PAssionARTs - Art Giants in Harmony Painting**
+
+A group of creative young artists were selected to paint 4 Art Giant planks guided by their Art Teachers for Art Giants in Harmony Painting. This is a national-level art initiative presented by People’s Association – PAssionArts. These Art Giants are now displayed around the Hong Kah North neighborhood – opposite Bukit Gombak MRT station.
+
+  
+
+Look at the masterpieces painted by our seniors and Art teachers!
+
+<img src="/images/aes24.png" 
+     style="width:60%"> Art Giants displayed facing Bukit Gombak MRT Station
+		 
+**Visual Arts - Recess Activities: Marble Painting**
+
+P1 to P6 students had the opportunity to express their creativity and try our Marble Painting during their recess time. The students had fun exploring the new medium and even had the chance to display Peer Support too!
+
+<img src="/images/aes25.png" 
+     style="width:60%">
+		 
+<img src="/images/aes26.png" 
+     style="width:60%">
+		 
+**Music Assembly Programmes**
+
+This is to introduce cultural music outside the school to enhance students' knowledge in the external world.
+  
+Every year, the Aesthetics department would collaborate with external Music professionals to conduct online interactive sessions with the students.
+
+<img src="/images/aes27.png" 
+     style="width:60%">
+
+**Music Assembly - Beatbox & Percussion with Kids!**
+
+P1 to P6 students using beatbox and happily drumming and performing to the rhythm.
+
+<img src="/images/aes28.png" 
+     style="width:60%">
