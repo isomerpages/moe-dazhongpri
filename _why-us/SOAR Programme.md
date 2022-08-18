@@ -182,3 +182,18 @@ This Competition aims to recognise students’ talents in writing  & encourage 
   
 
 **Vasantham Super Kids 2021**
+
+
+<img src="/images/soar14.png" 
+     style="width:80%">
+		 
+Vasantham Super Kids (கற்க கசடற) was a national level Tamil quiz competition organised by MediaCorp Vasantham in December 2020. Five of our Primary 5 students (1) Sivababu Deeptika (5A), (2) Govindaraj Nikithaa (5A), (3) Rajakumar Rahini (5A), (4) Gundre Daivik Reddy (5A) and (5) Kumar Naavalan (5P) did our school proud by emerging as 1st Runner-up in this competition.  
+  
+This was an informative reality show based Quiz which aimed to be an all-round development for the children. There were a variety of rounds in the show and the level of difficulty increased as the game progressed. Two schools in each episode went through a series of questions covering Science, Maths, General Knowledge, Tamil and others.  
+  
+During this competition, our students put in concerted effort to overcome challenges with strong perseverance. They displayed self-directed learning and our school values.  
+  
+**Bharathiyaar Centennial 2021 Colouring Competition**
+
+<img src="/images/soar15.png" 
+     style="width:80%">
