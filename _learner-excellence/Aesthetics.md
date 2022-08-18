@@ -108,3 +108,25 @@ P1 Students creating artworks for classroom decoration: P1 Strong Start
      style="width:60%">  
 Students learnt to create their colourful self-portrait collage by cutting and pasting coloured paper.
 
+**P3 Assemblage: My Robot**
+
+<img src="/images/aes13.png" 
+     style="width:60%">  
+Students worked as a team to plan and assemble a robot using recycled materials.
+
+**P3 & P4 Visual Arts**
+
+<img src="/images/aes14.png" 
+     style="width:60%">  
+Engaging with varied materials for their Sculpture.  
+P4 students engaging with Artworks at the DZ Art Cove.
+
+**AEP: P4 Mosaic**
+
+Students learnt basic mosaic tiling techniques and skills to be able to create mosaic tiles based on the theme 'My Singapore'.
+
+  
+
+They acquired Mosaic Art knowledge, appreciate mosaic as an art form, as well as nurture a disciplined mind.
+
+
