@@ -56,3 +56,16 @@ description: ""
 |   4 Perseverance 	| Mr Edwin Lim Wei Heng<br>_[lim\_wei\_heng\_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_   	| Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_ 	|
 | 4 Gracious 	|  Mdm Chen Li Qin<br>_[chen\_li\_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_ 	| Ms Ananthy Marimuthu<br>_[ananthy\_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
 |   	|   Ms Law Ai Ning<br>_[law\_ai\_ning@moe.edu.sg](mailto:law_ai_ning@moe.edu.sg)_ 	|   	|
+
+#### Primary 5
+
+| Class 	| Name of Staff 	| Name of Staff 	|
+|:---:	|:---:	|---	|
+| P5 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_    	|  	|
+| 5 Integrity  	| Mdm Hamidah Hardi<br>_[hamidah\_hardi@moe.edu.sg](mailto:hamidah_hardi@moe.edu.sg)_ 	| Mdm Xie Shuang<br>_[xie\_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_  	|
+| 5 Responsibility 	| Miss Lim Li Hwang Iris<br>_[lim\_li\_huang\_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_ 	| Mr Quek Joo Hin Eddie<br>_[quek\_joo\_hin\_eddie@moe.edu.sg](mailto:quek_joo_hin_eddie@moe.edu.sg)_ 	|
+| 5 Excellence  	| Mr Muhammad Syahriel Bin Sukar<br>_[muhammad\_syahriel\_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|  Mrs Toh - Siow Pei Ling<br>_[siow\_pei\_ling@moe.edu.sg](mailto:siow_pei_ling@moe.edu.sg)_ 	|
+|    5 Acceptance 	| Ms.Uma Vicnesvare<br>_[uma\_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_  	| Mdm Zhong Dan<br>_[zhong\_dan@moe.edu.sg](mailto:zhong_dan@moe.edu.sg)_ 	|
+|     <br>5 Perseverance 	| Ms M B Sheirin Habibah <br>_[sheirin\_habibah@moe.edu.sg](mailto:sheirin_habibah@moe.edu.sg)_ 	| Mr Kenneth Wong Chee Kian<br>_[kenneth\_wong\_chee\_kian@moe.edu.sg](mailto:kenneth_wong_chee_kian@moe.edu.sg)_  	|
+
+#### Primary 6
