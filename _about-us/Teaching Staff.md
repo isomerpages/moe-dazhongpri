@@ -78,3 +78,18 @@ description: ""
 |     6 Excellence 	| Mr Syed Imran Bin Jamaluddin<br>_[syed\_imran\_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	| Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
 |  6 Acceptance 	| Mrs Yap-Ong Shi Ting<br>_[ong\_shi\_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Mdm Sun I-Feng<br>_[sun\_i-feng@moe.edu.sg](mailto:sun_i-feng@moe.edu.sg)_  	|
 | 6 Perseverance 	| Mr Seet Ying Cong Jacob<br>_[seet\_ying\_cong\_jacob@moe.edu.sg](mailto:seet_ying_cong_jacob@moe.edu.sg)_ 	| Mdm Norlila Binti Abdul Ghani<br>_[norlila\_abdul\_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_ 	|
+
+#### Other Teaching Staff
+
+| S/N 	| Name of staff 	|
+|:---:	|:---:	|
+| 1 	| Mr Low Heng Chong<br><br>_[low\_heng\_chong@schools.gov.sg](mailto:low_heng_chong@schools.gov.sg)_	|
+| 2 	| Mdm Goh Li-Ping <br><br>_[goh\_li-ping@moe.edu.sg](mailto:goh_li-ping@moe.edu.sg)_  	|
+| 3 	| Mdm Mary Ang <br><br>_[ang\_mary@moe.edu.sg](mailto:ang_mary@moe.edu.sg)_ 	|
+| 4 	|  Mrs Mok - Mooi Lai Kuen<br><br>_[mooi\_lai\_kuen@moe.edu.sg](mailto:mooi_lai_kuen@moe.edu.sg)_ 	|
+|  5 	|  Mrs Murni Binte Sapuan<br><br>_[murni\_sapuan@moe.edu.sg](mailto:murni_sapuan@moe.edu.sg)_  	|
+| 6  	| Mdm Mas'amah Ruah <br> <br>_[masamah\_ruah@moe.edu.sg](mailto:masamah_ruah@moe.edu.sg)_  	|
+|  7 	| Mdm Fiona Shi Kaili<br> <br>_[shi\_kaili\_fiona@moe.edu.sg](mailto:shi_kaili_fiona@moe.edu.sg)_   	|
+|  8 	| Mdm Balasubramanian Hemavathi<br> <br>_[balasubramanian\_hemavathi@moe.edu.sg](mailto:balasubramanian_hemavathi@moe.edu.sg)_    	|
+|  9 	|  Miss Lim Jie Ning Clare<br> <br>_[lim\_jie\_ning\_clare@moe.edu.sg](mailto:lim_jie_ning_clare@moe.edu.sg)_   	|
+|  10 	|  Mdm Lina Suharjo<br> <br>_[lina\_suharjo@moe.edu.sg](mailto:lina_suharjo@moe.edu.sg)_  	|
