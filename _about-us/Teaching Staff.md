@@ -31,3 +31,17 @@ description: ""
 |  2 Perseverance 	| Miss Wydre Kwek Wei Ting<br>_[wydre\_kwek\_wei\_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_ 	| Mr Edward Long Chee Kit<br>_[long\_chee\_kit\_edward@moe.edu.sg](mailto:long_chee_kit_edward@moe.edu.sg)_ 	|
 |  2 Gracious 	| Miss Lim Ai Ying Angie <br>_[lim\_ai\_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_	| Miss Sun Ming Ming <br>_[sun\_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_  	|
 |  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Mr Saharudin Osman <br>_[saharudin\_b\_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_  	|
+
+#### Primary 3
+
+| Class 	| Name of Staff 	| Name of Staff 	|
+|:---:	|:---:	|---	|
+| P3 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_   	| <br>  	|
+|  3 Integrity 	| Mdm Yap Lay Hong<br><br>_[yap\_lay\_hong@moe.edu.sg](mailto:yap_lay_hong@moe.edu.sg)_ 	| Mdm Choo Xue Er Danica <br>_[choo\_xue\_er\_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_ 	|
+|   	| Mr Zainal Ariffin Bin Kassim<br>_[zainal\_ariffin\_kassim@moe.edu.sg](mailto:zainal_ariffin_kassim@moe.edu.sg)_ 	|   	|
+| 3 Responsibility 	| Mdm Tan Sini<br>_[tan\_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_  	| Mrs Lim Tan Jue Ying<br>_[tan\_jue\_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_   	|
+|    3 Excellence 	| Mdm Nuraishah Jamal<br>_[nuraishah\_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ 	| Miss Turinadevi Devarajan<br>_[turinadevi\_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	|
+|  3 Acceptance 	| Miss Yu Minli Emmeline<br>_[yu\_minli\_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_ 	| Mdm Shoba D/O Mohan<br>_[shoba\_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_ 	|
+|   3 Perseverance 	| Ms Siti Munirah Binte Mohd Kamal<br>_[siti\_munirah\_mohd\_kamal@moe.edu.sg](mailto:siti_munirah_mohd_kamal@moe.edu.sg)_ 	|  Mr Choy Yu Wai <br>_[choy\_yu\_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
+
+#### Primary 4
