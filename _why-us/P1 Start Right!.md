@@ -29,3 +29,9 @@ _Click on image to view resource_
 | <p><a href="https://drive.google.com/file/d/1CFGVdIwcB2tWspBSCLz6gfm_Lq1KrjX2/view">  <img style="width:25%" src="/images/p1sr3.png">  </a></p> 	| <p><a href="https://drive.google.com/file/d/1CSh390-tjutknVXSfwbXMU7OM7yMceU8/view">  <img style="width:25%" src="/images/p1sr4.png">  </a></p> 	|  <p><a href="https://drive.google.com/file/d/1E_p5AlzwSUlMkxhlOQRGWSMCnuAQ3qdB/view">  <img style="width:25%" src="/images/p1sr5.png">  </a></p>	|  <p><a href="https://drive.google.com/file/d/10S3Sg5mr-TaUpFRzhJmil6IFm3RTPtha/view">  <img style="width:25%" src="/images/p1sr6.png">  </a></p>	|
 |---	|---	|---	|---	|
 | 	|  	|  	|  	|
+
+**2) Canteen Etiquette**
+
+| <p><a href="https://drive.google.com/file/d/1UOvMoUIeJIriuIyOOEMpp6OgBqdK0tH8/view">  <img style="width:25%" src="/images/p1sr7.png"> 	|  <p><a href="https://drive.google.com/file/d/12Tap8hLVmDkmI-hKeRC6K6GZX-j_elf1/view">  <img style="width:25%" src="/images/p1sr8.png">	| <p><a href="https://drive.google.com/file/d/1EDbOHIMGCLERJ5SepeFY8Gnd_fsl4TLA/view">  <img style="width:25%" src="/images/p1sr9.png"> 	|  	|
+|---	|---	|---	|---	|
+|  	|  	|  	|  	|
