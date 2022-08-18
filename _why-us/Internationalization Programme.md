@@ -39,7 +39,7 @@ Immersion Trips develop the citizenship components under the domain of Civic Lit
 		 
 Insert missing image here
 
-**Malaysia, Malacca**
+#### Malaysia, Malacca
 
 | No 	| Year 	| OLE 	|
 |---	|---	|---	|
