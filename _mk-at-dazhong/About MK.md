@@ -45,6 +45,6 @@ For more information on MOE Kindergarten @ Dazhong, please contact us at 6896073
 
 [Please click on the image below to view the MOE Kindergarten brochure](/files/MOE%20Brochure%20English%202021.pdf)
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
-<img style="width:25%" src="/images/XXX.png">  
+<p><a href="https://staging.d3uysdl5odqqma.amplifyapp.com/files/MOE%20Brochure%20English%202021.pdf">  
+<img style="width:90%" src="/images/moe.png">  
 </a></p>
