@@ -5,6 +5,8 @@ description: ""
 ---
 ### Science
 
+<img src="/images/sci1.png" 
+     style="width:60%">
 
 ##### Science Department Science Vision: Inspiring Curiosity, Inquiring like Scientists, Innovating to Serve Science 
 
@@ -60,7 +62,8 @@ description: ""
 
   
 
-![Edited_02.png](https://dazhongpri.moe.edu.sg/qql/slot/u1448/Science%20Website%202022/Edited_02.png)  
+<img src="/images/sci2.png" 
+     style="width:60%">
 
 
 **Peaks of Excellence**
@@ -84,7 +87,8 @@ Recent Peaks of Excellence include:
 
   
 
-![Edited_06.png](https://dazhongpri.moe.edu.sg/qql/slot/u1448/Science%20Website%202022/Edited_06.png)
+<img src="/images/sci3.png" 
+     style="width:80%">
 
 ****Recess Experiments 2022****   
 
@@ -96,9 +100,11 @@ Take ACTION to create your own spinning top with recycled materials and share 
 
 Stay tuned for more recess experiments! 🔬 Dazhong, Dare to Inspire! 🙌🏼
 
-![Science Recess Part 1.png](https://dazhongpri.moe.edu.sg/qql/slot/u1448/Science%20Website%202022/Science%20Recess%20Part%201.png)  
+<img src="/images/sci4.png" 
+     style="width:80%">
 Recess Experiments 2022 Want to make a flying helicopter by using paper? 🚁 During our recess experiment this week, our Primary 3s and 6s were EXCITED and ENGAGED in the Paper Helicopter experiment where they made their very own paper helicopter! Students were also observed to be self-directed learners as they were EMPOWERED to find out how these paper helicopters were able to fly. For students who did not get to try out, do not worry because you can take ACTION to make your very own Paper Helicopter using recycled paper ♻️ and find out how it works here: [](https://www.youtube.com/watch?v=zTakrjE9yCo)[https://www.youtube.com/watch?v=zTakrjE9yC](https://www.youtube.com/watch?v=zTakrjE9yCo)o [](https://docs.google.com/presentation/d/1Nr9u980L7HMCU6sx2x6uG07tv3bevs65/edit?usp=sharing&ouid=112301370695045064039&rtpof=true&sd=true)[https://docs.google.com/presentation/d/1Nr9u980L7HMCU6sx2x6uG07tv3bevs65/edit?usp=sharing&ouid=112301370695045064039&rtpof=true&sd=tru](https://docs.google.com/presentation/d/1Nr9u980L7HMCU6sx2x6uG07tv3bevs65/edit?usp=sharing&ouid=112301370695045064039&rtpof=true&sd=true)e Be INSPIRED to make your own paper helicopters and share your wonderful creations here by 26 August 2022: [https://padlet.com/dzpsofficial/u1pr9dyys56rbica](https://padlet.com/dzpsofficial/u1pr9dyys56rbica) Stay tuned for more recess experiments! 🔬 Dazhong, Dare to Inspire! 🙌🏼  
 
   
 
-![Science Part 2.png](https://dazhongpri.moe.edu.sg/qql/slot/u1448/Science%20Website%202022/Science%20Part%202.png)
+<img src="/images/sci5.png" 
+     style="width:80%">
