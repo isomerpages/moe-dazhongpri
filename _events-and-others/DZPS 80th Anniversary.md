@@ -42,3 +42,27 @@ Mdm Maria, an alumna of Dazhong in the 1970s, shared her schooling experience at
 
 <img src="/images/anni5.png" 
      style="width:60%">
+
+**Are you an alumni of Dazhong Primary School or Tai Cheong School?**   
+
+\- Do you have a nice story of your experience in Dazhong Primary School to share?  
+\- Do you have any Dazhong artefacts that you are willing to donate? E.g. first school uniform, badges, report book, photographs etc.
+
+  
+
+![Picture1.png](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Events/2018/80th%20Anniversary%20P6%20Community%20Walk/Picture1.png)
+
+Contact us at:
+<br>Tel:  6565 8002 or dazhong_ps@moe.edu.sg!
+<br>Note: Items must be in good condition for display. 
+
+
+**Primary 6 Community Walk**
+
+We kicked off our celebrations with a Community Walk on 8th January! Our Primary 6 students distributed limited edition 80th Anniversary magnets to members of our neighbouring community to invite them to join us in the celebrations. 
+
+Our young Dazhong ambassadors displayed courage and graciousness as they engaged our community from all walks of life!
+
+  
+Our Primary 1 to 5 students were not left out! Students from every level worked together to run/walk 80 rounds around different parts of the school to commemorate this special 80th year for Dazhong! That's a total of 400 rounds!
+What's more, students from the MOE Kindergarten @ Dazhong took part too! 
