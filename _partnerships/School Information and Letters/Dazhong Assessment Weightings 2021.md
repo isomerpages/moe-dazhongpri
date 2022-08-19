@@ -45,9 +45,9 @@ third_nav_title: School Information and Letters
 
 ##### Useful Forms
 
-1.  [Opt Out Form for GY Programme.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Useful%20Forms/Opt%20Out%20Form%20for%20GY%20Programme.pdf)
-2.  [Parent Support Group Application Form.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Useful%20Forms/Parent%20Support%20Group%20Application%20Form.pdf)
-3.  [GIRO\_Application\_Form.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/GIRO_Application_Form.pdf) 
-4.  [Application Form for MOE-SPED FAS v4.3.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/Application%20Form%20for%20MOE-SPED%20FAS%20v4.3.pdf)
-5.   [Information sheet for parents\_School Transfer Service for Change of Residential Address\_3 Mar 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/Information%20sheet%20for%20parents_School%20Transfer%20Service%20for%20Change%20of%20Residential%20Address_3%20Mar%202020.pdf)
-6.  [Request Form\_School Bus Services 2022.pdf](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2021/Request%20Form_School%20Bus%20Services%202022.pdf)
+1. [Opt Out Form for GY Programme.pdf](/files/Opt%20Out%20Form%20for%20GY%20Programme.pdf)
+2.  [Parent Support Group Application Form.pdf](/files/Parent%20Support%20Group%20Application%20Form.pdf)
+3.  [GIRO_Application_Form.pdf](/files/GIRO_Application_Form.pdf)
+4. [Application Form for MOE-SPED FAS.pdf](/files/Application%20Form%20for%20MOE-SPED%20FAS.pdf)
+5.   [Information sheet for parents_School Transfer Service for Change of Residential Address.pdf](/files/Information%20sheet%20for%20parents.pdf)
+6.  [Request Form_School Bus Services 2022.pdf](/files/Request%20Form_School%20Bus%20Services%202022.pdf)
