@@ -57,24 +57,24 @@ Primary 6: Kayaking
 ##### Floorball
 
 <img src="/images/pe3.png" 
-     style="width:60%">
+     style="width:40%">
 
 ##### Ultimate Frisbee
 
 <img src="/images/pe4.png" 
-     style="width:60%">
+     style="width:40%">
 
 ##### Kayaking
 
 <img src="/images/pe5.png" 
-     style="width:60%">
+     style="width:40%">
 
 ##### SwimSafer Programme
 
 The SwimSafer Programme is organised for Primary 3 non-swimmers to equip them with another important life skill. Pupils will undergo 8 weeks of swimming lessons where they will be taught water safety and water survival skills.
 
 <img src="/images/pe6.png" 
-     style="width:60%">
+     style="width:40%">
 
 ##### Outdoor Education Programme
 
@@ -87,23 +87,23 @@ Primary 2: PAL (Outdoor Education)<br>
 Primary 3: 1-Day Outdoor Education Camp (School)
 
 <img src="/images/pe7.png" 
-     style="width:60%">
+     style="width:40%">
 
  
 
 Primary 4: 2D/1N Outdoor Education Camp (School)
 
 <img src="/images/pe8.png" 
-     style="width:60%">
+     style="width:40%">
 
 Primary 5: 3D/2N Outdoor Adventure Camp (MOE Adventure Centre) / Dragon-boating
 
 <img src="/images/pe9.png" 
-     style="width:60%">
+     style="width:40%">
 Primary 6: 2D/1N Outdoor Adventure Camp (Offshore)
 
 <img src="/images/pe10.png" 
-     style="width:60%">
+     style="width:40%">
 
 
 ##### Sports Day
