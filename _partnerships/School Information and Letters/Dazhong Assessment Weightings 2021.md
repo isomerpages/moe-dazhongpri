@@ -16,3 +16,38 @@ third_nav_title: School Information and Letters
 | 20 July 2022 	| [Updates_on_Academic_Progress_P3.pdf](/files/Updates_on_Academic_Progress_P3.pdf) 	|
 | 20 July 2022 	| [Updates_on_Academic_Progress_P4.pdf](/files/Updates_on_Academic_Progress_P4.pdf) 	|
 | 20 July 2022 	| [Updates_on_Academic_Progress_P5.pdf](/files/Updates_on_Academic_Progress_P5.pdf)	|
+
+##### PSLE Examination Timetable
+
+<img src="/images/sil1.png" 
+     style="width:40%">
+
+##### School Booklist 2022  
+
+[DZPS P1-6 Textbooks and Stationery List 2022\_Final.pdf](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2021/DZPS%20P1-6%20Textbooks%20and%20Stationery%20List%202022_Final.pdf)  
+
+  
+
+##### School Uniform  
+
+[School Uniform Order Form 2021.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/School%20Uniform%20Order%20Form%202021.pdf)  
+
+  
+
+##### Travel Declaration Form  
+[Travel Declaration Form for DZPS Students.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/Travel%20Declaration%20Form%20for%20DZPS%20Students.pdf) 
+
+##### Homework Policy  
+
+[Dazhong\_Primary\_School\_Homework\_Policy\_Revised\_25Nov2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Homework%20Policy/Dazhong_Primary_School_Homework_Policy_Revised_25Nov2019.pdf) 
+
+  
+
+##### Useful Forms
+
+1.  [Opt Out Form for GY Programme.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Useful%20Forms/Opt%20Out%20Form%20for%20GY%20Programme.pdf)
+2.  [Parent Support Group Application Form.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Useful%20Forms/Parent%20Support%20Group%20Application%20Form.pdf)
+3.  [GIRO\_Application\_Form.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/GIRO_Application_Form.pdf) 
+4.  [Application Form for MOE-SPED FAS v4.3.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/Application%20Form%20for%20MOE-SPED%20FAS%20v4.3.pdf)
+5.   [Information sheet for parents\_School Transfer Service for Change of Residential Address\_3 Mar 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/Information%20sheet%20for%20parents_School%20Transfer%20Service%20for%20Change%20of%20Residential%20Address_3%20Mar%202020.pdf)
+6.  [Request Form\_School Bus Services 2022.pdf](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2021/Request%20Form_School%20Bus%20Services%202022.pdf)
