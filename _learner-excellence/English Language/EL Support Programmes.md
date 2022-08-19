@@ -60,3 +60,26 @@ Taking the read text to the next level, P1 to P5 pupils would translate their un
 | P4 	| Folk tale, adventure, comedy 	|
 | P5 	| Realistic contemporary fiction 	|
 | P6 	| Realistic contemporary fiction 	|
+
+**Speech and Drama (P1 to P5) and  Oral Communication Skills (P6)**
+
+All P1 to P5 pupils attend 12 hours of Speech and Drama lessons during curriculum culminating to a performance to showcase what they have learnt.  Through Speech and Drama lessons, pupils develop confidence and effective oral communication skills. Creativity, imagination and critical thinking are also harnessed.
+
+  
+
+Pupils at work during Speech and Drama
+
+<img src="/images/el3.png" 
+     style="width:60%">
+		 
+**Progression of Speech and Drama Skills from P1 to P5**
+
+| Level 	| Area of focus 	|
+|:---:	|:---:	|
+| P1 	| Introduction to Drama Basic Improvisation Voice – Power and Clarity Choral Speaking Presentation Skill 	|
+| P2 	| Introduction to Drama Basic Improvisation Voice – Power and Clarity Choral Speaking Presentation Skill 	|
+| P3 	| Introduction to Play Speech Improvisation Vocal Expression Tableaux Physical movements Basic acting 	|
+| P4 	| Introduction to Musical Play Characterization and motivations Improvise dramatic pieces, given stories Dramatize a story through acting, singing and dancing Staging a performance 	|
+| P5 	| Understanding the script and scripting Characterization Improvise dramatic pieces, given stories Dramatize a story through acting, singing and dancing Staging a performance 	|
+| P6 	| Voice projection Impromptu speech Speaking with purpose, audience and context in mind 	|
+
