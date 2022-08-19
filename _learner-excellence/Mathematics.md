@@ -45,39 +45,15 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
 |---	|---	|---	|
 |  	|  	|  	|
 
-  
+**_George Polya’s 4-Step Approach to Problem Solving_**: The S.T.E.P Thinking Routine was adopted from George Polya’s four-step approach for problem solving. It was intentionally created to scaffold our students’ critical and problem solving skills when tackling heuristics and problem sums. Students will make use of the four steps in the S.T.E.P Thinking Routine when solving Mathematics problems – **S**tudy the problem, **T**hink of a plan, **E**xecute the plan, **P**ause and reflect. The steps emphasize 4 key principles:
 
-  
+\-        Understand the problem<br>
+\-        Devise a plan<br>
+\-        Carry out the plan<br>
+\-        Review/Extend
 
-  
+The S.T.E.P Thinking Routine is incorporated into the design of our Progressive Approach to Teaching Heuristic and Skills (P.A.T.H.S) Package, a termly package that introduces two or three heuristic skills to students progressively.  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
 
@@ -85,10 +61,8 @@ Department Key Principles & Programmes
 
 The department teaching principles are aligned to the Singapore Teaching Practice. The key principles:
 
-1.        Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.
-
-2.        Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.
-
+1.        Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.<br>
+2.        Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.<br>
 3.        Teaching should connect learning to the real world, harness ICT tools & emphasize 21st century competencies. 
 
 Teaching is an interactive and iterative process that is focused on students’ learning. Teachers use a range of teaching approaches to engage students in learning, collect various sources of feedback to inform them of their instruction and the students’ learning, and then make informed decisions on their instructional practices to enhance learning.
@@ -96,3 +70,7 @@ Teaching is an interactive and iterative process that is focused on students’ 
 Our key pedagogical approaches include:
 
 **Concrete-Pictorial-Abstract Approach:** The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
+
+| <img src="/images/math6.png" style="width:50%"> 	|  <img src="/images/math7.png" style="width:50%">	|
+|---	|---	|
+|  	|  	|
