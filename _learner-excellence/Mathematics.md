@@ -71,6 +71,24 @@ Our key pedagogical approaches include:
 
 **Concrete-Pictorial-Abstract Approach:** The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
 
-| <img src="/images/math6.png" style="width:50%"> 	|  <img src="/images/math7.png" style="width:50%">	|
+| <img src="/images/math9.png" style="width:50%"> 	|  <img src="/images/math10.png" style="width:50%">	|
 |---	|---	|
 |  	|  	|
+
+**_Student Learning Space Pedagogical Scaffold (SLS PS)_**: The department also adopts the SLS PS in lesson planning and delivery. Relevant ICT platforms/tools are used to activate learning, promote thinking and discussion, and to visualise students’ thinking are researched and designed via our Professional Learning Time (PLT) and implemented in our lessons.
+
+<img src="/images/math11.png" style="width:50%">
+
+Learning Mathematics is more than just learning concepts and skills. Equally important are the cognitive and metacognitive process skills. The processes are learned through carefully constructed learning experiences enacted via our department programmes:
+
+**_National Day Celebrations with Mathematics Exploration Week (MEW)_**: As part of the school’s National Day celebrations, the Mathematics Department collaborated with the CCE Department to help Primary 1 to Primary 6 students:
+
+\-  use mathematical skills to make decisions concerning real-life scenarios, and<br>
+\-  develop citizenship dispositions through joyful learning experiences.
+
+All students will be engaged in deep and joyful learning as they complete the Flipped Escape Room activities on Student Learning Space (SLS) as well as collage making using cut-out shapes from recycled materials.
+
+| <img src="/images/math12.png" style="width:50%"> 	|  <img src="/images/math13.png" style="width:50%">	| 	|
+|---	|---	|---	|
+| <img src="/images/math14.png" style="width:50%"> 	|  	<img src="/images/math15.png" style="width:50%">|<img src="/images/math16.png" style="width:50%">  	|
+|  	|  	|  	|
