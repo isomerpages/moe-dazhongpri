@@ -65,4 +65,28 @@ Our young Dazhong ambassadors displayed courage and graciousness as they engaged
 
   
 Our Primary 1 to 5 students were not left out! Students from every level worked together to run/walk 80 rounds around different parts of the school to commemorate this special 80th year for Dazhong! That's a total of 400 rounds!
-What's more, students from the MOE Kindergarten @ Dazhong took part too! 
+What's more, students from the MOE Kindergarten @ Dazhong took part too!
+
+<img src="/images/anni6.png" 
+     style="width:60%">
+
+<img src="/images/anni7.png" 
+     style="width:60%">
+
+<img src="/images/anni8.png" 
+     style="width:60%">
+
+<img src="/images/anni9.png" 
+     style="width:60%">
+
+<img src="/images/anni10.png" 
+     style="width:60%">
+
+<img src="/images/anni11.png" 
+     style="width:60%">
+
+<img src="/images/anni12.png" 
+     style="width:60%">
+
+<img src="/images/anni13.png" 
+     style="width:60%">
