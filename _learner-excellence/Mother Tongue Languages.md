@@ -173,3 +173,27 @@ MTL Cultural Camp is one of the platforms to encourage students to appreciate th
 
 **Hari Raya Celebration 2021**
 
+<img src="/images/mtl4.png" 
+     style="width:80%">
+
+Hari Raya Puasa was celebrated during the Phase 2 (Heightened Alert) period and  it did not dampen the festivities at Dazhong. The MTL Department teachers prepared an interactive SLS lesson centralising on the school values that were displayed during the fasting month as well as during Hari Raya. The short skits were acted by our own P6 students. The teachers also came together to put up a video, emphasizing on how we can still keep the Hari Raya spirit alive while being displaying responsibility and integrity in observing the Safety Management Measures.  To align with ALP (Green Makers @ Dazhong), we also incorporated meaningful and purposeful age-appropriate activities in our CCE SLS lessons for students where they created their own Hari Raya decorations using recycled materials.  
+
+  
+
+##### West Zone e-OC (Chinese Language)
+
+<img src="/images/mtl5.png" 
+     style="width:80%">
+
+In this lesson, we aim to help students understand the theme and hidden information from the passage. We integrate ICT, Universal Design for Learning (UDL), and Talk Moves to engage students to think deeply, while catering to different types of learners. Firstly, we use SLS's ITT to allow students to express their understanding of the title (guess the story content). Students can choose to express themselves by recording, drawing, or typing (UDL: Engagement). This is to activate students' prior knowledge. After that, students can choose to play the video, listen to the recording of the text, or simply read the text (UDL: Representation) for the first time. Then, students will vote and discuss using Talk Moves online (UDL: Engagement, UDL: Representation). After that, we used the Mindmap to summarize the discussion. The presentation designed by the teacher will contain pictures and text (UDL: Representation). Next, students will use Menti.com to express their understanding of the theme. Students will then use SLS ITT to answer questions relating to their own experience. Students can choose to express themselves by recording, drawing, or typing. (UDL: Action and Expression). Lastly, teachers will use educational game Blooket to help students consolidate their learning and examine whether students meet the success criteria (UDL: Engagement).  
+
+  
+
+##### Vasantham Super Kids - Tamil Quiz Show
+
+<img src="/images/mtl5.png" 
+     style="width:80%">
+
+Five of our Primary 5 students (Sivababu Deeptika, 5A, Govindaraj Nikithaa 5A, Rajakumar Rahini 5A, Gundre Daivik Reddy 5A and Kumar Naavalan 5P) participated in a national level Tamil quiz competition, Vasantham Super Kids (கற்க கசடற) organised by MediaCorp Vasantham in December 2020 and have done our school proud by emerging as 1st Runner-up in this competition.  
+
+This is an informative reality show based quiz which aims to be an all-round development for the children. There were variety of rounds in the show and the level of difficulty increased as the game progressed. 2 schools in each episode will go through a series of questions covering Science, Maths, General Knowledge, Tamil and others. During this competition, our students have put in concerted effort to overcome challenges with strong perseverance. They displayed self-directed learning and our school values.
