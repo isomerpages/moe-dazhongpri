@@ -30,3 +30,8 @@ Through these activities and our daily routines of showing social consideration 
 
 Because only Together, We Can Keep Singapore Strong.
 
+<img src="/images/cw1.png" 
+     style="width:80%">
+		 
+<img src="/images/cw2.png" 
+     style="width:80%">
