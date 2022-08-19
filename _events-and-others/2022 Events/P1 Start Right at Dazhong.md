@@ -6,4 +6,4 @@ third_nav_title: 2022 Events
 ---
 ### P1 Start Right! @ Dazhong
 
-Empty pages
+Empty page
