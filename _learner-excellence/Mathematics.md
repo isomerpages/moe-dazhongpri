@@ -92,3 +92,32 @@ All students will be engaged in deep and joyful learning as they complete the Fl
 |---	|---	|---	|
 | <img src="/images/math14.png" style="width:50%"> 	|  	<img src="/images/math15.png" style="width:50%">|<img src="/images/math16.png" style="width:50%">  	|
 |  	|  	|  	|
+
+**_Mathematics Trails & Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
+
+| <img src="/images/math17.png" style="width:50%"> 	|  <img src="/images/math18.png" style="width:50%">	|  <img src="/images/math19.png" style="width:50%">	|
+|---	|---	|---	|
+|  	|  	|  	|
+
+**_Differentiated programmes for different student segments:_**
+
+**_i) E2K Mathematics Programme_**: Selected Primary 4 and Primary 5 students participate in the E2K Mathematics Programme, which aims to develop students’ mathematical thinking skills and deepen their conceptual understanding through an inquiry approach. Developed by the Israel Centre for Excellence through Education (ICEE), students who demonstrate strong interest and ability in Mathematics will have opportunities to work independently or collaborate with their peers and foster independence in mathematical thinking skills through this programme. The rich learning experiences offered by the programme will help students gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+  
+
+**_ii) ICAN_**: The low-progress student segment is taught using the customised Improving Confidence And Numeracy (ICAN) approach, which employs 8 guiding principles formulated by MOE. There is an emphasis on ensuring that students have the necessary prerequisites before learning a new topic, hands-on learning with manipulatives, and reasoning and communication in the learning of mathematics.
+
+  
+
+**_iii) LSM:_** The Learning Support for Mathematics (LSM) programme is designed to provide early intervention support in mathematics to our students who may need additional support in acquiring basic numeracy skills when they enter Primary1 and will continue, if deem necessary, in Primary 2.
+
+  
+
+**_Mathematics Competitions_**: Selected Primary 2 to Primary 6 students are invited to participate in Mathematics competitions, gaining exposure to intellectually challenging Mathematics questions that stretches their inner potential in the subject. Our students have participated in the following competitions:
+
+  
+
+\-  Singapore Mathematical Olympiad for Primary Schools (SMOPS)<br>
+\-  Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br>
+\-  National Mathematical Olympiad of Singapore (NMOS)<br>
+\-  River Valley Mathematics Challenge
