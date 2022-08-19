@@ -5,7 +5,8 @@ description: ""
 ---
 ### Physical Education
 
-![Healthy Lifestyle Heart.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Healthy%20Lifestyle%20Heart.jpg)
+<img src="/images/pe1.png" 
+     style="width:60%">
 
 #### PHYSICAL EDUCATION & CO-CURRICULAR ACTIVITIES (PE, CCA & AESTHETICS) DEPARTMENT
 
@@ -27,7 +28,8 @@ In addition to learning skills related to Athletics, Health & Fitness, Sports, E
 
 #### “OPPORTUNITIES FOR ALL” FRAMEWORK
 
-![Opportunities For All Framework.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Opportunities%20For%20All%20Framework.jpg)  
+<img src="/images/pe2.png" 
+     style="width:60%">
 
 
 
@@ -54,21 +56,25 @@ Primary 6: Kayaking
 
 ##### Floorball
 
-![Floorball.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Floorball.jpg)  
+<img src="/images/pe3.png" 
+     style="width:60%">
 
 ##### Ultimate Frisbee
 
-![Ultimate Frisbee.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Ultimate%20Frisbee.jpg)  
+<img src="/images/pe4.png" 
+     style="width:60%">
 
 ##### Kayaking
 
-![Kayaking.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Kayaking.jpg)
+<img src="/images/pe5.png" 
+     style="width:60%">
 
 ##### SwimSafer Programme
 
 The SwimSafer Programme is organised for Primary 3 non-swimmers to equip them with another important life skill. Pupils will undergo 8 weeks of swimming lessons where they will be taught water safety and water survival skills.
 
-![Swimming.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Swimming.jpg)  
+<img src="/images/pe6.png" 
+     style="width:60%">
 
 ##### Outdoor Education Programme
 
@@ -80,21 +86,24 @@ Primary 1: PAL (Outdoor Education)<br>
 Primary 2: PAL (Outdoor Education)<br>
 Primary 3: 1-Day Outdoor Education Camp (School)
 
-![Camping.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Camping.jpg)  
+<img src="/images/pe7.png" 
+     style="width:60%">
 
  
 
 Primary 4: 2D/1N Outdoor Education Camp (School)
 
-![Setting up camp booth.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Setting%20up%20camp%20booth.jpg)  
+<img src="/images/pe8.png" 
+     style="width:60%">
 
 Primary 5: 3D/2N Outdoor Adventure Camp (MOE Adventure Centre) / Dragon-boating
 
-![Dragon Boating.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Dragon%20Boating.jpg)  
-
+<img src="/images/pe9.png" 
+     style="width:60%">
 Primary 6: 2D/1N Outdoor Adventure Camp (Offshore)
 
-![Stretching exercise at outdoor.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/Stretching%20exercise%20at%20outdoor.jpg)  
+<img src="/images/pe10.png" 
+     style="width:60%">
 
 
 ##### Sports Day
@@ -252,4 +261,4 @@ Mr C Kunalan will be our guest of honour.
 
 #### NAPFA Test Standards
 
-[NAPFA STANDARDS Pri ( from 2006)\_with Performance Band.pdf](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Physical%20Education/NAPFA%20STANDARDS%20Pri%20(%20from%202006)_with%20Performance%20Band.pdf)
+[NAPFA STANDARDS Pri ( from 2006)\_with Performance Band.pdf](/files/NAPFA%20STANDARDS%20Pri%20(%20from%202006)_with%20Performance%20Band.pdf)
