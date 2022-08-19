@@ -5,7 +5,8 @@ description: ""
 ---
 ### Mother Tongue Languages
 
-![Mother Tongue Languages.jpg](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Dazhong%20Education/Learner%20Excellence/Mother%20Tongue%20Languages/Mother%20Tongue%20Languages.jpg)  
+<img src="/images/mtl1.png" 
+     style="width:80%">
 
 #### Chinese Language  
 
@@ -151,3 +152,24 @@ To develop pupils to be confident and effective communicators using the MTL, the
   
 
 ##### Mother Tongue Fortnight 1 cum Chinese New Year Celebration 2021
+
+<img src="/images/mtl2.png" 
+     style="width:80%">
+	
+The Mother Tongue Fortnight programme (Part 1) commenced on the same week as  Chinese New Year Celebration. From 8 February to 10 February 2021, MTL teachers assigned and went through a pre-celebration SLS package with their students. Through this programme, we hope to enhance students’ awareness of traditional values and cultural practices related to Chinese New Year and the different ethnic groups.  To align with ALP (Green Makers @ Dazhong), we also infused meaningful and purposeful age-appropriate opportunities for real-life application of learning, and provide scope for experimentation, self-discovery and joy of learning. By doing so, we hope that students are aware of the challenges of sustainability and take action to solve it through Maker-projects, at the same time advocating others to do likewise.   
+
+Despite restrictions due to the pandemic, our students were meaningfully engaged in the joyous celebration as we usher in the Year of the Ox. They were involved in a series of classroom activities that are aligned with our Green Makers ALP initiative. 
+
+Students from all levels were involved in a myriad of craft activities such as making Floral Petals, Pussy Willows, Mosaic Art and creating a big portrait as a class.  
+
+**P4 Cultural Camp 2021**
+
+<img src="/images/mtl3.png" 
+     style="width:80%">
+
+MTL Cultural Camp is one of the platforms to encourage students to appreciate their own language and culture and also have exposure to other MTL and traditional cultures. Last year, we introduced shadow puppet to all P4 students, by learning the basic knowledge about the history and theory of shadow puppet, having live puppet show and doing hands-on activity on making shadow puppets and acting out the character .This event created a conducive environment to promote the usage of MTL and cultural appreciation in an authentic setting.  
+
+  
+
+**Hari Raya Celebration 2021**
+
