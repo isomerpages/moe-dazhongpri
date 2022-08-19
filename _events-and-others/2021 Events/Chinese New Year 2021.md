@@ -12,3 +12,10 @@ engaged in the joyous celebration as we usher in the Year of the Ox. They were i
 
 The Dazhong family wishes you and your family a safe and prosperous Lunar New Year!
 
+Insert video here.
+
+<img src="/images/cny1.png" 
+     style="width:80%">
+
+<img src="/images/cny2.png" 
+     style="width:60%">
