@@ -121,3 +121,7 @@ All students will be engaged in deep and joyful learning as they complete the Fl
 \-  Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br>
 \-  National Mathematical Olympiad of Singapore (NMOS)<br>
 \-  River Valley Mathematics Challenge
+
+|  <img src="/images/math20.png" style="width:50%">	|<img src="/images/math21.png" style="width:50%"> 	|  	<img src="/images/math22.png" style="width:50%">|
+|---	|---	|---	|
+|  	|  	|  	|
