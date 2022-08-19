@@ -44,3 +44,7 @@ We nurture children holistically so that they are confident, demonstrate strong 
 For more information on MOE Kindergarten @ Dazhong, please contact us at 68960738, email us at [mk\_dazhong@moe.edu.sg](mailto:mk_frontier@moe.edu.sg) or visit [www.moe.gov.sg/moekindergarten](http://www.moe.gov.sg/moekindergarten).
 
 [Please click on the image below to view the MOE Kindergarten brochure](/files/MOE%20Brochure%20English%202021.pdf)
+
+<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<img style="width:25%" src="/images/XXX.png">  
+</a></p>
