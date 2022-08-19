@@ -125,3 +125,49 @@ All students will be engaged in deep and joyful learning as they complete the Fl
 |  <img src="/images/math20.png" style="width:50%">	|<img src="/images/math21.png" style="width:50%"> 	|  	<img src="/images/math22.png" style="width:50%">|
 |---	|---	|---	|
 |  	|  	|  	|
+
+**_Peaks of Excellence_**
+
+**_Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022_**
+
+**_Junior Category_**
+
+|  	|  	|  	|
+|---	|---	|---	|
+| ALICIA WOON SHYH XIN 	| 5A 	| Certificate of Merit 	|
+| LEE XUE JUN 	| 5A 	| Certificate of Merit 	|
+| REBECCA AUNG 	| 5A 	| Certificate of Merit 	|
+| SHERLYN HAW PEI TING 	| 5A 	| Certificate of Merit 	|
+| WONG YUAN LE MARCUS 	| 5A 	| Certificate of Merit 	|
+
+**_Open Category_**
+
+|  	|  	|  	|
+|---	|---	|---	|
+| SIVABABU DEEPTIKA 	| 6A 	| Certificate of Distinction 	|
+| JAVAN TEH ZHE ZHONG 	| 6A 	| Certificate of Merit 	|
+| KHON WATHAN 	| 6A 	| Certificate of Merit 	|
+
+**_National Mathematical Olympiad of Singapore (NMOS) Competition 2021_**
+
+|  	|  	|  	|
+|---	|---	|---	|
+| SATHTHIKUMAR SANJEETH 	| 4P 	| Bronze 	|
+| JAYDEN YAM ZHI MING 	| 4I 	| Honorable Mention 	|
+| WONG YUAN LE MARCUS 	| 4A 	| Honorable Mention 	|
+| CHUNG SUNHO 	| 5A 	| Honorable Mention 	|
+| GOVINDARAJ NIKITHAA 	| 5A 	| Honorable Mention 	|
+| KHON WATHAN  	| 5A 	|  Honorable Mention  	|
+| LAI JIA EN ALICIA 	| 5A 	|  Honorable Mention  	|
+| LIM SHANG EN JOEL 	| 5A 	| Honorable Mention 	|
+| DANIEL LEE ZI YAN 	| 5P 	| Honorable Mention 	|
+| GOH YU ZE  	| 6A 	| Honorable Mention 	|
+| SHI YIFAN 	| 6A 	| Honorable Mention 	|
+| WANG SHIXUAN 	|  6P  	| Honorable Mention 	|
+
+**_Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021_**
+
+|  	|  	|  	|
+|---	|---	|---	|
+| SHI YIFAN 	| 6A 	| Bronze Award 	|
+| ONG JIA HAO 	| 6A 	| Bronze Award 	|
