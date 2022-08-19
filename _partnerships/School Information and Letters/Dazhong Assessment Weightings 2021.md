@@ -24,22 +24,22 @@ third_nav_title: School Information and Letters
 
 ##### School Booklist 2022  
 
-[DZPS P1-6 Textbooks and Stationery List 2022\_Final.pdf](https://dazhongpri.moe.edu.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2021/DZPS%20P1-6%20Textbooks%20and%20Stationery%20List%202022_Final.pdf)  
+[DZPS P1-6 Textbooks and Stationery List 2022_Final.pdf](/files/DZPS%20P1-6%20Textbooks%20and%20Stationery%20List%202022_Final.pdf)
 
   
 
 ##### School Uniform  
 
-[School Uniform Order Form 2021.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/School%20Uniform%20Order%20Form%202021.pdf)  
+[School Uniform Order Form 2021.pdf](/files/School%20Uniform%20Order%20Form%202021.pdf)
 
   
 
 ##### Travel Declaration Form  
-[Travel Declaration Form for DZPS Students.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/Travel%20Declaration%20Form%20for%20DZPS%20Students.pdf) 
+[Travel Declaration Form for DZPS Students.pdf](/files/Travel%20Declaration%20Form%20for%20DZPS%20Students1.pdf)
 
 ##### Homework Policy  
 
-[Dazhong\_Primary\_School\_Homework\_Policy\_Revised\_25Nov2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Homework%20Policy/Dazhong_Primary_School_Homework_Policy_Revised_25Nov2019.pdf) 
+[Dazhong_Primary_School_Homework_Policy_Revised_25Nov2019.pdf](/files/Dazhong_Primary_School_Homework_Policy_Revised_25Nov2019_1.pdf)
 
   
 
