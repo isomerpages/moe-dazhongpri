@@ -35,3 +35,19 @@ Art Club gives opportunities for our students to take part in art competitions 
 |  <img src="/images/vpa4.png"  style="width:40%">	|  	<img src="/images/vpa5.png"  style="width:80%">|
 |---	|---	|
 |  Cat Sculptures inspired by Laurel Burch	| Colourful butterflies to beautify our school 	|
+
+SYF 2019 art works were done by our Art Club P4 students (Cat B) and P5/6 students (Cat C). 
+
+The SYF theme is ‘Artist and Citizenship’.     
+
+  
+
+Cat B - Jiayi, Amyra, Cheyenne, Yu Yan, Skyler, Charmaine  <br>
+Cat C - Janabelle, Chuan Le, Rhiann, Jiaxuan, Karis, Donna   
+
+
+Thumbs up for all their hard work, perseverance and creativity. Not forgetting our teachers in supporting them.
+
+<img src="/images/vpa6.png"  style="width:80%"> 2019 SYF Art Exhibition Category C
+
+<img src="/images/vpa7.png"  style="width:80%"> 2019 SYF Art Exhibition Category B
