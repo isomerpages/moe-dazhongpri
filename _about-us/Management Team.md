@@ -21,7 +21,7 @@ description: ""
 |  12 	| HOD SM  	|  Mr Wu Zongbing<br>[wu\_zongbing@moe.edu.sg](mailto:wu_zongbing@moe.edu.sg)  	|
 |  13 	| HOD PE<br>  	|  Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_ 	|
 | 14 	| SSD 	| Miss Turinadevi Devarajan <br>_[turinadevi\_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	|
-| 15 	| LT CL 	| Mdm Ng Boon Shuen<br>[**ng\_boon\_shuen@moe.edu.sg**](mailto:ng_boon_shuen@moe.edu.sg) 	|
+| 15 	| LT CL 	| Mdm Ng Boon Shuen<br>_[ng\_boon\_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
 | 16 	|  SH CL 	| Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
 | 17 	| LT MUSIC 	| Mdm Chan Wee Teng Dawn<br>[_c__han\_wee\_teng\_dawn@moe.edu.s_g](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
 |  18 	| LH EL 	| Mdm Choo Xue Er Danica <br>_[choo\_xue\_er\_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_ 	|
