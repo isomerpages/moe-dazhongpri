@@ -8,11 +8,11 @@ third_nav_title: Visual and Performing Arts
 
 The Dazhong Choir comprises passionate individuals aged 8 to 12 years old. During the bi-weekly practices on Tuesdays and Fridays, the choristers are given further instructions on musical literacy, musicianship and proper vocal training. Under the baton of our Choir conductor, Ms Lim Huimin, the choristers are exposed to a wide repertoire of songs in various languages.
 
-<img src="/images/vpa1.png" style="width:80%">
+<img src="/images/vpa8.png" style="width:80%">
 
 Dazhong Primary School aims to develop in the choir members for a passion in music, a disciplined mind and an enhanced self and social awareness. The school seeks to provide opportunities for the choir members to participate in school and community events so as to promote cultural excellence, community and national pride. In 2019, the Dazhong Choir was invited to perform at various public performances, which includes the MDIS Scholarship Ceremony, SYF Illuminate! at Kampong Admiralty, and a community flashmob at Bukit Gombak Market Square. The Dazhong Choir was also invited twice to perform on Capital 95.8 FM’s Sunday Morning Breakfast Show《周末早早起》.
 
-<img src="/images/vpa2.png" style="width:80%">
+<img src="/images/vpa9.png" style="width:80%">
 
 In 2020, the Choir was once again invited on Capital 95.8 FM’s Sunday Morning Breakfast Show. The Dazhong Choir was also invited as the guest Choir for Hillgrove Secondary School’s choir concert titled _Crescendo_, where they enthralled the audience with their melodious voices. Some of our Choir students have also been talent scouted to join the Voices of Singapore Children’s Choir.
 
@@ -37,4 +37,4 @@ Our Advisor, Dr [Amy Khor](https://www.facebook.com/AmyKhorPage?__cft__%5b0%5d=
 
 Facebook link: [https://m.facebook.com/HongKahNorthCC/](https://m.facebook.com/HongKahNorthCC/)
 
-<img src="/images/vpa3.png" style="width:80%">
+<img src="/images/vpa10.png" style="width:80%">
