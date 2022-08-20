@@ -90,7 +90,7 @@ Recent Peaks of Excellence include:
 <img src="/images/sci3.png" 
      style="width:80%">
 
-****Recess Experiments 2022****   
+**Recess Experiments 2022**   
 
 Do you know how to make an egg stand? 🥚 During our recess experiment this week, our Primary 2s and 5s were **EXCITED** and **ENGAGED** in the standing egg recess experiment where they learnt how to make an egg stand! From the hands-on experiment, students were **EMPOWERED** to make their own spinning tops using recycled materials. ♻️ Check out how to make an egg stand and DIY your own spinning top here: [](https://youtu.be/XJmIUx3gkYs)[https://youtu.be/XJmIUx3gkYs](https://youtu.be/XJmIUx3gkYs)
 
