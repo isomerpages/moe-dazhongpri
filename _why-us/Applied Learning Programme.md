@@ -15,7 +15,7 @@ Climate change is a significant threat to Singapore. This makes sustainable deve
 In this ALP, the theme of Sustainability comes together with the approach of Maker-Centred learning, for a Dazhong student to become Aware of the challenges of Sustainability in Singapore, take Action to make green solutions to tackle these challenges, and Advocate for others to do likewise. “Making our future green – From home, in school, and for Singapore!”  The outcomes and learning opportunities are encapsulated in the following ALP planning model:
 
 <img src="/images/alp2.png" 
-     style="width:60%">
+     style="width:40%">
 
 The Green Makers @ Dazhong use the 4Ds Design Thinking protocol as our key thinking routine: **Discover, Define, Develop, and Deliver.** This outlines four core principles for problem-solvers to adopt so that they can work as effectively as possible as they deepen their critical and inventive thinking.  
 
@@ -23,7 +23,7 @@ The Green Makers @ Dazhong use the 4Ds Design Thinking protocol as our key think
 **_Define_** – Understand the problem and come up with a plan <br>**_Develop_** – Derive a solution and come up with a prototype to solve the problem <br>****_Dare, Design, Deliver_** – Test out the prototype and improve it** further. Be creative and persevere to come up with the best solution!
 
 <img src="/images/alp3.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 **Journey of Green Makers @ Dazhong.<br> (i) Primary Four and Five Level-wide Programmes, <br>(ii) Talent Development and Green Tech CCA,<br>(iii) Annual School-wide Dare Challenge,<br>(iv) Learning Environment & Partnerships with Community, and <br>(v) Peaks of Excellence**
 
@@ -35,7 +35,7 @@ Green Makers @ Dazhong will experience level-wide programmes as P4 and P5 studen
      style="width:60%">
 
 <img src="/images/alp5.png" 
-     style="width:60%">
+     style="width:70%">
 
 ****_Scan the QR code to view the video showing Advocacy by P5s or [click here to watch](https://youtu.be/BxYAqanOjZY)._****
 
@@ -50,7 +50,7 @@ For students with greater interest and aptitude, our Talent Development (SOAR) p
 *   Waste-sorter that uses a light sensor to detect whether an object is made of recyclable material, then if it is, operates a rotating flap that allows the object to enter.
 
 <img src="/images/alp6.png" 
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/alp7.png" 
      style="width:60%">
@@ -58,10 +58,10 @@ For students with greater interest and aptitude, our Talent Development (SOAR) p
 By joining the Green Tech CCA, students can also develop solutions for green issues to participate in Sembcorp’s Green Wave Environmental Care Competition. Some examples include designing an Internet of things (IOT)-enabled wearable-device powered by a micro:bit, that students can bear around school to map out the coolest classrooms for afternoon activities, and another project that collects used orange peels to repurpose as refillable air fresheners for toilets.
 
 <img src="/images/alp8.png" 
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/alp9.png" 
-     style="width:60%">
+     style="width:50%">
 
 Our student Eco-Champs have also collaborated with NParks for their Science Communication for Community in Nature Ambassadors Programme, called “Nature through Drama 2021”. Students acted as ambassadors for nature by filming themselves acting in a drama (“Otter Chaos”) to conduct outreach to the general public, such that others can develop an appreciation for Singapore’s biodiversity, and contribute to the conservation of our natural heritage.  
 
@@ -81,12 +81,12 @@ Our school has a vibrant green learning environment with two Eco Ponds, a Sky Ga
 [**(Green) Dad's For Life 2021**](https://padlet.com/dzpsofficial/lwoofskwdujhc7lj)
 
 <img src="/images/alp11.png" 
-     style="width:60%">
+     style="width:40%">
 
 [**Dr Amy Khor and NEA.**](https://www.facebook.com/207426072601175/posts/3776458299031250/)
 
 <img src="/images/alp12.png" 
-     style="width:60%">
+     style="width:40%">
 
 <img src="/images/alp13.png" 
      style="width:60%">
