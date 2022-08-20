@@ -35,13 +35,13 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
 <img src="/images/math2.png" 
      style="width:60%">
 
-| <img src="/images/math3.png" style="width:50%"> 	|  <img src="/images/math4.png" style="width:50%">	| <img src="/images/math5.png" style="width:50%"> 	|
+| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:80%">	| <img src="/images/math5.png" style="width:80%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
- | <img src="/images/math6.png" style="width:50%"> 	|  <img src="/images/math7.png" style="width:50%">	| <img src="/images/math8.png" style="width:50%"> 	|
+ | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:80%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
 
@@ -71,7 +71,7 @@ Our key pedagogical approaches include:
 
 **Concrete-Pictorial-Abstract Approach:** The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
 
-| <img src="/images/math9.png" style="width:50%"> 	|  <img src="/images/math10.png" style="width:50%">	|
+| <img src="/images/math9.png" style="width:80%"> 	|  <img src="/images/math10.png" style="width:80%">	|
 |---	|---	|
 |  	|  	|
 
@@ -88,14 +88,14 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 
 All students will be engaged in deep and joyful learning as they complete the Flipped Escape Room activities on Student Learning Space (SLS) as well as collage making using cut-out shapes from recycled materials.
 
-| <img src="/images/math12.png" style="width:50%"> 	|  <img src="/images/math13.png" style="width:50%">	| 	|
+| <img src="/images/math12.png" style="width:80%"> 	|  <img src="/images/math13.png" style="width:80%">	| 	|
 |---	|---	|---	|
-| <img src="/images/math14.png" style="width:50%"> 	|  	<img src="/images/math15.png" style="width:50%">|<img src="/images/math16.png" style="width:50%">  	|
+| <img src="/images/math14.png" style="width:80%"> 	|  	<img src="/images/math15.png" style="width:80%">|<img src="/images/math16.png" style="width:80%">  	|
 |  	|  	|  	|
 
 **_Mathematics Trails & Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
 
-| <img src="/images/math17.png" style="width:50%"> 	|  <img src="/images/math18.png" style="width:50%">	|  <img src="/images/math19.png" style="width:50%">	|
+| <img src="/images/math17.png" style="width:80%"> 	|  <img src="/images/math18.png" style="width:80%">	|  <img src="/images/math19.png" style="width:80%">	|
 |---	|---	|---	|
 |  	|  	|  	|
 
@@ -122,7 +122,7 @@ All students will be engaged in deep and joyful learning as they complete the Fl
 \-  National Mathematical Olympiad of Singapore (NMOS)<br>
 \-  River Valley Mathematics Challenge
 
-|  <img src="/images/math20.png" style="width:50%">	|<img src="/images/math21.png" style="width:50%"> 	|  	<img src="/images/math22.png" style="width:50%">|
+|  <img src="/images/math20.png" style="width:80%">	|<img src="/images/math21.png" style="width:80%"> 	|  	<img src="/images/math22.png" style="width:80%">|
 |---	|---	|---	|
 |  	|  	|  	|
 
