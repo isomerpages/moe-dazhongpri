@@ -31,12 +31,12 @@ Recognising that our P1 and P2 pupils come in at different entry levels, the P1 
 Pupils waiting in eager anticipation to see what performance their peers are going to put up during Library Week.
 
 <img src="/images/el1.png" 
-     style="width:60%">
+     style="width:40%">
 
 Choral Reading performance by P1 pupils.
 
 <img src="/images/el2.png" 
-     style="width:60%">
+     style="width:40%">
 
 #### Enrichment Programmes
 
@@ -70,7 +70,7 @@ All P1 to P5 pupils attend 12 hours of Speech and Drama lessons during curriculu
 Pupils at work during Speech and Drama
 
 <img src="/images/el3.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 **Progression of Speech and Drama Skills from P1 to P5**
 
@@ -82,4 +82,3 @@ Pupils at work during Speech and Drama
 | P4 	| Introduction to Musical Play Characterization and motivations Improvise dramatic pieces, given stories Dramatize a story through acting, singing and dancing Staging a performance 	|
 | P5 	| Understanding the script and scripting Characterization Improvise dramatic pieces, given stories Dramatize a story through acting, singing and dancing Staging a performance 	|
 | P6 	| Voice projection Impromptu speech Speaking with purpose, audience and context in mind 	|
-
