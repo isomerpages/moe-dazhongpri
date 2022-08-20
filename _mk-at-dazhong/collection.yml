@@ -2,6 +2,7 @@ collections:
   mk-at-dazhong:
     output: true
     order:
+      - Events/2022.md
       - Events/Past Events.md
       - Events/.keep
       - Overview.md
