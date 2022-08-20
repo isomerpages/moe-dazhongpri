@@ -30,13 +30,13 @@ Our P5 students are exposed to the traditional waxing techniques with _tjantin
 Through acrylic painting, our P6 students learn about brush control techniques, explore and mix colours, blend colours with paint and paint silhouettes on canvas. Students produce a canvas painting each at the end of this module.
 
 <img src="/images/art1.png" 
-     style="width:80%">
+     style="width:60%">
 
 <img src="/images/art2.png" 
-     style="width:80%">
+     style="width:60%">
 		 
 <img src="/images/art3.png" 
-     style="width:80%">
+     style="width:60%">
 
 **DZ Junior Artist Awards**
 
@@ -57,7 +57,7 @@ Our school planned an integrated Art and Social Studies learning journey to the 
 During the learning journey, students had the opportunity to tour the National Gallery to learn about the stories behind a number of artworks by Singapore pioneer artists and talk about their observations and interpretations. They also learn to appreciate the relationship between art and history and acquire critical thinking skills through group discussions and activities.
 
 <img src="/images/art4.png" 
-     style="width:80%">
+     style="width:60%">
 
 **Caricature Challenge**  
 
@@ -66,7 +66,7 @@ An Art Assembly Programme on Live Caricatures was conducted for the whole school
 In the challenge, a random line was given and our students were to gather inspiration from the doodles, cartooning and caricature techniques from the video shown during the assembly. They were given about a week to complete their design in school or at home. The best 3 pieces per level have been selected by our Art teachers and were awarded attractive prizes!
 
 <img src="/images/art5.png" 
-     style="width:80%">
+     style="width:50%">
 		 
 Click on the link **below** to view the creative masterpieces of our 18 winners!   
   
