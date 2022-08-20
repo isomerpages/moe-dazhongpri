@@ -17,3 +17,8 @@ We have also launched the ‘Dazhong Green Challenge’ in school where students
 
 Let’s join hands to go green, for our future.
 
+<img src="/images/earth1.png" 
+     style="width:70%">
+		 
+<img src="/images/earth2.png" 
+     style="width:70%">
