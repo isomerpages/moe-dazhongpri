@@ -24,6 +24,26 @@ Click on the specific level below for the Home-Based Learning Schedule.
 
 (Please log in to SLS at least 10 mins before the scheduled time)
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
-<img style="width:25%" src="/images/.png">  
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl2.png">  
+</a></p>
+
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl3.png">  
+</a></p>
+
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl4.png">  
+</a></p>
+
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl5.png">  
+</a></p>
+
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl6.png">  
+</a></p>
+
+<p><a href="web">  
+<img style="width:65%" src="/images/hbl7.png">  
 </a></p>
