@@ -46,6 +46,6 @@ Bronze Award
 Team 2 : Sarvendran (4E), Lew Jia Hong (4I)<br>
 Bronze Award
 
-<img src="/images/ug12.png" style="width:60%">
+<img src="/images/ug12.png" style="width:40%">
 
 The bi-annual event, which took place at Raffles Institute on 9th March, serves to promote the joy of learning in cub scouts, where they engage in intellectual challenges, pitting their knowledge of scouting and national current affairs with other cub scouts from all over Singapore.
