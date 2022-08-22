@@ -47,3 +47,34 @@ Click on the specific level below for the Home-Based Learning Schedule.
 <p><a href="web">  
 <img style="width:65%" src="/images/hbl7.png">  
 </a></p>
+
+**Home-Based Learning Toolkit  
+**For more details on Home-based Learning Toolkit, click on the link below:  
+[HBL Toolkit 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/HBL%20Toolkit%202020.pdf)   
+  
+
+**Online Guide to Zoom**  
+
+[Students Online Guide to Zoom 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Home-Based%20Learning/Students%20Online%20Guide%20to%20Zoom%202020.pdf)   
+
+  
+
+SLS Instructions / FAQs:  
+
+*   [Instructions & FAQs for Student Learning Space (SLS)](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/SLS/Annexes%20for%20Parents.pdf)
+
+**SLS Support for Home-based Learning**
+**School Operating Hours**  
+During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. **School-based Helpline:** 6565 8002
+**You can also fill up the form: [School-Based Helpline Form](https://form.gov.sg/#!/5dfae4c3c00ae200190b3b19)**
+**Mondays - Fridays: 8.00am- 4:00pm**  
+For other matters, students can email the SLS helpdesk at helpdesk@sls.ufinity.com . When emailing the SLS Helpdesk, they should include their full name, name of school and class.   
+  
+**Non-School Operating Hours**  
+Students can only contact the **SLS Helpdesk** outside the school operating hours.  
+SLS Helpdesk: 6702 6513  
+Mondays - Fridays: 4:00pm - 9:00pm  
+Saturdays: 9:00am - 9:00pm  
+\*Closed on Sundays & Public Holidays  
+  
+Alternatively, students can email the SLS helpdesk at helpdesk@sls.ufinity.com . When emailing the SLS Helpdesk, they should include their full name, name of school and class.
