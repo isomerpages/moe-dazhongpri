@@ -75,7 +75,7 @@ The theme for this year’s International Friendship Day (IFD) is “ASEAN50”.
 
 Together with the Parents Support Group (PSG), a series of exciting activities had been lined up for students to deepen their understanding of the relations that we share with other countries. Some highlights included: significance of Songkran, Banana Stem Horse, Bo Sang (Umbrella Festival), Colouring of kebaya bookmarks, riding kuda lumping, Balap Karung,  etc.
 
-<img src="/images/cce8.png" style="width:80%">
+<img src="/images/cce8.png" style="width:60%">
 
 **P4 Pots of Appreciation – “Appreciating the Unsung Heroes”**  
 
@@ -83,7 +83,7 @@ In this P4 Pots of Appreciation programme, an appreciation ceremony was held for
 
 In addition, a representative from the Migrant Workers’ Center conducted a talk for our students and parents to help them better understand the roles and contributions of the foreign workers in Singapore.
 
-<img src="/images/cce12.png" style="width:80%">
+<img src="/images/cce12.png" style="width:60%">
 
 **P5 Pots of Hope / Flea Mart – Helping the NKF kidney patients**
 
@@ -91,7 +91,7 @@ Our P5 annual Flea Mart raised a total of $1500 this year. Proceeds from the Fle
 
 We would like to take this opportunity to thank the PSG for their strong assistance and support, as well as the parents and students for their contribution to the success of the Flea Mart.
 
-<img src="/images/cce13.png" style="width:80%">
+<img src="/images/cce13.png" style="width:60%">
 
 **Cyber Wellness Activities (18 & 19 April)**
 
@@ -99,4 +99,4 @@ During this event, there were quizzes and recess station-based activities for st
 
 Our Cyber Wellness Ambassadors also went for a training to deepen their understanding on issues pertaining to cyber wellness at the School of Science and Technology.
 
-<img src="/images/cce14.png" style="width:80%">
+<img src="/images/cce14.png" style="width:60%">
