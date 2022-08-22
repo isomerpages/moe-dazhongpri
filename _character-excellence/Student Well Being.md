@@ -66,4 +66,4 @@ It is a whole-school effort to equip all students with the necessary skills to s
 
 Video Submission: [https://youtu.be/IrujqJn6uS0](https://youtu.be/IrujqJn6uS0)
 
-<img src="/images/cce33.png" style="width:60%"> 
+<img src="/images/cce33.png" style="width:60%">
