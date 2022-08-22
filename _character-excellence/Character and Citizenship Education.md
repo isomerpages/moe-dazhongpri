@@ -63,3 +63,22 @@ In partnership with the National Environment Agency, the Clean Singapore Learnin
 **Service Learning-Values in Actions (SeLVIA) – ‘P4 Pots of Love’**
 
 In this service learning project, P4 pupils are involved in the painting of pot sleeves and sowing of Kai Lan – in which they will have to grow and nurture over the a few weeks -- before presenting them to the patients at Assisi Hospice and HCA Hospice. Prior to visiting the day-care patients, and in collaboration with HCA Hospice, pupils also learnt how to engage and interact with elderly through a workshop.
+
+|  	|  	|
+|---	|---	|
+| NE Current Buzz<br><img src="/images/cce2.png" style="width:80%"> 	| Total Defence Day<br><img src="/images/cce3.png" style="width:80%"> 	|
+| Caring Buddies<br><img src="/images/cce4.png" style="width:80%"> 	|  Pots of Love<br><img src="/images/cce5.png" style="width:80%">	|
+
+**International Friendship Day 2017**
+
+The theme for this year’s International Friendship Day (IFD) is “ASEAN50”. Singapore works with our ASEAN neighbours for peace and collaboration in the region. As we are part of this community, we need to develop our cross-cultural skills and relate to one another respectfully and effectively. We need to remain open to the international flow of trade, ideas and talent which is critical to ASEAN’s growth as a region, and Singapore’s continued success as a nation.
+
+Together with the Parents Support Group (PSG), a series of exciting activities had been lined up for students to deepen their understanding of the relations that we share with other countries. Some highlights included: significance of Songkran, Banana Stem Horse, Bo Sang (Umbrella Festival), Colouring of kebaya bookmarks, riding kuda lumping, Balap Karung,  etc.
+
+<img src="/images/cce6.png" style="width:80%">
+
+**P4 Pots of Appreciation – “Appreciating the Unsung Heroes”**  
+
+In this P4 Pots of Appreciation programme, an appreciation ceremony was held for the students to express their appreciation and gratitude to the unsung heroes, i.e. the school aunties and uncles who help maintain the cleanliness of the school. Certificates of Appreciation and an artwork (i.e. coasters) done by the students were presented to the auntie and uncles in appreciation of their dedication and service to the school.
+
+In addition, a representative from the Migrant Workers’ Center conducted a talk for our students and parents to help them better understand the roles and contributions of the foreign workers in Singapore.
