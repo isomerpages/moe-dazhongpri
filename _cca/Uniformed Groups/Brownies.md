@@ -64,7 +64,7 @@ Our Brownies took part in the recent West Division Day Competition 2019 held at 
 
 Objective: To allow the students to understand how humans’ actions can inadvertently affect the environment and consequently understand the theme of ‘impact’.
 
-<img src="/images/ug5.png" style="width:80%">
+<img src="/images/ug.png" style="width:80%">
 
 **b) Poster Design!**
 
