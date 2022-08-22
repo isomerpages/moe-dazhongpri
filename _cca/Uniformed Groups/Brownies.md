@@ -64,7 +64,7 @@ Our Brownies took part in the recent West Division Day Competition 2019 held at 
 
 Objective: To allow the students to understand how humans’ actions can inadvertently affect the environment and consequently understand the theme of ‘impact’.
 
-<img src="/images/ug.png" style="width:80%">
+<img src="/images/ug5.png" style="width:80%">
 
 **b) Poster Design!**
 
@@ -76,16 +76,16 @@ Objective: To allow Brownies and Guides to showcase their creativity in spreadi
 
 Objective: To promote team bonding and sportsmanship among girls and allow them to understand the significance of their actions upon others.
 
-<img src="/images/ug.png" style="width:80%">
+<img src="/images/ug7.png" style="width:80%">
 
 **d) Captain’s Ball!**  
 
 Objective: To promote team bonding and sportsmanship among girls through Captain’s Ball.
 
-<img src="/images/ug.png" style="width:80%">
+<img src="/images/ug8.png" style="width:80%">
 
 **Our girls emerged 2nd in the ‘Captain’s Ball’ Competition!**
 
-<img src="/images/ug.png" style="width:80%">
+<img src="/images/ug9.png" style="width:80%">
 
 The girls persevered throughout all the competitions despite the challenges they faced. They kept motivating one another throughout the competitions whilst being enthusiastic and having fun.
