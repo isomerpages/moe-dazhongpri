@@ -6,8 +6,7 @@ third_nav_title: Parent Support Group
 ---
 ### Parent Support Group 
 
-
-
+<img src="/images/psg1.png" style="width:70%">
 
 We believe when your child joins Dazhong Primary School, your family also becomes a part of  
 
@@ -43,3 +42,13 @@ The purpose of the PSG@Dazhong are to:-<br>
 \* Create opportunities for parents to share and volunteer their expertise and knowledge to Dazhong students and staff; and<br>
 \* Organise and support the activities of Dazhong Primary and its school programmes.<br>
 \*Play a part in recruiting and leading other parents to join this meaningful journey to ensure sustainability of home-school partnership with school.
+
+<img src="/images/psg2.png" style="width:70%">
+
+<img src="/images/psg3.png" style="width:70%">
+
+<img src="/images/psg4.png" style="width:70%">
+
+<img src="/images/psg5.png" style="width:70%">
+
+Insert doc here.
