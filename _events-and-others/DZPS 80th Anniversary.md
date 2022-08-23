@@ -49,8 +49,8 @@ Mdm Maria, an alumna of Dazhong in the 1970s, shared her schooling experience at
 \- Do you have any Dazhong artefacts that you are willing to donate? E.g. first school uniform, badges, report book, photographs etc.
 
   
-
-![Picture1.png](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Events/2018/80th%20Anniversary%20P6%20Community%20Walk/Picture1.png)
+<img src="/images/anni80.png" 
+     style="width:60%">
 
 Contact us at:
 <br>Tel:  6565 8002 or dazhong_ps@moe.edu.sg!
