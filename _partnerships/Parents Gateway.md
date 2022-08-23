@@ -73,7 +73,7 @@ Click [here](https://www.singpass.gov.sg/singpass/resources/pdf/RegisterSingPas
 
 Click on pdf file link below as it provides instructions for downloading the mobile app(available on IOS and Android platforms only) and performing a one-time account registration.  
 
-[Annex A\_PG.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/Parents%20Gateway/Annex%20A_PG.pdf)   
+[Annex A\_PG.pdf](/files/Annex%20A_PG.pdf)
   
 
 **Parents Gateway Onboarding video for Parents**
