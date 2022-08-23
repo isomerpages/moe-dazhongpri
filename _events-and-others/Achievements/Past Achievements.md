@@ -177,3 +177,15 @@ It was the exam period, but all of the students who took part in this comic comp
 **(4) Hee Kit Kei (6A)**<br>
 Even though, we were having our SA2, we tried to take out some time to complete it. We used Whatsapp to communicate better, teachers told us all the plan through Whatsapp, so we knew what we were supposed to do when we met. I think we did a great job.
 
+**2020 Co-curricular Achievements**
+
+**Congratulations to our students for achieving excellence in their co-curricular pursuits!**
+
+| No. 	| Event/Achievement 	|
+|---	|---	|
+| 1 	| Participation in Capital 95.8 FM Radio Programme<br><br>Chin Xuan Ning (4R)<br>Neeharika Yemima (4E)<br>Shi Yifan (5A)<br>Nicolette Arataki (5A) 	|
+| 2 	| Pre-World Thinking Day Competition - 2nd Place<br><br>Yee Rou Xuan (6R)<br>Natalie Ng Wan Mun (4E)<br>Chloe Liu Xin Yi (4I)<br>Fellah Keysha Binte Mohamed Rizal (3I) 	|
+| 3 	| 3rd National Huichun Calligraphy Competition - First Prize (Upper Primary)<br><br>Ju Yuxuan (5A) 	|
+| 4 	| International Sheng Gong Culture Calligraphy Contest - Third Prize (Upper Primary)<br><br>Ju Yuxuan (5A) 	|
+| 5 	| Chou Sing Chu 5th Annual Spring Festival Couplets Competition - <br>Third Prize (Upper Primary)<br><br><br>Ju Yuxuan (5A) 	|
+| 6 	| National Chinese Creative Reading Competition 2019 - Popular<br><br>Consolation Prize (Upper Primary)<br><br>Ju Yuxuan (5A) 	|
