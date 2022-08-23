@@ -49,8 +49,8 @@ third_nav_title: School Information and Letters
 |  13th November 2020 	| [End of Term 4 Letter 2020 V9.pdf](/files/End%20of%20Term%204%20Letter%202020%20V9.pdf)   	|
 
 [School Uniform Order Form 2021.pdf](/files/School%20Uniform%20Order%20Form%202021.pdf) <br>
-[2020 P1 Orientation - For School Website.pptx] upload ppy slides here    
-[2020 CALENDAR TERM 3 - Student (FINAL).pdf](/files/2020%20CALENDAR%20TERM%203%20-%20Student%20(FINAL).pdf)
+[2020 P1 Orientation - For School Website.pptx] upload ppt slides here    
+[2020 CALENDAR TERM 3 - Student (FINAL).pdf](/files/2020%20CALENDAR%20TERM%203%20-%20Student%20(FINAL).pdf)<br>
 [Resource Kit - Parent Kit - Back to School (Updated-final).pdf](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf)  
 [HBL Toolkit 2020.pdf](/files/HBL%20Toolkit%202020.pdf)
 [1\. P4 PES YH Talk\_Updated\_2 April.pptx] Upload ppt slides here. <br>
