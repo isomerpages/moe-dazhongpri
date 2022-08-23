@@ -28,6 +28,4 @@ Join our Telegram channel to get the latest updates and upcoming activities. Sca
 
 Demonstrate to your child the meaning of ‘Serving Beyond Self’ and help to plan or run activities! We welcome all the help. You may contact our Teacher Representative, Mr. Keith Chen at [chen\_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)
 
- “At the end of the day, the most overwhelming key to a child’s success is
-
-the positive involvement of parents.” – Jane D. Hull
+ “At the end of the day, the most overwhelming key to a child’s success is the positive involvement of parents.” – Jane D. Hull
