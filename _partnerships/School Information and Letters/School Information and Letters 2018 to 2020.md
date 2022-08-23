@@ -47,3 +47,13 @@ third_nav_title: School Information and Letters
 |  2nd September 2020 	| [Term Letter_2 Sep 2020_final.pdf](/files/Term%20Letter_2%20Sep%202020_final.pdf)   	|
 | 12th October 2020  	| [Travel Declaration for Year-End Holidays_12 Oct 2020.pdf](/files/Travel%20Declaration%20for%20Year-End%20Holidays_12%20Oct%202020.pdf)   	|
 |  13th November 2020 	| [End of Term 4 Letter 2020 V9.pdf](/files/End%20of%20Term%204%20Letter%202020%20V9.pdf)   	|
+
+[School Uniform Order Form 2021.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/School%20Uniform%20Order%20Form%202021.pdf)   
+[2020 P1 Orientation - For School Website.pptx](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/2020%20P1%20Orientation%20-%20For%20School%20Website.pptx)   
+[2020 CALENDAR TERM 3 - Student (FINAL).pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/2020%20CALENDAR%20TERM%203%20-%20Student%20(FINAL).pdf)   
+[Resource Kit - Parent Kit - Back to School (Updated-final).pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf)   
+[HBL Toolkit 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/HBL%20Toolkit%202020.pdf)   
+[1\. P4 PES YH Talk\_Updated\_2 April.pptx] Upload ppt slides here.
+[2020 Inspiring\_English\_Award\_Nomination Form\_PDF.pdf](/files/2020%20Inspiring_English_Award_Nomination%20Form_PDF.pdf)  
+[List of Suggested Merchants\_Redemption of Meal eVouchers for MOE FAS Students.pdf](/files/List%20of%20Suggested%20Merchants_Redemption%20of%20Meal%20eVouchers%20for%20MOE%20FAS%20Students.pdf)
+[Guide on Redemption Process for eVouchers at AVM\_For MOE FAS recipients.pdf](/files/Guide%20on%20Redemption%20Process%20for%20eVouchers%20at%20AVM_For%20MOE%20FAS%20recipients.pdf)
