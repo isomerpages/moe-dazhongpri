@@ -56,3 +56,20 @@ _Let's Celebrate!_ _Dare To Soar new Milestones!_
 | Ngee Ann National Student's Calligraphy Competition 2019<br>Primary School Category - Bronze Award<br><br>Ju Yuxuan (4I) 	|
 | 2019 Young Cartoonist Competition<br>First Prize<br><br>A'liyah Massarah (6E) 	|
 | Keat Hong Community Club Women's Executive Committee "We are Singaporeans" Sandwich Making Competition 2019<br>Certificate of Participation<br><br><img src="/images/achi20.png" style="width:80%"><br><br>Chew Jia Xuan (3P)<br>Nur Iman Bin Nurhamis (3P)<br>Gladys Koo Pei Shan (3P)<br>Sureshkumar Elekkian (3P) 	|
+
+##### Choir Students at Mediacorp Capital 95.8 FM
+
+Our Dazhong Choir students (Yu Lan of 5I, Yuan Ying of 4I and Xuan Ning of 3R) were at Mediacorp Capital 95.8FM studio on 8 September 2019. With us were Capital 95.8 host and our Choir instructor, Lim Huimin. Our Choir students sang their favourite Chinese songs live on air and they did a great job! Well done Dazhong Choir students!
+
+<img src="/images/achi21.png" style="width:60%">
+
+Click [here](https://www.facebook.com/capital958/videos/2160445574258326/) to hear them sing.
+
+#### Bringing Arts to Community
+
+| Date  	| Performing Arts/ Visual Art CCAs 	|      Description 	|
+|---	|---	|:---:	|
+| 1 May 	| Art Club (selected pupils) 	| A group of Art students were selected to participate in a Youth Ground-up Initiative for West Zone Schools. They created drawings with positive messages to encourage the public to show kindness towards elders. The mission of this youth initiative is to keep a strong Singapore heartbeat throughout generations via a ripple effect by inculcating a strong sense of gratitude towards our elders who have helped to build the Singapore we have now.The drawing of Nur Amirah Bte Roslie (6R) has been selected for print into postcards to be shared with and distributed to the public through avenues such as the NDP 2019 Celebrations and at public spaces. 	|
+| 6 to 7 July 	| SYF Arts Celebrations @ Heartlands<br><br><br>Choir & JO<br>Dance (Bukit Panjang Plaza 	| SYF 2019 Celebrations is an arts festival that provides students with an inclusive and collaborative platform to express their artistic talent and creative voice. The SYF is centred on encouraging our youth to discover their talents in the arts, and providing them with diverse opportunities to learn, collaborate, grow and engage with the community.<br><br><img src="/images/achi22.png" style="width:90%"><br><br>The Choir performed on 6 July 2019 and Junior Orchestra collaborated with Methodist Girls School (Secondary) performed on 7 July 2019.<br><br><img src="/images/achi23.png" style="width:90%"><br><br>Dance performed on 7 July 2019 at Bukit Panjang Plaza<br><br><img src="/images/achi24.png" style="width:90%"><br><br><img src="/images/achi25.png" style="width:90%"> 	|
+| 3 Aug 	| Passion Arts Village cum National Day Celebrations<br><br><br>Visual Art Club<br><br><br>Wushu 	| Insert video here<br><br><img src="/images/achi26.png" style="width:90%"><br><br>Selected Art Club students worked with a Singapore Artist, Mr Kevin Seah, to paint pictures of Singapore icons. The artwork done by our students and their Art teachers, Ms Chang Mei Shan and Mdm Nuraishah was displayed at Gek Poh Ville Community Club.<br><br><img src="/images/achi27.png" style="width:80%"><br><br>Wushu students performed on this occasion at Gek Poh Ville Community Club. 	|
+| 4 Aug 	| Hong Kah North CC National Day Carnival and Performance (from 7pm) 	| Junior Orchestra performed at Hong Kah North CC during the National Day Carnival as part of their outreach to the community. 	|
