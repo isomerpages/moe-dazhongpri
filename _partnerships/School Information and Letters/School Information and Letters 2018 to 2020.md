@@ -41,7 +41,7 @@ third_nav_title: School Information and Letters
 | 22nd April 2020  	|  [Parents Letter_150420_HBL_Term 2 Week 5_220420 updated.pdf](/files/Parents%20Letter_150420_HBL_Term%202%20Week%205_220420%20updated.pdf) 	|
 |  29th April 2020 	|  [Full Home Based Learning_HBL_Week6andSchoolHolidays_5thMayto1June2020.pdf](/files/Full%20Home%20Based%20Learning_HBL_Week6andSchoolHolidays_5thMayto1June2020.pdf)  	|
 |  26th May 2020 	|  [Letter to Parents on Arrangement of schools after Circuit Breaker_26052020.pdf ](/files/Letter%20to%20Parents%20on%20Arrangement%20of%20schools%20after%20Circuit%20Breaker_26052020.pdf)	|
-|  5th June 2020 	|  Term 3 letter to parents 5 Jun 2020.pdf  	|
+|  5th June 2020 	|  Term 3 letter to parents 5 Jun 2020.pdf <br> Upload pdf here. 	|
 | 26th June 2020  	| [Refund of Co-Payment for 2020 School Programmes 26 Jun 2020_upload on Website.pdf ](/files/Refund%20of%20Co-Payment%20for%202020%20School%20Programmes%20_26%20Jun%202020_upload%20on%20Website.pdf)  	|
 | 1st July 2020  	| [School Ops on 9 & 10 Jul 2020 due to Polling Day 1 July 2020.pdf  ](/files/School%20Ops%20on%209%20&%2010%20Jul%202020%20due%20to%20Polling%20Day_%201%20July%202020.pdf)	|
 |  2nd September 2020 	| [Term Letter_2 Sep 2020_final.pdf](/files/Term%20Letter_2%20Sep%202020_final.pdf)   	|
