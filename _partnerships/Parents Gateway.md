@@ -19,7 +19,7 @@ a.         Open the Apple App Store, Google Play Store or Huawei App G
 
 b.         Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
 
-<img src="/images/pg2.png" style="width:60%">
+<img src="/images/pg2.png" style="width:80%">
 
 c.         Download and install the app on your phone.
 
@@ -27,17 +27,17 @@ d.         Enable ‘**Allow Notifications’** to receive push notifi
 
 **Note:** Supported OS Versions - **Android 6.0 or later** & **iOS 11.0 or later**
 
-<img src="/images/pg3.png" style="width:60%">
+<img src="/images/pg3.png" style="width:70%">
 
-<img src="/images/pg4.png" style="width:60%">
+<img src="/images/pg4.png" style="width:70%">
 
 **Frequently Asked Questions (FAQs)**
 
-<img src="/images/pg5.png" style="width:60%">
+<img src="/images/pg5.png" style="width:70%">
 
-<img src="/images/pg6.png" style="width:60%">
+<img src="/images/pg6.png" style="width:70%">
 
-<img src="/images/pg7.png" style="width:60%">
+<img src="/images/pg7.png" style="width:70%">
 
 For the full list of FAQs, you may visit [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
 
