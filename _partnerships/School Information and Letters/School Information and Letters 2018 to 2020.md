@@ -73,23 +73,15 @@ Click [here to view](/files/dialogueSession.pdf) (enlarged) Conversation Start
 
 <img src="/images/dialogueSession.png" style="width:30%">
 
-[  
-2019 Term 1 Letter to Parent\_4 Jan 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/About%20Us/Principal%20Communication/2019%20Term%201%20Letter%20to%20Parent_4%20Jan%202019.pdf)   
+Upload the PDFs below. 
+[ 2019 Term 1 Letter to Parent\_4 Jan 2019.pdf] <br>
+[End of Term 1 and Start of Term 2 Letter 2019\_14 Mar 2019.pdf]
+<br> [DZPS End of Term 2 Letter 2019\_29 May 2019.pdf]
+<br>[Start of Term 3 Letter 2019\_3 Jul 2019.pdf]
 
-[End of Term 1 and Start of Term 2 Letter 2019\_14 Mar 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/About%20Us/Principal%20Communication/End%20of%20Term%201%20and%20Start%20of%20Term%202%20Letter%202019_14%20Mar%202019.pdf)   
-
-[DZPS End of Term 2 Letter 2019\_29 May 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/DZPS%20End%20of%20Term%202%20Letter%202019_29%20May%202019.pdf)   
-
-[Start of Term 3 Letter 2019\_3 Jul 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/Start%20of%20Term%203%20Letter%202019_3%20Jul%202019.pdf)   
-
-[End of Term 3 cum Start of Term 4 Letter 2019 final.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/End%20of%20Term%203%20cum%20Start%20of%20Term%204%20Letter%202019%20final.pdf)
-
- [End of Term 4 Letter.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/End%20of%20Term%204%20Letter.pdf) 
-
-[DZPS Emergency Exercise 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/DZPS%20Emergency%20Exercise%202019.pdf)   
-
-[Letter to Parent on Dengue Prevention\_25 Jul 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/Letter%20to%20Parent%20on%20Dengue%20Prevention_25%20Jul%202019.pdf)   
-
-[Information sheet for parents\_Primary School Transfer Service for Change of Address\_29 Jul 2019.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/Information%20sheet%20for%20parents_Primary%20School%20Transfer%20Service%20for%20Change%20of%20Address_29%20Jul%202019.pdf)  
-
-[(Sharing) P4 PES on PSLE 2021.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/Using%20Links%20for%20Partners/(Sharing)%20P4%20PES%20on%20PSLE%202021.pdf)
+[End of Term 3 cum Start of Term 4 Letter 2019 final.pdf](/files/End%20of%20Term%203%20cum%20Start%20of%20Term%204%20Letter%202019%20final.pdf)<br>
+[End of Term 4 Letter.pdf](/files/End%20of%20Term%204%20Letter.pdf)<br>
+[DZPS Emergency Exercise 2019.pdf](/files/DZPS%20Emergency%20Exercise%202019.pdf) <br>
+[Letter to Parent on Dengue Prevention_25 Jul 2019.pdf](/files/Letter%20to%20Parent%20on%20Dengue%20Prevention_25%20Jul%202019.pdf)<br>
+[Information sheet for parents_Primary School Transfer Service for Change of Address_29 Jul 2019.pdf](/files/Information%20sheet%20for%20parents_Primary%20School%20Transfer%20Service%20for%20Change%20of%20Address_29%20Jul%202019.pdf)<br>
+[(Sharing) P4 PES on PSLE 2021.pdf](/files/(Sharing)%20P4%20PES%20on%20PSLE%202021.pdf)
