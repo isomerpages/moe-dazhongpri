@@ -73,3 +73,13 @@ Click [here](https://www.facebook.com/capital958/videos/2160445574258326/) to 
 | 6 to 7 July 	| SYF Arts Celebrations @ Heartlands<br><br><br>Choir & JO<br>Dance (Bukit Panjang Plaza 	| SYF 2019 Celebrations is an arts festival that provides students with an inclusive and collaborative platform to express their artistic talent and creative voice. The SYF is centred on encouraging our youth to discover their talents in the arts, and providing them with diverse opportunities to learn, collaborate, grow and engage with the community.<br><br><img src="/images/achi22.png" style="width:90%"><br><br>The Choir performed on 6 July 2019 and Junior Orchestra collaborated with Methodist Girls School (Secondary) performed on 7 July 2019.<br><br><img src="/images/achi23.png" style="width:90%"><br><br>Dance performed on 7 July 2019 at Bukit Panjang Plaza<br><br><img src="/images/achi24.png" style="width:90%"><br><br><img src="/images/achi25.png" style="width:90%"> 	|
 | 3 Aug 	| Passion Arts Village cum National Day Celebrations<br><br><br>Visual Art Club<br><br><br>Wushu 	| Insert video here<br><br><img src="/images/achi26.png" style="width:90%"><br><br>Selected Art Club students worked with a Singapore Artist, Mr Kevin Seah, to paint pictures of Singapore icons. The artwork done by our students and their Art teachers, Ms Chang Mei Shan and Mdm Nuraishah was displayed at Gek Poh Ville Community Club.<br><br><img src="/images/achi27.png" style="width:80%"><br><br>Wushu students performed on this occasion at Gek Poh Ville Community Club. 	|
 | 4 Aug 	| Hong Kah North CC National Day Carnival and Performance (from 7pm) 	| Junior Orchestra performed at Hong Kah North CC during the National Day Carnival as part of their outreach to the community. 	|
+
+| Event 	| Achievement 	|
+|---	|---	|
+| **10th Be The Change Celebration** 	| **Conference Presentation** 	|
+| Rebeca Tun (4I) 	| Wang Shi Xuan (4I) 	|
+| Lew Jia Hong (Liao Jiahong) 	| Huang Hancheng  	|
+| **OUR FUTURE Stamp Drawing Contest** 	| **Top Ten Winners** 	|
+|  Tong Cheng Han, Donna (Tang Jingxian) 5R 	|  Ju Yuxuan (4I) 	|
+
+#### West Zone Championship 2019
