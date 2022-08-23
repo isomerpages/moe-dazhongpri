@@ -85,3 +85,39 @@ Upload the PDFs below.
 [Letter to Parent on Dengue Prevention_25 Jul 2019.pdf](/files/Letter%20to%20Parent%20on%20Dengue%20Prevention_25%20Jul%202019.pdf)<br>
 [Information sheet for parents_Primary School Transfer Service for Change of Address_29 Jul 2019.pdf](/files/Information%20sheet%20for%20parents_Primary%20School%20Transfer%20Service%20for%20Change%20of%20Address_29%20Jul%202019.pdf)<br>
 [(Sharing) P4 PES on PSLE 2021.pdf](/files/(Sharing)%20P4%20PES%20on%20PSLE%202021.pdf)
+
+#### 2019 PSLE Examination Timetable
+
+Click [here](/files/2019%20PSLE%20Examination%20Timetable.pdf). The make-up oral examination is scheduled on 03 September 2019.
+
+#### HongKah Newsletter
+
+Dazhong was featured in Hongkah Newsletter. 
+
+Click below to view.
+
+[Hong Kah Newsletter Apr 2019\_20190428111704.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/Hong%20Kah%20Newsletter%20Apr%202019_20190428111704.pdf) 
+
+#### Homework Policy
+
+[Dazhong_Primary_School_Homework_Policy.pdf](/files/Dazhong_Primary_School_Homework_Policy.pdf)
+
+#### Parents Engagement
+
+Click [here] .(https://staging.d3uysdl5odqqma.amplifyapp.com/partnerships/School-Information-and-Letters/parent-engagement-session/)
+
+#### Book List 2019
+
+[DZPS Booklist 2019.pdf] upload PDF here.
+
+#### 2018  
+
+[Start of Term 1 Letter to Parent\_4 Jan 2018.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%201%20Letter%20to%20Parent_4%20Jan%202018.pdf)[End of Term 1 2018 Letter to Parents.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%201%202018%20Letter%20to%20Parents.pdf)[Start of Term 2 2018 Letter to Parents.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%202%202018%20Letter%20to%20Parents.pdf)[End of T2 2018 Letter to parent.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20T2%202018%20Letter%20to%20parent.pdf)[Start of Term 3 Letter 2018\_29 Jun 2018.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%203%20Letter%202018_29%20Jun%202018.pdf)[Annex C\_DZPS\_TERM 3\_2018.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Annex%20C_DZPS_TERM%203_2018.pdf)[End of Term 3 Letter 2018 (30 Aug 2018).pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%203%20Letter%202018%20(30%20Aug%202018).pdf)[DZPS\_TERM 4\_Student Calendar.pdf  
+](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/DZPS_TERM%204_Student%20Calendar.pdf)[End of Term 4 2018 Letter to Parents.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%204%202018%20Letter%20to%20Parents.pdf)
