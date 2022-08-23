@@ -113,3 +113,67 @@ In addition to the Green Schools @ South West Award awarded to Dazhong Primary S
 |  13.  	| Friends in Concert 2019 - Bridging Perspectives<br>Mrs Dawn Kuah, Subject Head for Aesthetics, represented Dazhong to perform at Friends in Concert at the National Gallery on 17 August 2019. 	|
 | 14.   	| The MOE Service Excellence Award (MSEA) is a MOE-wide Award to encourage all MOE staff to continually and consistently serve both internal and external customers with excellent service premised on CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and the 3 key Service Principles [People Centricity, Mutual Courtesy and Respect and Shared Responsibility for the Public Good].<br><br><img src="/images/achi29.png" style="width:80%"><br><br>Platinum Award:<br>Mdm Mary Ang<br>Ms Tan Geok Hwa<br>Mr V Manoharan<br><br>Gold Award:<br>Mr Herman Bin Ponijo<br>Mdm Loh Keng Ming<br>Mr Muhammad Syahriel Bin Sukar<br>Mdm Tan Mui Sin<br>Mrs Tan Pei Yin Geraldine<br>Mr Wee Boon Nee<br>Ms Yu Minli Emmeline<br><br>Silver Award:<br>Ms Ananthy D/O Marimuthu<br>Mrs Marip Ang Qiu Ping Emily<br>Mrs Kuah Chan Wee Teng Dawn<br>Mrs Chia Junli<br>Mdm Chin Mei Ling Cindy<br>Mdm Choo Xue Er Danica<br>Mdm Gao Rong Fang<br>Mdm Haslinda Bte Zakaria<br>Mrs Leong Mei Yan Amelia<br>Ms Muzfirah Aida Afifah Binti Abdullah<br>Mdm Nurul Athirah Bte Abdul Rahman<br>Mrs Ong Chit Bee<br>Mdm Siti Noraidah Bte Mohd Salleh<br>Mr Tan Zi Yang Andy<br>Mdm Teo Lee Choo<br>Ms Ting Ning Xin Jessie<br>Mr Wu Zongbing<br><br>Congratulations to the recipients of MOE Service Excellence Award (MSEA). Dazhong Primary School is the school with highest number of Platinum winners too! We would like to take this opportunity to thank our stakeholders, parents and students for their nominations. Thank you! 	|
 | 15 	| Congratulation to our award winners, Mdm Mary Ang, Mr Choy and Mrs Dawn Kuah for their contributions to the fraternity and in guiding our teachers in professional development!<br><br><img src="/images/achi30.png" style="width:80%"> 	|
+
+#### 2020 Achievements
+
+| No. 	| Event/Achievement 	|
+|---	|---	|
+| 1 	| 2021 Raffles Scholarship<br><br>Aaryan Reza Bin Norhisham (6A), Ong Herr You (5A), Tan Ze Zun (Zeng Zijun) (5A) 	|
+| 2 	| Singapore Mathematical Olympiad for Primary Schools - Bronze Award<br><br>Ong Jia Hao (6A)<br>Shi Yi Fan (6A) 	|
+| 3 	| Singapore Mathematical Olympiad for Primary Schools— Certificate of Participation<br><br>Ashlyn Lai Siling (6A), Bireddi Hanshika (6A), Soh Yarapa (6A), Liu Shengda (6P), Wang Shixuan (6P), Govindaraj Nikithaa (5A), Khon Wathan (5A), Lai Jia En Alicia (5A), Liu Qi Heng (5A), Liu Yiyang (5A), Sofia Binte Saharudin (5A), Tan Inn Ru (5A), Willa Lim (5A), Yoon Eunseoh (5A), Chung Sunho (5A), Gundre Daivik Reddy (5A), Hwang Insung (5A), Javan Teh Zhe Zhong (5A), Chloe Liu Xin Yi (5P), Richita Panda (5P), Lacerna Jairus Gabriel Valdez (5P) 	|
+| 4 	| Civica Singapore 2020 Tales of 'S' eBook Competition—<br>Young Writer’s Award (Published Short Stories)<br><br>Maniarasan Madhuvadhani (6I 2020)<br>Mumar (6I 2020) 	|
+| 5 	| Civica Singapore 2020 Tales of 'S' eBook Competition—Published Illustrations<br><br>Muhammad Haziq Rifqi Bin Anizzam (6E)<br>Soh Yarapa (6A) 	|
+| 6 	| 6th National Primary School "Picture Book Creation" Competition 2020—<br>Bronze Award (Group 1 and Group 2)<br><br>Karis Goh (6R 2020), Chong Kaitlyn (6A), Hee Kit Kei (6A), Ju Yuxuan (6A), Shi Yifan (6A), Wong Ying Kee (6A), Charmaine Tok Ke Ying (6P), Chen Jia Jun (6P), Wang Shi Xuan (6P), <br>Emelia Soh (5A) 	|
+| 7 	| 6th National Primary School "Picture Book Creation" Competition 2020—<br>Best Story Award (Group 3)<br><br><br>Tong Cheng Han, Donna (6R 2020), Scarlett Wan Ying (6A), Soh Yarapa (6A), <br>Ong Yu Yan (6P) Lai Jia En Alicia (5A) 	|
+
+**6th National Primary School “Picture Book Creation” Competition 2020**  
+
+This is an annual competition organized by Nan Hua Primary School. It aims to provide students with an opportunity to work collaboratively with their peers to express their creativity and create their own picture book.  
+
+**Achievements**
+
+**Two Bronze Awards and one Best Story Award**
+
+ The students exhibited self-directed learning and responsibility by engaging on online learning and training during the Circuit Breaker period. Their perseverance and aim for excellence spirit has led them to clinch two Bronze Awards and one Best Story Award in the competition.
+ 
+ | Bronze Award 	|
+|---	|
+| Group 1 (Guided by teachers, Mdm Yap Lay Hong and Mdm Chen LI Qin ) 	|
+| (1) Ju Yuxuan (6A) 	|
+| (2) Hee Kit Kei (6A) 	|
+| (3) Shi Yifan (6A) 	|
+| (4) Emelia Soh (5A) 	|
+| (5) Karis Goh (6R 2020) 	|
+
+| Bronze Award 	|
+|---	|
+| Group 2 (Guided by teacher Miss Lin Mei Ling) 	|
+| (1) Charmaine Tok Ke Ying (6A) 	|
+| (2) Chong Kaitlyn (6A) 	|
+| (3) Wang Shixuan (6P) 	|
+| (4) Chen Jia Jun (6P) 	|
+| (5) Wong Ying Kee (6A) 	|
+
+| Best Story Award 	|
+|---	|
+| Group 3 (Guided by teachers: Mdm Yap Lay Hong and Mdm Chen Li Qin) 	|
+| (1) Ong Yu Yan (6A) 	|
+| (2) Soh Yarapa (6A) 	|
+| (3) Lai Jia En (5A) 	|
+| (4) Tong Cheng Han, Donna (6R 2020) 	|
+| (5) Scarlett Wan Ying (6A) 	|
+
+**Students’ Reflection**
+
+**(1) Soh Yarapa (6A)**<br>
+We had been working hard for the competition. There were a lot of challenges to overcome. We worked together as one to get it done. We could not really meet up to do it together. We also had time constraint. Despite time constraints, we all put in our best effort to finish it on time. Everyone being self- directed by doing it at home and we communicated through Whatsapp group. Our teachers have guided us and helped us during the difficult time. We used padlet and google.doc to upload our pictures and to see the guidelines.
+
+**(2) Lai Jia En Alicia (5A)**<br>
+Through this experience, I learnt to work together as a group and overcome all the obstacles we met. In order for the work to be submitted on time and done properly, we had to be responsible and complete it on time. We also had to remember to bring it to school to submit it and let another person colour. Throughout the entire experience, there was a lot of homework and we also had to revise for our exam. It was hard to balance both my academic and this. However, I learnt to manage time properly and as a result, I could do well in my studies and at the same time, finish the drawing on time.
+
+**(3) Emelia Soh (5A)**<br>
+It was the exam period, but all of the students who took part in this comic competition were helping out. After the PSLE, P6 students also helped out. We all did separate work and had good cooperation. My partner drew and I coloured. We also discussed the things we do not know on Whatsapp.
+
+**(4) Hee Kit Kei (6A)**<br>
+Even though, we were having our SA2, we tried to take out some time to complete it. We used Whatsapp to communicate better, teachers told us all the plan through Whatsapp, so we knew what we were supposed to do when we met. I think we did a great job.
+
