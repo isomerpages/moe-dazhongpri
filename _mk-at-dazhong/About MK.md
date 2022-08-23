@@ -32,7 +32,6 @@ We nurture children holistically so that they are confident, demonstrate strong 
 
 ##### Our Values
 
-##### 
 
 *   Respect - Be kind and nice to yourself and everyone around you.
 *   Resilience - Keep trying and do your best in everything.
