@@ -57,3 +57,25 @@ third_nav_title: School Information and Letters
 [2020 Inspiring\_English\_Award\_Nomination Form\_PDF.pdf](/files/2020%20Inspiring_English_Award_Nomination%20Form_PDF.pdf)  
 [List of Suggested Merchants\_Redemption of Meal eVouchers for MOE FAS Students.pdf](/files/List%20of%20Suggested%20Merchants_Redemption%20of%20Meal%20eVouchers%20for%20MOE%20FAS%20Students.pdf)
 [Guide on Redemption Process for eVouchers at AVM\_For MOE FAS recipients.pdf](/files/Guide%20on%20Redemption%20Process%20for%20eVouchers%20at%20AVM_For%20MOE%20FAS%20recipients.pdf)
+
+#### School Booklist 2021 / 2020
+
+[DZPS 2021 P2.pdf](/files/p2bkl.pdf)  <br>[DZPS 2021 P3.pdf](/files/p3bkl.pdf) <br>[DZPS 2021 P4.pdf](/files/p4bkl.pdf) <br>[DZPS 2021 P5.pdf](/files/p5bkl.pdf) <br>[DZPS 2021 P5 (FDN).pdf](/files/p5fbkl.pdf) <br> [DZPS 2021 P6.pdf](/files/p6bkl.pdf) <br> [DZPS 2021 P6 (FDN).pdf](/files/p6fbkl.pdf) 
+
+  
+
+[P1 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P1%20Booklist%202020.pdf)   
+
+[P2 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P2%20Booklist%202020.pdf) 
+
+[P3 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P3%20Booklist%202020.pdf)   
+
+[P4 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P4%20Booklist%202020.pdf)   
+
+[P5 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P5%20Booklist%202020.pdf)   
+
+[P5(FDN) Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P5(FDN)%20Booklist%202020.pdf) 
+
+[P6 Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P6%20Booklist%202020.pdf)   
+
+[P6(FDN) Booklist 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2019/P6(FDN)%20Booklist%202020.pdf)
