@@ -104,7 +104,7 @@ Click below to view.
 
 #### Parents Engagement
 
-Click [here] .(https://staging.d3uysdl5odqqma.amplifyapp.com/partnerships/School-Information-and-Letters/parent-engagement-session/)
+Click [here](https://staging.d3uysdl5odqqma.amplifyapp.com/partnerships/School-Information-and-Letters/parent-engagement-session/) .
 
 #### Book List 2019
 
