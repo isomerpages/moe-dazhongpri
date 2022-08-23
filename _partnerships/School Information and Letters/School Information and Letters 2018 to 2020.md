@@ -18,6 +18,6 @@ third_nav_title: School Information and Letters
 | 29 June 2021  	| [Start of Term 3 Letter 2021_29 June 2021.pdf](/files/Start%20of%20Term%203%20Letter%202021_29%20June%202021.pdf) 	|
 | 29 June 2021 	| [2021 Student CALENDAR Term 3_Final.pdf ](/files/2021%20Student%20CALENDAR%20Term%203_Final.pdf)	|
 | 12 July 2021 	| [EarlyDismissal_NationalDay2021.pdf](/files/EarlyDismissal_NationalDay2021.pdf) 	|
-| 1 Sep 2021 	| End of Term 3 cum Start of Term 4 Letter 2021_1 Sep 2021.pdf 	|
-| 1 Sep 2021 	| 2021 CALENDAR TERM 4 -Student Final.pdf 	|
-| 15 Nov 2021 	| 2021 End of Term 4 Letter to Parents_15 Nov 2021.pdf 	|
+| 1 Sep 2021 	| [End of Term 3 cum Start of Term 4 Letter_1 Sep 2021.pdf](/files/End%20of%20Term%203%20cum%20Start%20of%20Term%204%20Letter%202021_1%20Sep%202021.pdf) 	|
+| 1 Sep 2021 	| [2021 CALENDAR TERM 4 -Student Final.pdf](/files/2021%20CALENDAR%20TERM%204%20-Student%20Final.pdf) 	|
+| 15 Nov 2021 	| [2021 End of Term 4 Letter to Parents_15 Nov 2021.pdf](/files/2021%20CALENDAR%20TERM%204%20-Student%20Final%20(1).pdf) 	|
