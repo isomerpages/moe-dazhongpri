@@ -112,12 +112,11 @@ Click [here](https://staging.d3uysdl5odqqma.amplifyapp.com/partnerships/School-I
 
 #### 2018  
 
-[Start of Term 1 Letter to Parent\_4 Jan 2018.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%201%20Letter%20to%20Parent_4%20Jan%202018.pdf)[End of Term 1 2018 Letter to Parents.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%201%202018%20Letter%20to%20Parents.pdf)[Start of Term 2 2018 Letter to Parents.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%202%202018%20Letter%20to%20Parents.pdf)[End of T2 2018 Letter to parent.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20T2%202018%20Letter%20to%20parent.pdf)[Start of Term 3 Letter 2018\_29 Jun 2018.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Start%20of%20Term%203%20Letter%202018_29%20Jun%202018.pdf)[Annex C\_DZPS\_TERM 3\_2018.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/Annex%20C_DZPS_TERM%203_2018.pdf)[End of Term 3 Letter 2018 (30 Aug 2018).pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%203%20Letter%202018%20(30%20Aug%202018).pdf)[DZPS\_TERM 4\_Student Calendar.pdf  
-](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/DZPS_TERM%204_Student%20Calendar.pdf)[End of Term 4 2018 Letter to Parents.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2018/End%20of%20Term%204%202018%20Letter%20to%20Parents.pdf)
+[Start of Term 1 Letter to Parent\_4 Jan 2018.pdf] Upload PDF here <br>[End of Term 1 2018 Letter to Parents.pdf  
+](/files/End%20of%20Term%201%202018%20Letter%20to%20Parents.pdf)<br>[Start of Term 2 2018 Letter to Parents.pdf  
+]Upload PDF here <br>[End of T2 2018 Letter to parent.pdf  
+](/files/End%20of%20T2%202018%20Letter%20to%20parent.pdf) <br> [Start of Term 3 Letter 2018\_29 Jun 2018.pdf  
+](/files/Start%20of%20Term%203%20Letter%202018_29%20Jun%202018.pdf)  <br> [Annex C\_DZPS\_TERM 3\_2018.pdf  
+](/files/Annex%20C_DZPS_TERM%203_2018.pdf)<br>[End of Term 3 Letter 2018 (30 Aug 2018).pdf  
+]Upload PDF here <br>[DZPS\_TERM 4\_Student Calendar.pdf  
+](/files/DZPS_TERM%204_Student%20Calendar.pdf)<br>[End of Term 4 2018 Letter to Parents.pdf]Upload PDF here
