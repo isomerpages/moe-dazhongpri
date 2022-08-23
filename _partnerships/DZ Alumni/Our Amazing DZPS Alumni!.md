@@ -34,3 +34,5 @@ Read about our amazing alumni:
 |---	|---	|---	|
 | Mr Benny Lee 	| Principal Private Secretary to the President of Singapore 	| Click [here](http://155.69.97.28/nienews/dec13/?q=contents/lep) 	|
 | Ms Janice Chua 	| Producer 	| Click [here](https://www.todayonline.com/singapore/bukit-batok-connection-crazy-rich-asians) 	|
+
+Click [here](https://staging.d3uysdl5odqqma.amplifyapp.com/partnerships/DZ-Alumni/overview/) to sign up as DZ Alumni
