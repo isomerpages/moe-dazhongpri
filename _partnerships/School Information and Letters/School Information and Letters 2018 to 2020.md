@@ -26,3 +26,24 @@ third_nav_title: School Information and Letters
 
 [DZPS 2021 P2.pdf](/files/p2booklist.pdf)   <br>[DZPS 2021 P3.pdf](/files/p3booklist.pdf) <br>
 [DZPS 2021 P4.pdf](/files/p4booklist.pdf)   <br>[DZPS 2021 P5.pdf](/files/p5booklist.pdf)   <br>[DZPS 2021 P5 (FDN).pdf](/files/p5fbooklist.pdf)   <br>[DZPS 2021 P6.pdf](/files/p6booklist.pdf) <br>[DZPS 2021 P6 (FDN).pdf](/files/p6fbooklist.pdf)
+
+#### 2020
+
+| Date 	| Title 	|
+|:---:	|:---:	|
+| 6 Jan 2020 	| Start of Termly Letter 1_2020.pdf  	|
+| 12th March 2020 	| End of Term 1 cum Start of Term 2 Letter 2020.pdf  	|
+| 23rd March 2020  	| SchoolLetter2020_SocialResponsibility.pdf   	|
+| 31st March 2020  	|  Parents Letter_310320_HBL vetted_updated.pdf  	|
+|  3rd April 2020 	|  Home-based Learning And Cancellation of School-based activities April 2020.pdf  	|
+|  6th April 2020 	|  Home-Based Learning_6 Apr 2020_updated.pdf  	|
+|  15th April 2020 	|  Full Home Based Learning_ Term 2 Week 4.pdf  	|
+| 22nd April 2020  	|  Parents Letter_150420_HBL_Term 2 Week 5_220420 updated.pdf 	|
+|  29th April 2020 	|  Full Home Based Learning_HBL_Week6andSchoolHolidays_5thMayto1June2020.pdf  	|
+|  26th May 2020 	|  Letter to Parents on Arrangement of schools after Circuit Breaker_26052020.pdf 	|
+|  5th June 2020 	|  Term 3 letter to parents 5 Jun 2020.pdf  	|
+| 26th June 2020  	| Refund of Co-Payment for 2020 School Programmes 26 Jun 2020_upload on Website.pdf   	|
+| 1st July 2020  	| School Ops on 9 & 10 Jul 2020 due to Polling Day 1 July 2020.pdf  	|
+|  2nd September 2020 	| Term Letter_2 Sep 2020_final.pdf   	|
+| 12th October 2020  	| Travel Declaration for Year-End Holidays_12 Oct 2020.pdf   	|
+|  13th November 2020 	| End of Term 4 Letter 2020 V9.pdf   	|
