@@ -26,18 +26,18 @@ _Click on image to view resource_
 **1) Preparing for Class**
 
 
-| <p><a href="https://drive.google.com/file/d/1CFGVdIwcB2tWspBSCLz6gfm_Lq1KrjX2/view">  <img style="width:25%" src="/images/p1sr3.png">  </a></p> 	| <p><a href="https://drive.google.com/file/d/1CSh390-tjutknVXSfwbXMU7OM7yMceU8/view">  <img style="width:25%" src="/images/p1sr4.png">  </a></p> 	|  <p><a href="https://drive.google.com/file/d/1E_p5AlzwSUlMkxhlOQRGWSMCnuAQ3qdB/view">  <img style="width:25%" src="/images/p1sr5.png">  </a></p>	|  <p><a href="https://drive.google.com/file/d/10S3Sg5mr-TaUpFRzhJmil6IFm3RTPtha/view">  <img style="width:25%" src="/images/p1sr6.png">  </a></p>	|
+| <a href="https://drive.google.com/file/d/1CFGVdIwcB2tWspBSCLz6gfm_Lq1KrjX2/view">  <img style="width:55%" src="/images/p1sr3.png">  </a> 	| <a href="https://drive.google.com/file/d/1CSh390-tjutknVXSfwbXMU7OM7yMceU8/view">  <img style="width:25%" src="/images/p1sr4.png">  </a> 	|  <a href="https://drive.google.com/file/d/1E_p5AlzwSUlMkxhlOQRGWSMCnuAQ3qdB/view">  <img style="width:55%" src="/images/p1sr5.png">  </a>	|  <a href="https://drive.google.com/file/d/10S3Sg5mr-TaUpFRzhJmil6IFm3RTPtha/view">  <img style="width:55%" src="/images/p1sr6.png">  </a>	|
 |---	|---	|---	|---	|
 | 	|  	|  	|  	|
 
 **2) Canteen Etiquette**
 
-| <a href="https://drive.google.com/file/d/1UOvMoUIeJIriuIyOOEMpp6OgBqdK0tH8/view">  <img style="width:25%" src="/images/p1sr7.png"> 	|  <a href="https://drive.google.com/file/d/12Tap8hLVmDkmI-hKeRC6K6GZX-j_elf1/view">  <img style="width:25%" src="/images/p1sr8.png">	| <a href="https://drive.google.com/file/d/1EDbOHIMGCLERJ5SepeFY8Gnd_fsl4TLA/view">  <img style="width:25%" src="/images/p1sr9.png"> 	  	|
+| <a href="https://drive.google.com/file/d/1UOvMoUIeJIriuIyOOEMpp6OgBqdK0tH8/view">  <img style="width:55%" src="/images/p1sr7.png"> 	|  <a href="https://drive.google.com/file/d/12Tap8hLVmDkmI-hKeRC6K6GZX-j_elf1/view">  <img style="width:55%" src="/images/p1sr8.png">	| <a href="https://drive.google.com/file/d/1EDbOHIMGCLERJ5SepeFY8Gnd_fsl4TLA/view">  <img style="width:55%" src="/images/p1sr9.png"> 	  	|
 |---	|---	|---	|
 |  	|  	|    	|
 	
 **3) Moving Around in School**
 	
-| <p><a href="https://drive.google.com/file/d/1vAzguejiUN9MR8eNTBKm2zYYdqPtNgev/view">  <img style="width:25%" src="/images/p1sr10.png"> 	|  <p><a href="https://drive.google.com/file/d/1JpMZTc6uQMrE2BL6pu8jD2KgLCyZq8Nz/view">  <img style="width:25%" src="/images/p1sr11.png"> 	|  	|  	|
+| <a href="https://drive.google.com/file/d/1vAzguejiUN9MR8eNTBKm2zYYdqPtNgev/view">  <img style="width:55%" src="/images/p1sr10.png"> 	| <a href="https://drive.google.com/file/d/1JpMZTc6uQMrE2BL6pu8jD2KgLCyZq8Nz/view">  <img style="width:55%" src="/images/p1sr11.png"> 	|  	|  	|
 |---	|---	|---	|---	|
 |  	|  	|  	|  	|
