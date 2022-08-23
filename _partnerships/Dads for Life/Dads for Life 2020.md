@@ -29,3 +29,7 @@ third_nav_title: Dads for Life
 #### Lip Sync Battle (13 Aug 2020)
 
 <img src="/images/dfl17.png" style="width:60%">
+
+#### Hong Kah North Community Challenge (21 Nov 2020)
+
+<img src="/images/dfl18.png" style="width:60%">
