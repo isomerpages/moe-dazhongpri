@@ -21,3 +21,8 @@ third_nav_title: School Information and Letters
 | 1 Sep 2021 	| [End of Term 3 cum Start of Term 4 Letter_1 Sep 2021.pdf](/files/End%20of%20Term%203%20cum%20Start%20of%20Term%204%20Letter%202021_1%20Sep%202021.pdf) 	|
 | 1 Sep 2021 	| [2021 CALENDAR TERM 4 -Student Final.pdf](/files/2021%20CALENDAR%20TERM%204%20-Student%20Final.pdf) 	|
 | 15 Nov 2021 	| [2021 End of Term 4 Letter to Parents_15 Nov 2021.pdf](/files/2021%20CALENDAR%20TERM%204%20-Student%20Final%20(1).pdf) 	|
+
+#### School Booklist 2021  
+
+[DZPS 2021 P2.pdf](/files/p2booklist.pdf)   <br>[DZPS 2021 P3.pdf](/files/p3booklist.pdf) <br>
+[DZPS 2021 P4.pdf](/files/p4booklist.pdf)   <br>[DZPS 2021 P5.pdf](/files/p5booklist.pdf)   <br>[DZPS 2021 P5 (FDN).pdf](/files/p5fbooklist.pdf)   <br>[DZPS 2021 P6.pdf](/files/p6booklist.pdf) <br>[DZPS 2021 P6 (FDN).pdf](/files/p6fbooklist.pdf)
