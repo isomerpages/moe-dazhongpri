@@ -23,3 +23,11 @@ c)     Helping fathers to be a positive influence in the total development 
 Join our Telegram channel to get the latest updates and upcoming activities. Scan the QR code to join!
 
 <img src="/images/dfl2.png" style="width:30%">
+
+#### Keen to help?
+
+Demonstrate to your child the meaning of ‘Serving Beyond Self’ and help to plan or run activities! We welcome all the help. You may contact our Teacher Representative, Mr. Keith Chen at [chen\_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)
+
+ “At the end of the day, the most overwhelming key to a child’s success is
+
+the positive involvement of parents.” – Jane D. Hull
