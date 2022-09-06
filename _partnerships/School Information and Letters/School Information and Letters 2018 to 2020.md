@@ -1,6 +1,6 @@
 ---
 title: School Information and Letters 2018 to 2020
-permalink: /partnerships/School-Information-and-Letters/2018-to-2020
+permalink: /partnerships/School-Information-and-Letters/2018-to-2020/
 description: ""
 third_nav_title: School Information and Letters
 ---
@@ -64,7 +64,7 @@ third_nav_title: School Information and Letters
 
   
 
-[P1 Booklist 2020.pdf](/files/2020p1bkl.pdf) <br> [P2 Booklist 2020.pdf](/files/2020p2bkl.pdf) <br> [P3 Booklist 2020.pdf](/files/2020p3bkl.pdf)  <br> [P4 Booklist 2020.pdf](/files/2020p4bkl.pdf)   <br> [P5 Booklist 2020.pdf](/files/2020p5bkl.pdf) <br> [P5(FDN) Booklist 2020.pdf]((/files/2020p5fbkl.pdf) <br> [P6 Booklist 2020.pdf](/files/2020p6bkl.pdf) <br> [P6(FDN) Booklist 2020.pdf](/files/2020p6fbkl.pdf)
+[P1 Booklist 2020.pdf](/files/2020p1bkl.pdf) <br> [P2 Booklist 2020.pdf](/files/2020p2bkl.pdf) <br> [P3 Booklist 2020.pdf](/files/2020p3bkl.pdf)  <br> [P4 Booklist 2020.pdf](/files/2020p4bkl.pdf)   <br> [P5 Booklist 2020.pdf](/files/2020p5bkl.pdf) <br> [P5(FDN) Booklist 2020.pdf](/files/2020p5fbkl.pdf) <br> [P6 Booklist 2020.pdf](/files/2020p6bkl.pdf) <br> [P6(FDN) Booklist 2020.pdf](/files/2020p6fbkl.pdf)
 
 ### 2019
 
