@@ -60,8 +60,7 @@ MOE has developed a Parents Gateway Mobile App to replace hardcopy letters sent 
 We invite you to download the free Parents Gateway mobile app onto your mobile phone.   
 We advise that BOTH parents should download the PG App so that both parents will receive notifications for your children.  
   
-To log into Parents Gateway, you will need: **Singpass.  
-**
+To log into Parents Gateway, you will need: **Singpass.**
 
 **Parents who do not have Singpass**  
 
