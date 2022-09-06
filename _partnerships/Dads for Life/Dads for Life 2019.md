@@ -1,6 +1,6 @@
 ---
 title: Dads for Life 2019
-permalink: /partnerships/Dads-for-Life/2019
+permalink: /partnerships/Dads-for-Life/2019/
 description: ""
 third_nav_title: Dads for Life
 ---
@@ -33,8 +33,6 @@ The first event was held on 16 March 2019 in school.  It was a fun time for dad
 
 3.       Term 2 - Sunny Sentosa <br>
 Insert video here.
-
-#### 
 
 One Father is more than a hundred schoolmasters' - a wise man once said! It was an exciting day out to sunny Sentosa on 25 May 2019.  We anticipated about 260 dads and their children participating in this. Today, we saw efforts of our core team of dads, dedication of our Teachers and support from the community serving beyond their responsibilities to enable many more fathers to deepen their bond with their children!There were happy faces, smiles, graciousness as never seen before parents helped each other to 'hunt' and grit as they complete their 'hunt'! Truly our Dads R Awesome!  
 
