@@ -9,4 +9,4 @@ third_nav_title: 2020 Events
 This year, Chinese New Year Celebration was on 24th January 2020. There were two segments of the CNY Programme. The first segment would be engaging students in Chinese cultural activities at various venues. The second segment was an hour concert for all levels, MK and the senior citizens of Lions Befrienders Centre.  
 Fortnight is to enhance students’ awareness of traditional values.
 
-Insert images here.
+<img src="/images/e5.png" style="width:60%">
