@@ -48,8 +48,9 @@ Click on the specific level below for the Home-Based Learning Schedule.
 <img style="width:65%" src="/images/hbl7.png">  
 </a></p>
 
-**Home-Based Learning Toolkit  
-**For more details on Home-based Learning Toolkit, click on the link below:  
+**Home-Based Learning Toolkit**
+
+For more details on Home-based Learning Toolkit, click on the link below:  
 [HBL Toolkit 2020.pdf](https://dazhongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u496/Dazhong%20Revamp%202019/Partnerships/School%20Information%20&%20Letters/2020/HBL%20Toolkit%202020.pdf)   
   
 
