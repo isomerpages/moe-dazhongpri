@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /about-us/privacy-policy/
 description: ""
 ---
-Privacy Policy
+### Privacy Policy
 
 1\. This is a Dazhong Primary School Website. Thank you for examining our privacy statement.
 
