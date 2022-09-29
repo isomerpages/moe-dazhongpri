@@ -16,9 +16,9 @@ description: ""
 |  7 	|  Allied educator (Learning & Behavioural) 	|  Miss Zaliza Yunus (AED LBS)<br>_[zaliza\_yunus@moe.edu.sg](mailto:zaliza_yunus@moe.edu.sg)_ 	|
 | 8 	| Allied educator (Teaching & Learning) 	| Miss Sabrina Bte Ismail (AED T&L)<br>_[sabrina\_ismail@moe.edu.sg](mailto:sabrina_ismail@moe.edu.sg)_ 	|
 | 9 	| Allied educator (Teaching & Learning) 	| Miss Boon Qiulian Elena<br>_[boon\_qiulian@moe.edu.sg](mailto:boon_qiulian@moe.edu.sg)_ 	|
-| 10 	| Corporate Support officer 	| Mdm Ainon Bte Syed<br>_[ainon\_syed@moe.edu.sg](mailto:ainon_syed@moe.edu.sg)_ 	|
+| 10 	| Corporate Support Officer 	| Mdm Ainon Bte Syed<br>_[ainon\_syed@moe.edu.sg](mailto:ainon_syed@moe.edu.sg)_ 	|
 | 11 	| Admin Executive 	| Mdm Selina Chow Yuet Chin<br>_[chow\_yuet\_chin@schools.gov.sg](mailto:chow_yuet_chin@schools.gov.sg)_ 	|
-| 12 	| Admin Executive 	| Ong Jia Wen Geraldine<br>_[ong\_jia\_wen\_geraldine@moe.edu.sg](mailto:soh_hui_xin@moe.edu.sg)_	|
+| 12 	| Corporate Support Officer (Temp) 	| Ong Jia Wen Geraldine<br>_[ong\_jia\_wen\_geraldine@moe.edu.sg](mailto:soh_hui_xin@moe.edu.sg)_	|
 | 15 	| ICT Associate 	| Mr Low Zhen Hao Alan<br>_[low\_zhen\_hao\_alan@moe.edu.sg](mailto:low_zhen_hao_alan@moe.edu.sg)_ 	|
 |   	|  Desktop Engineer  	|   Miss Nur Khairani Binte Khamisan 	|
 | 16 	| Operations Support Officer 	| MDM MAY TAN MUI SIN  	|
