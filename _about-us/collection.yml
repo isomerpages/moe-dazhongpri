@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Privacy Policy.md
       - Principal's Message.md
       - Milestones.md
       - Vision, Mission and Values.md
@@ -14,3 +13,4 @@ collections:
       - Non Teaching Staff.md
       - FAQs.md
       - Useful Information.md
+      - Privacy Policy.md
