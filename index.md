@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dzps.gif
+      background: /images/School-Gif-Banner.gif
       title: Dazhong Primary School
 ---
