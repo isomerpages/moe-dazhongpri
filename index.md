@@ -10,7 +10,6 @@ sections:
       background: /images/School-Gif-Banner.gif
       title: Dazhong Primary School
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Latest Update
+      subtitle: Dazhong Primary School
 ---
