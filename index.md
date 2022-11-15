@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School-Gif-Banner.gif
+      background: /images/School-Gif-Banner_v2.gif
       title: Dazhong Primary School
   - resources:
       title: Latest Update
