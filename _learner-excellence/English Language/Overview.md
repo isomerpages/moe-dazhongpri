@@ -9,6 +9,9 @@ third_nav_title: English Language
 <img src="/images/el4.png" 
      style="width:60%">  
 
+##### P1 Orientation Supporting Your Child in Reading
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1yLHSS2m5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Vision: 
 
