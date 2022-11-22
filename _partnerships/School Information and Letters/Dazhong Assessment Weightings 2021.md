@@ -24,7 +24,7 @@ third_nav_title: School Information and Letters
 
 ##### School Booklist 2022  
 
-[DZPS P1-6 Textbooks and Stationery List 2022_Final.pdf](/files/DZPS%20P1-6%20Textbooks%20and%20Stationery%20List%202022_Final.pdf)
+[DZPS_Textbook and Stationery List for 2023.pdf](/files/DZPS_Textbook%20and%20Stationery%20List%20for%202023.pdf)
 
   
 
