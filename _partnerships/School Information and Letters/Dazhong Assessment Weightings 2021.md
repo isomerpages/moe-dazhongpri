@@ -4,7 +4,7 @@ permalink: /partnerships/School-Information-and-Letters/dazhong-assessment-weigh
 description: ""
 third_nav_title: School Information and Letters
 ---
-### Dazhong Assessment Weightings 2021
+### School Infomation & Letters
 
 | Date 	| Title 	|
 |:---:	|:---:	|
@@ -16,6 +16,7 @@ third_nav_title: School Information and Letters
 | 20 July 2022 	| [Updates_on_Academic_Progress_P3.pdf](/files/Updates_on_Academic_Progress_P3.pdf) 	|
 | 20 July 2022 	| [Updates_on_Academic_Progress_P4.pdf](/files/Updates_on_Academic_Progress_P4.pdf) 	|
 | 20 July 2022 	| [Updates_on_Academic_Progress_P5.pdf](/files/Updates_on_Academic_Progress_P5.pdf)	|
+| 23 November 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf))	|
 
 ##### PSLE Examination Timetable
 
