@@ -21,7 +21,7 @@ third_nav_title: School Information and Letters
 ##### PSLE Examination Timetable
 
 <img src="/images/sil1.png" 
-     style="width:40%">
+     style="width:100%">
 
 ##### School Booklist 2022  
 
