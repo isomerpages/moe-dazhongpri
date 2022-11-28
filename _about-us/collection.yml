@@ -1,0 +1,16 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Milestones.md
+      - Vision, Mission and Values.md
+      - School Song.md
+      - School Advisory Committee.md
+      - Management Team.md
+      - Teaching Staff.md
+      - MOE Kindergarten Staff.md
+      - Non Teaching Staff.md
+      - FAQs.md
+      - Useful Information.md
+      - Privacy Policy.md
