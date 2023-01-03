@@ -6,25 +6,22 @@ description: ""
 ### Mathematics
   
 <img src="/images/math1.png" 
-     style="width:60%">
+     style="width:100%">
 
-Mathematics Department Vision, Mission and Key Approches
+<font size="+1"><u><b>Mathematics Department Directions & Philosophy</b></u></font>
 
-**Mission**:
+<b>Vision</b>:<br>Self-directed Maths learners, future-ready citizens who can appreciate and apply Mathematics in real-world contexts.
 
-To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
+<b>Mission</b>:<br>To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
 
-**Key Approaches:**
-
-●        To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. \[Engage\]
-
-●        To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. \[Engage/Excite\]
-
-●        To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. \[Empower\]
+<b>Key Approaches:</b><br>
+●	To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
+●	To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
+●	To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
 
 Mathematics in Dazhong is shaped by our direction of Mastery of Maths for Life. This takes place in two ways: (1) Cultivating the Joy of Learning, and (2) Building Confidence through Mastery. Along this direction, key milestone programmes are designed to promote conceptual understanding by sense-making through stories.
 
-The broad aims of Mathematics education in Dazhong are aligned to that of the National curriculum. They are to enable students to:
+The broad aims of Mathematics education in Dazhong are aligned to that of the National curriculum. They are to enable students to:<br>
 
 \-  acquire & apply mathematical concepts & skills;
 
@@ -33,7 +30,9 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
  -  develop positive attitudes towards Mathematics.
 
 <img src="/images/math2.png" 
-     style="width:60%">
+     style="width:100%">
+		 
+To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
 
 | <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:80%">	| <img src="/images/math5.png" style="width:80%"> 	|
 |---	|---	|---	|
