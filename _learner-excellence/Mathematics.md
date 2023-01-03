@@ -34,13 +34,25 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
 		 
 To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
 
-| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:80%">	| <img src="/images/math5.png" style="width:80%"> 	|
+<font size="+1"><b><u>Department Key Approaches & Programmes</u></b></font><br>The department teaching principles are aligned to the Singapore Teaching Practice. The key principles:
+1. Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.
+
+2. Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.
+
+3. Teaching should connect learning to the real world, harness ICT tools & emphasize 21st century competencies. 
+
+Teaching is an interactive and iterative process that is focused on students’ learning. Teachers use a range of teaching approaches to engage students in learning, collect various sources of feedback to inform them of their instruction and the students’ learning, and then make informed decisions on their instructional practices to enhance learning.
+
+Our key pedagogical approaches include:
+
+**Concrete-Pictorial-Abstract Approach**: The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
+| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:60%">	| <img src="/images/math5.png" style="width:80%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
- | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:80%"> 	|
+ | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:60%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
 
@@ -54,29 +66,13 @@ To develop our students to acquire and apply the necessary skills, concepts, pro
 The S.T.E.P Thinking Routine is incorporated into the design of our Progressive Approach to Teaching Heuristic and Skills (P.A.T.H.S) Package, a termly package that introduces two or three heuristic skills to students progressively.  
 
 
-To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
-
-Department Key Principles & Programmes
-
-The department teaching principles are aligned to the Singapore Teaching Practice. The key principles:
-
-1.        Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.<br>
-2.        Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.<br>
-3.        Teaching should connect learning to the real world, harness ICT tools & emphasize 21st century competencies. 
-
-Teaching is an interactive and iterative process that is focused on students’ learning. Teachers use a range of teaching approaches to engage students in learning, collect various sources of feedback to inform them of their instruction and the students’ learning, and then make informed decisions on their instructional practices to enhance learning.
-
-Our key pedagogical approaches include:
-
-**Concrete-Pictorial-Abstract Approach:** The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
-
 | <img src="/images/math9.png" style="width:80%"> 	|  <img src="/images/math10.png" style="width:80%">	|
 |---	|---	|
 |  	|  	|
 
 **_Student Learning Space Pedagogical Scaffold (SLS PS)_**: The department also adopts the SLS PS in lesson planning and delivery. Relevant ICT platforms/tools are used to activate learning, promote thinking and discussion, and to visualise students’ thinking are researched and designed via our Professional Learning Time (PLT) and implemented in our lessons.
 
-<img src="/images/math11.png" style="width:50%">
+<img src="/images/math11.png" style="width:100%">
 
 Learning Mathematics is more than just learning concepts and skills. Equally important are the cognitive and metacognitive process skills. The processes are learned through carefully constructed learning experiences enacted via our department programmes:
 
@@ -85,7 +81,7 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 \-  use mathematical skills to make decisions concerning real-life scenarios, and<br>
 \-  develop citizenship dispositions through joyful learning experiences.
 
-All students will be engaged in deep and joyful learning as they complete the Flipped Escape Room activities on Student Learning Space (SLS) as well as collage making using cut-out shapes from recycled materials.
+All students were engaged in deep and joyful learning as they participated in the various Mathematics recess booth activities to learn more about Singapore as well as the environmental issues delineating the SG Green Plan 2030.
 
 | <img src="/images/math12.png" style="width:80%"> 	|  <img src="/images/math13.png" style="width:80%">	| 	|
 |---	|---	|---	|
