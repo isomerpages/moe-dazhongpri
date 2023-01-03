@@ -8,6 +8,7 @@ description: ""
 |  	| Designation 	| Name / Email 	|
 |:---:	|---	|---	|
 | 1 	| Principal 	| Mrs Rina Liang<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
+| 2 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 2 	| Vice-Principal 	| Mrs Boey Lim Seow Khim, Serene<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 3 	| Vice-Principal(Administration)  	| Mr Koh See Choon<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 |  4 	| YH (P1, P2, P4)  	|  Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_  	|
