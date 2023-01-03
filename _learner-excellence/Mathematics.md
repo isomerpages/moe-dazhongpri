@@ -6,25 +6,22 @@ description: ""
 ### Mathematics
   
 <img src="/images/math1.png" 
-     style="width:60%">
+     style="width:100%">
 
-Mathematics Department Vision, Mission and Key Approches
+<font size="+1"><u><b>Mathematics Department Directions & Philosophy</b></u></font>
 
-**Mission**:
+<b>Vision</b>:<br>Self-directed Maths learners, future-ready citizens who can appreciate and apply Mathematics in real-world contexts.
 
-To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
+<b>Mission</b>:<br>To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
 
-**Key Approaches:**
-
-●        To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. \[Engage\]
-
-●        To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. \[Engage/Excite\]
-
-●        To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. \[Empower\]
+<b>Key Approaches:</b><br>
+●	To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
+●	To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
+●	To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
 
 Mathematics in Dazhong is shaped by our direction of Mastery of Maths for Life. This takes place in two ways: (1) Cultivating the Joy of Learning, and (2) Building Confidence through Mastery. Along this direction, key milestone programmes are designed to promote conceptual understanding by sense-making through stories.
 
-The broad aims of Mathematics education in Dazhong are aligned to that of the National curriculum. They are to enable students to:
+The broad aims of Mathematics education in Dazhong are aligned to that of the National curriculum. They are to enable students to:<br>
 
 \-  acquire & apply mathematical concepts & skills;
 
@@ -33,15 +30,29 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
  -  develop positive attitudes towards Mathematics.
 
 <img src="/images/math2.png" 
-     style="width:60%">
+     style="width:100%">
+		 
+To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
 
-| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:80%">	| <img src="/images/math5.png" style="width:80%"> 	|
+<font size="+1"><b><u>Department Key Approaches & Programmes</u></b></font><br>The department teaching principles are aligned to the Singapore Teaching Practice. The key principles:
+1. Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.
+
+2. Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.
+
+3. Teaching should connect learning to the real world, harness ICT tools & emphasize 21st century competencies. 
+
+Teaching is an interactive and iterative process that is focused on students’ learning. Teachers use a range of teaching approaches to engage students in learning, collect various sources of feedback to inform them of their instruction and the students’ learning, and then make informed decisions on their instructional practices to enhance learning.
+
+Our key pedagogical approaches include:
+
+**Concrete-Pictorial-Abstract Approach**: The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
+| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:60%">	| <img src="/images/math5.png" style="width:80%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
- | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:80%"> 	|
+ | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:60%"> 	|
 |---	|---	|---	|
 |  	|  	|  	|
 
@@ -55,29 +66,13 @@ The broad aims of Mathematics education in Dazhong are aligned to that of the Na
 The S.T.E.P Thinking Routine is incorporated into the design of our Progressive Approach to Teaching Heuristic and Skills (P.A.T.H.S) Package, a termly package that introduces two or three heuristic skills to students progressively.  
 
 
-To develop our students to acquire and apply the necessary skills, concepts, processes, attitudes and metacognition towards learning Mathematics, the department carefully designs and plans suitable learning experiences (LEs) both in and out of the classroom. Such LEs help students to activate their learning and promote critical and inventive thinking. At suitable milestone checkpoints, we assess and monitor their learning.
-
-Department Key Principles & Programmes
-
-The department teaching principles are aligned to the Singapore Teaching Practice. The key principles:
-
-1.        Teaching is for learning; learning is for understanding; understanding is for reasoning and applying and ultimately problem solving.<br>
-2.        Teaching should build on students’ knowledge; being cognisant of students’ interests and experiences; and engage them in active & reflective learning.<br>
-3.        Teaching should connect learning to the real world, harness ICT tools & emphasize 21st century competencies. 
-
-Teaching is an interactive and iterative process that is focused on students’ learning. Teachers use a range of teaching approaches to engage students in learning, collect various sources of feedback to inform them of their instruction and the students’ learning, and then make informed decisions on their instructional practices to enhance learning.
-
-Our key pedagogical approaches include:
-
-**Concrete-Pictorial-Abstract Approach:** The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
-
 | <img src="/images/math9.png" style="width:80%"> 	|  <img src="/images/math10.png" style="width:80%">	|
 |---	|---	|
 |  	|  	|
 
 **_Student Learning Space Pedagogical Scaffold (SLS PS)_**: The department also adopts the SLS PS in lesson planning and delivery. Relevant ICT platforms/tools are used to activate learning, promote thinking and discussion, and to visualise students’ thinking are researched and designed via our Professional Learning Time (PLT) and implemented in our lessons.
 
-<img src="/images/math11.png" style="width:50%">
+<img src="/images/math11.png" style="width:100%">
 
 Learning Mathematics is more than just learning concepts and skills. Equally important are the cognitive and metacognitive process skills. The processes are learned through carefully constructed learning experiences enacted via our department programmes:
 
@@ -86,12 +81,9 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 \-  use mathematical skills to make decisions concerning real-life scenarios, and<br>
 \-  develop citizenship dispositions through joyful learning experiences.
 
-All students will be engaged in deep and joyful learning as they complete the Flipped Escape Room activities on Student Learning Space (SLS) as well as collage making using cut-out shapes from recycled materials.
+All students were engaged in deep and joyful learning as they participated in the various Mathematics recess booth activities to learn more about Singapore as well as the environmental issues delineating the SG Green Plan 2030.
 
-| <img src="/images/math12.png" style="width:80%"> 	|  <img src="/images/math13.png" style="width:80%">	| 	|
-|---	|---	|---	|
-| <img src="/images/math14.png" style="width:80%"> 	|  	<img src="/images/math15.png" style="width:80%">|<img src="/images/math16.png" style="width:80%">  	|
-|  	|  	|  	|
+![](/images/Math12.png)
 
 **_Mathematics Trails & Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
 
@@ -122,52 +114,30 @@ All students will be engaged in deep and joyful learning as they complete the Fl
 \-  National Mathematical Olympiad of Singapore (NMOS)<br>
 \-  River Valley Mathematics Challenge
 
-|  <img src="/images/math20.png" style="width:80%">	|<img src="/images/math21.png" style="width:80%"> 	|  	<img src="/images/math22.png" style="width:80%">|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/Math23.png)
 
-**_Peaks of Excellence_**
+<font size="+1"><b><u>Peaks of Excellence</u></b></font>
 
-**_Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022_**
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
+1 Silver Awardee<br>
+1 Bronze Awardee<br>
+5 Honourable Mentions Awardees
 
-**_Junior Category_**
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2022***<br>
+1 Silver Awardee
 
-|  	|  	|  	|
-|---	|---	|---	|
-| ALICIA WOON SHYH XIN 	| 5A 	| Certificate of Merit 	|
-| LEE XUE JUN 	| 5A 	| Certificate of Merit 	|
-| REBECCA AUNG 	| 5A 	| Certificate of Merit 	|
-| SHERLYN HAW PEI TING 	| 5A 	| Certificate of Merit 	|
-| WONG YUAN LE MARCUS 	| 5A 	| Certificate of Merit 	|
 
-**_Open Category_**
+***Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022***<br>
+Junior Category - **5 Certificates of Merit**<br>
+Open Category – **1 Certificate of Distinction, 2 Certificates of Merit**
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SIVABABU DEEPTIKA 	| 6A 	| Certificate of Distinction 	|
-| JAVAN TEH ZHE ZHONG 	| 6A 	| Certificate of Merit 	|
-| KHON WATHAN 	| 6A 	| Certificate of Merit 	|
 
-**_National Mathematical Olympiad of Singapore (NMOS) Competition 2021_**
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2021***<br>
+1 Bronze Awardee<br>
+11 Honourable Mentions Awardees
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SATHTHIKUMAR SANJEETH 	| 4P 	| Bronze 	|
-| JAYDEN YAM ZHI MING 	| 4I 	| Honorable Mention 	|
-| WONG YUAN LE MARCUS 	| 4A 	| Honorable Mention 	|
-| CHUNG SUNHO 	| 5A 	| Honorable Mention 	|
-| GOVINDARAJ NIKITHAA 	| 5A 	| Honorable Mention 	|
-| KHON WATHAN  	| 5A 	|  Honorable Mention  	|
-| LAI JIA EN ALICIA 	| 5A 	|  Honorable Mention  	|
-| LIM SHANG EN JOEL 	| 5A 	| Honorable Mention 	|
-| DANIEL LEE ZI YAN 	| 5P 	| Honorable Mention 	|
-| GOH YU ZE  	| 6A 	| Honorable Mention 	|
-| SHI YIFAN 	| 6A 	| Honorable Mention 	|
-| WANG SHIXUAN 	|  6P  	| Honorable Mention 	|
 
-**_Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021_**
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021***<br>
+2 Bronze Awardees         
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SHI YIFAN 	| 6A 	| Bronze Award 	|
-| ONG JIA HAO 	| 6A 	| Bronze Award 	|
+
