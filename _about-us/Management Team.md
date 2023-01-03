@@ -11,7 +11,7 @@ description: ""
 | 2 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 2 	| Vice-Principal 	| Mrs Boey Lim Seow Khim, Serene<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 3 	| Vice-Principal(Administration)  	| Mr Koh See Choon<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
-|  4 	| YH (P1, P2, P4)  	|  Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_  	|
+|  4 	| YH   	|  Mdm Michelle Loh<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ |
 | 5 	| HOD MTL   	| Mdm Low Tan Ying<br>[*low_tan_ying@moe.edu.sg*](mailto:low_tan_ying@moe.edu.sg)  	|
 |  6 	| HOD CCE  	|  Ms Ananthy Marimuthu<br>[*ananthymarimuthu@moe.edu.sg*](mailto:ananthy_marimuthu@moe.edu.sg) 	|
 | 7 	| YH (P3, P5, P6) 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_   	|
