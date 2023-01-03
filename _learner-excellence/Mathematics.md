@@ -83,10 +83,7 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 
 All students were engaged in deep and joyful learning as they participated in the various Mathematics recess booth activities to learn more about Singapore as well as the environmental issues delineating the SG Green Plan 2030.
 
-| <img src="/images/math12.png" style="width:80%"> 	|  <img src="/images/math13.png" style="width:80%">	| 	|
-|---	|---	|---	|
-| <img src="/images/math14.png" style="width:80%"> 	|  	<img src="/images/math15.png" style="width:80%">|<img src="/images/math16.png" style="width:80%">  	|
-|  	|  	|  	|
+![](/images/Math12.png)
 
 **_Mathematics Trails & Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
 
@@ -117,52 +114,30 @@ All students were engaged in deep and joyful learning as they participated in th
 \-  National Mathematical Olympiad of Singapore (NMOS)<br>
 \-  River Valley Mathematics Challenge
 
-|  <img src="/images/math20.png" style="width:80%">	|<img src="/images/math21.png" style="width:80%"> 	|  	<img src="/images/math22.png" style="width:80%">|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/Math23.png)
 
-**_Peaks of Excellence_**
+<font size="+1"><b><u>Peaks of Excellence</u></b></font>
 
-**_Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022_**
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
+1 Silver Awardee<br>
+1 Bronze Awardee<br>
+5 Honourable Mentions Awardees
 
-**_Junior Category_**
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2022***<br>
+1 Silver Awardee
 
-|  	|  	|  	|
-|---	|---	|---	|
-| ALICIA WOON SHYH XIN 	| 5A 	| Certificate of Merit 	|
-| LEE XUE JUN 	| 5A 	| Certificate of Merit 	|
-| REBECCA AUNG 	| 5A 	| Certificate of Merit 	|
-| SHERLYN HAW PEI TING 	| 5A 	| Certificate of Merit 	|
-| WONG YUAN LE MARCUS 	| 5A 	| Certificate of Merit 	|
 
-**_Open Category_**
+***Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022***<br>
+Junior Category - **5 Certificates of Merit**<br>
+Open Category – **1 Certificate of Distinction, 2 Certificates of Merit**
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SIVABABU DEEPTIKA 	| 6A 	| Certificate of Distinction 	|
-| JAVAN TEH ZHE ZHONG 	| 6A 	| Certificate of Merit 	|
-| KHON WATHAN 	| 6A 	| Certificate of Merit 	|
 
-**_National Mathematical Olympiad of Singapore (NMOS) Competition 2021_**
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2021***<br>
+1 Bronze Awardee<br>
+11 Honourable Mentions Awardees
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SATHTHIKUMAR SANJEETH 	| 4P 	| Bronze 	|
-| JAYDEN YAM ZHI MING 	| 4I 	| Honorable Mention 	|
-| WONG YUAN LE MARCUS 	| 4A 	| Honorable Mention 	|
-| CHUNG SUNHO 	| 5A 	| Honorable Mention 	|
-| GOVINDARAJ NIKITHAA 	| 5A 	| Honorable Mention 	|
-| KHON WATHAN  	| 5A 	|  Honorable Mention  	|
-| LAI JIA EN ALICIA 	| 5A 	|  Honorable Mention  	|
-| LIM SHANG EN JOEL 	| 5A 	| Honorable Mention 	|
-| DANIEL LEE ZI YAN 	| 5P 	| Honorable Mention 	|
-| GOH YU ZE  	| 6A 	| Honorable Mention 	|
-| SHI YIFAN 	| 6A 	| Honorable Mention 	|
-| WANG SHIXUAN 	|  6P  	| Honorable Mention 	|
 
-**_Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021_**
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021***<br>
+2 Bronze Awardees         
 
-|  	|  	|  	|
-|---	|---	|---	|
-| SHI YIFAN 	| 6A 	| Bronze Award 	|
-| ONG JIA HAO 	| 6A 	| Bronze Award 	|
+
