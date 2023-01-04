@@ -14,7 +14,7 @@ Visit the KooBits website at <u><a href="https://member.koobits.com">https://mem
 
 <font size="+1"><b><u>Koobits Student Portal(Quick Walkthrough)</u></b></font>
 
-(Insert Video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4akaGMyepKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="+1"><b><u>Basic Troubleshooting</u></b></font>
 
