@@ -11,12 +11,12 @@ description: ""
 | 2 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 3 	| Vice-Principal 	| Mrs Boey Lim Seow Khim, Serene<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 4 	| Vice-Principal(Administration)  	| Mr Koh See Choon<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
-| 5 	| YH   	|  Mdm Michelle Loh<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ |
+| 5 	| YH (P2, P4, P5)  	|  Mdm Michelle Loh<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ |
 | 6 	| HOD MTL   	| Mdm Low Tan Ying<br>[*low_tan_ying@moe.edu.sg*](mailto:low_tan_ying@moe.edu.sg)  	|
 | 7 	| HOD CCE  	|  Ms Ananthy Marimuthu<br>[*ananthymarimuthu@moe.edu.sg*](mailto:ananthy_marimuthu@moe.edu.sg) 	|
-| 8 	| YH (P3, P5, P6) 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_   	|
-| 9 	| HOD EL 	| Mrs Michelle Sim (Loh Jee Yann)<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|
-| 10 	| HOD MATH 	| Mr Kenny Chin Peng Kiew<br>[*chin_peng_kiew@moe.edu.sg*](mailto:chin_peng_kiew@moe.edu.sg)	|
+| 8 	| YH (P1, P3, P6) 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	|
+| 9 	| HOD EL 	| Ms Tan Sing Ye (Chen Xinyi)<br>_[tan_sing_ye@moe.edu.sg](mailto:tan_sing_ye@moe.edu.sg)_ 	|
+| 10 	| HOD MATH 	| Mdm Siti Mariam<br>_[siti_mariam_abdullah@moe.edu.sg](mailto:siti_mariam_abdullah@moe.edu.sg)_	|
 | 11 	| HOD SCI 	| Mr Leong Wei Ming Caleb<br>_[leong\_wei\_ming\_caleb@moe.edu.sg](mailto:leong_wei_ming_caleb@moe.edu.sg)_ 	|
 | 12 |  SH ICT 	|  Mr Kenneth Wong Chee Kian<br>_[kenneth\_wong\_chee\_kian@moe.edu.sg](mailto:kenneth_wong_chee_kian@moe.edu.sg)_	|
 |  13 	| HOD SM  	|  Mr Wu Zongbing<br>[*wu_zongbing@moe.edu.sg*](mailto:wu_zongbing@moe.edu.sg)  	|
