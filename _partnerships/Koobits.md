@@ -10,4 +10,7 @@ description: ""
 <font size="+1"><b><u>Koobits Video (Introduction)</u></b></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R8esGGPhtAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-Visit the KooBits website at <u>(https://member.koobits.com/)</u>
+Visit the KooBits website at <u><a href="https://member.koobits.com">https://member.koobits.com</a></u>
+
+<font size="+1"><b><u>Koobits Student Portal(Quick Walkthrough)</u></b></font>
+
