@@ -46,9 +46,8 @@ Teaching is an interactive and iterative process that is focused on students’ 
 Our key pedagogical approaches include:
 
 **Concrete-Pictorial-Abstract Approach**: The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
-| <img src="/images/math3.png" style="width:80%"> 	|  <img src="/images/math4.png" style="width:60%">	| <img src="/images/math5.png" style="width:80%"> 	|
-|---	|---	|---	|
-|  	|  	|  	|
+<img src="/images/math3.png" style="width:80%"> 
+
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
@@ -138,6 +137,4 @@ Open Category – **1 Certificate of Distinction, 2 Certificates of Merit**
 
 
 ***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021***<br>
-2 Bronze Awardees         
-
-
+2 Bronze Awardees
