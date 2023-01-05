@@ -23,7 +23,7 @@ description: ""
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
-| P2 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_<br> 	|  	|
+| P2 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_<br> 	|  	|
 | 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Lin Meiling<br>_[lin_meiling@moe.edu.sg](mailto:lin_meiling@moe.edu.sg)_ 	|
 | 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
@@ -36,7 +36,7 @@ description: ""
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
-| P3 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_   	| <br>  	|
+| P3 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	| <br>  	|
 |  3 Integrity 	| Mr Herman Bin Ponjio<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ 	| Mdm Lee Siew Teng <br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_ 	|
 | 3 Responsibility 	| Mdm Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
 |    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	| Ms Tashalini K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	|
@@ -47,7 +47,7 @@ description: ""
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
-| P4 AYH / P4 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
+| P4 AYH / P4 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|  	|
 |  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
 | 4 Responsibility 	| Mdm Evelyn Tan Lay Keat<br>_[tan_lay_keat@moe.edu.sg](mailto:tan_lay_keat@moe.edu.sg)_<br><br>Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
 |    4 Excellence 	| Ms Turinadevi D/O Devarajan<br>_[turinadevi_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
@@ -59,7 +59,7 @@ description: ""
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
-| P5 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_    	|  	|
+| P5 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_    	|  	|
 | 5 Integrity  	| Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_  	|
 | 5 Responsibility 	| Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ 	| Mr Chen Xianghao Keith<br>_[chen_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ 	|
 | 5 Excellence  	| Ms Lin Huiyu Vanessa<br>_[lin_huiyu_vanessa@moe.edu.sg](mailto:lin_huiyu_vanessa@moe.edu.sg)_ 	|  Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
@@ -70,7 +70,7 @@ description: ""
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
-| P6 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_    	|   	|
+| P6 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_    	|   	|
 |  6 Integrity 	| Mdm Hamidah Bte Hardi<br>[_hamidah_hardi@moe.edu.sg_](mailto:hamidah_hardi@moe.edu.sg) 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
 |  6 Responsibility 	|     Ms Lim Li Hwang Iris<br>_[lim_li_huang_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
 |     6 Excellence 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	| Mr Muhammad Syahriel <br>_[muhammad_syahriel_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|
