@@ -66,6 +66,7 @@ description: ""
 |    5 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_  	| Mdm Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 
 |     5 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ 	| Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_  	|
 5 Gracious 	| Ms Muzfirah Aida <br>_[muzfirah_aida_afifah_abdullah@moe.edu.sg ](mailto:muzfirah_aida_afifah_abdullah@moe.edu.sg )_ 	| Ms Ananthy D/O Marimuthu<br>_[ananthy_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
+
 #### Primary 6
 
 | Class 	| Name of Staff 	| Name of Staff 	|
