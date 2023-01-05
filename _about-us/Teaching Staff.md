@@ -50,11 +50,10 @@ description: ""
 | P4 AYH / P4 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
 |  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
 | 4 Responsibility 	| Mdm Evelyn Tan Lay Keat<br>_[tan_lay_keat@moe.edu.sg](mailto:tan_lay_keat@moe.edu.sg)_<br><br>Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
-|    4 Excellence 	| Miss Swarnapraba Karthigaihini P<br>_[swarnapraba\_karthigaihini\_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_ 	| Mdm Muneera Binte Abu Bakar<br>_[muneera\_abu\_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	|
-|   4 Acceptance 	| Mr Herman Bin Ponijo<br>_[herman\_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_  	| Mrs Michelle Sim (Loh Jee Yann)<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|
-|   4 Perseverance 	| Mr Edwin Lim Wei Heng<br>_[lim\_wei\_heng\_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_   	| Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_ 	|
-| 4 Gracious 	|  Mdm Chen Li Qin<br>_[chen\_li\_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_ 	| Ms Ananthy Marimuthu<br>_[ananthy\_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
-|   	|   Ms Law Ai Ning<br>_[law\_ai\_ning@moe.edu.sg](mailto:law_ai_ning@moe.edu.sg)_ 	|   	|
+|    4 Excellence 	| Ms Turinadevi D/O Devarajan<br>_[turinadevi_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
+|   4 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu_minli_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_  	| Mdm Shoba D/O Mohan<br>_[shoba_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_ 	|
+|   4 Perseverance 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_   	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ 	|
+
 
 #### Primary 5
 
