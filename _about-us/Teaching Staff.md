@@ -46,10 +46,10 @@ description: ""
 #### Primary 4
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|---	|
-| P4 AYH / P4 YH 	| Mdm Lin Shihua Jan<br><br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
-|  4 Integrity 	| Miss Raywathi D/O Muthu Kanna<br> _[raywathi\_muthu\_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_  	| Miss Nur Nadia Binte Massri<br>_[nur\_nadia\_massri@moe.edu.sg](mailto:nur_nadia_massri@moe.edu.sg)_ 	|
-| 4 Responsibility 	| Mr Brandon Huang Kangjun<br>_[brandon\_huang\_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	| Miss Chang Mei Shan <br>_[chang\_mei\_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_<br> 	|
+|:---:	|:---:	|:---:	|
+| P4 AYH / P4 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
+|  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
+| 4 Responsibility 	| Mdm Evelyn Tan Lay Keat<br>_[tan_lay_keat@moe.edu.sg](mailto:tan_lay_keat@moe.edu.sg)_<br><br>Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
 |    4 Excellence 	| Miss Swarnapraba Karthigaihini P<br>_[swarnapraba\_karthigaihini\_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_ 	| Mdm Muneera Binte Abu Bakar<br>_[muneera\_abu\_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	|
 |   4 Acceptance 	| Mr Herman Bin Ponijo<br>_[herman\_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_  	| Mrs Michelle Sim (Loh Jee Yann)<br>_[loh\_jee\_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|
 |   4 Perseverance 	| Mr Edwin Lim Wei Heng<br>_[lim\_wei\_heng\_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_   	| Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_ 	|
