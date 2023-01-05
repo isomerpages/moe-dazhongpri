@@ -58,14 +58,14 @@ description: ""
 #### Primary 5
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|---	|
+|:---:	|:---:	|:---:	|
 | P5 YH 	| Mrs Amelia Phua<br>_[leong\_mei\_yan\_amelia@moe.edu.sg](mailto:leong_mei_yan_amelia@moe.edu.sg)_    	|  	|
-| 5 Integrity  	| Mdm Hamidah Hardi<br>_[hamidah\_hardi@moe.edu.sg](mailto:hamidah_hardi@moe.edu.sg)_ 	| Mdm Xie Shuang<br>_[xie\_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_  	|
-| 5 Responsibility 	| Miss Lim Li Hwang Iris<br>_[lim\_li\_huang\_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_ 	| Mr Quek Joo Hin Eddie<br>_[quek\_joo\_hin\_eddie@moe.edu.sg](mailto:quek_joo_hin_eddie@moe.edu.sg)_ 	|
-| 5 Excellence  	| Mr Muhammad Syahriel Bin Sukar<br>_[muhammad\_syahriel\_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|  Mrs Toh - Siow Pei Ling<br>_[siow\_pei\_ling@moe.edu.sg](mailto:siow_pei_ling@moe.edu.sg)_ 	|
-|    5 Acceptance 	| Ms.Uma Vicnesvare<br>_[uma\_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_  	| Mdm Zhong Dan<br>_[zhong\_dan@moe.edu.sg](mailto:zhong_dan@moe.edu.sg)_ 	|
-|     <br>5 Perseverance 	| Ms M B Sheirin Habibah <br>_[sheirin\_habibah@moe.edu.sg](mailto:sheirin_habibah@moe.edu.sg)_ 	| Mr Kenneth Wong Chee Kian<br>_[kenneth\_wong\_chee\_kian@moe.edu.sg](mailto:kenneth_wong_chee_kian@moe.edu.sg)_  	|
-
+| 5 Integrity  	| Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_  	|
+| 5 Responsibility 	| Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ 	| Mr Chen Xianghao Keith<br>_[chen_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ 	|
+| 5 Excellence  	| Ms Lin Huiyu Vanessa<br>_[lin_huiyu_vanessa@moe.edu.sg](mailto:lin_huiyu_vanessa@moe.edu.sg)_ 	|  Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
+|    5 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_  	| Mdm Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
+|     5 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ 	| Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_  	|
+5 Gracious 	| Ms Muzfirah Aida <br>_[muzfirah_aida_afifah_abdullah@moe.edu.sg ](mailto:muzfirah_aida_afifah_abdullah@moe.edu.sg )_ 	| Ms Ananthy D/O Marimuthu<br>_[ananthy_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
 #### Primary 6
 
 | Class 	| Name of Staff 	| Name of Staff 	|
