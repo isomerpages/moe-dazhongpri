@@ -24,7 +24,7 @@ Our PSG has supported our school in many ways such as;<br>
 
 PSG support is important to promoting positive relationships, understanding and effective communication between parents and the school. By being a member of the PSG, you will have opportunities to not only be involved in your child’s school life, but also help other students in Dazhong Primary School. You can also gain a better understanding about your child’s learning, emotional and psychological needs at home and in school. 
 
-Every year, we look forward to having more parents join our Dazhong PSG. Come and join us by filling in this simple form: https://go.gov.sg/dzpsg
+Every year, we look forward to having more parents join our Dazhong PSG. Come and join us by filling in this simple form: [https://go.gov.sg/dzpsg](https://go.gov.sg/dzpsg)
 
 Thank you for partnering us and working hand-in-hand to support our students in their holistic education!
 
