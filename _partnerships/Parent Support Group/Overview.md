@@ -26,6 +26,9 @@ PSG support is important to promoting positive relationships, understanding and 
 
 Every year, we look forward to having more parents join our Dazhong PSG. Come and join us by filling in this simple form: [https://go.gov.sg/dzpsg](https://go.gov.sg/dzpsg)
 
+<img src="/images/PSG_02.jpg" 
+     style="width:20%">
+
 Thank you for partnering us and working hand-in-hand to support our students in their holistic education!
 
 ![](/images/PSG_03.png)
