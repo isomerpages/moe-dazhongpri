@@ -4,51 +4,25 @@ permalink: /partnerships/Parent-Support-Group/overview/
 description: ""
 third_nav_title: Parent Support Group
 ---
-### Parent Support Group 
+### Parent Support Group&nbsp;
 
-<img src="/images/psg1.png" style="width:70%">
+![](/images/PSG_01.png)
 
-We believe when your child joins Dazhong Primary School, your family also becomes a part of  
+In Dazhong Primary School, we strive to develop all our students holistically so that they grow to become <b>Self-Directed Learners, Serving Leaders and Concerned Citizens.</b> Parents are important partners to the school in providing a positive, enriching and holistic education experience for our students. The <b>Parent Support Group (PSG)</b> is a bridge that has strengthened school-home partnership in Dazhong.<br>
 
-Dazhong Family. Parents are important partners in enriching their child's learning as parents will know their child best.
+We are thankful to have dedicated PSG members, led by the PSG Executive Committee (EXCO), who collaborate with the school and contribute to the development of our students through their active participation and co-planning of a range of school activities and curricular programmes. <br>
 
-  
+Our PSG also plays an important role to strengthen the circle of support for Dazhong parents. As resource supporters, the PSG shares useful tips and resources on parenting and student mental well-being with its members regularly.  Furthermore, they are peer supporters for one another in their parenting journey.  
+Our PSG also complements our school’s effort to promote environmental stewardship and sustainability through the development of the 3As (Awareness, Action and Advocacy) in our students. 
 
-To facilitate and co-ordinate these partnership with parents, we have a parent support group known
+Our PSG has supported our school in many ways such as;<br>
 
-as PSG@Dazhong in our school. Parent support group in Dazhong was set up in 2016. We strongly
+*	**Academic / Non-Academic Curricular Programmes:** EL Extensive Reading, Math Exploration Week, AEP Recital, Sports Day, JO Morning Buzz, CCA Support or Performances, P4 Swimsafer<br>
+*	**Green Makers @ Dazhong (Applied Learning Programme):** Rooftop Greenery, Earth Day, P6 Career Fair, Green Initiatives<br>
+*	**Student Well-Being—Resource &amp; Peer Supporters:** Supporting other parents in their parenting journey; outreach to parents<br>
+*	**Events:** School Anniversary, EL Fiesta cum International Friendship Day, Mother Tongue Fortnight, Racial Harmony Day, Total Defence Day, National Day, Teacher’s Day, Children’s Day, Deepavali, Chinese New Year and Hari Raya.
 
-believe in engaging our Parents-in-Education to support us in providing a quality and holistic
+PSG support is important to promoting positive relationships, understanding and effective communication between parents and the school. By being a member of the PSG, you will have opportunities to not only be involved in your child’s school life, but also help other students in Dazhong Primary School. You can also gain a better understanding about your child’s learning, emotional and psychological needs at home and in school. 
 
-education to our students and hence positive learning experiences in their primary school years.
+Every year, we look forward to having more parents join our Dazhong PSG. Come and join us by filling in this simple form: https://go.gov.sg/dzpsg 
 
-PSG@Dazhong is made up of dedicated parents who aim to enhance the education of our children
-
-and to contribute to the development and improvement of all aspects of school life by supporting
-
-the staff of Dazhong in advancing the interests of the school and thereby promoting the well-being
-
-of our students, parents, teachers and community. Our Parents Support group has supported our
-
-school in many ways through school programmes such as Learning Journeys, Reading Mums, Life
-
-Skills programmes, NE &amp; Subject based events, CCAs involvement like Junior Orchestra Morning Buzz, Swimsafer programme, DZPS 80th Anniversary events, co-organising Teacher’s Day and Children’s Day programmes and other school activities.
-
-  
-
-The purpose of the PSG@Dazhong are to:-<br>
-\* Develop and promote positive relationships, understanding and communication channel between parents and school;<br>
-\* Support the school in both STs; Academic and Non-Academic to value-add students’ learning and promote the image of the school.<br>
-\* Create opportunities for parents to share and volunteer their expertise and knowledge to Dazhong students and staff; and<br>
-\* Organise and support the activities of Dazhong Primary and its school programmes.<br>
-\*Play a part in recruiting and leading other parents to join this meaningful journey to ensure sustainability of home-school partnership with school.
-
-<img src="/images/psg2.png" style="width:70%">
-
-<img src="/images/psg3.png" style="width:70%">
-
-<img src="/images/psg4.png" style="width:70%">
-
-<img src="/images/psg5.png" style="width:70%">
-
-Insert doc here.
