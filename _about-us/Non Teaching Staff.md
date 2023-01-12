@@ -20,9 +20,8 @@ description: ""
 | 11	| ICT Associate 	| Mr Low Zhen Hao Alan<br>_[low\_zhen\_hao\_alan@moe.edu.sg](mailto:low_zhen_hao_alan@moe.edu.sg)_ 	|
 |  12 	|  Desktop Engineer  	|   Ms Nur Khairani Binte Khamisan 	|
 |  13 	|  Desktop Engineer  	|   Mr Dhamiri Zuhri Bin Thahir 	|
-| 16 	| Operations Support Officer 	| Mdm Nancy Teo Lee Choo  	|
-| 17 	| Operations Support Officer 	| Mr Salleh Bin Talib  	|
-| 18 	| Operations Support Officer 	| Mr Tamilmohan S/O Veerachamy	|
-| 19 	| Operations Support Officer 	| Mdm Nur Baizura Binte Hamid  	|
-| 20 	| Operations Support Officer 	| Mdm Jamie Koh Siang Cher	|
-|  22 	| Library Assistant 	| Mdm  	|
+| 14 	| Operations Support Officer 	| Mdm Nancy Teo Lee Choo  	|
+| 15 	| Operations Support Officer 	| Mr Salleh Bin Talib  	|
+| 16 	| Operations Support Officer 	| Mr Tamilmohan S/O Veerachamy	|
+| 17 	| Operations Support Officer 	| Mdm Nur Baizura Binte Hamid  	|
+| 18 	| Operations Support Officer 	| Mdm Jamie Koh Siang Cher	|
