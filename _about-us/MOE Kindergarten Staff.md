@@ -22,8 +22,7 @@ description: ""
 | 13 	| CL Teacher 	| Ms Jiang Yu Ling<br>_[jiang_yu_ling@moe.edu.sg](mailto:jiang_yu_ling@moe.edu.sg)_ 	|
 | 14 	| CL Teacher 	| Ms Yang Xiao Ying<br>_[yang_xiao_ying@moe.edu.sg](mailto:yang_xiao_ying@moe.edu.sg)_ 	|
 | 15  	| CL Teacher  	| Ms Peh Hwee Boon<br>_[peh_hwee_boon@moe.edu.sg](mailto:peh_hwee_boon@moe.edu.sg)_ 	|
-| 16 	| ML Teacher 	| RAHAYU BINTE OSMAN<br><br>rahayu_osman@moe.edu.sg  	|
-| 17 	| ML Teacher 	| SITI NUR HUMAIRAH BINTE WALED<br><br>siti_nur_humairah_waled@moe.edu.sg 	|
-| 18 	| TL Teacher 	| YASMIN BINTE MOHAMED YUSOFF<br><br>yasmin_mohamed_yusoff@moe.edu.sg 	|
-| 19  	| TL Teacher 	| NASRIN BANU MOHAMMED ALI<br><br>nasrin_banu_mohammed_ali@moe.edu.sg 	|
-| 20 	| EL Teacher  	|  Amily Ng<br><br>amily_ng_hui_hoon@moe.edu.sg 	|
+| 16 	| ML Teacher 	| Ms Rahayu Binte Osman<br>_[rahayu_osman@moe.edu.sg](mailto:rahayu_osman@moe.edu.sg)_  	|
+| 17 	| ML Teacher 	| Ms Siti Nur Humairah Binte Waled<br>_[siti_nur_humairah_waled@moe.edu.sg](mailto:siti_nur_humairah_waled@moe.edu.sg)_ 	|
+| 18 	| TL Teacher 	| Ms Nasrin Banu Mohammed Ali<br>_[nasrin_banu_mohammed_ali@moe.edu.sg](mailto:nasrin_banu_mohammed_ali@moe.edu.sg)_ 	|
+| 19  	| Senior EL Teacher 	| Ms Wu Fei Chin Cynthia<br>_[wu_fei_chin@moe.edu.sg](mailto:wu_fei_chin@moe.edu.sg)_ 	|
