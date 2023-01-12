@@ -5,7 +5,7 @@ description: ""
 ---
 ### Management Team
 
-|<center>S/N  	|<center> Designation 	|<center>Name / Email 	|
+|S/N  	| Designation 	|Name / Email 	|
 |:---:	|:---:	|:---:	|
 | 1 	| Principal 	| Mrs Rina Liang<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 2 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|

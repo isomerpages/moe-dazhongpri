@@ -5,7 +5,7 @@ description: ""
 ---
 ### Corporate Staff (or Non-Teaching Staff)
 
-|<center> S/N	|<center> Designation	|<center> Name of Staff 	|
+| S/N	| Designation	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
 | 1  	| Admin Manager 	| Miss Tan Geok Hwa<br>_[tan\_geok\_hwa@moe.edu.sg](mailto:tan_geok_hwa@moe.edu.sg)_ 	|
 | 2 	| Operational Manager 	| Mr V Manoharan<br>[v\_manoharan@moe.edu.sg](mailto:v_manoharan@moe.edu.sg) 	|
