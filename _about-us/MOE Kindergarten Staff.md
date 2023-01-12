@@ -17,11 +17,11 @@ description: ""
 | 8 	| EL Teacher 	| Ms Vaeshanavi Manoharan<br>_[vaeshanavi_manoharan@moe.edu.sg](mailto:vaeshanavi_manoharan@moe.edu.sg)_ 	|
 | 9 	| EL Teacher 	| Ms Amily Ng Hui Hoon<br>_[amily_ng_hui_hoon@moe.edu.sg](mailto:amily_ng_hui_hoon@moe.edu.sg)_ 	|
 | 10 	| EL Teacher 	| Ms Michelle Choy Yee Mun<br>_[choy_yee_mun_michelle@moe.edu.sg](mailto:choy_yee_mun_michelle@moe.edu.sg)_ 	|
-| 11 	| CL Teacher 	| Mdm Zhang Rongshun<br><br>zhang_rongshun@moe.edu.sg 	|
-| 12 	| CL Teacher 	| Mdm Xing Naiyue<br><br>xing_Naiyue@moe.edu.sg 	|
-| 13 	| CL Teacher 	| JIANG YULING<br><br>jiang_yu_ling@moe.edu.sg 	|
-| 14 	| CL Teacher 	| YANG XIAO YING<br><br>yang_xiao_ying@moe.edu.sg 	|
-| 15  	| CL Teacher  	|  Peh Hwee Boon<br><br>peh_hwee_boon@moe.edu.sg 	|
+| 11 	| CL Teacher 	| Mdm Zhang Rongshun<br>_[zhang_rongshun@moe.edu.sg](mailto:zhang_rongshun@moe.edu.sg)_ 	|
+| 12 	| CL Teacher 	| Mdm Xing Naiyue<br>_[xing_naiyue@moe.edu.sg](mailto:xing_naiyue@moe.edu.sg)_ 	|
+| 13 	| CL Teacher 	| Ms Jiang Yu Ling<br>_[jiang_yu_ling@moe.edu.sg](mailto:jiang_yu_ling@moe.edu.sg)_ 	|
+| 14 	| CL Teacher 	| Ms Yang Xiao Ying<br>_[yang_xiao_ying@moe.edu.sg](mailto:yang_xiao_ying@moe.edu.sg)_ 	|
+| 15  	| CL Teacher  	| Ms Peh Hwee Boon<br>_[peh_hwee_boon@moe.edu.sg](mailto:peh_hwee_boon@moe.edu.sg)_ 	|
 | 16 	| ML Teacher 	| RAHAYU BINTE OSMAN<br><br>rahayu_osman@moe.edu.sg  	|
 | 17 	| ML Teacher 	| SITI NUR HUMAIRAH BINTE WALED<br><br>siti_nur_humairah_waled@moe.edu.sg 	|
 | 18 	| TL Teacher 	| YASMIN BINTE MOHAMED YUSOFF<br><br>yasmin_mohamed_yusoff@moe.edu.sg 	|
