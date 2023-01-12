@@ -13,4 +13,8 @@ sections:
   - hero:
       background: /images/School-Gif-Banner_Without-Text.gif
       title: Dazhong Primary School
+  - resources:
+      title: Updates
+      subtitle: Dazhong Primary School
+      button: More
 ---
