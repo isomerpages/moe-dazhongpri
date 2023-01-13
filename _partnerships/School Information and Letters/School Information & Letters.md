@@ -8,8 +8,7 @@ third_nav_title: School Information and Letters
 
 | Date 	| Title 	|
 |:---:	|:---:	|
-
-| 23 November 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf))	|
+| 23 November 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf)	|
 
 <!---##### PSLE Examination Timetable
 
