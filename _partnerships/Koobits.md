@@ -19,11 +19,11 @@ Visit the KooBits website at <u><a href="https://member.koobits.com">https://mem
 <font size="+1"><b><u>Basic Troubleshooting</u></b></font>
 
 In case you experience issues on your account, please try doing the basic troubleshooting steps below before logging in:
-1. Log out from browser.
-2. Delete/Remove browsing history, cache, and cookie. Please refer here for guides on clearing cache in different browsers/devices.
-3. Check if your browser is up-to-date. Click here for details of required minimum web browser versions.
-4. Open the Incognito Mode of Chrome (or use shortcut keys Ctrl+Shift+N)
-5. Log in again at member.koobits.com.
+*  Log out from browser.
+*  Delete/Remove browsing history, cache, and cookie. Please refer here for guides on clearing cache in different browsers/devices.
+*  Check if your browser is up-to-date. Click here for details of required minimum web browser versions.
+*  Open the Incognito Mode of Chrome (or use shortcut keys Ctrl+Shift+N)
+*  Log in again at member.koobits.com.
 
 <font size="+1"><b><u>Technical Support</u></b></font>
 
