@@ -1,5 +1,5 @@
 collections:
-  why-us:
+  dazhong-experience:
     output: true
     order:
       - Applied Learning Programme.md
