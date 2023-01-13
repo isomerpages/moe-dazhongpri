@@ -25,8 +25,17 @@ links:
         url: /about-us/faq/
       - title: Useful Information
         url: /about-us/useful-information/
-  - title: Why Us
-    url: /why-us/applied-learning-programme/
+  - title: Our Education
+    url: /learner-excellence/english-language/overview/
+    sublinks:
+      - title: Learner Excellence
+        url: /learner-excellence/english-language/overview/
+      - title: Character Excellence
+        url: /character-excellence/character-education/
+      - title: Co-Curricular Activities
+        url: /cca/sports/badminton/
+  - title: Dazhong Experience
+    url: /dazhong_experience/applied-learning-programme/
     sublinks:
       - title: Applied Learning Programme
         url: /why-us/applied-learning-programme/
@@ -42,15 +51,6 @@ links:
         url: /why-us/internationalization-programme/
       - title: SOAR Programme
         url: /why-us/soar-programme/
-  - title: Our Education
-    url: /learner-excellence/english-language/overview/
-    sublinks:
-      - title: Learner Excellence
-        url: /learner-excellence/english-language/overview/
-      - title: Character Excellence
-        url: /character-excellence/character-education/
-      - title: Co-Curricular Activities
-        url: /cca/sports/badminton/
   - title: Partnerships
     url: /partnerships/School-Information-and-Letters/dazhong-assessment-weightings-2021/
     sublinks:
