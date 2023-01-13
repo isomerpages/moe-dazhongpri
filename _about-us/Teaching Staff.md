@@ -11,7 +11,7 @@ description: ""
 |:---:	|:---:	|:---:	|
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
 |  1 Integrity 	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen_ong_pei_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
-| 1 Responsibility 	| Mdm Humairah Binte Rahman <br>_[humairah_binte_rahman@moe.edu.sg](mailto:HUMAIRAH_BINTE_RAHMAN@moe.edu.sg)_ 	| Mrs Dawn Kuah<br>_[chan_wee_teng_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
+| 1 Responsibility 	| Mdm Humairah Binte Rahman <br>_[humairah_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_ 	| Mrs Dawn Kuah<br>_[chan_wee_teng_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
 |  1 Excellence 	|   Mdm Ang Qiu Ping, Emily<br>_[ang_qiu_ping_emily@moe.edu.sg](mailto:ang_qiu_ping_emily@moe.edu.sg)_  	| Mdm Yap Lay Hong <br>[yap_lay_hong@moe.edu.sg](mailto:yap_lay_hong@moe.edu.sg) 	|
 |  1 Acceptance 	| Ms Foo Li Wei<br>_[foo_li_wei@moe.edu.sg](mailto:foo_li_wei@moe.edu.sg)_   	|  Mdm Nor Hidayah Bte Abdul Rahman <br>_[nor_hidayah_abdul_rahman@moe.edu.sg](mailto:nor_hidayah_abdul_rahman@moe.edu.sg)_ 	|
 |  1 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine_tan_pei_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_ 	| Mr Saharudin B Osman<br>_[saharudin_b_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ 	|

@@ -13,8 +13,12 @@ sections:
   - hero:
       background: /images/School-Gif-Banner_Without-Text.gif
       title: Dazhong Primary School
-  - resources:
-      title: Latest Update
+  - infopic:
+      title: Updates
       subtitle: Dazhong Primary School
+      description: START OF SCHOOL 2023 PART 1!
+      button: See More
+      url: https://www.facebook.com/dzpsofficial
+      image: /images/PSL 5.jpeg
+      alt: Image alt text
 ---
-
