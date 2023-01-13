@@ -24,6 +24,7 @@ description: ""
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
 | P2 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_<br> 	|  	|
+| P2 AYH 	| Ms Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_<br> 	|  	|
 | 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Lin Meiling<br>_[lin_meiling@moe.edu.sg](mailto:lin_meiling@moe.edu.sg)_ 	|
 | 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
@@ -37,6 +38,7 @@ description: ""
 | Class 	| Name of Staff 	| Name of Staff 	|
 |:---:	|:---:	|:---:	|
 | P3 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	| <br>  	|
+| P3 AYH 	| Mr Goh Zong'En Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_   	| <br>  	|
 |  3 Integrity 	| Mr Herman Bin Ponjio<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ 	| Mdm Lee Siew Teng <br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_ 	|
 | 3 Responsibility 	| Mdm Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
 |    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	| Ms Tashalini K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	|
