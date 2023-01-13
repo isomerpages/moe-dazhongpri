@@ -84,13 +84,10 @@ description: ""
 
 | S/N 	| Name of staff 	|
 |:---:	|:---:	|
-| 1 	| Mr Low Heng Chong<br>_[low\_heng\_chong@schools.gov.sg](mailto:low_heng_chong@schools.gov.sg)_	|
-| 2 	| Mdm Goh Li-Ping <br>_[goh\_li-ping@moe.edu.sg](mailto:goh_li-ping@moe.edu.sg)_  	|
-| 3 	| Mdm Mary Ang <br>_[ang\_mary@moe.edu.sg](mailto:ang_mary@moe.edu.sg)_ 	|
-| 4 	|  Mrs Mok - Mooi Lai Kuen<br>_[mooi\_lai\_kuen@moe.edu.sg](mailto:mooi_lai_kuen@moe.edu.sg)_ 	|
-|  5 	|  Mrs Murni Binte Sapuan<br>_[murni\_sapuan@moe.edu.sg](mailto:murni_sapuan@moe.edu.sg)_  	|
-| 6  	| Mdm Mas'amah Ruah <br>_[masamah\_ruah@moe.edu.sg](mailto:masamah_ruah@moe.edu.sg)_  	|
-|  7 	| Mr Mohamed Hanif Bin Salim<br>_[mohamed_hanif_salim@moe.edu.sg](mailto:mohamed_hanif_salim@moe.edu.sg)_   	|
-|  8 	| Mdm Balasubramanian Hemavathi<br> _[balasubramanian\_hemavathi@moe.edu.sg](mailto:balasubramanian_hemavathi@moe.edu.sg)_    	|
-|  9 	|  Ms Lim Jie Ning Clare<br>_[lim\_jie\_ning\_clare@moe.edu.sg](mailto:lim_jie_ning_clare@moe.edu.sg)_   	|
-|  10 	|  Mdm Lina Suharjo<br>_[lina\_suharjo@moe.edu.sg](mailto:lina_suharjo@moe.edu.sg)_  	|
+| 1 	| Mr Low Heng Chong (FAJT)<br>_[low\_heng\_chong@schools.gov.sg](mailto:low_heng_chong@schools.gov.sg)_	|
+| 2 	| Mdm Goh Li-Ping (FAJT) <br>_[goh\_li-ping@moe.edu.sg](mailto:goh_li-ping@moe.edu.sg)_  	|
+| 3 	| Mdm Mary Ang (FAJT) <br>_[ang\_mary@moe.edu.sg](mailto:ang_mary@moe.edu.sg)_ 	|
+| 4 	|  Mrs Mok - Mooi Lai Kuen (FAJT)<br>_[mooi\_lai\_kuen@moe.edu.sg](mailto:mooi_lai_kuen@moe.edu.sg)_ 	|
+|  5 	|  Mrs Murni Binte Sapuan (FAJT) <br>_[murni\_sapuan@moe.edu.sg](mailto:murni_sapuan@moe.edu.sg)_  	|
+|  6 	| Mdm Balasubramanian Hemavathi (RT)<br> _[balasubramanian\_hemavathi@moe.edu.sg](mailto:balasubramanian_hemavathi@moe.edu.sg)_    	|
+|  7 	|  Mdm Lina Suharjo (RT)<br>_[lina\_suharjo@moe.edu.sg](mailto:lina_suharjo@moe.edu.sg)_  	|
