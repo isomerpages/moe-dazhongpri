@@ -33,4 +33,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 6.  &nbsp;&nbsp;&nbsp;&nbsp;The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
-7.  &nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
+7.  &nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+<b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</b><br>
+<b>Primary 5</b>
+
+
+
+| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW |
+| :---: | :---: | -------- |
+| Growing Years    | The Changes in Me<br>(60 min)     | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |
+| Growing Years    | Did You Know?<br>(60 min)     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    |
+| Growing Years    | Keeping Myself Safe<br>(60 min)     | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    |
+
+
