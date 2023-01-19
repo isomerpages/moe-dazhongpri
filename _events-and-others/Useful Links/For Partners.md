@@ -14,9 +14,8 @@ third_nav_title: Useful Links
 6.  [ICT Connection](https://ictconnection.moe.edu.sg/)
 7.  [West Zone School Stories](http://online.fliphtml5.com/uhhre/hpzu/#p=1)
 8.  [MySkillsFuture Student Portal](https://www.myskillsfuture.sg/content/student/en/primary/about/myskillsfuture-for-students.html) 
-9.  Home-school partnership
 10.  [(Pri) Slides on Dengue.pdf](/files/(Pri)%20Slides%20on%20Dengue.pdf)
-11.  [Sharing) P4 PES on PSLE 2021.pd](/files/(Sharing)%20P4%20PES%20on%20PSLE%202021.pdf)
+11.  [Sharing) P4 PES on PSLE.pd](/files/(Sharing)%20P4%20PES%20on%20PSLE%202021.pdf)
 12.  [MOE Kindergarten First Flight](https://www.moe.gov.sg/-/media/files/mk/first-flight-13.pdf?la=en)  
     
 13.  [Application for Leave of Absence (LOA)](https://form.gov.sg/#!/627b221723cafb00160990c1)
