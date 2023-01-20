@@ -4,7 +4,6 @@ permalink: /events-and-others/2023-Events/permalink/
 description: ""
 third_nav_title: 2023 Events
 ---
-
 ### Chinese New Year Celebration 2023
 
 The theme of our Chinese New Year’s celebration is ‘Dare to Shine’ New Year, encouraging our students to perform acts of kindness for others, while celebrating the Dare-To-Learn spirit. This is in line with the launch of "Shine On! 85 Acts of Kindness" in Term 1. 
@@ -19,4 +18,8 @@ Through the celebration, students exhibited self-directed learning, responsibili
 
 Students also had the opportunity to exhibit the attributes of being concerned citizens and serving leaders for the community, by participating in the fundraising for the Lions Clubs of Singapore.
 
-This was indeed a meaningful and joyous occasion for all in Dazhong!
+This was indeed a meaningful and joyous occasion for all in Dazhong!<br><br>
+
+<iframe width="455" height="809" src="https://www.youtube.com/embed/7B85cRPr67I" title="DZPS CNY Celebration 2023 Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4sVaUHaGjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3TlnnaXN65I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
