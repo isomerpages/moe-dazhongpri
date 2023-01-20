@@ -2,9 +2,9 @@ collections:
   events-and-others:
     output: true
     order:
-      - 2023 Events.md
       - Quick Links.md
       - Contact Us.md
+      - 2023 Events.md
       - 2022 Events/.keep
       - 2022 Events/P1 Start Right at Dazhong.md
       - 2022 Events/CNY Celebration MTL Fortnight 2022.md
@@ -33,8 +33,8 @@ collections:
       - 2020 Events/Chinese New Year 2020.md
       - 2020 Events/Total Defence Week 2020.md
       - 2020 Events/Wipedown Routine 2020.md
-      - Achievements/Overview.md
       - Achievements/.keep
+      - Achievements/Overview.md
       - Achievements/2021.md
       - Achievements/Past Achievements.md
       - DZPS 80th Anniversary.md
