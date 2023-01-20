@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: START OF SCHOOL 2023 PART 1!
+      description: CNY Celebration 2023
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/PSL 5.jpeg
+      image: /images/CNY2023.jpg
       alt: Image alt text
 ---
