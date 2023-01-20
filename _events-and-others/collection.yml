@@ -2,6 +2,7 @@ collections:
   events-and-others:
     output: true
     order:
+      - 2023 Events/Chinese New Celebration 2023.md
       - 2023 Events/.keep
       - Quick Links.md
       - Contact Us.md
