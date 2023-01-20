@@ -28,7 +28,6 @@ Through these activities, students exhibited self-directed learning, responsibil
 
 Students also have the opportunity to exhibit the attributes of being concerned citizens and serving leaders for the community, by participating in the fundraising for the Lions Clubs of Singapore.
 
-Insert video here.
 
 <img src="/images/cny2022.png" 
      style="width:80%">
