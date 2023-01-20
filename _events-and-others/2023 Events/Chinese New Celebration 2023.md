@@ -4,6 +4,8 @@ permalink: /events-and-others/2023-Events/permalink/
 description: ""
 third_nav_title: 2023 Events
 ---
+### Chinese New Year Celebration 2023
+
 The theme of our Chinese New Year’s celebration is ‘Dare to Shine’ New Year, encouraging our students to perform acts of kindness for others, while celebrating the Dare-To-Learn spirit. This is in line with the launch of "Shine On! 85 Acts of Kindness" in Term 1. 
 
 One week prior to Chinese New Year, our students had the opportunity to learn more about the festival through various cultural activities, while doing their part for the environment and the community. These included a SLS lesson for students to observe and document what they see, hear, smell, touch and taste during this festive season. Through this activity, they honed their self-directed learning skills by exploring, documenting and reflecting on what they learnt about the festival. Students were also engaged in cultural activities during their CCE lessons, such as the making of red packets using recyclable items.  
