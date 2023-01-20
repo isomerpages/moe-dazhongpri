@@ -2,10 +2,10 @@ collections:
   events-and-others:
     output: true
     order:
-      - 2023 Events/Chinese New Year Celebration 2023.md
-      - 2023 Events/.keep
       - Quick Links.md
       - Contact Us.md
+      - 2023 Events/.keep
+      - 2023 Events/Chinese New Year Celebration 2023.md
       - 2022 Events/.keep
       - 2022 Events/P1 Start Right at Dazhong.md
       - 2022 Events/CNY Celebration MTL Fortnight 2022.md
