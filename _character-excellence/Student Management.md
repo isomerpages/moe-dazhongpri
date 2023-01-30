@@ -69,7 +69,7 @@ To bring about the **Holistic Development** of the Dazhong Students through the 
 		*   After School Programme by DMs - L.E.A.P. Programme
 		*   P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter
 
-(Insert Image)
+![](/images/cce20.jpg)
 <center>Students leading as strong Serving Leaders, strengthening their Student Advocacy through their contributions through the various projects.</center>
 
 * **Enhanced support for students in Self-Management of Emotions:**
