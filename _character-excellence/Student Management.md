@@ -36,15 +36,14 @@ Guided by DZPS School Vision (POS):
 <center>Dare to Lead Protocol: H.O.P.E. (for teachers)</center>
 
 
-##### Key Approaches for Student Management @ DZPS:  
+#### Key Approaches for Student Management @ DZPS:  
 
-To bring about the Holistic Development of the Dazhong Students through the DZPS 3E (Excite, Engage, Empower) Approach. This is done via the following approaches of the various teams of Student Management of DZPS:  
+To bring about the **Holistic Development** of the Dazhong Students through the **DZPS 3E (Excite, Engage, Empower) Approach**. This is done via the following approaches of the various teams of Student Management of DZPS:  
 
- 1\. Strengthening Culture of Care through Peer Support and Cyber Wellness:  <br>(Visit the DZPS Student Well-being page for more information)  
-     DZPS 3E  - Excite & Engage
+* **Strengthening Culture of Care through Peer Support and Cyber Wellness: (Visit the DZPS Student Well-being page for more information)**<br>**DZPS 3E  - Excite & Engage**
 
-
-*   Strengthening and enhancing Level 1 Peer Support & Relationship (PSR) and Cyber Wellness (CW).
+	*   Strengthening and enhancing Level 1 Peer Support & Relationship (PSR) and Cyber Wellness (CW).
+	*   Infusing and synergising of PSR and CW aspects into school programmes and events (eg: School Level Camps, National Education Events)
 
      DZPS 3E - Empower
   
