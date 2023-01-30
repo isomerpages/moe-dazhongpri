@@ -45,24 +45,29 @@ To bring about the **Holistic Development** of the Dazhong Students through the 
 	*   Strengthening and enhancing Level 1 Peer Support & Relationship (PSR) and Cyber Wellness (CW).
 	*   Infusing and synergising of PSR and CW aspects into school programmes and events (eg: School Level Camps, National Education Events)
 
-     DZPS 3E - Empower
+  **DZPS 3E - Empower**
   
-*   Increasing empowerment of Peer Support Leaders and ICT Champions for Level 2 PSR and CW.
+	*   Increasing empowerment of Peer Support Leaders and ICT Champions for Level 2 PSR and CW.
 
 
-<img src="/images/cce16.png" style="width:50%"> _**Peer Support Leaders practicing their Active Listening Skills.**_
+<img src="/images/cce16.png" style="width:80%"> <center>Peer Support Leaders practicing their Active Listening Skills.</center>
 
-**2\. Strengthening Student Leadership as platform for Character Education:**   
+* **Strengthening Student Leadership as platform for Character Education:   (Visit the DZPS Student Leadership page for more information)  <Br>DZPS 3E - Excite**
 
-**(Visit the DZPS Student Leadership page for more information)  <Br>DZPS 3E - Excite**
+	*   Making all Student Leaders’ roles and responsibilities relevant to their learning experiences. <br>
+	
+	**DZPS 3E - Engage**
 
-*   Making all Student Leaders’ roles and responsibilities relevant to their learning experiences. <br>**DZPS 3E - Engage**
+	*   Explicit teaching of the LE@D Model (M.I.C.E.E.) to guide the actions of all Student Leaders.
 
-*   Explicit teaching of the LE@D Model (M.I.C.E.E.) to guide the actions of all Student Leaders.
+  **DZPS 3E - Empower**
 
-**DZPS 3E - Empower**
-
-*   Peer teaching of school values by Student Leaders (Project Talk POSitiVe)
+	*   Providing platforms for students to grow as strong Serving Leaders by leading in various student-led projects:
+		*   Catch You Doing Good (CYDG) 
+		*   Appreciating You @ Dazhong
+		*   EL STAND Morning Sharing
+		*   After School Programme by DMs - L.E.A.P. Programme
+		*   P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter
 
 <img src="/images/cce17.png" style="width:50%"> _**Student Leaders peer teaching their schoolmates through a SLS lesson created by them.**_
 
