@@ -69,7 +69,7 @@ To bring about the **Holistic Development** of the Dazhong Students through the 
 		*   After School Programme by DMs - L.E.A.P. Programme
 		*   P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter
 
-<img src="/images/cce17.png" style="width:50%"> _**Student Leaders peer teaching their schoolmates through a SLS lesson created by them.**_
+(Insert Image)
 
 **3\. Strengthening Student Advocacy – Student Voice – Autonomy:**  
         **DZPS 3E - Excite, Engage, Empower**  
