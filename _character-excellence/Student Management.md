@@ -7,21 +7,16 @@ description: ""
 
 #### VISION: 
 
-Every student with Self-Leadership to be a Self-Directed Learner and Serving Leader.
+Every student with **Self-Leadership** to be a **Self-Directed Learner** and **Serving Leader**.
 
 #### BELIEFS:
 
-Every child matters and every child can learn.  
-
-#### Students are more engaged in learning and behave better when there are:
-
+Every child **matters** and every child **can learn**.  
 *   Positive school and classroom environments
-*   Positive teacher-student relationships
-*   Positive peer relationships
+*   Positive teacher-student relationships and peer relationships
 *   Positive school experiences
-
   
-Discipline is an educative process and it is a whole-school effort.  
+Discipline is an **educative** process and it is a **whole-school** effort.  
 
 *    Dare to Lead Protocol: H.O.P.E. (for teachers)  
 Guided by DZPS School Values:  
