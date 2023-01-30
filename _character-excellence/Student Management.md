@@ -70,52 +70,21 @@ To bring about the **Holistic Development** of the Dazhong Students through the 
 		*   P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter
 
 (Insert Image)
+<center>Students leading as strong Serving Leaders, strengthening their Student Advocacy through their contributions through the various projects.</center>
 
-**3\. Strengthening Student Advocacy – Student Voice – Autonomy:**  
-        **DZPS 3E - Excite, Engage, Empower**  
-  
+* **Enhanced support for students in Self-Management of Emotions:**
 
-*   Increasing student advocacy via many platforms:
+	* Proactive actions taken to empower all students.
+	* Tier 2/3 Student Adoption Programme  - Teacher-mentors provide proactive support to selected students.
+	* Synergy between various teacher teams (Discipline, Counseling, SEN) to create resources to empower and support students to manage emotions.
 
-*   Participation in VIA projects
 
-*   After School Programme by DMs - L.E.A.P. Programme
+* **Promote Inclusiveness in school community:**  
+	* Diversity of student leadership opportunities for all students
+	* Increased platforms to recognise and affirm the efforts and achievement of all students via our Termly Affirmation Days
+	* Driving inclusiveness in school amongst our students and staff:
+		* Students - Building Bridges Programme (PSLs x ISPR students)
+		* Staff -   Staff Professional Development SLS e-mods for Case Management
 
-*   P.E.E.R. Projects by student leaders
-
-  
-
-*   More platforms for student voices to be heard:
-
-*   CYDG Morning Sharing
-
-*   Talk POSitiVe Morning Sharing (new!)
-
-*   EL STAND Morning sharing (new!)
-
-*   Appreciation Time @ DZPS Morning Sharing **(new!)**
-
-<img src="/images/cce18.png" style="width:50%"> 
-
-**4\. Enhanced support for students in Self-Management of Emotions:**  
-  
-
-*   Proactive actions taken to empower all students.
-
-*   Tier 2/3 Student Adoption Programme expanded to allow all teachers to be a teacher-mentor to selected students.
-
-*   Synergy between various teacher teams (Discipline, Counseling, SEN) to create resources to empower and support students to manage emotions.
-
-  
- **5\. Promote Inclusiveness in school community:**  
-
-*   Diversity of student leadership opportunities for all students
-
-*   Increased platforms to recognise and affirm the efforts and achievement of all students via our Termly Affirmation Days
-
-*   Driving inclusiveness in school amongst our students and staff:
-
-*   Students - Building Bridges Programme (PSLs x ISPR students) 
-*   Staff - Staff Professional Development SLS e-mods for Case Management
-
-<img src="/images/cce20.png" style="width:50%">  _**Our P4 PSLs and their ISPR Peers supporting one another during the Building Bridges Programme**_
+ 
+<img src="/images/cce20.png" style="width:80%">  <center>Our P4 PSLs and their ISPR Peers supporting one another during the Building Bridges Programme.</center>
