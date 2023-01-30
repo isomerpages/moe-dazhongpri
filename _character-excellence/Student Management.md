@@ -18,21 +18,22 @@ Every child **matters** and every child **can learn**.
   
 Discipline is an **educative** process and it is a **whole-school** effort.  
 
-*    Dare to Lead Protocol: H.O.P.E. (for teachers)  
-Guided by DZPS School Values:  
+*    Dare to Lead Protocol: H.O.P.E. (for teachers)
+
+ 
+Guided by **DZPS School Values**:  
 
 *     I . R . E . A . P
 
   
 Guided by DZPS School Vision (POS):  
+* A Dazhong student is a:
+	* self-directed learner
+	* serving leader
+	* concerned citizen
 
-####   * A Dazhong student is a:
-
-*   self-directed learner
-*   serving leader
-*   concerned citizen
-
-<img src="/images/cce15.png" style="width:50%"> **Dare to Lead Protocol: H.O.P.E. (for teachers)**
+![Dare to Lead Protocol: H.O.P.E. (for teachers)](/images/cce15.png)
+<center>Dare to Lead Protocol: H.O.P.E. (for teachers)</center>
 
 
 ##### Key Approaches for Student Management @ DZPS:  
