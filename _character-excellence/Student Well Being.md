@@ -3,15 +3,11 @@ title: Student Well Being
 permalink: /character-excellence/student-well-being/
 description: ""
 ---
-### Student Well-Being
-
-#### Peer Support & Relationships (PSR) + Cyber Wellness (CW)
+### Student Well-Being<br>Peer Support & Relationships (PSR) + Cyber Wellness (CW)
 
 #### Vision:
 
 Every Dazhong student is a Peer Supporter and advocate for Cyber Wellness.
-
-  
 
 #### Mission:
 
@@ -49,18 +45,28 @@ It is a whole-school effort to equip all students with the necessary skills to s
 *   Training of Peer Support Leaders (PSL) and ICT Champions
 *   Platforms for PSLs and ICT Champion to be Serving Leaders:
 
-  
+	*   Provide peer support and help to their peers in their own class / level
+	*   Serve as Cyber Wellness ambassadors during NE events to drive CW messages
+	*   Promote a Culture of Care in school by welcoming their peers at the start of each term, and doing a proper farewell to their peers at the end of each term.
+	*   Promote Inclusivity in our school by peer supporting selected ISPR Students (Building Bridges Programme)
 
-*   Provide peer support and help to their peers in their own class / level
-*   Serve as Cyber Wellness ambassadors during NE events to drive CW messages
-*   Promote a Culture of Care in school by welcoming their peers at the start of each term, and doing a proper farewell to their peers at the end of each term.
-*   Promote Inclusivity in our school by peer supporting selected ISPR Students (Building Bridges Programme)
+![](/images/cce28.jpg)
+<center>PSLs and ICT Champions working together to
+strengthen the Caring and Enabling
+Environment in Dazhong.</center>
 
-<img src="/images/cce31.png" style="width:80%">
+![](/images/cce29.jpg)
+<center>ICT Champions as Serving Leaders, guiding their peers through Cyberwellness activities during NE Events.</center>
 
-<img src="/images/cce32.png" style="width:60%"> **PSLs welcoming their peers back to school!**<br><br>
-**Peaks of Excellence:**<br>
-**National Level Awards**<br>
+![](/images/cce30.jpg)
+<center>ICT Champions Modeling the Way to create Cyberwellness Awareness amongst their peers through School Assembly Talk.</center>
+
+![](/images/cce31.jpg)
+<center>PSLs spreading the love and care for their peers every Start and End of School Term during their Welcome and Dismissal Parades.</center>
+
+
+**Peaks of Excellence:**<br><br>
+**<u>National Level Awards</u>**<br>
 **National Cyber Wellness Advocacy Challenge 2021**<br>
 **Silver Award -** NCAC (Primary School Category)
 
