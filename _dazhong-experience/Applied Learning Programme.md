@@ -12,7 +12,7 @@ description: ""
 
 Climate change is a significant threat to Singapore. This makes sustainable development even more important for Singapore’s next 50 years, with the SG Green Plan 2030 guiding our next step forward. To empower our students for the future they will inherit, our school has the distinctive Green Makers @ Dazhong Applied Learning Programme (ALP) that equips them with STEM Skills & Knowledge, and develops their Values & Dispositions for the 21 Century.
 
-In this ALP, the theme of Sustainability comes together with the approach of Maker-Centred learning, for a Dazhong student to become Aware of the challenges of Sustainability in Singapore, take Action to make green solutions to tackle these challenges, and Advocate for others to do likewise. “Making our future green – From home, in school, and for Singapore!”  The outcomes and learning opportunities are encapsulated in the following ALP planning model:
+In this ALP, the theme of Sustainability comes together with the approach of Maker-Centred learning, for a Dazhong student to become **Aware** of the challenges of Sustainability in Singapore, take **Action** to make green solutions to tackle these challenges, and **Advocate** for others to do likewise. “Making our future green – From home, in school, and for Singapore!”  The outcomes and learning opportunities are encapsulated in the following ALP planning model:
 
 <img src="/images/alp2.png" 
      style="width:40%">
@@ -25,19 +25,15 @@ The Green Makers @ Dazhong use the 4Ds Design Thinking protocol as our key think
 <img src="/images/alp3.png" 
      style="width:40%">
 		 
-**Journey of Green Makers @ Dazhong.<br> (i) Primary Four and Five Level-wide Programmes, <br>(ii) Talent Development and Green Tech CCA,<br>(iii) Annual School-wide Dare Challenge,<br>(iv) Learning Environment & Partnerships with Community, and <br>(v) Peaks of Excellence**
+**Journey of Green Makers @ Dazhong.<br> (i) Primary Four and Five Level-wide Programmes, <br>(ii) Talent Development and Green Makers Student Development Programme,<br>(iii) Annual School-wide Dare Challenge,<br>(iv) Learning Environment & Partnerships with Community, and <br>(v) Peaks of Excellence**
 
 **i. Primary Four and Five Level-wide Programmes**
 
-Green Makers @ Dazhong will experience level-wide programmes as P4 and P5 students. Our P4 level-wide programme focuses students on the _Energy Reset_ pillar of the SG Green Plan, where they would be provided with **solar-panel kits** to take action to create an Energy Smart home by putting together their Science knowledge of Heat and Light, and their Mathematics skills in Area & Perimeter of Composite Figures and Line Graphs. Our P5 students are made **_Aware_** of Climate Change, then were tasked to take **_Action_** to design a product that contributes to developing “Our Cool and Green Classrooms” using recycled materials. Students tap into their curiosity to display self-directed learning to problem-solve with novel ideas, while developing social-emotional competencies to collaborate in groups, as well as resilience to tackle difficult technical obstacles. This culminates in students filming a video where they **_Advocate_** for Climate Change based on their products.
+Green Makers @ Dazhong will experience level-wide programmes as P4 and P5 students. The inter-disciplinary ALP programme engage students in sustainability projects, using Coding in Lego SPIKE Prime to build green solutions: Zero Waste @ P4, and Smart Homes @ P5. These projects empower students to build their own prototypes that can contribute meaningfully to various green initiatives in the home, school and community; and culminated in students videoing themselves Advocating for others to do likewise.
 
-<img src="/images/alp4.png" 
-     style="width:60%">
+![](/images/alp10.jpg)
 
-<img src="/images/alp5.png" 
-     style="width:70%">
-
-****_Scan the QR code to view the video showing Advocacy by P5s or [click here to watch](https://youtu.be/BxYAqanOjZY)._****
+![](/images/alp11.jpg)
 
    **ii. Talent Development and Green Tech CCA**
 
