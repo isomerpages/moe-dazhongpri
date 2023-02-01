@@ -35,7 +35,7 @@ Green Makers @ Dazhong will experience level-wide programmes as P4 and P5 studen
 
 ![](/images/alp11.jpg)
 
-   **ii. Talent Development and Green Tech CCA**
+   **ii. Talent Development and Green Makers Student Development Programme**
 
 For students with greater interest and aptitude, our Talent Development (SOAR) programme provides further opportunities. In 2020, our students won 1st, 2nd, and 3rd place at the national IDE Maker 2020 competition, for “Smart Solutions for Sustainable Resource Management”, with prototypes such as:
 
