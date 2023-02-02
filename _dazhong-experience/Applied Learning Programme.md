@@ -70,15 +70,12 @@ Our school conducts an annual **_Dare Challenge_** where students create green
 
 Our school has a vibrant green learning environment with two Eco Ponds, a Sky Garden, and a Butterfly Garden. To enhance our Dazhong Sky Garden as a place where students can appreciate biodiversity in Singapore, we partner with the PSG, NParks Ambassadors, and keen citizen-gardeners from the Bukit Batok community to work with our school’s Scouts to plant and weed, with the efforts culminating in monthly harvests of fruits and vegetables. The fathers are not left out with Dads for Life doing a Saturday clean-up around the neighbourhood. Our Eco-Champs have also collaborated with our MP Dr Amy Khor to produce a video with NEA, promoting the anti-dengue message to residents of Hong Kah North CC while explaining how the Wolbachia project contributes to the fight.
 
-[**(Green) Dad's For Life 2021**](https://padlet.com/dzpsofficial/lwoofskwdujhc7lj)
 
 <img src="/images/alp11.png" 
-     style="width:40%">
-
-[**Dr Amy Khor and NEA.**](https://www.facebook.com/207426072601175/posts/3776458299031250/)
+     style="width:60%">
 
 <img src="/images/alp12.png" 
-     style="width:40%">
+     style="width:60%">
 
 <img src="/images/alp13.png" 
      style="width:60%">
