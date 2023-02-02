@@ -100,8 +100,8 @@ To learn about Food Sustainability, our school also has our own earthworms that 
     ([https://www.facebook.com/207426072601175/posts/3776458299031250/?sfnsn=mo&extid=8lWF5osVF7n1qOqt](https://www.facebook.com/207426072601175/posts/3776458299031250/?sfnsn=mo&extid=8lWF5osVF7n1qOqt))
 *   IDE (Innovation, Design and Engineering) Maker Competition 2020: won the top 3 prizes (1st, 2nd, 3rd) for “Smart Solutions for Sustainable Resource Management”, with prototypes such as:
 
-*   Rainwater collector with sensor that detects when rainwater collected has reached            optimum level, then causing a motor to close the rain-collection-door.
-*   Waste-sorter that uses a light sensor to detect whether an object is made of recyclable material, then if it is, operates a rotating flap that allows the object to enter.
+	*   Rainwater collector with sensor that detects when rainwater collected has reached            optimum level, then causing a motor to close the rain-collection-door.
+	*   Waste-sorter that uses a light sensor to detect whether an object is made of recyclable material, then if it is, operates a rotating flap that allows the object to enter.
 
 [](https://fb.watch/bVk9yaFUdZ/)
 
@@ -116,6 +116,14 @@ To learn about Food Sustainability, our school also has our own earthworms that 
 *   In 2022, the GreenTech Club CCA collaborated with Nature Society Singapore as part of the Every Singaporean a Naturalist programme, where students are equipped with the knowledge and skills to identify and monitor the urban biodiversity around the school (e.g. flowers and fruits in the garden, bird species and their calls), and keying in observation data into iNaturalist to understand how climate change impacts wildlife in Singapore.
 *   School-wide Annual Earth Day Celebrations: 2022 here ([https://youtu.be/KfGoK58yCBE](https://youtu.be/KfGoK58yCBE))
 *   Dazhong was among the top 10 teams in the 2022 National Thinkers Challenge, where students worked to solve real-world problems using design thinking, a process that emphasises constant innovation and improvement, and AI \[for.edu.sg/dazhongntc\]. As one of the top 10, the Dazhong team received $500 seed money to work on the next phase of their prototype AI solution.
+*   NJC Inspire Competition 2022 - Best Project Team (Waste Management), Best Project Team (Energy Conservation), Public Choice Award (https://youtu.be/pf5E8unH5wg)
+*  Green Makers @ Dazhong ALP was presented at Singapore International Science Teachers Conference 2022
+*  2nd prize for a sustainability related entry for Singapore Our Home 75 competition 2022
+*  ALBA/ESA Recycling Heroes - Certificate of Originality 2022
+*  Every Singaporean A Naturalist Biodiversity Race 2022 -  Most Unique Observation Award
+*  Dazhong’s green efforts recognized with NEA EcoFriend Award (Education) 2022
+
+![](/images/alp12.jpg)
 
 <img src="/images/alp16.png" 
      style="width:60%">
