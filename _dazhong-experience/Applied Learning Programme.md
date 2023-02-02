@@ -88,7 +88,7 @@ Our school has a vibrant green learning environment with two Eco Ponds, a Sky Ga
 To learn about Food Sustainability, our school also has our own earthworms that process food waste from the canteen, enabling students to learn about Food Sustainability in Singapore. We also grow our own fruits and vegetables using a hi-tech indoor aeroponics system.
 
 <img src="/images/alp15.png" 
-     style="width:60%">
+     style="width:100%">
 [**Click here to view on aeroponics**](http://for.edu.sg/aeroponics)  
 
 **v.   Peaks of Excellence**
