@@ -37,21 +37,17 @@ Green Makers @ Dazhong will experience level-wide programmes as P4 and P5 studen
 
    **ii. Talent Development and Green Makers Student Development Programme**
 
-For students with greater interest and aptitude, our Talent Development (SOAR) programme provides further opportunities. In 2020, our students won 1st, 2nd, and 3rd place at the national IDE Maker 2020 competition, for “Smart Solutions for Sustainable Resource Management”, with prototypes such as:
+For students with greater interest and aptitude, our Talent Development (SOAR) programme provides further opportunities.<br>
+In both 2021 and 2022, our students won 2nd Prize at the Green Wave Environmental Care competition: for “Let's do the "light" thing!" Project Team (Coding of Automated motion light) in 2022, and the “Environmon: Waste Management Card Game” in 2021.<br>
+In 2020, our students won 1st, 2nd, and 3rd place at the national IDE Maker 2020 competition, for “Smart Solutions for Sustainable Resource Management”, with prototypes such as:
 
 *   Rainwater collector with sensor that detects when rainwater collected has reached optimum level, then causing a motor to close the rain-collection-door.
 
-  
-
 *   Waste-sorter that uses a light sensor to detect whether an object is made of recyclable material, then if it is, operates a rotating flap that allows the object to enter.
 
-<img src="/images/alp6.png" 
-     style="width:50%">
+(Insert Image)
 
-<img src="/images/alp7.png" 
-     style="width:60%">
-
-By joining the Green Tech CCA, students can also develop solutions for green issues to participate in Sembcorp’s Green Wave Environmental Care Competition. Some examples include designing an Internet of things (IOT)-enabled wearable-device powered by a micro:bit, that students can bear around school to map out the coolest classrooms for afternoon activities, and another project that collects used orange peels to repurpose as refillable air fresheners for toilets.
+By joining the Green Makers Student Development Programme, students can become Eco Champions to lead school-wide efforts to become more sustainableon. Our Eco Champions also make an impact in the community, such as by Advocating at the Hong Kah North Eco Carnival 2022.
 
 <img src="/images/alp8.png" 
      style="width:50%">
@@ -100,7 +96,6 @@ To learn about Food Sustainability, our school also has our own earthworms that 
 
 **v.   Peaks of Excellence**
 
-*   In 2019, students from the school participated in a programme called Design for Change - with a group selected for presentation at the 2019 'Be The Change' Conference for their project on Food Waste.
 *   Student-Leaders collaborated with NEA and Dr Amy Khor to film an outreach video about the Wolbachia Project in HKN.  
     ([https://www.facebook.com/207426072601175/posts/3776458299031250/?sfnsn=mo&extid=8lWF5osVF7n1qOqt](https://www.facebook.com/207426072601175/posts/3776458299031250/?sfnsn=mo&extid=8lWF5osVF7n1qOqt))
 *   IDE (Innovation, Design and Engineering) Maker Competition 2020: won the top 3 prizes (1st, 2nd, 3rd) for “Smart Solutions for Sustainable Resource Management”, with prototypes such as:
