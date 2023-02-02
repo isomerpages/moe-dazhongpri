@@ -3,7 +3,7 @@ title: Applied Learning Programme
 permalink: /why-us/applied-learning-programme/
 description: ""
 ---
-### Applied Learning Programme: Green Makers @ Dazhong
+### Green Makers @ Dazhong!<br>STEM ALP
 
 <img src="/images/alp1.png" 
      style="width:80%">
