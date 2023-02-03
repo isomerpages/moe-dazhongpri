@@ -21,9 +21,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: CNY Celebration 2023
+      description: 85th Anniversary 2023 Flashmob Community Outreach
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/CNY2023.jpg
+      image: /images/Flashmob01.jpeg
       alt: Image alt text
 ---
