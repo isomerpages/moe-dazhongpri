@@ -17,7 +17,7 @@ sections:
       title: Parent Engagement Session (PES) 2023 - Resources
       subtitle: Annoucement
       button: See More
-      url: facebook.com
+      url: /partnerships/pes-2023-resources/
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
