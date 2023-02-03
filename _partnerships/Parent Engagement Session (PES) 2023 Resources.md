@@ -6,13 +6,13 @@ description: ""
 ### _Parent Engagement Session (PES) 2023 - Resources_
 
 **Principal Address**<br>
-(Insert Video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5w4KVZ083o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P4 YH Sharing Slides**<br>
-(Insert PDF)
+[P4 YH Sharing.pdf](/files/P4%20YH%20Sharing.pdf)
 
 **P5 YH Sharing Slides**<br>
-(Insert PDF)
+[P5 YH Sharing.pdf](/files/P5%20YH%20Sharing.pdf)
 
 **P6 VP Sharing Slides**<br>
 (Insert PDF)
