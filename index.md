@@ -21,4 +21,9 @@ sections:
       url: https://www.facebook.com/dzpsofficial
       image: /images/CNY2023.jpg
       alt: Image alt text
+  - infobar:
+      title: Parent Engagement Session (PES) 2023 - Resources
+      subtitle: Annoucement
+      button: See More
+      url: facebook.com
 ---
