@@ -5,6 +5,8 @@ description: ""
 ---
 ### _Parent Engagement Session (PES) 2023 - Resources_
 
+Thank you parents for joining us today  for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.
+
 **Principal Address**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5w4KVZ083o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
