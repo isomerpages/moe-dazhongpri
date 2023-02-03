@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Engagement Session (PES) 2023 Resources.md
       - School Information and Letters/.keep
       - School Information and Letters/School Information & Letters.md
       - School Information and Letters/Books and Uniform Vendor.md
