@@ -5,11 +5,10 @@ description: ""
 ---
 ### MK @ Dazhong
 
-#### Start Small Dream Big Launch 2022
+#### 2023 MOE Kindergarten Open House
 
-MK@Dazhong launched the "Start Small Dream Big’ (SSDB) project on 18 April 2022.  
-This year’s theme is – Our Family, Our Community!   
-Our project for 2022 is titled ”Light up our family, Light up Our Community"!
+![](/images/MK%20Over%2001.jpg)
+![](/images/MK%20Over%2002.png)<br>
+![](/images/MK%20Over%2003.jpg)
+![](/images/MK%20Over%2004.jpg)
 
-<img src="/images/ssdb1.png" 
-     style="width:80%">
