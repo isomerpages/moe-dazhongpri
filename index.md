@@ -13,12 +13,17 @@ sections:
   - hero:
       background: /images/School-Gif-Banner_Without-Text.gif
       title: Dazhong Primary School
+  - infobar:
+      title: Parent Engagement Session (PES) 2023 - Resources
+      subtitle: Announcement
+      button: See More
+      url: /partnerships/pes-2023-resources/
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: CNY Celebration 2023
+      description: 85th Anniversary 2023 Flashmob Community Outreach
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/CNY2023.jpg
+      image: /images/Flashmob01.jpeg
       alt: Image alt text
 ---

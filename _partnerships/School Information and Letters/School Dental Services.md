@@ -6,4 +6,4 @@ third_nav_title: School Information and Letters
 ---
 ### School Dental Services
 
-![](/images/050123_Dental.jpg)
+![](/images/Dental%20Information%20in%20School%20Website_Term%201%202023_Updated%202%20Feb%2020231024_1.jpg)
