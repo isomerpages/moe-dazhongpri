@@ -65,27 +65,106 @@ The following students had done our school proud:
 
 **Calligraphy Competition 2021**
 
-The school seeks to evoke in pupils a deep interest in the learning of the Mother Tongue language through enabling them to appreciate the beauty of the corresponding culture. The CAP comprises the MTL fortnight activities, Cultural Camp and Cultural Immersion Programme. Through the CAP, pupils are provided with opportunities to be exposed to the different ethnic culture through folk songs, poetry recitation, story-telling based on classics, cultural art such as paper-cutting, knot making, silat and overseas cultural immersion trips. Through these cultural activities, the school seeks to enable the pupils to appreciate the beauty underlying each language and hence enthuse them to further seek to deepen their learning of the language.
+![](/images/MT%2004.jpg)
 
+Ju Yu Xuan from 6A had done our school proud with the following achievements:
+
+| Name of Competition | Organiser | Achievement |
+| -------- | -------- | -------- |
+| National Chinese Calligraphy Competition 2021     | Hong Wen School & Hong Wen Alumni     | Category One, First Prize|
+| 2021 N Cube National Chinese Calligraphy Competition     | Passion Arts and Braddell heights Community Club     | Pen Calligraphy Category, Primary School Group, First Prize |
+| 2021 32nd National Student’s Chinese Calligraphy Competition    | The Chinese Calligraphy Society of Singapore     | Primary School Group , First Prize|
+| National Chinese Calligraphy Competition 2021    | Hong Wen School     | Category A, First Prize|
+| Ngee Ann National Students’ Calligraphy Competition 2021    | Ngee Ann Cultural Centre     | Primary School Category, Top Winner - Gold Award|
+| 10th National Primary & Secondary School Chinese Calligraphy Competition    | Poi Ching School     | Primary School Category, First Prize|
+
+
+**5th Text Recital Competition for Primary Schools 2022**
+
+![](/images/MT%2005.jpg)
+![](/images/MT%2006.jpg)
+
+This is an annual competition organised by the Committee to Promote Chinese Language Learning. It aims to strengthen students' ability to read and recite Chinese texts, stimulate students’ enthusiasm and interest in learning Chinese and deepen students’ understanding of the texts. Our schools was awarded with 3 Silver Awards and 7 Bronze Awards in the Individual and Group categories.
+
+The following students had done our school proud:
+
+
+| Name | Class | Award |
+| -------- | -------- | -------- |
+| Ong Jia Xuan     | 3A     | Silver Award|
+| Soon Kai Lin     | 3A     | Silver Award|
+| Sherlyn Haw Pei Ting    | 5A     | Silver Award|
+| Qiu Sheng Jie    | 3R     | Bronze Award|
+| Gabriel Jiang Jinhao    | 3A     | Bronze Award|
+| Go Kai Zhe    | 4A     | Bronze Award|
+| Chang Han   | 4A     | Bronze Award|
+| Tham Yi Jie   | 4A    | Bronze Award|
+| Kuay Yu Hang   | 5A    | Bronze Award|
+| Ye Kai Yi   | 5A    | Bronze Award|
+
+
+**4th Text Recital Competition for Primary Schools 2021**
+
+![](/images/MT%2007.jpg)
+
+This is an annual competition organised by the Committee To Promote Chinese Language Learning. It aims to strengthen students' ability to read and recite Chinese texts, stimulate students’ enthusiasm and interest in learning Chinese and deepen students’ understanding of the texts.<br>
+Our school was awarded with 2 Silver Awards and 6 Bronze Awards. 
+
+The following students had done our school proud:
+
+
+| Name | Class | Award |
+| -------- | -------- | -------- |
+| Go Kai Zhe     | 3A     | Silver Award|
+| Li Xinyue     | 3A     | Silver Award|
+| Tham Yi Jie    | 3A     | Bronze Award|
+| Chang Han    | 3A     | Bronze Award|
+| Kuay Yu Hang    | 4R     | Bronze Award|
+| Huang Liming    | 4P     | Bronze Award|
+| Liu Yiyang   | 5A     | Bronze Award|
+| Liu Qi Heng   | 5A    | Bronze Award|
+
+
+**7th National Primary School Picture Book Creation Competition 2021**
+
+![](/images/MT%2008.jpg)
+
+This competition is organised by Nan Hua Primary School annually. It aims to provide pupils with the opportunity to work collaboratively and develop their creative writing skills.<br>
+Through this competition, students were given an opportunity to express their creativity whilst learning the concepts at home during the Circuit Breaker period. Our students were able to display resilience despite not being able to interact face to face with the teachers for guidance. Teachers used platforms such as WhatsApp and Padlet to connect with the students, in order to guide and scaffold the processes for them. Ultimately, our students were self-directed and exhibited both responsibility and excellence.
+
+Liu En Tong (6A), Liu Qi Heng(6A), Wan Po Jing (6A), Tan Tze Zun (6A) , Chong Jing Wen (6P), had done our school proud. Their entry emerged as the Best Story Award  in this competition.
+
+**6th National Primary School Picture Book Creation Competition 2020**
+
+![](/images/MT%2009.jpg)
   
+This competition is organised by Nan Hua Primary School annually. It aims to provide pupils with the opportunity to work collaboratively and develop their creative writing skills.
 
-##### Write With Purpose
+**Achievements**<br>
+**Two Bronze Awards and one Best Story Award**
 
-Believing that pupils will be motivated to learn if they see the purpose and meaning of learning, the Write with Purpose programme seeks not only to equip with pupils writing skills to be confident writers but also develop in them the love for writing through enabling them to appreciate the purpose of writing. Leveraging the ‘UbD’ framework as a guide, the school achieves this through providing pupils with authentic writing experiences and adopting a spiraling approach to equip pupils with writing skills.
+Through this competition, students were given an opportunity to express their creativity whilst learning the concepts at home during the Circuit Breaker period. Our students were able to display resilience despite not being able to interact face to face with the teachers for guidance. Teachers used platforms such as WhatsApp and Padlet to connect with the students, in order to guide and scaffold the processes for them. Our students also needed to juggle both schoolwork and producing the comic book. They were self-directed and exhibited both responsibility and excellence as well as the spirit of Dare to Lead.<br>
+They were awarded with two Bronze Awards and one Best Story Award.
 
-  
+**Bronze Award**
 
-##### Oral Communication in Mother Tongue Language
+Group 1 (Guided by teachers: Mdm Yap Lay Hong and Mdm Chen Li Qin )
+ (1) Ju Yuxuan (6A)  (2) Hee Kit Kei (6A)  (3) Shi Yifan (6A)  (4) Emelia Soh (5A)
+ (5) Karis Goh (6R)
 
-To develop pupils to be confident and effective communicators using the MTL, they will  undergo an oral communication programme, comprising speech and drama and public speaking lessons. Through the speech and drama lessons, the school seeks to encourage the lower primary pupils to use the language, while the upper primary pupils participate in a ‘Public Speaking’ programme to equip them to be confident users of the language.
+**Bronze Award**
 
-  
+Group 2 (Guided by teacher: Miss Lin Mei Ling)
+(1) Charmaine Tok Ke Ying (6A) (2) Chong Kaitlyn (6A) (3) Wang Shixuan (6P)
+(4) Chen Jia Jun  (6P)  (5) Wong Ying Kee (6A)
 
-#### Malay language
+**Best Story Award**
 
-##### Dazhong Total Curriculum
+Group 3 (Guided by teachers: Mdm Yap Lay Hong and Mdm Chen Li Qin)
+(1) Ong Yu Yan  (6A)   (2) Soh Yarapa (6A)    (3) Lai Jia En (5A)
+(4) Tong Cheng Han, Donna (6R 2020)   (5) Scarlett Wan Ying (6A)
 
-The school is committed to provide student-centric holistic education driven by values and competencies. It seeks to develop the C2015 outcomes, in particular the sense of curiosity for life-long learning, confidence and co-operation (3Cs) through the Total Curriculum@Dazhong. The Total Curriculum@Dazhong comprises rigorous programmes in academic, arts education, character and citizenship education (CCE), and sports education.
+
 
   
 
