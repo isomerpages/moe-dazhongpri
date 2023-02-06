@@ -179,3 +179,6 @@ This Competition aims to recognise students’ talents in writing & encourage st
 The following students participated in this competition: (1) Nur Ilyana Falisha Binte Azlan (3I), (2) Nurbellasari Binte Mohamad Sadikin (3P), (3) Ashaz Zakariyya Ibnu Muhammad Nazmi (3E), (4) Sahrulnizam Bin Sahril (3E), (5) Mohamed Qasim Bin Mohamed Fareq (5R), (6) Darynn Ritzha Bin Ritzni Nashrin (5P), (7) Aleesya Binte Abdullah (5I), (8) Ameera Binte Abdullah (5R).
 
 
+**Vasantham Super Kids 2021**
+
+![](/images/MT%2010.jpg)
