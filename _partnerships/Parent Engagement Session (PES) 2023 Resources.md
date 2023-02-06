@@ -16,6 +16,9 @@ Thank you parents for joining us today  for Parents Engagement Session. For thos
 **P5 YH Sharing Slides**<br>
 [P5 YH Sharing.pdf](/files/P5%20YH%20Sharing_01.pdf)
 
+**P6 VP Sharing Slides**<br>
+[P6 VP Sharing.pdf](/files/P6%20VP%20Sharing%20(latest).pdf)
+
 **P1, P2 FT Sharing Slides**<br>
 [P1, P2 FT Sharing.pdf](/files/P1%20and%20P2%20FT%20Slides.pdf)
 
