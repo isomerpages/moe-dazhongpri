@@ -5,40 +5,65 @@ description: ""
 ---
 ### Mother Tongue Languages
 
-<img src="/images/mtl1.png" 
-     style="width:80%">
+![](/images/MT%2001.png)
 
-#### Chinese Language  
+#### Vision
 
-##### Dazhong Total Curriculum
+Developing effective bilingual communicators
 
-The school is committed to provide student-centric holistic education driven by values and competencies. It seeks to develop the C2015 outcomes, in particular the sense of curiosity for life-long learning, confidence and co-operation (3Cs) through the Total Curriculum@Dazhong. The Total Curriculum@Dazhong comprises rigorous programmes in academic, arts education, character and citizenship education (CCE), and sports education.
+#### Mission
 
-  
+To nurture self-directed learners who can exercise metacognitive reflection on own learning and seek self-improvement, to become proficient users of their respective Mother Tongue Languages (MTLs).
 
-##### Academic
+#### Key Approaches
 
-The Dazhong Curriculum Design Framework(DCDF) guides the school in the design of its curriculum which seeks to provide a rigourous academic programme that will motivate pupils in their learning through authentic learning experiences. The framework is based on the PETALs(Pedagogy, Learning Experience, Tone of Environment, Assessment, Learning Content and Student-Centricity), with adopting Constructivist Theory of Learning as its key pedagogy to enable pupils to make meaning of their learning, ‘Understanding by Design (Ubd)’ to guide teachers in the selection of content(content knowledge, skills, attitudes) to ensure that concepts are not in silos but enable pupils to see connections to make learning meaningful for them and holistic assessment to maximise pupils’ learning. To ensure that the potential of pupils is maximised, the school provides a differentiated curriculum through the Achievers’ Programme.
+**Excite:** In the MTL classrooms, students’ learning will be activated, so that they are excited, aware and eager to learn.
 
-  
+**Engage:** Students are engaged to learn actively as they enjoy and learn optimally with their teachers and peers in seamless Blended Learning experiences.
 
-##### Philosophy
+**Empower:** Students are empowered to own and self-direct their MTL learning based on their readiness and interest. They can also use and apply acquired MTL content and skills to serve and advocate for the causes they believe in (e.g. ALP – GreenMakers@Dazhong), and leading their peers, school and the community to be part of the movement. All of which are anchored on strong school and CCE values.
 
-The school believes that pupils can be motivated to learn their Mother Tongue Language if they appreciate and understand their respective culture. Like any language acquisition, Mother Tongue Language must not only be taught but also be caught.
+**<u>Peaks of Excellence</u>**
 
-  
+**2022 National Calligraphy Competition**
 
-The school adopts a multi-pronged approach to enable the pupils to be effective and confident users of the language as well as develop in them a deep appreciation of the culture. This is achieved through providing a structured approach to teaching skills such as writing, authentic learning experiences to make learning meaningful and an environment that enables the language to be caught.
+![](/images/MT%2002.jpg)
 
-  
+This is an annual competition organised by Fo Guang Shan. It aims to promote the culture and arts of calligraphy in Singapore and help raise students’ interest in Chinese calligraphy. <br>
+Our school was awarded the Mass Participation Award in 2022 as more than 70 students from our school participated in the competition. Our school has received two Culture Awards and 4 students Advanced to the Finals.
 
-##### Joy To Read Programme
+The following students had done our school proud:
 
-The school seeks to enable the pupils to take control of their acquisition of the language and learn the language at their pace through developing in them a love for reading in their MTL as well as equip them with skills to read with understanding. The programme is spiraling in nature, focusing on developing an interest in reading for Primary 1 and 2 pupils, reading with comprehension for Primary 3 to 4 pupils and reading for practical use for Primary 5 and 6.  The Joy To Read Programme provides a platform for all MTL teachers to read together once a week, with the view for teachers to role model the good habit as well as build a culture for reading. The school believes that developing in pupils the habit of and the love for reading will put them in good stead in their acquisition of the language.
+| Name | Class | Award |
+| -------- | -------- | -------- |
+| Chung Sunha     | 4A     | Culture Award/ Advanced to Finals|
+| Nguyen Duc Huy     | 5A     | Culture Award/ Advanced to Finals|
+| Chen Mei Tong    | 3P     | Advanced to Finals|
+| Qiu Sheng Jie    | 3R     | Advanced to Finals|
 
-  
 
-##### Cultural Appreciation Programme (CAP)
+**2021 National Calligraphy Competition**
+
+![](/images/MT%2003.jpg)
+
+This is an annual competition organised by Fo Guang Shan. It aims to promote the culture and arts of calligraphy in Singapore and help raise students’ interest in Calligraphy. <br>
+Our school was awarded the Mass Participation Award in 2021 as more than 50 students from our school participated in the competition. Our school won the Overall Champion (Gold Award), Culture Award and 6 Consolation Prizes.
+
+The following students had done our school proud:
+
+| Name | Class | Award |
+| -------- | -------- | -------- |
+| Ju Yu Xuan     | 6A     | Overall Champion (Gold Award)|
+| Mercado Edward Josef Rosario     | 4R     | Culture Award|
+| Sua An Kai Mungkorn    | 2A     | Consolation Prize|
+| Chew Xin Yu    | 2P     | Consolation Prize|
+| Chang Han    | 3A     | Consolation Prize|
+| Ong Yu Yan    | 6P     | Consolation Prize|
+| Ong Zi Xuan    | 6A     | Consolation Prize|
+| Shi Yifan    | 6A     | Consolation Prize|
+
+
+**Calligraphy Competition 2021**
 
 The school seeks to evoke in pupils a deep interest in the learning of the Mother Tongue language through enabling them to appreciate the beauty of the corresponding culture. The CAP comprises the MTL fortnight activities, Cultural Camp and Cultural Immersion Programme. Through the CAP, pupils are provided with opportunities to be exposed to the different ethnic culture through folk songs, poetry recitation, story-telling based on classics, cultural art such as paper-cutting, knot making, silat and overseas cultural immersion trips. Through these cultural activities, the school seeks to enable the pupils to appreciate the beauty underlying each language and hence enthuse them to further seek to deepen their learning of the language.
 
