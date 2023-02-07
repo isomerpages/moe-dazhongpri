@@ -182,3 +182,51 @@ The following students participated in this competition: (1) Nur Ilyana Falisha 
 **Vasantham Super Kids 2021**
 
 ![](/images/MT%2010.jpg)
+
+Vasantham Super Kids (கற்க கசடற) was a national level Tamil quiz competition organised by MediaCorp Vasantham in December 2020. Five of our Primary 5 students (1) Sivababu Deeptika (5A), (2) Govindaraj Nikithaa (5A), (3) Rajakumar Rahini (5A), (4) Gundre Daivik Reddy (5A) and (5) Kumar Naavalan (5P) did our school proud by emerging as 1st Runner-up in this competition.<br>
+This informative show aims to be an all-round development programme for children through fun and exciting games and activities. There were a variety of rounds in the show and the level of difficulty increased as the game progressed. Two schools in each episode went through a series of questions covering Science, Maths, General Knowledge, Tamil and others.<br>During this competition, our students put in concerted effort to overcome challenges with strong perseverance. They displayed self-directed learning and other school values. 
+
+
+**Bharathiyaar Centennial 2021 Colouring Competition** 
+
+![](/images/MT%2011.jpg)
+
+Six students from Primary 1 to Primary 3 participated in Bharathiyaar Centennial 2021 colouring competition which was organised by Umar Pulavar Tamil Language Center in June 2021. This competition aims to help students appreciate Tamil poets and poems/songs.<br>
+Sudarsanan from 1 Integrity received 2nd prize in Primary 1 category. Thanushri from 3 Acceptance received 1st prize for Primary 3 category.<br>
+Our students put in lots of effort, and we would also like to thank the parents for their continual guidance and support towards this competition.
+
+**Department Programmes**<br>
+**Cultural Appreciation Programmes**
+
+Mother Tongue Fortnight Programme (MTFP) 2022<br>
+MTFP Part 1 - Chinese New Year (CNY) 2022 and Cultural (Art) Appreciation
+
+![](/images/MT%2012.jpg)<br>
+The MTFP Part 1 cum 2022 CNY Celebrations was organized by the Mother Tongue Languages (MTL) Department. 
+
+In 2022, the programme was designed, in collaboration with other departments, with age-appropriate activities that were aligned to the school’s new focus and directions. Students were engaged and empowered to put into action their will to support a sustainable environment, while learning about the cultural aspects of CNY.<br>
+During the four-day programme (26 to 31 Jan 2022), the Cultural (Art) Appreciation activities during MTL lessons and eve of CNY, students made handicrafts with recycled materials, via SLS lesson packages.<br>
+Through these activities, students exhibited self-directed learning, responsibility and acceptance. Their perseverance and aim for excellence led them to create creative artifacts.<br>
+Students also had opportunities to exhibit the attributes of being concerned citizens and serving leaders for the community, by participating in the fundraising for the Lions Clubs of Singapore.
+
+
+Mother Tongue Fortnight Programme (MTFP) 2022<br>
+MTFP Part 2 - Racial Harmony Day
+
+![](/images/MT%2013.jpg)<br>
+The objective of the 2022 MTL Fortnight Part 2 programme was to develop appreciation and love for learning one’s Mother Tongue Language.
+
+The school celebrated Racial Harmony by learning more about traditional art, cultivating students’ understanding of the cultural stories behind the traditional art, and applying MTL language to celebrate the cultural diversity in Singapore. We also wanted to celebrate the diversity of ethnic cultures and emphasize the importance of Racial Harmony Day. This will serve to enhance our school Racial Harmony and cultural interaction index.<br>
+We also hoped that besides understanding and appreciating their own culture and language, our students would be more motivated to love and care for our environment too.
+
+**Cultural Performance Exposure Scheme (CPES) 2022**
+
+Under CPES (CL), schools can choose Chinese performances suitable for students from the recommended plays. Students can go out of school and enter the theatre to enrich their theatre experience, so that students can feel the charm of Chinese theatre and experience the beauty of culture and Chinese.<br>
+Our school seeks to evoke in pupils a deep interest in the learning of the Mother Tongue language through enabling them to appreciate the beauty of cultural performances. Through CPES, pupils are provided with opportunities to be exposed to the different ethnic cultures through folk songs, poetry recitation, storytelling based on classics, theatre experiences etc. Through these cultural activities, the school seeks to enable the pupils to appreciate the beauty underlying each language and hence enthuse them to further seek to deepen their learning of the language.
+
+![](/images/MT%2014.jpg)
+
+For CPES (ML), the Malay Language students had the opportunity to learn about the rich cultural heritage of the Malay community through an Angklung performance and learning to play the instrument.<br>
+The students were introduced to the unique Malay musical instrument made of bamboos. They learnt that a performance will not do with only a single Angklung player as the instrument produces only a singular note on its own. Through this interactive programme, the students not only learn to appreciate Angklung music better by playing the instrument in a hands-on session, they also learnt the beauty of team work as they produce harmonious melodies as a group.
+
+![](/images/MT%2015.png)
