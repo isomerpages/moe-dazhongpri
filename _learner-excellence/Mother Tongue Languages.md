@@ -198,7 +198,7 @@ Our students put in lots of effort, and we would also like to thank the parents 
 **Department Programmes**<br>
 **Cultural Appreciation Programmes**
 
-Mother Tongue Fortnight Programme (MTFP) 2022<br>
+**Mother Tongue Fortnight Programme (MTFP) 2022**<br>
 MTFP Part 1 - Chinese New Year (CNY) 2022 and Cultural (Art) Appreciation
 
 ![](/images/MT%2012.jpg)<br>
@@ -210,7 +210,7 @@ Through these activities, students exhibited self-directed learning, responsibil
 Students also had opportunities to exhibit the attributes of being concerned citizens and serving leaders for the community, by participating in the fundraising for the Lions Clubs of Singapore.
 
 
-Mother Tongue Fortnight Programme (MTFP) 2022<br>
+**Mother Tongue Fortnight Programme (MTFP) 2022**<br>
 MTFP Part 2 - Racial Harmony Day
 
 ![](/images/MT%2013.jpg)<br>
@@ -230,3 +230,95 @@ For CPES (ML), the Malay Language students had the opportunity to learn about th
 The students were introduced to the unique Malay musical instrument made of bamboos. They learnt that a performance will not do with only a single Angklung player as the instrument produces only a singular note on its own. Through this interactive programme, the students not only learn to appreciate Angklung music better by playing the instrument in a hands-on session, they also learnt the beauty of team work as they produce harmonious melodies as a group.
 
 ![](/images/MT%2015.png)
+
+
+**MTL Cultural Camp 2022**
+
+![](/images/MT%2016.jpg)
+
+MTL Cultural Camp is one of the platforms to encourage students to appreciate their own language and culture and also have exposure to other MTL and traditional cultures. The programme seeks to promote the usage of MTL and cultural appreciation in an authentic setting.<br>
+In 2022, we introduced traditional chess to all P4 students, by learning about the history and theory of traditional games, appreciating traditional culture, and doing hands-on activities such as sls quizzes and chess play. 
+
+
+**MTL Cultural Camp 2021**
+
+![](/images/MT%2017.png)
+
+MTL Cultural Camp is one of the platforms to encourage students to appreciate their own language and culture and also have exposure to other MTL and traditional cultures. The programme seeks to promote the usage of MTL and cultural appreciation in an authentic setting.<br>
+In 2021, we introduced shadow puppet to all P4 students, by learning about the history and theory of shadow puppet, appreciating live puppet shows, and doing hands-on activities such as making shadow puppets and acting out the character. 
+
+
+**Other Festive Celebrations**
+
+**Chinese New year Celebration 2023**
+
+![](/images/MT%2018.jpg)
+
+The theme of our Chinese New Year’s celebration was ‘Dare to Shine’ New Year. Our students were encouraged to perform acts of kindness for others, while celebrating the Dare-To-Learn spirit. This is in line with the launch of "Shine On! 85 Acts of Kindness" in Term 1.<br>
+One week prior to Chinese New Year, our students had the opportunity to learn more about the festival through various cultural activities, while doing their part for the environment and the community. These included a SLS lesson for students to observe and document what they see, hear, smell, touch and taste during this festive season. Through this activity, they honed their self-directed learning skills by exploring, documenting and reflecting on what they learnt about the festival. Students were also engaged in cultural activities during their CCE lessons, such as the making of red packets using recyclable items. <br>
+Our CNY concert was held on 19 January 2023 in the school hall where students watched the Chinese New Year concert live! Our partners - the School Advisory Committee (SAC) members and the seniors from Lion Befrienders also joined us in this joyous occasion.<br>
+Before the concert, our SAC members and Parent Support Group (PSG) members, planted trees in our school. This event kickstarted our school's 85th Anniversary celebrations. It was also our way of showing kindness to the environment. The entire process was recorded and showcased during our CNY concert, so that our students would be aware and further inspired to care and be advocates for the Green Movement.<br>
+Students also had the opportunity to exhibit the attributes of being concerned citizens and serving leaders for the community, by participating in the fundraising for the Lions Clubs of Singapore.<br>
+This was indeed a meaningful and joyous occasion for all in Dazhong!
+
+
+**Hari Raya Celebration 2022** 
+
+![](/images/MT%2019.jpg)
+
+Hari Raya is celebrated annually to advocate the culture of acceptance, especially amongst the different racial groups. The celebration focused on cultural appreciation and creating a sense of awareness in students to promote racial harmony through cultural activities. It is also an opportunity for the staff and students to inspire one another to celebrate in a sustainable way.<br>
+With these in mind, the celebration was intentionally designed for students to be inculcated with the dispositions of being self-directed learners, concerned citizens and serving leaders.<br>
+The key aim of the Hari Raya Celebration to excite the students with pre-celebration activities and the programme on that day, so as to engage them to learn and understand the Malay culture, and empower them to celebrate the festival in a sustainable way, just like how the school celebrated CNY earlier in the year, through Dare to Eidspire video and activities.<br>
+With this, the enduring understanding of celebrating all festivals in an inspiring manner through sustainability is inculcated among our students.
+
+
+**Deepavali Celebration 2022**
+
+![](/images/MT%2024.jpeg)
+
+Our theme for Deepavali 2022 is ‘The Inspiring Musical’. Students and teachers worked together to produce a musical, which educated students and staff about the festival, while driving the message of celebrating the festival in a sustainable fashion.<br>
+As Green Makers, our students used recycled materials to design Diya, Thoranams and cards to appreciate bus captains, during their CCE lessons. Students also participated in various recess booth activities to learn more about Deepavali. The booths were managed by selected P3-P6 students. This sharpened their leadership skills and oratorical skills. The school also had a mass assembly and celebrated Deepavali in the hall.<br>
+The Dazhong family certainly gained a better understanding about Deepavali through our celebration. This then would empower everyone to practice the value of Acceptance in our speech and actions and uphold the peace and harmony in the nation. Dazhong, Dare to Inspire!
+
+
+**The MTL Reading Programme 2022**
+
+Aligned to school vision and mission, our department implemented The MTL Reading Programme 2022, which consisted of a series of reading activities throughout the year for all students. We aimed to 1) excite, engage and nurture students’ love and interest for MTL languages so as to establish a strong foundation for continual learning; 2) develop students’ awareness of practising their self-directed learnings while developing the habits of reading MTL books; 3) cultivate critical readings skills and empower them to share good reads with peers; 4) broaden students’ language skills and hone SEL and 21st CC skills; 5) cultivate students to be serving leaders to advocate peers or younger readers; 5) strengthen students’ links to our Asian heritage so that they are aware and can better appreciate our cultures as a concern citizen.
+
+![](/images/MT%2020.png)
+
+The reading activities were:
+
+a) Reading Corner @ Classroom
+
+During the MTL library periods, our teachers encouraged students to choose their favourite MTL storybooks from the library. These books were loaned and used to set up  the MTL Classroom Library Corner in each MTL class. Two MTL student librarians from each class were appointed to monitor the loan of these story books. Books at the MTL Classroom Library Corner were refreshed once every term.
+
+b) I Read and I Wonder
+
+Our teachers recommended a series of interesting storybooks via video and post them on the “I Read and I Wonder” Padlet Page: https://padlet.com/dzpsofficial/Chinese_Story.<br> Students could borrow these books in the library and after they read the books, they could complete reading activities such as making bookmarks, drawing their favourite characters or scene, drawing comics, designing posters to share a good read.
+
+c) A1 Got Talent
+
+Students had the chance to showcase their talents, such as performing short skits, choral reading and role playing, based on the MTL books they read. A1 Got Talent was conducted as post-exam activities during Term 2 and 4 via SLS or in the classrooms.
+
+d) Read With You
+
+Selected P4 to P6 students recorded themselves reading a storybook and posted the videos on the “Read With You” Padlet page, for the P1 and P2 students to access.  These videos were broadcasted in the library and canteen during recess for our P1 and P2 students. For each of these videos, QR codes will be generated and attached inside the books.
+
+![](/images/MT%2021.jpg)
+![](/images/MT%2022.png)
+
+
+**Learn for Life Programme (LLP) 2022**
+
+Speech and Drama
+
+In 2022, we planned to provide opportunities and resources to build joyful learning experiences during the Mother Tongue Language lessons. Based on the chosen curriculum from P1 to P6, Mother Tongue Language teachers used costumes and props in class for students to role-play the scenes they read in the text passages. These lessons were designed for students to deepen their understanding of history and culture through the cultural experiences. With these joyful learning experiences and a firm foundation in Mother Tongue Language, every Dazhong student will be motivated to have a better understanding of their own Mother Tongue Language.
+
+
+**Conversational Chinese and Malay (CCM)**
+
+![](/images/MT%2023.jpg)
+
+During Conversational Chinese and Malay (CCM) lessons, student would acquire a basic understanding of how to speak the two target languages in less formal situations. At the end of the course, students would be able to hold simple conversations in various common situations with a native Chinese Language or Malay Language speaker. CCM also aims to bridge the divide between the languages and strengthen racial harmony.
+
