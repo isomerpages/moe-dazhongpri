@@ -321,4 +321,3 @@ In 2022, we planned to provide opportunities and resources to build joyful learn
 ![](/images/MT%2023.jpg)
 
 During Conversational Chinese and Malay (CCM) lessons, student would acquire a basic understanding of how to speak the two target languages in less formal situations. At the end of the course, students would be able to hold simple conversations in various common situations with a native Chinese Language or Malay Language speaker. CCM also aims to bridge the divide between the languages and strengthen racial harmony.
-
