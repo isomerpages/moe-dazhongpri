@@ -77,4 +77,54 @@ __________________
 
 **Dazhong JO Collaboration with Yong Siew Toh Conservatory of Music (4 February 2023) - JO 1st series of workshop collaborations with YST@NUS**
 
-Our JO students had a great time learning musicianship knowledge and skills from YST students today. Students will have opportunities to learn from the YST musicians every Saturday and they will be having their final concert performance on 12 March 2023. Great to have parents coming to support this collaboration. Dazhong, Dare to Shine! 
+Our JO students had a great time learning musicianship knowledge and skills from YST students today. Students will have opportunities to learn from the YST musicians every Saturday and they will be having their final concert performance on 12 March 2023. Great to have parents coming to support this collaboration. Dazhong, Dare to Shine!
+
+(Insert JO 01 Image)
+
+
+**85th Anniversary Flashmob Community Outreach event (31 January 2023) - One of 85th Anniversary celebrations Act of Kindness**
+
+Our Junior Orchestra students did us proud by bringing joy to the community with their wonderful singing, dancing and instrumental play performances at Bukit Gombak Market Square. PSG and parents also came to support this wonderful and meaningful event. Weather was good and great too! This platform encourages our students to share their joy and promote Arts to the community. We celebrate and recognize our students' small successes in performing arts. Dazhong, Dare to Shine!
+
+(Insert JO 02 Image)
+
+
+**Junior Orchestra Budding Talent Management Music Programme**
+
+On 15 September 2022 (Thursday), selected Primary 2 students embarked on the Junior Orchestra Budding Talent Management Music Programme, where they learnt music reading and ear training as well as how to use their bodies to understand the musical elements introduced through singing, music and movement.
+
+Our Dalcroze-trained or Orff-trained Musicianship instructor EXCITES and ENGAGES our students by guiding them in understanding music and movement with the use of the piano as well as singing and dancing with them to help them appreciate the rudiments of music. We hope that this programme will serve as a stepping stone for our students, EMPOWERING them to become self-directed musicians who are motivated to further hone their instrumental skills in music playing and their passion in the music field.
+Students who join this programme will automatically be enrolled into our school’s Junior Orchestra CCA from Primary 3 onwards!
+
+(Insert JO 03 Image)
+
+
+**Singapore Youth Festival Arts Presentation 2022 – Flexible Band**
+
+On 19 August 2022, the Wind, Double Bass and Percussion players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Flexible Band 🎺🥁. With the Choice Piece ‘Windsong’ by Jay Chattaway at the Republic Cultural Centre, Republic Polytechnic, the audience present at the theatre were enchanted and mesmerized by our self-directed and resilient Junior Orchestra students’ incredible and spectacular performance 👨‍🎓. This musical journey has been an EXCITING one for our Junior Orchestra students 👨‍🎓, who have deeply ENGAGED themselves during this school year in gaining deeper knowledge in musical skills, instrumental techniques and performance etiquette.
+
+The EMPOWERMENT that Dazhong Primary School provides to our self-directed, gracious, confident, motivated and engaged musicians, imbuing them with the school’s IREAP values, has motivated them towards musical excellence and love for the arts. We look forward to more inspiring stories from our students becoming self-directed learners, serving leaders and concerned citizens who serve beyond self. 🎼🎶🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/03HBXRqYZkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJuL6dZeRTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble**
+
+On 17 August 2022, the Percussion players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble 🥁. With the Choice Piece ‘Marcha-Cumbia’ by Stephen Tillapaugh, the students’ impactful and enchanting performance tugged at the heartstrings of the audience present at the Republic Cultural Centre, Republic Polytechnic.
+
+Through this musical journey, our self-directed and resilient Junior Orchestra students 👨‍🎓 exemplified our IREAP values, practising tirelessly, in school and at home, for the past four months to deliver this stellar performance at the Singapore Youth Festival Arts Presentation 2022 – a testament to their love and passion for music and the performing arts! Through this musical journey, they have certainly gained deeper knowledge in musical skills, instrumental techniques and performance etiquette, becoming more self-directed, gracious, confident, motivated and engaged musicians and serving leaders! 🎼🎶🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n39umo21M-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Chb0ZT5vRyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Hong Kah North National Day Celebration @ West Rock & HKNCC**
+
+In conjunction with our nation’s 57th Birthday, our school’s Performing Arts CCA students in Choir, Dance and Junior Orchestra staged sensational performances at West Rock and Hong Kah North Community Club in the Dazhong Primary-HKNCC Collaboration National Day Celebration 2022 on 30 July 2022, Saturday. The event was graced by Dr Amy Khor, Member of Parliament for Hong Kah North SMC. Our dexterous students certainly put up a show of exceptional quality that day, captivating the bustling crowd with their astounding musical talents!
+
+Teamwork makes the dream work. This successful collaboration has indeed fostered strong relationships as well as promoted camaraderie and great team spirit among our students. We believe that our Performing Arts CCA students are ready to strive for greater musical excellence in becoming more self-directed, gracious, confident, and engaged musicians, serving beyond self in every step of the way.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ki2YJBusFMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
