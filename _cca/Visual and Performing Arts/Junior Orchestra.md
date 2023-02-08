@@ -6,81 +6,143 @@ third_nav_title: Visual and Performing Arts
 ---
 ### Junior Orchestra
 
-<img src="/images/vpa18.png" style="width:80%">
+**CCA Overview**
 
-**Dazhong Junior Orchestra** 
+Dazhong Primary School is currently the only primary school in Singapore offering a full Junior Orchestra (JO). At present, the members of the Orchestra stand at 91 members strong. One of the key aims of this programme is to uplift students through music and by providing opportunities that they may not have access to.
 
-Dazhong Primary School is the only Primary School in Singapore to have a full Junior Orchestra. At present, the members of the Orchestra stand at 91 members strong. The Junior Orchestra is an extension of our String Ensemble (violin) Music Programme for our P1 – P3 students who have shown an aptitude and interest in the performing arts. The Junior Orchestra serves to further hone their skills and strengthen their passion in this field. 
+Junior Orchestra is an extension of the Learning for Life Programme (LLP) and is part of the Arts Education Programme@Dazhong (AEP@Dazhong). As part of AEP, all Primary 1 to 3 students go through the String Ensemble (violin) music programme. Students who show an aptitude and interest in the performing arts are invited to further develop their skills and deepen their passion through JO. The JO programme has brought about positive outcomes for our students. They are more attuned to their social and emotional competencies and their self-efficacy has seen positive growth.
+ Our Junior Orchestra students had performed in many outreach community platforms like at Hong Kah North Community Club National Day events, National Gallery, SYF Arts Presentation as well as President Charity Show. Our students are featured in Lian He Zao Bao as well as Suria TV. 
 
-The collaboration between Dazhong and Arts Education Branch started in 2016 and Dazhong Primary School’s Junior Orchestra was set up in October 2016. It was named 'Inspiratum' which means 'The Inspired' in partnership with MOE Arts Education Branch.  
+**Objectives of Dazhong Junior Orchestra:**
+* Provide interested students who cannot afford private instrumental lessons the opportunities to learn music;
+* Engage under-privileged and at-risk students meaningfully in musical and orchestral activities;
+* Develop students’ self-esteem, discipline, confidence and perseverance; and
+* Develop students in social and emotional competencies in the domains of self-management and relationship management skills.
 
-Dazhong Primary School seeks to develop in our pupils the following through the JO programme in collaboration with MOE AEB: 
+Dazhong Junior Orchestra seeks to build a vibrant arts culture in school and community at large, and to have an inspirational arts environment for our students. 
 
-\- Self-directed learning disposition through a love and passion for music and performing arts; <br>
-\- Graciousness through relationship management learning & collaborative skills development and team work <br>
-\- Resilience through self-management and discipline and confidence; <br>
-\- Serving Beyond self through musical skills  
+Our school’s Junior Orchestra seeks to:
+* **Excite** and motivate our students to shine and display their musical talents;
+* **Engage** our students so that the exposure and experience help them to feel a deeper sense of involvement through their performances to their peers, teachers and important stakeholders; and
+* **Empower** our students to be confident performers and active contributors through the arts.
 
-  
-With the development of JO curriculum at Dazhong Primary, our pupils are equipped with the necessary knowledge and skills to explore further their interests in the various fields of Instrumental Playing and in their secondary school of choice or through DSA. Some of our students also been identified for SOTA awards. Students were given opportunities to participate in school and community events, collaboration with schools, perform at community or national level. 
 
-With the partnership from MOE AEB, our school also collaborated with Methodist Girls’ School in 2018 and 2019. MGS students have inspired our students with their talents and skills in music making. MGS students were given opportunity to mentor our Dazhong students. Our students benefited from this collaboration with MGS as it has helped them to become more confident, more focus and more discipline to do well even in their studies. 
+Our school’s Junior Orchestra aims to develop the 3As (Awareness, Action and Advocacy) in our students:
+* **Awareness:** Boost students’ confidence and help build greater awareness of music.
+* **Action:** Share and perform various repertoire selection, and express and communicate with the audience through performances.
+* **Advocacy:** Collaborate with other performers to help tell their stories through music for all to understand and enjoy.
 
-Partnership with MOE AEB have also brought about great exposure and experience for our Dazhong JO students. We have outreach community performances at National Gallery on 30 June 2018 where Minister of Education (Ong Ye Kung) & DGE came to support the National Gallery performance. Our students were also given opportunity to perform at National Day Observance Ceremony at MOE HQ (Buona Vista) on 7 August 2018. Collaboration with MGS also brought us to the next level where our students were given an opportunity to perform at SDP 7th President Charity Show on 17 March 2019 and also SYF Arts Celebration organised by MOE AEB. Collaborative Dazhong JO with MGS performance will be held at Kampung Admiralty on 7 August 2019.   
 
-To create opportunities for JO members to perform for within school and outside school, Junior Orchestra have performed during Prize Giving Day, National Day Celebration, Break-time Concerts and public performances 80 Anniversary Musical Concert.
 
-<img src="/images/vpa19.png" style="width:70%">
+With the development of JO curriculum at Dazhong Primary School, our students are equipped with the necessary knowledge and skills to explore further their interests in the various fields of instrumental playing and in their secondary school of choice or through Direct School Admission (DSA). Some of our students have also been identified for the SOTA Temasek Foundation Award for Arts Development. Our students have been given opportunities to participate in school and community events, collaborate with other schools, and perform at community and/or national level. 
 
-<img src="/images/vpa20.png" style="width:70%">
+Dazhong Junior Orchestra has collaborated with Methodist Girls’ School since 2018. The MGS students have inspired our Dazhong students with their talents and skills in music making. MGS students were given the opportunity to mentor our Dazhong students. Our students have benefited from this collaboration with MGS as it has helped them to become more confident, more focused and more disciplined.
 
-<img src="/images/vpa21.png" style="width:70%">
+In 2023, Dazhong Junior Orchestra collaborates with NUS Yong Siew Toh Conservatory of Music (NUS YST) through sessions in which YST students are guided towards coaching our Dazhong musicians through their undergraduate module, Orchestral Pedagogy. This culminates in a Children’s Concert in which our JO students perform side by side with YST students in a family-oriented concert at the Conservatory Orchestra Hall at NUS YST.
 
-<img src="/images/vpa22.png" style="width:70%">
+**CCA Schedule**<br>
+Tuesdays, 7.40 a.m. to 9.40 a.m.<br>
+Thursdays, 2.20 p.m. to 4.20 p.m.
 
-<img src="/images/vpa23.png" style="width:70%">
+**JO Advisor:**<br>
+Mrs Dawn Kuah (Lead Teacher, Music)
 
-**SYF Arts Presentation - Junior Orchestra**
+**Teachers-in-Charge:**<br>
+Mdm Sun I-feng (Overall Teacher-in-Charge)<br>
+Mr Edwin Lim (2nd Teacher-in-Charge)<br>
+Miss Foo Li Wei<br>
+Miss Crystalbelle Chang<br>
+Mdm Chen Liqin<br>
+Mdm Muneera Abu Bakar<br>
+Mdm He Jingwen<br>
+Miss Shereen Ong<br>
+Mdm Humairah Rahman<br>
+Miss Charmaine Chia<br>
+Miss Lee Hon Choo<br>
+Mr Nasrul Bin Roslin
 
-<img src="/images/vpa24.png" style="width:70%">
+**Instructors:**<br>
+Mr Adrian Chiang, Main Conductor<br>
+Mr Damien Kee, Assistant Conductor (Strings)<br>
+Miss Lydia Wong, Violin Instructor<br>
+Miss Jolene Goh, Viola Instructor<br>
+Miss Ophelia Toh, Cello & Double Bass Instructor<br>
+Mr Ralph Lim, Wind Instructor<br>
+Mr Joseph Teo, Brass Instructor<br>
+Miss Angeline Wee, Percussion Instructor
 
-<img src="/images/vpa25.png" style="width:70%">
+__________________
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzOFAg_hE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Achievements / Peak of Excellence / CCA in Actions**
+
+**Dazhong JO Collaboration with Yong Siew Toh Conservatory of Music (4 February 2023) - JO 1st series of workshop collaborations with YST@NUS**
+
+Our JO students had a great time learning musicianship knowledge and skills from YST students today. Students will have opportunities to learn from the YST musicians every Saturday and they will be having their final concert performance on 12 March 2023. Great to have parents coming to support this collaboration. Dazhong, Dare to Shine!
+
+![](/images/JO%2001.jpg)
+
+
+**85th Anniversary Flashmob Community Outreach event (31 January 2023) - One of 85th Anniversary celebrations Act of Kindness**
+
+Our Junior Orchestra students did us proud by bringing joy to the community with their wonderful singing, dancing and instrumental play performances at Bukit Gombak Market Square. PSG and parents also came to support this wonderful and meaningful event. Weather was good and great too! This platform encourages our students to share their joy and promote Arts to the community. We celebrate and recognize our students' small successes in performing arts. Dazhong, Dare to Shine!
+
+![](/images/JO%2002.jpg)
+
+
+**Junior Orchestra Budding Talent Management Music Programme**
+
+On 15 September 2022 (Thursday), selected Primary 2 students embarked on the Junior Orchestra Budding Talent Management Music Programme, where they learnt music reading and ear training as well as how to use their bodies to understand the musical elements introduced through singing, music and movement.
+
+Our Dalcroze-trained or Orff-trained Musicianship instructor EXCITES and ENGAGES our students by guiding them in understanding music and movement with the use of the piano as well as singing and dancing with them to help them appreciate the rudiments of music. We hope that this programme will serve as a stepping stone for our students, EMPOWERING them to become self-directed musicians who are motivated to further hone their instrumental skills in music playing and their passion in the music field.
+Students who join this programme will automatically be enrolled into our school’s Junior Orchestra CCA from Primary 3 onwards!
+
+![](/images/JO%2003.jpg)
+
+
+**Singapore Youth Festival Arts Presentation 2022 – Flexible Band**
+
+On 19 August 2022, the Wind, Double Bass and Percussion players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Flexible Band 🎺🥁. With the Choice Piece ‘Windsong’ by Jay Chattaway at the Republic Cultural Centre, Republic Polytechnic, the audience present at the theatre were enchanted and mesmerized by our self-directed and resilient Junior Orchestra students’ incredible and spectacular performance 👨‍🎓. This musical journey has been an EXCITING one for our Junior Orchestra students 👨‍🎓, who have deeply ENGAGED themselves during this school year in gaining deeper knowledge in musical skills, instrumental techniques and performance etiquette.
+
+The EMPOWERMENT that Dazhong Primary School provides to our self-directed, gracious, confident, motivated and engaged musicians, imbuing them with the school’s IREAP values, has motivated them towards musical excellence and love for the arts. We look forward to more inspiring stories from our students becoming self-directed learners, serving leaders and concerned citizens who serve beyond self. 🎼🎶🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/03HBXRqYZkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJuL6dZeRTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble**
+
+On 17 August 2022, the Percussion players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble 🥁. With the Choice Piece ‘Marcha-Cumbia’ by Stephen Tillapaugh, the students’ impactful and enchanting performance tugged at the heartstrings of the audience present at the Republic Cultural Centre, Republic Polytechnic.
+
+Through this musical journey, our self-directed and resilient Junior Orchestra students 👨‍🎓 exemplified our IREAP values, practising tirelessly, in school and at home, for the past four months to deliver this stellar performance at the Singapore Youth Festival Arts Presentation 2022 – a testament to their love and passion for music and the performing arts! Through this musical journey, they have certainly gained deeper knowledge in musical skills, instrumental techniques and performance etiquette, becoming more self-directed, gracious, confident, motivated and engaged musicians and serving leaders! 🎼🎶🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n39umo21M-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Chb0ZT5vRyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Hong Kah North National Day Celebration @ West Rock & HKNCC**
 
-We are pleased 👏 to announce that our school’s Performing Arts CCA students in Choir, Dance and Junior Orchestra will be performing at the Dazhong Primary-HKNCC Collaboration National Day Celebration 2022 on 30 July 2022, Saturday. We would like to encourage members of the public to come down to watch our students perform 🥰!
+In conjunction with our nation’s 57th Birthday, our school’s Performing Arts CCA students in Choir, Dance and Junior Orchestra staged sensational performances at West Rock and Hong Kah North Community Club in the Dazhong Primary-HKNCC Collaboration National Day Celebration 2022 on 30 July 2022, Saturday. The event was graced by Dr Amy Khor, Member of Parliament for Hong Kah North SMC. Our dexterous students certainly put up a show of exceptional quality that day, captivating the bustling crowd with their astounding musical talents!
 
-  
+Teamwork makes the dream work. This successful collaboration has indeed fostered strong relationships as well as promoted camaraderie and great team spirit among our students. We believe that our Performing Arts CCA students are ready to strive for greater musical excellence in becoming more self-directed, gracious, confident, and engaged musicians, serving beyond self in every step of the way.
 
-**Hong Kah North National Day Celebration @ West Rock**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ki2YJBusFMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Venue: West Rock (Blk 461C Bukit Batok West Avenue 6)  
-Performance Time: **3.30 p.m.** <br>Performing Groups: Junior Orchestra – Percussion Ensemble 🥁
 
-**Hong Kah North National Day Celebration @ Hong Kah North Community Club**
+**Singapore Youth Festival Arts Presentation 2022 – Instrumental Ensemble (Strings)**
 
-Venue: Hong Kah North Community Club  
-Performance Time: **7.00 p.m.** <br>Performing Groups: Choir 👩‍🎤, Dance 💃, Junior Orchestra – String Ensemble 🎻 
+On 8 July 2022, Friday, the Strings players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Instrumental Ensemble (Strings) 🎻. With the Choice Piece ‘Theme from Symphony No. 5’ by Ludwig Van Beethoven, the students’ expressive and impactful performance tugged at the heartstrings of the audience present at the School of the Arts, Singapore.
 
-Our Advisor, Dr [Amy Khor](https://www.facebook.com/AmyKhorPage?__cft__%5b0%5d=AZUhvs2MqMTzXb432dzWYt34F011blf79-hfcChOnWR2hApP9Xxd0YDwPu5vobsqdOtFMgMbkjEEpAh2nfnm0B7oRgZlEt2FldRCitGucRpeWLozk7FXP-YLiYgiR2RtcC_3a4rFIvovnJQir5_rJxHsFjrqwmjyDaayEC05DNH-HS0Nwd3P20CLeeIazZRW3IybFvQ-QSPmUbl5CQbWEhKP&__tn__=-%5dK-y-R), and Celebrity Emcees, [PeiFen李佩芬](https://www.facebook.com/peifenleee?__cft__%5b0%5d=AZUhvs2MqMTzXb432dzWYt34F011blf79-hfcChOnWR2hApP9Xxd0YDwPu5vobsqdOtFMgMbkjEEpAh2nfnm0B7oRgZlEt2FldRCitGucRpeWLozk7FXP-YLiYgiR2RtcC_3a4rFIvovnJQir5_rJxHsFjrqwmjyDaayEC05DNH-HS0Nwd3P20CLeeIazZRW3IybFvQ-QSPmUbl5CQbWEhKP&__tn__=-%5dK-y-R) & Tian Yue, will be attending the National Day Celebration Concert & Carnival. Join us for a night of entertainment, games, prizes & performances at our Hong Kah North Community Club from 6 p.m. to 9.30 p.m.! Register today using the QR code in the poster. See you and your family/friends there! 
+Our self-directed and resilient Junior Orchestra students 👨‍🎓 have been practising tirelessly, in school and at home, for the past four months to deliver this stellar performance at the Singapore Youth Festival Arts Presentation 2022 – a testament to their love and passion for music and the performing arts! Through this musical journey, they have certainly gained deeper knowledge in musical skills, instrumental techniques and performance etiquette, becoming more self-directed, gracious, confident, motivated and engaged musicians and serving leaders! 🎼🎶🎵
 
-Facebook link: [https://m.facebook.com/HongKahNorthCC/](https://m.facebook.com/HongKahNorthCC/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzOFAg_hE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="/images/vpa26.png" style="width:70%">
 
-Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble On 17 August 2022, the Percussion players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Percussion Ensemble 🥁. With the Choice Piece ‘Marcha-Cumbia’ by Stephen Tillapaugh, the students’ impactful and enchanting performance tugged at the heartstrings of the audience present at the Republic Cultural Centre, Republic Polytechnic. Through this musical journey, our self-directed and resilient Junior Orchestra students 👨‍🎓 exemplified our IREAP values, practising tirelessly, in school and at home, for the past four months to deliver this stellar performance at the Singapore Youth Festival Arts Presentation 2022 – a testament to their love and passion for music and the performing arts! Through this musical journey, they have certainly gained deeper knowledge in musical skills, instrumental techniques and performance etiquette, becoming more self-directed, gracious, confident, motivated and engaged musicians and serving leaders! 🎼🎶🎵 Dazhong, Dare to Inspire! 🤗
+**Singapore National Youth Sinfonia Presentation Concert at the Victoria Concert Hall (25 May 2022)**
 
-<img src="/images/vpa27.png" style="width:70%">
+On 25 May 2022 (Wednesday), our Primary 4 and 5 Junior Orchestra (JO) students were cordially invited by the Singapore National Youth Orchestra (SNYO) to attend the Singapore National Youth Sinfonia Presentation Concert at the Victoria Concert Hall.
 
-<img src="/images/vpa28.png" style="width:70%">
+Through attending this concert, the JO students were excited about orchestral music as they were engaged in broadening their musical learning experiences as well as empowered to become more self-directed orchestra players!
 
-**Showcase Video:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n39umo21M-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Performance Video:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Chb0ZT5vRyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![](/images/JO%2004.jpg)

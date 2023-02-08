@@ -8,7 +8,11 @@ third_nav_title: School Information and Letters
 
 | Date 	| Title 	|
 |:---:	|:---:	|
-| 23 November 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf)	|
+| 23 Nov 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf)	|
+| 08 Feb 2023 	| [P6 Termly Review Letter.pdf](/files/Primary%206.pdf)	|
+| 08 Feb 2023 	| [P5 Termly Review Letter.pdf](/files/Primary%205.pdf)	|
+| 08 Feb 2023 	| [P4 Termly Review Letter.pdf](/files/Primary%204.pdf)	|
+| 08 Feb 2023 	| [P3 Termly Review Letter.pdf](/files/Primary%203.pdf)	|
 
 <!---##### PSLE Examination Timetable
 

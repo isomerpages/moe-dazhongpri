@@ -2,11 +2,13 @@ collections:
   cca:
     output: true
     order:
+      - Sports/.keep
+      - Sports/Athletics.md
       - Sports/Badminton.md
+      - Sports/Basketball.md
       - Sports/Football.md
       - Sports/Netball.md
       - Sports/Wushu.md
-      - Sports/.keep
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Dance Club.md
       - Visual and Performing Arts/Junior Orchestra.md
