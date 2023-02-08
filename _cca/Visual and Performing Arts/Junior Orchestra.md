@@ -128,3 +128,21 @@ In conjunction with our nation’s 57th Birthday, our school’s Performing Arts
 Teamwork makes the dream work. This successful collaboration has indeed fostered strong relationships as well as promoted camaraderie and great team spirit among our students. We believe that our Performing Arts CCA students are ready to strive for greater musical excellence in becoming more self-directed, gracious, confident, and engaged musicians, serving beyond self in every step of the way.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ki2YJBusFMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Singapore Youth Festival Arts Presentation 2022 – Instrumental Ensemble (Strings)**
+
+On 8 July 2022, Friday, the Strings players from our Dazhong Primary School Junior Orchestra took part in the Singapore Youth Festival Arts Presentation 2022 – Instrumental Ensemble (Strings) 🎻. With the Choice Piece ‘Theme from Symphony No. 5’ by Ludwig Van Beethoven, the students’ expressive and impactful performance tugged at the heartstrings of the audience present at the School of the Arts, Singapore.
+
+Our self-directed and resilient Junior Orchestra students 👨‍🎓 have been practising tirelessly, in school and at home, for the past four months to deliver this stellar performance at the Singapore Youth Festival Arts Presentation 2022 – a testament to their love and passion for music and the performing arts! Through this musical journey, they have certainly gained deeper knowledge in musical skills, instrumental techniques and performance etiquette, becoming more self-directed, gracious, confident, motivated and engaged musicians and serving leaders! 🎼🎶🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzOFAg_hE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Singapore National Youth Sinfonia Presentation Concert at the Victoria Concert Hall (25 May 2022)**
+
+On 25 May 2022 (Wednesday), our Primary 4 and 5 Junior Orchestra (JO) students were cordially invited by the Singapore National Youth Orchestra (SNYO) to attend the Singapore National Youth Sinfonia Presentation Concert at the Victoria Concert Hall.
+
+Through attending this concert, the JO students were excited about orchestral music as they were engaged in broadening their musical learning experiences as well as empowered to become more self-directed orchestra players!
+
+(Insert JO 04 Image)
