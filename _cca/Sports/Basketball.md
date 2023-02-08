@@ -18,5 +18,3 @@ To build and develop character, we also highlight teachable moments with student
 
 **CCA Schedule**<br>
 Every Tuesday, 0740 hrs to 0940 hrs at the Indoor Basketball Court (IBC)
-
-
