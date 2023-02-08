@@ -34,5 +34,4 @@ The students participated in Nation School Game Wushu Competition 2022, and perf
 
 Our school team also performed in the Chinese New Year Celebration 2023 on 19 Jan 2023:
 
-(Embed Video)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akXTxmQNk94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
