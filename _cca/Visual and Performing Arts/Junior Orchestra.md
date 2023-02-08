@@ -79,14 +79,14 @@ __________________
 
 Our JO students had a great time learning musicianship knowledge and skills from YST students today. Students will have opportunities to learn from the YST musicians every Saturday and they will be having their final concert performance on 12 March 2023. Great to have parents coming to support this collaboration. Dazhong, Dare to Shine!
 
-(Insert JO 01 Image)
+![](/images/JO%2001.jpg)
 
 
 **85th Anniversary Flashmob Community Outreach event (31 January 2023) - One of 85th Anniversary celebrations Act of Kindness**
 
 Our Junior Orchestra students did us proud by bringing joy to the community with their wonderful singing, dancing and instrumental play performances at Bukit Gombak Market Square. PSG and parents also came to support this wonderful and meaningful event. Weather was good and great too! This platform encourages our students to share their joy and promote Arts to the community. We celebrate and recognize our students' small successes in performing arts. Dazhong, Dare to Shine!
 
-(Insert JO 02 Image)
+![](/images/JO%2002.jpg)
 
 
 **Junior Orchestra Budding Talent Management Music Programme**
@@ -96,7 +96,7 @@ On 15 September 2022 (Thursday), selected Primary 2 students embarked on the Jun
 Our Dalcroze-trained or Orff-trained Musicianship instructor EXCITES and ENGAGES our students by guiding them in understanding music and movement with the use of the piano as well as singing and dancing with them to help them appreciate the rudiments of music. We hope that this programme will serve as a stepping stone for our students, EMPOWERING them to become self-directed musicians who are motivated to further hone their instrumental skills in music playing and their passion in the music field.
 Students who join this programme will automatically be enrolled into our school’s Junior Orchestra CCA from Primary 3 onwards!
 
-(Insert JO 03 Image)
+![](/images/JO%2003.jpg)
 
 
 **Singapore Youth Festival Arts Presentation 2022 – Flexible Band**
@@ -145,4 +145,4 @@ On 25 May 2022 (Wednesday), our Primary 4 and 5 Junior Orchestra (JO) students w
 
 Through attending this concert, the JO students were excited about orchestral music as they were engaged in broadening their musical learning experiences as well as empowered to become more self-directed orchestra players!
 
-(Insert JO 04 Image)
+![](/images/JO%2004.jpg)
