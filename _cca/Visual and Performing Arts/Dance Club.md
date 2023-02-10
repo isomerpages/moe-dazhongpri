@@ -44,7 +44,7 @@ _______________________________________________________________
 ![](/images/Dance%2001.jpg)
 ![](/images/Dance%2002.jpg)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZQYHyshf1Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQYHyshf1Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Hong Kah North CC**
