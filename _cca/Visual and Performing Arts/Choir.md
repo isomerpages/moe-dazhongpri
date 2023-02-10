@@ -6,35 +6,45 @@ third_nav_title: Visual and Performing Arts
 ---
 ### Choir
 
-The Dazhong Choir comprises passionate individuals aged 8 to 12 years old. During the bi-weekly practices on Tuesdays and Fridays, the choristers are given further instructions on musical literacy, musicianship and proper vocal training. Under the baton of our Choir conductor, Ms Lim Huimin, the choristers are exposed to a wide repertoire of songs in various languages.
+**CCA Overview**
 
-<img src="/images/vpa8.png" style="width:80%">
+Choir is an engaging, exciting and fun CCA for music lovers! With Choir, the members have the opportunity to highlight their talents in choral singing and develop their passion for music.  As members, they will hone their talents in the field of singing and build discipline and good character during training sessions and performances.
 
-Dazhong Primary School aims to develop in the choir members for a passion in music, a disciplined mind and an enhanced self and social awareness. The school seeks to provide opportunities for the choir members to participate in school and community events so as to promote cultural excellence, community and national pride. In 2019, the Dazhong Choir was invited to perform at various public performances, which includes the MDIS Scholarship Ceremony, SYF Illuminate! at Kampong Admiralty, and a community flashmob at Bukit Gombak Market Square. The Dazhong Choir was also invited twice to perform on Capital 95.8 FM’s Sunday Morning Breakfast Show《周末早早起》.
+As choral singers, they have a responsibility to focus and memorise the lyrics and master the choral singing techniques taught. It requires hard work and perseverance as each member needs to develop excellence, self-discipline and teamwork to ensure that they sing with pride together harmoniously.  All these are in line with our school vision, mission and motto.  
 
-<img src="/images/vpa9.png" style="width:80%">
+Opportunities are created for students to showcase their talents through internal and external performances, such as Singapore Youth Festival Arts Presentation (SYF), DZ 85th Anniversary, Hong Kah North National Day Celebration and School Prize Giving Day. Through performances, the students will learn to appreciate music and build their confidence when performing in front of an audience and sing proudly. Our Choir has also collaborated with other schools for exchange programmes and joint concert performances. 
 
-In 2020, the Choir was once again invited on Capital 95.8 FM’s Sunday Morning Breakfast Show. The Dazhong Choir was also invited as the guest Choir for Hillgrove Secondary School’s choir concert titled _Crescendo_, where they enthralled the audience with their melodious voices. Some of our Choir students have also been talent scouted to join the Voices of Singapore Children’s Choir.
+Since 2020, five of our Choir members were given a chance to join as members of Voices of Singapore Children’s Choir (VOSCC). The VOSCC seeks to musically develop children as singers, individuals and performers, with great importance placed on character building and inculcating the Singaporean Identity. 
 
-**Hong Kah North National Day Celebration @ West Rock & HKNCC**
+We believe that all these opportunities will excite and engage students and help to develop their stage confidence while having fun and making friends with choristers from different experiences. These will also empower them to be self-directed leaders and serve in our community. Our Choir alumni will also be formed this year 2023. We do welcome all our Choir alumni to come back to serve
 
-We are pleased 👏 to announce that our school’s Performing Arts CCA students in Choir, Dance and Junior Orchestra will be performing at the Dazhong Primary-HKNCC Collaboration National Day Celebration 2022 on 30 July 2022, Saturday. We would like to encourage members of the public to come down to watch our students perform 🥰!
 
-  
+**CCA Schedule**<br>
+**Time**<br>
+**Tuesdays:** 7.40 a.m. to 9.40 a.m.<br>
+**Thursdays:** 2.10 p.m. to 4.10 p.m.
 
-**Hong Kah North National Day Celebration @ West Rock**
+**Venue**<br>
+Music Room 1
 
-Venue: West Rock (Blk 461C Bukit Batok West Avenue 6)  
-Performance Time: **3.30 p.m.**
-<br>Performing Groups: Junior Orchestra – Percussion Ensemble 🥁
 
-**Hong Kah North National Day Celebration @ Hong Kah North Community Club**
+**Teachers-in-Charge:**<br>
+Miss Yu Minli Emmeline<br>
+Mdm Norlila<br>
+Miss Deborah Eu Sher Min<br>
+Mrs Evelyn Lim
 
-Venue: Hong Kah North Community Club  
-Performance Time: **7.00 p.m.** <br>Performing Groups: Choir 👩‍🎤, Dance 💃, Junior Orchestra – String Ensemble 🎻 
+**Instructors:**<br>
+Mr Chua Yang Ming Lennie
 
-Our Advisor, Dr [Amy Khor](https://www.facebook.com/AmyKhorPage?__cft__%5b0%5d=AZUhvs2MqMTzXb432dzWYt34F011blf79-hfcChOnWR2hApP9Xxd0YDwPu5vobsqdOtFMgMbkjEEpAh2nfnm0B7oRgZlEt2FldRCitGucRpeWLozk7FXP-YLiYgiR2RtcC_3a4rFIvovnJQir5_rJxHsFjrqwmjyDaayEC05DNH-HS0Nwd3P20CLeeIazZRW3IybFvQ-QSPmUbl5CQbWEhKP&__tn__=-%5dK-y-R), and Celebrity Emcees, [PeiFen李佩芬](https://www.facebook.com/peifenleee?__cft__%5b0%5d=AZUhvs2MqMTzXb432dzWYt34F011blf79-hfcChOnWR2hApP9Xxd0YDwPu5vobsqdOtFMgMbkjEEpAh2nfnm0B7oRgZlEt2FldRCitGucRpeWLozk7FXP-YLiYgiR2RtcC_3a4rFIvovnJQir5_rJxHsFjrqwmjyDaayEC05DNH-HS0Nwd3P20CLeeIazZRW3IybFvQ-QSPmUbl5CQbWEhKP&__tn__=-%5dK-y-R) & Tian Yue, will be attending the National Day Celebration Concert & Carnival. Join us for a night of entertainment, games, prizes & performances at our Hong Kah North Community Club from 6 p.m. to 9.30 p.m.! Register today using the QR code in the poster. See you and your family/friends there! 
+________________________________________________
 
-Facebook link: [https://m.facebook.com/HongKahNorthCC/](https://m.facebook.com/HongKahNorthCC/)
+**Achievements/ Peak of Excellence/ CCA in Actions**
 
-<img src="/images/vpa10.png" style="width:80%">
+**SYF 2022 Presentation:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTQNfxMRrGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![](/images/Choir01.jpg)
+![](/images/Choir02.jpg)
+![](/images/Choir03.jpg)
+![](/images/Choir04.jpg)

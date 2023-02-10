@@ -6,86 +6,71 @@ third_nav_title: Uniformed Groups
 ---
 ### Brownies
 
-The Brownies 1st Pack consists of 35 Brownies and 12 Tweenies (P3-P5). Our pack meetings are held every Tuesday from 7.40am to 9.40am
+**CCA Overview**
 
-The Brownies participate in indoor and outdoor activities that challenge them. They learn through both working as an individual and as an active team member.
+The Brownies 1st pack consists of 32 Brownies and 37 Tweenies (P3-P6). Our pack meetings are held every Tuesday from 7:40am to 9:40am.
 
-Badges are awarded to Brownies who complete the tasks listed in the Badge test-work from the Singapore Girl Guides Association. In addition, pupils also participate in special activities and events throughout the year such as World Thinking Day, National Revel, West Division Day, and the Annual Fundraising Cookies Sales Project.
+Dazhong Primary School, Brownies are given opportunities to learn various new skills (e.g. sewing and craftwork) and challenged to adventurous activities that will inspire them to think about what they want to be and do in the future. 
 
-**Achievements and Events**
+Brownies learn to work and play independently and in teams. On special occasions, Brownies participate in joint learning adventures with other Brownie or Girl Guide units. 
 
-**West Division Day (WDD) 2021** <br>The Dazhong Brownies took part in several asynchronous competitions during WDD. One of the competitions ‘Get Creative with TikTok’ allowed the girls to exercise their creativity for a good cause, promoting Peacebuilding. The other competition was ‘Caption the Moment’. The girls had to capture an image which embodied the theme for ‘Girl for Sustainable Development Goals – Peacebuilding’. Our Brownies received the Silver Award for both. 
+Badges are awarded to Brownies who complete the tasks listed in the Badge test-work from the Singapore Girl Guides Association. In addition, they also participate in Special activities and events throughout the year such as World Thinking Day, National Revel, West Division Day, and the Annual Fundraising Cookies Sales Project.
 
-  
-_Credits to:   
-TikTok participants - Dania Iman 6P, Is’na Qisreisya 6P, Siti Najwa 6I, Fellah Keysha 4I, Amber Loh 4P, Nur Haziqah 6R & Miss Salma  
-Caption the Moment participants – Fatiha Tasnim 3A, Nur Dafinah 3G, En Tong 5A, Jiajun 3G, Mdm Chen Xiang & Ms Nusrat_
 
-Watch the video to see how the girls innovatively brought their message across. 
+**CCA Schedule**<br>
+**Day/Time:**<br> Every Tuesday morning; 07:40am to 09:40am.<br>
+**Venue:**<br> 3A 3E, 3R Classrooms (Level 5) and Level 4 Open Space
 
-TikTok video
 
-Insert video here.
+**Teachers-in-Charge:**<br>
+Mdm Yap Lay Hong (IC)<br>
+Mrs Lim-Tan Jue Ying (2IC)<br>
+Mdm Shoba<br>
+Ms Wydre Kwek Wei Ting<br>
+Ms Lin Huiyu Vanessa
 
-Take a look at their beautiful image.   
-Sharing is FUN!
+__________________________________________
 
-<img src="/images/ug1.png" style="width:60%">
+**Achievements/ Peak of Excellence/ CCA in Actions**
 
-**Puan Noor Aishah Award (PNA)**  
+**PNA Awards**<br>
+2021 - Bronze<br>
+2022 - Bronze
 
-Our Brownies (Dazhong Primary 1st Pack) have been awarded the Puan Noor Aishah Award (Gold) for their achievements in 2018.
+**2022**<br>
+**West Division Day**<br>
+Let’s Get Physical- First Runner Up<br>
+Eye For Life- First Runner Up<br>
+Spruce- A- Bag-First Runner Up
 
-The PNA Award is presented annually to outstanding packs that have successfully fulfilled the criteria set by Girl Guides Singapore. These include participation in division and national activities and competition, community involvement and the attainment of Proficiency Badges.
+**National Revel Competition**<br>
+Poster Design – Second Prize
 
-**World Thinking Day (WTD) Carnival  2019**
 
- Dazhong Brownies joined forces with De La Salle Brownies to set up a Pokemon-themed bowling stall in the WTD carnival. The stall comprised of plastic bottles, reused balls, cardboard pieces and uncooked rice to make the stall as environmentally-friendly as possible. The Brownies were assigned specific tasks before and during the carnival which they had to be responsible over. During the carnival, each school manned the game stall for 4 hours and did their best to drum up the sales by persuading carnival-goers and walking around advertising the game stall. This event also gave them the opportunity to showcase and practise their leadership and entrepreneurial skills. Kudos to the Brownies.
- 
- <img src="/images/ug2.png" style="width:90%">
- 
- **World Thinking Day Dance Competition 2019 (Girls Got Talent-Champion)**
+**2021**<br>
+**World Thinking Day 2021**<br>
+Get Creative with Tik Tok- Silver Award<br>
+Caption the moment- Silver Award
 
-Besides setting up the game stall, three Brownies took part in ‘Girls Got Talent’ Finals and they came in first place based on the public votes. They had to juggle both school work and dance practice sessions. They also came up with the dance on their own.
 
-They were self-directed and exhibited both responsibility and excellence.
+**Events**
 
-<img src="/images/ug3.png" style="width:80%">
+(1) World Thinking Day 2022, “Our World, Our Equal Future”
+World Thinking Day 2022 celebrates women and girls who have made a difference as environmental changemakers. The Brownies participated in the Upcycling: Learn, Share, Teach! activity where they upcycled old bottles to create plastic bottle dustbins, shared their unique creations via Padlet and taught Brownies from other schools how to recreate their designs. 
 
-**West Division Day Competition 2019**
+![](/images/Brownie%2001.png)
 
-Our Brownies took part in the recent West Division Day Competition 2019 held at Fuhua Primary School. This is an annual event where Brownies from various schools are given the opportunity to interact with one another through fun-filled games and activities planned by Girl Guides Singapore. The friendly competitions created a platform for the Brownies to exchange knowledge and skills, to be gracious and to be prepared to serve with confidence.
+(2) West Division Campfire 2022
+West Division Campfire celebrates the Guiding spirit as a West Division to allow Guides and Brownies to collaborate and work together with their fellow sisters-in-guiding from other units. Last year, Brownies who took part in the campfire had the opportunity to showcase their talents and leadership potential through a series of fun games and activities organised by the West Division. 
 
-<img src="/images/ug4.png" style="width:60%">
+![](/images/Brownie%2002.png)
 
-**Some of the games our Brownies took part in are as follows:**  
+(3) National Day Observance Ceremony 2022
+Brownies and Scout led the National Day Observance Ceremony. 
 
-**a) Save the Fishes!**
+![](/images/Brownie%2003.jpg)
 
-Objective: To allow the students to understand how humans’ actions can inadvertently affect the environment and consequently understand the theme of ‘impact’.
+(4) National Revel Pre-Competition 2022, "Together, We Plog for the Future!" 
+National Revel Pre-Competition is an annual event for Brownies from different packs to meet for a range of fun activities and games. 
 
-<img src="/images/ug5.png" style="width:80%">
-
-**b) Poster Design!**
-
-Objective: To allow Brownies and Guides to showcase their creativity in spreading the message of being environmentally conscious.
-
-<img src="/images/ug6.png" style="width:60%">
-
-**c) Table Football!**  
-
-Objective: To promote team bonding and sportsmanship among girls and allow them to understand the significance of their actions upon others.
-
-<img src="/images/ug7.png" style="width:80%">
-
-**d) Captain’s Ball!**  
-
-Objective: To promote team bonding and sportsmanship among girls through Captain’s Ball.
-
-<img src="/images/ug8.png" style="width:80%">
-
-**Our girls emerged 2nd in the ‘Captain’s Ball’ Competition!**
-
-<img src="/images/ug9.png" style="width:80%">
-
-The girls persevered throughout all the competitions despite the challenges they faced. They kept motivating one another throughout the competitions whilst being enthusiastic and having fun.
+Brownies worked together in teams to design hand-drawn posters to encourage peer, family and community to keep their parks or neighbourhood clean. They also produced a cheer that advocates for a cleaner environment.
