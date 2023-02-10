@@ -49,11 +49,10 @@ _______________________________________________________________
 
 **Hong Kah North CC**
 
-(Insert Image)
-
-(Insert Image)
+<img src="/images/Dance%2003.jpg" style="width:80%">
+<img src="/images/Dance%2004.jpg" style="width:80%">
 
 
 **SYFgoesOnline! DanceVerve 22**
 
-(Insert Image)
+<img src="/images/Dance%2005.jpg" style="width:80%">
