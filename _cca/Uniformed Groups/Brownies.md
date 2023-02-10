@@ -58,20 +58,19 @@ Caption the moment- Silver Award
 (1) World Thinking Day 2022, “Our World, Our Equal Future”
 World Thinking Day 2022 celebrates women and girls who have made a difference as environmental changemakers. The Brownies participated in the Upcycling: Learn, Share, Teach! activity where they upcycled old bottles to create plastic bottle dustbins, shared their unique creations via Padlet and taught Brownies from other schools how to recreate their designs. 
 
-(Insert Image)
+![](/images/Brownie%2001.png)
 
 (2) West Division Campfire 2022
 West Division Campfire celebrates the Guiding spirit as a West Division to allow Guides and Brownies to collaborate and work together with their fellow sisters-in-guiding from other units. Last year, Brownies who took part in the campfire had the opportunity to showcase their talents and leadership potential through a series of fun games and activities organised by the West Division. 
 
-(Insert Image)
+![](/images/Brownie%2002.png)
 
 (3) National Day Observance Ceremony 2022
 Brownies and Scout led the National Day Observance Ceremony. 
 
-(Insert Image)
+![](/images/Brownie%2003.jpg)
 
 (4) National Revel Pre-Competition 2022, "Together, We Plog for the Future!" 
 National Revel Pre-Competition is an annual event for Brownies from different packs to meet for a range of fun activities and games. 
 
 Brownies worked together in teams to design hand-drawn posters to encourage peer, family and community to keep their parks or neighbourhood clean. They also produced a cheer that advocates for a cleaner environment.
-
