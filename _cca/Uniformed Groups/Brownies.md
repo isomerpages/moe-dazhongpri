@@ -6,11 +6,16 @@ third_nav_title: Uniformed Groups
 ---
 ### Brownies
 
-The Brownies 1st Pack consists of 35 Brownies and 12 Tweenies (P3-P5). Our pack meetings are held every Tuesday from 7.40am to 9.40am
+**CCA Overview**
 
-The Brownies participate in indoor and outdoor activities that challenge them. They learn through both working as an individual and as an active team member.
+The Brownies 1st pack consists of 32 Brownies and 37 Tweenies (P3-P6). Our pack meetings are held every Tuesday from 7:40am to 9:40am.
 
-Badges are awarded to Brownies who complete the tasks listed in the Badge test-work from the Singapore Girl Guides Association. In addition, pupils also participate in special activities and events throughout the year such as World Thinking Day, National Revel, West Division Day, and the Annual Fundraising Cookies Sales Project.
+Dazhong Primary School, Brownies are given opportunities to learn various new skills (e.g. sewing and craftwork) and challenged to adventurous activities that will inspire them to think about what they want to be and do in the future. 
+
+Brownies learn to work and play independently and in teams. On special occasions, Brownies participate in joint learning adventures with other Brownie or Girl Guide units. 
+
+Badges are awarded to Brownies who complete the tasks listed in the Badge test-work from the Singapore Girl Guides Association. In addition, they also participate in Special activities and events throughout the year such as World Thinking Day, National Revel, West Division Day, and the Annual Fundraising Cookies Sales Project.
+
 
 **Achievements and Events**
 
