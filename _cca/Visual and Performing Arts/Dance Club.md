@@ -13,3 +13,44 @@ third_nav_title: Visual and Performing Arts
 * Pick up dance skills and take part **in the different performance platforms**. E.g. Singapore Youth Festival, Festival Celebration in school, External competitions or performances
 * **Train** students to take up **leadership roles** to run the CCA as **a serving leader**
 * Be a more **Confident person and stage performer**.
+
+
+**CCA Schedule**<br>
+**All members:**<br> Tuesday 7:40am-9:40am<br>
+**School Team (Selected dancers):**<br> Thursday 2:15pm-4:15pm
+
+
+**Teachers-in-Charge:**<br>
+Mdm Sun Mingming<br>
+Ms Nuraishah<br>
+Mdm Chen Xiang<br>
+Ms Geraldine
+
+**Advisor:**<br>
+Ms Ng Boon Shuen
+
+**Instructors:**<br>
+Mr Quek Jiang Da<br>
+Ms Ang Lay Hoon<br>
+Ms Maycia Teh Ruyan
+
+
+_______________________________________________________________
+
+**Achievements/ Peak of Excellence/ CCA in Actions**
+
+**Singapore Youth Festival (SYF) 2022 Arts Presentation for Dance (International)**
+
+(Insert Image)
+
+(Insert Image)
+
+
+**Hong Kah North CC**
+
+(Insert Image)
+
+(Insert Image)
+
+
+**SYFgoesOnline! DanceVerve 22**
