@@ -41,9 +41,9 @@ _______________________________________________________________
 
 **Singapore Youth Festival (SYF) 2022 Arts Presentation for Dance (International)**
 
-(Insert Image)
+![](/images/Dance%2001.jpg)
 
-(Insert Image)
+![](/images/Dance%2002.jpg)
 
 
 **Hong Kah North CC**
