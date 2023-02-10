@@ -44,8 +44,7 @@ ________________________________________________
 **SYF 2022 Presentation:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bTQNfxMRrGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-
-
-
+![](/images/Choir01.jpg)
+![](/images/Choir02.jpg)
+![](/images/Choir03.jpg)
+![](/images/Choir04.jpg)
