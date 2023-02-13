@@ -51,13 +51,16 @@ P5- Tchouckball<br>
 P6- Tag Archery
 
 ![](/images/PE05.jpg)
+![](/images/PE06.jpg)
+![](/images/PE07.jpg)
+![](/images/PE08.jpg)
 
 
 **SwimSafer Programme**
 
 The SwimSafer Programme is aims to develop in our student’s important life skills such as swimming proficiency, water confidence and water safety. The programme will be carried out in 8 sessions.
 
-(Insert PE09)
+![](/images/PE09.jpg)
 
 
 **NAPFA**
