@@ -34,7 +34,11 @@ The P5 Outdoor Adventure Camp is a highlight of the curriculum experience at DZP
 
 The DZ Sports Day provides platform for students across all levels with the platform to demonstrate and apply the skills and knowledge they have acquired in PE lessons in an authentic competitive setting. It is also a great platform to celebrate students’ success and strengthen their sense of pride and belonging to school. The school encourages maximum participation and creates an opportunity for every student to participate in at least one event during Sports Day. 
 
-(Insert Sport Day Folder)
+![](/images/SportDay%20(1).png)
+![](/images/SportDay%20(2).png)
+![](/images/SportDay%20(3).jpg)
+![](/images/SportDay%20(4).png)
+![](/images/SportDay%20(5).png)
 
 
 **Sports Education Programme**
