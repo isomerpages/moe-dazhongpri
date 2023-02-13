@@ -63,3 +63,5 @@ The SwimSafer Programme is aims to develop in our student’s important life ski
 **NAPFA**
 
 P4 and P6 students will need to participate in the National Physical Fitness Assessment as part of the PE curriculum. For more information on NAPFA standards, click on following:
+
+[NAPFA PDF](/files/NAPFA%20STANDARDS%20Pri%20(%20from%202006)_with%20Performance%20Band.pdf)
