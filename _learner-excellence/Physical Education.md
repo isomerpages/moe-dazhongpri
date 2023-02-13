@@ -50,7 +50,7 @@ P4- Tag Rugby<br>
 P5- Tchouckball<br>
 P6- Tag Archery
 
-(Insert PE05 - 08)
+![](/images/PE05.jpg)
 
 
 **SwimSafer Programme**
