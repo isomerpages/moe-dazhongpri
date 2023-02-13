@@ -17,7 +17,7 @@ To nurture self-directed learners who demonstrates, individually and with others
 * **Engage:** Develop self-directedness and ownership in leading an active and healthy lifestyle
 * **Empower:** Enabling applications of learning in PHE towards growing an active and healthy self
 
-(Insert PE01)
+![](/images/PE01.jpg)
 
 <u>**KEY PROGRAMMES**</u>
 
@@ -25,7 +25,9 @@ To nurture self-directed learners who demonstrates, individually and with others
 
 The P5 Outdoor Adventure Camp is a highlight of the curriculum experience at DZPS and is part of the National Outdoor Adventure Education Masterplan which MOE has put in place to strengthen the holistic development of all our students.  Through this camp, we seek to develop in our student’s independence, responsibility, leadership and collaborative skills through outdoor adventure setting. With the love for the outdoors, students will show care for the nature and be aware of the importance of a more sustainable Singapore. The camp is a platform for fostering in our students discipline and teamwork and enhancing their physical and mental robustness. 
 
-(Insert PE02 - 04)
+![](/images/PE02.jpg)
+![](/images/PE03.jpg)
+![](/images/PE04.jpg)
 
 
 **Sports Day**
@@ -57,5 +59,3 @@ The SwimSafer Programme is aims to develop in our student’s important life ski
 **NAPFA**
 
 P4 and P6 students will need to participate in the National Physical Fitness Assessment as part of the PE curriculum. For more information on NAPFA standards, click on following:
-
-
