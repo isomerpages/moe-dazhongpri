@@ -19,7 +19,7 @@ To nurture self-directed learners who demonstrates, individually and with others
 
 ![](/images/PE01.jpg)
 
-<u>**KEY PROGRAMMES**</u>
+<u><b>KEY PROGRAMMES</b></u>
 
 **P5 Outdoor Adventure Camp**
 
