@@ -8,37 +8,26 @@ third_nav_title: Visual and Performing Arts
 
 **CCA Overview**
 
-Dazhong Primary School is currently the only primary school in Singapore offering a full Junior Orchestra (JO). At present, the members of the Orchestra stand at 91 members strong. One of the key aims of this programme is to uplift students through music and by providing opportunities that they may not have access to.
-
-Junior Orchestra is an extension of the Learning for Life Programme (LLP) and is part of the Arts Education Programme@Dazhong (AEP@Dazhong). As part of AEP, all Primary 1 to 3 students go through the String Ensemble (violin) music programme. Students who show an aptitude and interest in the performing arts are invited to further develop their skills and deepen their passion through JO. The JO programme has brought about positive outcomes for our students. They are more attuned to their social and emotional competencies and their self-efficacy has seen positive growth.
- Our Junior Orchestra students had performed in many outreach community platforms like at Hong Kah North Community Club National Day events, National Gallery, SYF Arts Presentation as well as President Charity Show. Our students are featured in Lian He Zao Bao as well as Suria TV. 
+Dazhong Primary School is currently the only primary school in Singapore offering a full Junior Orchestra (JO). At present, the members of the Orchestra stand at 100 members strong. One of the key aims of this programme is to uplift students through music and by providing opportunities that they may not have access to.
 
 **Objectives of Dazhong Junior Orchestra:**
-* Provide interested students who cannot afford private instrumental lessons the opportunities to learn music;
-* Engage under-privileged and at-risk students meaningfully in musical and orchestral activities;
-* Develop students’ self-esteem, discipline, confidence and perseverance; and
-* Develop students in social and emotional competencies in the domains of self-management and relationship management skills.
 
-Dazhong Junior Orchestra seeks to build a vibrant arts culture in school and community at large, and to have an inspirational arts environment for our students. 
-
-Our school’s Junior Orchestra seeks to:
-* **Excite** and motivate our students to shine and display their musical talents;
-* **Engage** our students so that the exposure and experience help them to feel a deeper sense of involvement through their performances to their peers, teachers and important stakeholders; and
-* **Empower** our students to be confident performers and active contributors through the arts.
+Besides equipping our JO students with musical knowledge and 21cc skills, JO programme is set up to:<br>
+* uplift and transform young lives through music (social change).
+* provide our students opportunities and multiple pathways based on their strengths, interests and talents.
 
 
-Our school’s Junior Orchestra aims to develop the 3As (Awareness, Action and Advocacy) in our students:
-* **Awareness:** Boost students’ confidence and help build greater awareness of music.
-* **Action:** Share and perform various repertoire selection, and express and communicate with the audience through performances.
-* **Advocacy:** Collaborate with other performers to help tell their stories through music for all to understand and enjoy.
+Junior Orchestra is an extension of the Learning for Life Programme (LLP) and is part of the Arts Education Programme@Dazhong (AEP@Dazhong). As part of AEP@Dazhong, all Primary 1 to 3 students go through the String Ensemble (violin) music programme. Students who show an aptitude and interest in the performing arts are invited to further develop their skills and deepen their passion through JO. The JO programme has brought about positive outcomes for our students. They are more attuned to their social and emotional competencies and their self-efficacy has seen positive growth. Our Junior Orchestra students had performed in many outreach community platforms like at Hong Kah North Community Club National Day events, National Gallery, SYF Arts Presentation as well as President Charity Show. Our students are featured in the Straits Times, Lian He Zao Bao as well as Suria TV.
 
+**Junior Orchestra as Uplift Force – Inclusive Music approach**
 
+Taking an inclusive approach, the Junior Orchestra provides students with access to learning an individual instrument and strengthen music education. In order to create an inclusive music environment with meaningful learning experiences for all students, teachers leverage the school’s value of Acceptance to instill the importance of this value by teaching students how to accept all students regardless of their backgrounds or abilities.
 
-With the development of JO curriculum at Dazhong Primary School, our students are equipped with the necessary knowledge and skills to explore further their interests in the various fields of instrumental playing and in their secondary school of choice or through Direct School Admission (DSA). Some of our students have also been identified for the SOTA Temasek Foundation Award for Arts Development. Our students have been given opportunities to participate in school and community events, collaborate with other schools, and perform at community and/or national level. 
+With the development of Music curriculum at Dazhong Primary School, our students are equipped with the necessary knowledge and skills to explore further their interests in the various fields of instrumental playing and in their secondary school of choice or through Direct School Admission (DSA). Some of our students have also been identified for the SOTA Temasek Foundation Award for Arts Development. Our students have been given opportunities to participate in school and community events, collaborate with other schools, and perform at community and/or national level.
 
-Dazhong Junior Orchestra has collaborated with Methodist Girls’ School since 2018. The MGS students have inspired our Dazhong students with their talents and skills in music making. MGS students were given the opportunity to mentor our Dazhong students. Our students have benefited from this collaboration with MGS as it has helped them to become more confident, more focused and more disciplined.
+Dazhong Junior Orchestra has collaborated with Methodist Girls’ School (MGS) since 2018. The MGS students have inspired our Dazhong students with their talents, knowlwedge and skills in music making. Our students have benefited from this collaboration with MGS as it has helped them to become more confident, focused and disciplined. In 2023, Dazhong Junior Orchestra collaborates with NUS Yong Siew Toh Conservatory of Music (NUS YST) through sessions in which YST students are guided towards coaching our Dazhong musicians through their undergraduate module, Orchestral Pedagogy. This culminates in a Children’s Concert in which our JO students perform side by side with YST students in a family-oriented concert at the Conservatory Orchestra Hall at NUS YST.
+The school also firmly believes that music can bring about social change and has helped transform the lives of many of our students. Many JO students have joined the JO alumni and exemplified the vision of serving leaders by giving back to their juniors by coaching and mentoring them. Junior Orchestra Programme helps to inspire students to share their love of music and bring joy to the community and all.
 
-In 2023, Dazhong Junior Orchestra collaborates with NUS Yong Siew Toh Conservatory of Music (NUS YST) through sessions in which YST students are guided towards coaching our Dazhong musicians through their undergraduate module, Orchestral Pedagogy. This culminates in a Children’s Concert in which our JO students perform side by side with YST students in a family-oriented concert at the Conservatory Orchestra Hall at NUS YST.
 
 **CCA Schedule**<br>
 Tuesdays, 7.40 a.m. to 9.40 a.m.<br>
