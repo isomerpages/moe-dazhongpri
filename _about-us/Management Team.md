@@ -33,10 +33,8 @@ description: ""
 |  24	|  LT PE 	| Mr Wee Boon Nee<br>_[Wee\_boon\_nee@moe.edu.sg](mailto:Wee_boon_nee@moe.edu.sg)_   	|
 | 25 	| LT MUSIC 	| Mdm Chan Wee Teng Dawn<br>_[*chan_wee_teng_dawn@moe.edu.sg*](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
 | 26 	| LT CL 	| Mdm Ng Boon Shuen<br>_[ng\_boon\_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
-| 27 	| LT CL 	| Mdm Ng Boon Shuen<br>_[ng\_boon\_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
-| 28 	| ST SCI 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
-| 29 	| ST ART 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	|
-| 30 	| ST CCE 	| Mdm Suriatie Bte Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	|
-| 31 	| ST EL 	| Ms Uma Vicnesvare D/O Thurairaj<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	|
-| 32 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
-
+| 27 	| ST SCI 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
+| 28 	| ST ART 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	|
+| 29 	| ST CCE 	| Mdm Suriatie Bte Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	|
+| 30 	| ST EL 	| Ms Uma Vicnesvare D/O Thurairaj<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	|
+| 31 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
