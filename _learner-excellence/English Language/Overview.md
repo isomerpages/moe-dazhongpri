@@ -6,46 +6,45 @@ third_nav_title: English Language
 ---
 ### English Language
 
-<img src="/images/el4.png" 
-     style="width:60%">  
+![](/images/EL01.jpg)		 
 
-##### P1 Orientation Supporting Your Child in Reading
+**Supporting Your Child in Reading**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1yLHSS2m5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Vision: 
+#### Vision: 
 
-##### A _self-directed_ and _empathetic communicator_ who loves Singapore  
+An effective, affective and self-directed English Language learner and user 
 
-  
-
-##### Mission:
+#### Mission:
 
 To nurture students to be self-directed and empathetic communicators, discerning readers and creative inquirers (EL Syllabus 2020)
 
-  
+**Key Approaches:**
 
-##### Key Approaches:
+* **Excite** – inculcate the values of language learning and excite students to want to use English Language as a form of communication through authentic experiences and play
+* **Engage** – involve students in their learning so that they will be active learners and provide reflection checkpoints to develop metacognitive skills
+* **Empower** – design lessons and programmes such as students have a choice in their own learning. Provide students the autonomy to direct their own learning to develop them into agents of change to lead others.
 
-1. Self-directed learning through ICT-enabled lessons (Excite and Engage)  
+*Differentiated instructions will be infused through the 3 key approaches above.
 
-<img src="/images/el5.png" 
-     style="width:60%">  
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCNy-1_8E5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**1. Self-directed learning through ICT-enabled lessons (Excite and Engage)**
+
+<img src="/images/EL02.jpg" 
+     style="width:100%">  
+		   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UE5D8S4yDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Blended learning and technology-enabled lessons allow our students to learn deeply at their own pace, collaborate with peers and still have the autonomy to pursue their areas of interest. Teachers leverage ICT to cater to students with differing readiness, interests and learning styles.  
 
-2. Dare to Read (Excite, Engage, and Empower)
+**2. Dare to Read (Excite, Engage, and Empower)**
 
-  
-
-\- Read today, lead tomorrow.  Believing that reading is fundamental to language acquisition, the department builds a culture of reading through Dare to Read, a whole-school approach to reading.  (Engage and Empower)<br>
-\- Relevant, authentic and personal learning experiences through the discussion of contemporary, environmental and sustainability issues so as to take action and effect change (Excite and Empower)
+* Read today, lead tomorrow. Believing that reading is fundamental to language acquisition, the department builds a culture of reading through Dare to Read, a whole-school approach to reading. (Engage and Empower)
+* Relevant, authentic and personal learning experiences through the discussion of contemporary, environmental and sustainability issues so as to take action and effect change (Excite and Empower)
 
 The school’s Media Resource Library, D’ Safari, reaches out to students through a wide variety of programmes and activities. Parents, grandparents and siblings can also join in the fun with students in some of our programmes which are specially designed to promote bonding and fun.
 
-##### Avid Reader Card
+**Avid Reader Card**
 
 <img src="/images/el6.png" 
      style="width:80%">
@@ -53,89 +52,50 @@ The school’s Media Resource Library, D’ Safari, reaches out to students thro
 Taking inspiration from the popular Young Scientist Card, the Avid Reader Card was introduced to stimulate an interest in reading and nurture a love of reading. Comprising a series of self-directed tasks designed for Lower and Upper Primary students, each completed task earns students stars, which may be redeemed for a reading reward at D’Safari. A compilation of the best work is showcased termly.
 
 <img src="/images/el7.png" 
-     style="width:60%">
+     style="width:80%">
  
-##### Hunt for the Book  
-
-<img src="/images/el8.png" 
-     style="width:60%">
-
-  
-Well-received by students, the Hunt for the Book Challenge encourages students to visit the library. Each term, 3 golden tickets are placed in selected books (fiction, non-fiction and local author). To exchange these tickets for stars, students have to answer a question about the book correctly.  
-
 **Dare to Read (SLS)**
 
 <img src="/images/el9.png" 
-     style="width:60%">
+     style="width:80%">
 
 Tapping on the affordances of the Student Learning Space (SLS) and other ICT tools, the Library Team curates digital stories recorded by teachers and students and assigns “lessons” to students through the English Language teachers. In these lessons, students view book recommendations by Dazhong teachers, listen to stories read by teachers and schoolmates and complete quizzes and activities based on the featured stories.
 
 **Thematic Book Display**
 
 <img src="/images/el10.png" 
-     style="width:60%">
+     style="width:80%">
 
   Every month, the book display is refreshed to feature the school’s wide collection of books. Besides having selected books on display, there are also theme-based activity sheets. Students turn in completed sheets for a small reading token.  
 
 **Author of the Month Display**
 
 <img src="/images/el11.png" 
-     style="width:60%">
+     style="width:80%">
 		 
 The library showcases a different author every month. Students read biographies about writers and learn what sparked an interest in writing. Hopefully, they get inspired to write a short story or two!
 
 **Blind Date with a Book**
 
 <img src="/images/el12.png" 
-     style="width:60%">
+     style="width:80%">
 
 Don’t judge a book by its cover! Wrapped with recycled paper, students borrow age-appropriate mystery books that are tagged with clues.
-
-<img src="/images/el13.png" 
-     style="width:60%">
   
-3. EL Fiesta (Excite, Engage and Empower)
+**3. Stories Come Alive (Excite, Engage and Empower)**
 
-The week-long **International Friendship Day-cum-English Language Fiesta** is one of our highlights.  Students immerse in fun and authentic language activities in and outside the classrooms, taking a break from their usual lessons.
+![](/images/EL04.jpg)
 
-| Level 	| EL Fiesta Activity 	|
-|:---:	|:---:	|
-| Primary 1 	| Writing an acrostic poem for a classmate 	|
-| Primary 2 	| Making a clay figurine of an endangered Asian species 	|
-| Primary 3 	| Reader’s Theatre with a message on friendship, caring for the environment, etc 	|
-| Primary 4 	| Ice-cream making; creating a unique Asian flavour 	|
-| Primary 5 	| Asian Café, Book cart decoration 	|
-| Primary 6 	| Asian Cafe 	|
+To commemorate World Book Day, well-loved book characters from around the world gather at Dazhong Primary School every year to inspire the love of reading in Stories Come Alive! As concerned citizens, our students and staff endeavour to put on their Green Maker hats and create their costumes using recycled materials. Students also come together to share about their favourite books and encourage their peers to read!
 
-Through these activities, students experience for themselves how the four skills of listening, speaking, reading, and writing come alive.  Students especially love the Asian Café recess booths put up by their P5/6 seniors and **Stories Come Alive** when they get to come dressed as their favourite book character to share their love for reading.
+**4. Students Talk about News at Dazhong (STAND) (Empower)**
 
-  
+![](/images/EL05.jpg)
 
-4. Students Talk about News@Dazhong (STAND) (Empower)
+To develop empathetic communicators, every fortnight, the school tunes into STAND during morning assembly. Students are challenged to think critically about what they see or hear in the news and report the latest and most inspiring news happening in Singapore and around the world. Students acquire general knowledge and vocabulary, honing their listening and comprehension skills whilst being inspired to create a better Singapore.
 
-<img src="/images/el14.png" 
-     style="width:60%">
+**5. Programme for Active Learning (PAL) – Dare to Act (Excite and Engage)**
 
-To develop empathetic communicators, every fortnight, Students Talking About News in Dazhong comes on over the P.A. system during morning assembly, serving up the latest and most inspiring news happening in Singapore whilst challenging them to think critically about what they see/hear in the news.  Students acquire general knowledge and vocabulary, honing their listening and comprehension skills whilst being inspired to create a better Singapore. 
+![](/images/EL06.jpg)
 
-  
-
-5. Programme for Active Learning (PAL) - Speech and Drama Module (Excite and Engage)
-  
-<img src="/images/el15.png" 
-     style="width:60%">
-
-Through the P1 and P2 Speech and Drama PAL Module, students are inspired to develop a love for the English Language as they learn to express their thoughts and ideas confidently and effectively.  The programme is taught by our EL teachers who will bring well-loved STELLAR Big Books titles to live and introduce students to basic drama skills.   Students, through drama, learn to communicate ideas through discussion and group work and foster commitment and co-operation amongst their peers.
-
-  
-
-**Peaks of Excellence**
-
-1) Ranked in the top 4 schools in the West Zone - 
-
-(Team of 5: Gundre Darpana Reddy, Kuay Yu Hang, Rebecca Aung, Rowe Asha Widyarani, Yazh Bharathi)
-
-<img src="/images/el16.png" 
-     style="width:60%">
-		 
-2) Good Speaker Award (given to 10 speakers among all the participating students) - Kuay Yu Hang
+Through the P1 and P2 Speech and Drama PAL Module, students are inspired to develop a love for the English Language as they learn to express their thoughts and ideas confidently and effectively. The programme is taught by our very own English Language teachers who strive to bring well-loved STELLAR big book titles to life and introduce students to basic drama skills. Students, through drama, learn to communicate ideas through discussion and group work and foster commitment and co-operation amongst their peers.
