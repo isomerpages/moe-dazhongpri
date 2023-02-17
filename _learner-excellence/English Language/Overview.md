@@ -93,3 +93,9 @@ To commemorate World Book Day, well-loved book characters from around the world 
 ![](/images/EL05.jpg)
 
 To develop empathetic communicators, every fortnight, the school tunes into STAND during morning assembly. Students are challenged to think critically about what they see or hear in the news and report the latest and most inspiring news happening in Singapore and around the world. Students acquire general knowledge and vocabulary, honing their listening and comprehension skills whilst being inspired to create a better Singapore.
+
+**5. Programme for Active Learning (PAL) – Dare to Act (Excite and Engage)**
+
+![](/images/EL06.jpg)
+
+Through the P1 and P2 Speech and Drama PAL Module, students are inspired to develop a love for the English Language as they learn to express their thoughts and ideas confidently and effectively. The programme is taught by our very own English Language teachers who strive to bring well-loved STELLAR big book titles to life and introduce students to basic drama skills. Students, through drama, learn to communicate ideas through discussion and group work and foster commitment and co-operation amongst their peers.
