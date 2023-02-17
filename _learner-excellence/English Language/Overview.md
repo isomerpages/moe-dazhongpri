@@ -6,31 +6,32 @@ third_nav_title: English Language
 ---
 ### English Language
 
-<img src="/images/el4.png" 
-     style="width:60%">  
+![](/images/EL01.jpg)		 
 
-##### P1 Orientation Supporting Your Child in Reading
+**Supporting Your Child in Reading**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1yLHSS2m5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Vision: 
+#### Vision: 
 
-##### A _self-directed_ and _empathetic communicator_ who loves Singapore  
+An effective, affective and self-directed English Language learner and user 
 
-  
-
-##### Mission:
+#### Mission:
 
 To nurture students to be self-directed and empathetic communicators, discerning readers and creative inquirers (EL Syllabus 2020)
 
-  
+**Key Approaches:**
 
-##### Key Approaches:
+* **Excite** – inculcate the values of language learning and excite students to want to use English Language as a form of communication through authentic experiences and play
+* **Engage** – involve students in their learning so that they will be active learners and provide reflection checkpoints to develop metacognitive skills
+* **Empower** – design lessons and programmes such as students have a choice in their own learning. Provide students the autonomy to direct their own learning to develop them into agents of change to lead others.
 
-1. Self-directed learning through ICT-enabled lessons (Excite and Engage)  
+*Differentiated instructions will be infused through the 3 key approaches above.
+
+**1. Self-directed learning through ICT-enabled lessons (Excite and Engage)**
 
 <img src="/images/el5.png" 
-     style="width:60%">  
+     style="width:100%">  
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCNy-1_8E5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
