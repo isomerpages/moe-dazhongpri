@@ -86,46 +86,6 @@ Don’t judge a book by its cover! Wrapped with recycled paper, students borrow 
 
 ![](/images/EL04.jpg)
 
-The week-long **International Friendship Day-cum-English Language Fiesta** is one of our highlights.  Students immerse in fun and authentic language activities in and outside the classrooms, taking a break from their usual lessons.
+To commemorate World Book Day, well-loved book characters from around the world gather at Dazhong Primary School every year to inspire the love of reading in Stories Come Alive! As concerned citizens, our students and staff endeavour to put on their Green Maker hats and create their costumes using recycled materials. Students also come together to share about their favourite books and encourage their peers to read!
 
-| Level 	| EL Fiesta Activity 	|
-|:---:	|:---:	|
-| Primary 1 	| Writing an acrostic poem for a classmate 	|
-| Primary 2 	| Making a clay figurine of an endangered Asian species 	|
-| Primary 3 	| Reader’s Theatre with a message on friendship, caring for the environment, etc 	|
-| Primary 4 	| Ice-cream making; creating a unique Asian flavour 	|
-| Primary 5 	| Asian Café, Book cart decoration 	|
-| Primary 6 	| Asian Cafe 	|
-
-Through these activities, students experience for themselves how the four skills of listening, speaking, reading, and writing come alive.  Students especially love the Asian Café recess booths put up by their P5/6 seniors and **Stories Come Alive** when they get to come dressed as their favourite book character to share their love for reading.
-
-  
-
-4. Students Talk about News@Dazhong (STAND) (Empower)
-
-<img src="/images/el14.png" 
-     style="width:60%">
-
-To develop empathetic communicators, every fortnight, Students Talking About News in Dazhong comes on over the P.A. system during morning assembly, serving up the latest and most inspiring news happening in Singapore whilst challenging them to think critically about what they see/hear in the news.  Students acquire general knowledge and vocabulary, honing their listening and comprehension skills whilst being inspired to create a better Singapore. 
-
-  
-
-5. Programme for Active Learning (PAL) - Speech and Drama Module (Excite and Engage)
-  
-<img src="/images/el15.png" 
-     style="width:60%">
-
-Through the P1 and P2 Speech and Drama PAL Module, students are inspired to develop a love for the English Language as they learn to express their thoughts and ideas confidently and effectively.  The programme is taught by our EL teachers who will bring well-loved STELLAR Big Books titles to live and introduce students to basic drama skills.   Students, through drama, learn to communicate ideas through discussion and group work and foster commitment and co-operation amongst their peers.
-
-  
-
-**Peaks of Excellence**
-
-1) Ranked in the top 4 schools in the West Zone - 
-
-(Team of 5: Gundre Darpana Reddy, Kuay Yu Hang, Rebecca Aung, Rowe Asha Widyarani, Yazh Bharathi)
-
-<img src="/images/el16.png" 
-     style="width:60%">
-		 
-2) Good Speaker Award (given to 10 speakers among all the participating students) - Kuay Yu Hang
+**4. Students Talk about News at Dazhong (STAND) (Empower)**
