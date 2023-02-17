@@ -2,6 +2,7 @@ collections:
   learner-excellence:
     output: true
     order:
+      - English Language.md
       - English Language/.keep
       - English Language/Overview.md
       - Mother Tongue Languages.md
