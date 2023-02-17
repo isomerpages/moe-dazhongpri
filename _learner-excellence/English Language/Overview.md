@@ -30,9 +30,9 @@ To nurture students to be self-directed and empathetic communicators, discerning
 
 **1. Self-directed learning through ICT-enabled lessons (Excite and Engage)**
 
-<img src="/images/el5.png" 
+<img src="/images/EL02.jpg" 
      style="width:100%">  
-  
+		   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCNy-1_8E5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Blended learning and technology-enabled lessons allow our students to learn deeply at their own pace, collaborate with peers and still have the autonomy to pursue their areas of interest. Teachers leverage ICT to cater to students with differing readiness, interests and learning styles.  
