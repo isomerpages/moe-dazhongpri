@@ -89,3 +89,7 @@ Don’t judge a book by its cover! Wrapped with recycled paper, students borrow 
 To commemorate World Book Day, well-loved book characters from around the world gather at Dazhong Primary School every year to inspire the love of reading in Stories Come Alive! As concerned citizens, our students and staff endeavour to put on their Green Maker hats and create their costumes using recycled materials. Students also come together to share about their favourite books and encourage their peers to read!
 
 **4. Students Talk about News at Dazhong (STAND) (Empower)**
+
+![](/images/EL05.jpg)
+
+To develop empathetic communicators, every fortnight, the school tunes into STAND during morning assembly. Students are challenged to think critically about what they see or hear in the news and report the latest and most inspiring news happening in Singapore and around the world. Students acquire general knowledge and vocabulary, honing their listening and comprehension skills whilst being inspired to create a better Singapore.
