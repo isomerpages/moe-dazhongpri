@@ -119,6 +119,7 @@ To learn about Food Sustainability, our school also has our own earthworms that 
 *  ALBA/ESA Recycling Heroes - Certificate of Originality 2022
 *  Every Singaporean A Naturalist Biodiversity Race 2022 -  Most Unique Observation Award
 *  Dazhong’s green efforts recognized with NEA EcoFriend Award (Education) 2022
+*  Green Wave Environmental Care Competition 2022 - 2nd Place
 
 ![](/images/alp12.jpg)
 
