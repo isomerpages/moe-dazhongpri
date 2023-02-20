@@ -21,9 +21,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: 85th Anniversary 2023 Flashmob Community Outreach
+      description: Dazhong Primary School TDD 2023
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/Flashmob01.jpeg
+      image: /images/TDD.jpeg
       alt: Image alt text
 ---
