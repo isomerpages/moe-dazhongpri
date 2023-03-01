@@ -13,17 +13,12 @@ sections:
   - hero:
       background: /images/School-Gif-Banner_Without-Text.gif
       title: Dazhong Primary School
-  - infobar:
-      title: Parent Engagement Session (PES) 2023 - Resources
-      subtitle: Announcement
-      button: See More
-      url: /partnerships/pes-2023-resources/
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong Primary School TDD 2023
+      description: World Thinking Day and Founder's Day
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/TDD.jpeg
+      image: /images/Founder02.jpeg
       alt: Image alt text
 ---
