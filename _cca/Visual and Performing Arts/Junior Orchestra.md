@@ -25,7 +25,8 @@ Taking an inclusive approach, the Junior Orchestra provides students with access
 
 With the development of Music curriculum at Dazhong Primary School, our students are equipped with the necessary knowledge and skills to explore further their interests in the various fields of instrumental playing and in their secondary school of choice or through Direct School Admission (DSA). Some of our students have also been identified for the SOTA Temasek Foundation Award for Arts Development. Our students have been given opportunities to participate in school and community events, collaborate with other schools, and perform at community and/or national level.
 
-Dazhong Junior Orchestra has collaborated with Methodist Girls’ School (MGS) since 2018. The MGS students have inspired our Dazhong students with their talents, knowlwedge and skills in music making. Our students have benefited from this collaboration with MGS as it has helped them to become more confident, focused and disciplined. In 2023, Dazhong Junior Orchestra collaborates with NUS Yong Siew Toh Conservatory of Music (NUS YST) through sessions in which YST students are guided towards coaching our Dazhong musicians through their undergraduate module, Orchestral Pedagogy. This culminates in a Children’s Concert in which our JO students perform side by side with YST students in a family-oriented concert at the Conservatory Orchestra Hall at NUS YST.
+Dazhong Junior Orchestra has collaborated with Methodist Girls’ School (MGS) since 2018. The MGS students have inspired our Dazhong students with their talents, knowlwedge and skills in music making. Our students have benefited from this collaboration with MGS as it has helped them to become more confident, focused and disciplined. In 2023, Dazhong Junior Orchestra collaborates with NUS Yong Siew Toh Conservatory of Music (NUS YST) through sessions in which YST students are guided towards coaching our Dazhong students through their undergraduate module, Orchestral Pedagogy. This culminates in a Children’s Concert in which our JO students perform side by side with YST students in a family-oriented concert at the Conservatory Orchestra Hall at NUS YST.
+
 The school also firmly believes that music can bring about social change and has helped transform the lives of many of our students. Many JO students have joined the JO alumni and exemplified the vision of serving leaders by giving back to their juniors by coaching and mentoring them. Junior Orchestra Programme helps to inspire students to share their love of music and bring joy to the community and all.
 
 
@@ -48,6 +49,7 @@ Miss Shereen Ong<br>
 Mdm Humairah Rahman<br>
 Miss Charmaine Chia<br>
 Miss Lee Hon Choo<br>
+Miss Justina Tan Hui Ru<br>
 Mr Nasrul Bin Roslin
 
 **Instructors:**<br>
@@ -63,6 +65,14 @@ Miss Angeline Wee, Percussion Instructor
 __________________
 
 **Achievements / Peak of Excellence / CCA in Actions**
+
+**Dazhong Junior Orchestra - YST@NUS Children's Concert: Side by Side: 12th March 2023**
+
+It had been a wonderful and great learning journey for our JO students who were mentored by YST students from 4th February to 11th March 2023. A total of 6 mentoring sessions and finally a Children's concert where Dazhong JO students played side by side with their YST mentors at YST Concert Hall on Sunday, 12th March 2023. We celebrated our JO students' success through their performances. Some of our JO students did solo pieces while playing by ear as they listen and respond to the rhythm playing by the main conductor. Parents, JO alumni plus staff also came down to support the event.
+
+Dazhong, Dare to Shine! 🤩✨
+
+![](/images/JO_YST.jpg)
 
 **Dazhong JO Collaboration with Yong Siew Toh Conservatory of Music (4 February 2023) - JO 1st series of workshop collaborations with YST@NUS**
 
