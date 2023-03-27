@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: World Thinking Day and Founder's Day
+      description: "Junior Orchestra YST Children's Concert: Side by Side"
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/Founder02.jpeg
+      image: /images/JO_YST.jpg
       alt: Image alt text
 ---
