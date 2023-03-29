@@ -24,7 +24,7 @@ description: ""
 | 15 	| HOD CCE  	|  Ms Ananthy Marimuthu<br>[*ananthymarimuthu@moe.edu.sg*](mailto:ananthy_marimuthu@moe.edu.sg) 	|
 | 16	| School Staff Developer 	| Miss Turinadevi Devarajan <br>_[turinadevi\_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	|
 | 17 	|  SH CL 	| Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
-| 18 |  SH ICT 	|  Mr Kenneth Wong Chee Kian<br>_[kenneth\_wong\_chee\_kian@moe.edu.sg](mailto:kenneth_wong_chee_kian@moe.edu.sg)_	|
+| 18 |  HOD ICT 	|  Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_	|
 |  19	|  SH Data Management 	|  Mdm V Swarna Leela<br>_[V\_swarna\_leela@moe.edu.sg](mailto:V_swarna_leela@moe.edu.sg)_|
 | 20 |  SH SWB 	|  Mr Herman Bin Ponijo<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_	|
 | 21 |  SH PE & CCA 	|  Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_	|
