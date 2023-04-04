@@ -2,6 +2,7 @@ collections:
   dazhong-experience:
     output: true
     order:
+      - 85th Anniversary Celebrations/Community Day and Eco Fair.md
       - 85th Anniversary Celebrations/Dare to Shine Arts Fest.md
       - 85th Anniversary Celebrations/.keep
       - Overview.md
