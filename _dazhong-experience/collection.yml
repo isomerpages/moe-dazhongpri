@@ -2,13 +2,6 @@ collections:
   dazhong-experience:
     output: true
     order:
-      - Our Highlights/P1 Start Right!.md
-      - Our Highlights/.keep
-      - 85th Anniversary Celebrations/Overview.md
-      - 85th Anniversary Celebrations/Tree Planting Day.md
-      - 85th Anniversary Celebrations/Community Day and Eco Fair.md
-      - 85th Anniversary Celebrations/Dare to Shine Arts Fest.md
-      - 85th Anniversary Celebrations/.keep
       - Overview.md
       - Dare To Learn/.keep
       - Dare To Learn/English Language.md
@@ -28,3 +21,10 @@ collections:
       - Dare To Care/Sexuality Education.md
       - Dare To Care/Education and Career Guidance.md
       - Dare To Care/Internationalization.md
+      - 85th Anniversary Celebrations/.keep
+      - 85th Anniversary Celebrations/Overview.md
+      - 85th Anniversary Celebrations/Tree Planting Day.md
+      - 85th Anniversary Celebrations/Community Day and Eco Fair.md
+      - 85th Anniversary Celebrations/Dare to Shine Arts Fest.md
+      - Our Highlights/.keep
+      - Our Highlights/P1 Start Right!.md
