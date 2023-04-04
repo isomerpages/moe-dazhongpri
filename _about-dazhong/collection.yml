@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-dazhong:
     output: true
     order:
       - Principal's Message.md
