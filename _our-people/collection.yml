@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff.md
       - School Management Team (EXCO, LT and ST).md
