@@ -2,6 +2,7 @@ collections:
   about-dazhong:
     output: true
     order:
+      - The Dazhong Story/.keep
       - Principal's Message.md
       - Milestones.md
       - Vision, Mission and Values.md
