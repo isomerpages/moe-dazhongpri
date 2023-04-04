@@ -119,6 +119,9 @@ To learn about Food Sustainability, our school also has our own earthworms that 
 
 <img src="/images/ee2.png" style="width:80%">
 
+
+#### Environmental Education
+
  ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**“Dengue mobster” house visits**
 
 
