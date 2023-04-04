@@ -2,6 +2,7 @@ collections:
   dazhong-experience:
     output: true
     order:
+      - Our Highlights/P1 Start Right!.md
       - Our Highlights/.keep
       - 85th Anniversary Celebrations/Overview.md
       - 85th Anniversary Celebrations/Tree Planting Day.md
