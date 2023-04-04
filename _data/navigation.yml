@@ -31,20 +31,14 @@ links:
   - title: Dazhong Experience
     url: https://www.dazhongpri.moe.edu.sg/why-us/applied-learning-programme/
     sublinks:
-      - title: Applied Learning Programme
-        url: /why-us/applied-learning-programme/
-      - title: Learning for Life Programme
-        url: /why-us/learning-for-life-programme/
-      - title: Environmental Education
-        url: /why-us/environmental-education/
+      - title: Overview
+        url: /dazhong-experience/overview
       - title: P1 Start Right!
         url: /why-us/p1-start-right/
       - title: Appreciation Time @ DZ
         url: /why-us/appreciation-time-at-dz/
       - title: Internationalization Programme
         url: /why-us/internationalization-programme/
-      - title: SOAR Programme
-        url: /why-us/soar-programme/
   - title: Partnerships
     url: /partnerships/School-Information-and-Letters/dazhong-assessment-weightings-2021/
     sublinks:
