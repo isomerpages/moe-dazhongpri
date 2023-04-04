@@ -2,18 +2,18 @@ collections:
   dazhong-experience:
     output: true
     order:
-      - Dare To Learn/Information and Communication.md
-      - Dare To Learn/Aesthetics (Music, Art, AEP).md
-      - Dare To Learn/Physical Education.md
-      - Dare To Learn/Science.md
-      - Dare To Learn/Mathematics.md
-      - Dare To Learn/Mother Tongue Language.md
+      - Dare To Learn/.keep
       - Dare To Learn/English Language.md
-      - Dare To Learn/Environmental Education.md
+      - Dare To Learn/Mother Tongue Language.md
+      - Dare To Learn/Mathematics.md
+      - Dare To Learn/Science.md
+      - Dare To Learn/Physical Education.md
+      - Dare To Learn/Aesthetics (Music, Art, AEP).md
+      - Dare To Learn/Information and Communication.md
       - Dare To Learn/Applied Learning Programme.md
+      - Dare To Learn/Environmental Education.md
       - Dare To Learn/Learning for Life Programme.md
       - Dare To Learn/SOAR Programme.md
-      - Dare To Learn/.keep
       - Overview.md
       - P1 Start Right!.md
       - Appreciation Time @ DZ.md
