@@ -2,6 +2,7 @@ collections:
   dazhong-experience:
     output: true
     order:
+      - Dare To Learn/Aesthetics (Music, Art, AEP).md
       - Dare To Learn/Physical Education.md
       - Dare To Learn/Science.md
       - Dare To Learn/Mathematics.md
