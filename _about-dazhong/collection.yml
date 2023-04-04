@@ -2,9 +2,9 @@ collections:
   about-dazhong:
     output: true
     order:
-      - The Dazhong Story/Our News.md
-      - The Dazhong Story/.keep
       - Principal's Message.md
+      - The Dazhong Story/.keep
+      - The Dazhong Story/Our News.md
       - Milestones.md
       - Vision, Mission and Values.md
       - School Song.md
