@@ -2,12 +2,12 @@ collections:
   dazhong-experience:
     output: true
     order:
-      - Dare To Care/Education and Career Guidance.md
-      - Dare To Care/Sexuality Education.md
-      - Dare To Care/Values in Action.md
-      - Dare To Care/Character and Citizenship Education.md
-      - Dare To Care/Internationalization.md
       - Dare To Care/.keep
+      - Dare To Care/Character and Citizenship Education.md
+      - Dare To Care/Values in Action.md
+      - Dare To Care/Sexuality Education.md
+      - Dare To Care/Education and Career Guidance.md
+      - Dare To Care/Internationalization.md
       - Overview.md
       - Dare To Learn/.keep
       - Dare To Learn/English Language.md
