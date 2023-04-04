@@ -2,6 +2,7 @@ collections:
   dazhong-experience:
     output: true
     order:
+      - Dare To Learn/Applied Learning Programme.md
       - Dare To Learn/Learning for Life Programme.md
       - Dare To Learn/SOAR Programme.md
       - Dare To Learn/.keep
