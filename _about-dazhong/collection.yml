@@ -2,7 +2,6 @@ collections:
   about-dazhong:
     output: true
     order:
-      - For Staff.md
       - Principal's Message.md
       - The Dazhong Story/.keep
       - The Dazhong Story/Our News.md
@@ -10,3 +9,4 @@ collections:
       - School Song.md
       - School Advisory Committee.md
       - Contact Us.md
+      - For Staff.md
