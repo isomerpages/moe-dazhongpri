@@ -2,7 +2,6 @@ collections:
   learner-excellence:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - Physical Education.md
