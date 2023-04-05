@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports/Football.md
       - Sports/Netball.md
       - Sports/Wushu.md
       - Visual and Performing Arts/Choir.md
