@@ -1,5 +1,5 @@
 collections:
-  mk-at-dazhong:
+  mk-dazhong:
     output: true
     order:
       - Overview.md
