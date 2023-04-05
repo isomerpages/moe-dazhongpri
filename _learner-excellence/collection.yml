@@ -2,5 +2,4 @@ collections:
   learner-excellence:
     output: true
     order:
-      - Art Crafts.md
       - Information & Communications Technology.md
