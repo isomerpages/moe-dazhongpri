@@ -1,5 +1,4 @@
 collections:
   learner-excellence:
     output: true
-    order:
-      - Information & Communications Technology.md
+    order: []
