@@ -1,25 +1,6 @@
 logo: /images/DZlogo.png
 links:
   - title: About Dazhong
-    url: /about-dazhong/principals-message/
-    sublinks:
-      - title: Principal's Message
-        url: /about-dazhong/principals-message/
-      - title: The Dazhong Story
-        url: /about-dazhong/the-dazhong-story/our-news/
-      - title: Milestones
-        url: /about-dazhong/milestones/
-      - title: Vision, Mission & Values
-        url: /about-dazhong/vision-mission-values/
-      - title: School Song
-        url: /about-dazhong/school-song/
-      - title: School Advisory Committee
-        url: /about-dazhong/school-advisory-committee/
-      - title: MOE Kindergarten Staff
-        url: /about-dazhong/moe-kindergarten-staff/
-      - title: FAQ
-        url: /about-dazhong/faq/
-  - title: About Dazhong
     collection: about-dazhong
   - title: Our People
     collection: our-people
