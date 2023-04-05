@@ -2,9 +2,9 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - MOE Kindergarten Staff.md
       - Overview.md
       - About MK.md
+      - MOE Kindergarten Staff.md
       - Curriculum Goals.md
       - MK Virtual Tour.md
       - DZ Kindergarten Care.md
