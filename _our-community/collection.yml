@@ -2,7 +2,7 @@ collections:
   our-community:
     output: true
     order:
-      - Support Services/.keep
-      - Stakeholders/.keep
-      - Alumni/.keep
       - Parents/.keep
+      - Alumni/.keep
+      - Stakeholders/.keep
+      - Support Services/.keep
