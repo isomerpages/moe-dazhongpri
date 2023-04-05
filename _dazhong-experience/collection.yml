@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Dare To Learn/Art Crafts.md
       - Dare To Learn/Aesthetics.md
       - Dare To Learn/Physical Education.md
       - Dare To Learn/Science.md
