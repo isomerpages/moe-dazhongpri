@@ -2,7 +2,6 @@ collections:
   learner-excellence:
     output: true
     order:
-      - Science.md
       - Physical Education.md
       - Aesthetics.md
       - Art Crafts.md
