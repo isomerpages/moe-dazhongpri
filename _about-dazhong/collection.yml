@@ -2,10 +2,10 @@ collections:
   about-dazhong:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - The Dazhong Story/.keep
       - The Dazhong Story/Our News.md
       - Vision, Mission and Values.md
       - School Song.md
       - School Advisory Committee.md
+      - Contact Us.md
