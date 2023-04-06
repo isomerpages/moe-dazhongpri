@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parents/Calendar.md
       - Parents/.keep
       - Alumni/.keep
       - Stakeholders/.keep
