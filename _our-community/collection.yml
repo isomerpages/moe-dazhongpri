@@ -2,10 +2,10 @@ collections:
   our-community:
     output: true
     order:
-      - Parents/Financial Matters (To be filled).md
       - Parents/.keep
       - Parents/Calendar.md
       - Parents/School Letters & Announcement.md
+      - Parents/Financial Matters (To be filled).md
       - Parents/Parent Support Group.md
       - Alumni/.keep
       - Stakeholders/.keep
