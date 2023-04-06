@@ -2,10 +2,10 @@ collections:
   our-community:
     output: true
     order:
-      - Parents/Parent Support Group.md
-      - Parents/School Information & Letters.md
-      - Parents/Calendar.md
       - Parents/.keep
+      - Parents/Calendar.md
+      - Parents/School Information & Letters.md
+      - Parents/Parent Support Group.md
       - Alumni/.keep
       - Stakeholders/.keep
       - Support Services/.keep
