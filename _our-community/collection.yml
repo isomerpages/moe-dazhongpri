@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parents/Dads for Life 2023.md
       - Parents/Useful Information.md
       - Parents/.keep
       - Parents/Calendar.md
