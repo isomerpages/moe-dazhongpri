@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parents/School Information & Letters.md
       - Parents/Calendar.md
       - Parents/.keep
       - Alumni/.keep
