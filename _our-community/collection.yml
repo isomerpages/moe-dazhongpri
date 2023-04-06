@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parents/Secondary School Matters (To be filled).md
       - Parents/.keep
       - Parents/Calendar.md
       - Parents/School Letters & Announcement.md
