@@ -4,7 +4,7 @@ permalink: /our-community/parents/school-letters-announcement/
 description: ""
 third_nav_title: Parents
 ---
-### School Infomation &amp; Letters
+### School Infomation &amp; Announcement
 
 | Date 	| Title 	|
 |:---:	|:---:	|
@@ -19,28 +19,27 @@ third_nav_title: Parents
 <img src="/images/sil1.png" 
      style="width:100%">--->
 
-##### School Booklist 2023  
+### _Parent Engagement Session (PES) 2023 - Resources_
 
-[DZPS_Textbook and Stationery List for 2023.pdf](/files/DZPS_Textbook%20and%20Stationery%20List%20for%202023.pdf)
+Thank you parents for joining us today  for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.
 
-  
+**Principal Address**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5w4KVZ083o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-##### School Uniform  
+**P4 YH Sharing Slides**<br>
+[P4 YH Sharing.pdf](/files/P4%20YH%20Sharing_01.pdf)
 
-[School Uniform Order Form.pdf](/files/School%20Uniform%20Order%20Form%202021.pdf)
+**P5 YH Sharing Slides**<br>
+[P5 YH Sharing.pdf](/files/P5%20YH%20Sharing_01.pdf)
 
-  
+**P6 VP Sharing Slides**<br>
+[P6 VP Sharing.pdf](/files/P6%20VP%20Sharing%20(latest).pdf)
 
-##### Travel Declaration Form  
-[Travel Declaration Form for DZPS Students.pdf](/files/Travel%20Declaration%20Form%20for%20DZPS%20Students1.pdf)
+**P1, P2 FT Sharing Slides**<br>
+[P1, P2 FT Sharing.pdf](/files/P1%20and%20P2%20FT%20Slides.pdf)
 
-  
+**P3, P4 FT Sharing Slides**<br>
+[P3, P4 FT Sharing.pdf](/files/P3%20and%20P4%20FT%20Slides.pdf)
 
-##### Useful Forms
-
-1\. [Opt Out Form for GY Programme.pdf](/files/Opt%20Out%20Form%20for%20GY%20Programme.pdf) <br>
-2.  [Parent Support Group Application Form.pdf](/files/Parent%20Support%20Group%20Application%20Form.pdf) <br>
-3.  [GIRO_Application_Form.pdf](/files/GIRO_Application_Form.pdf)<br>
-4. [Application Form for MOE-SPED FAS.pdf](/files/Application%20Form%20for%20MOE-SPED%20FAS.pdf) <br>
-5.  &nbsp;[Information sheet for parents_School Transfer Service for Change of Residential Address.pdf](/files/Information%20sheet%20for%20parents.pdf) <br>
-6.  [Request Form_School Bus Services.pdf](/files/Request%20Form_School%20Bus%20Services%202022.pdf)
+**P5, P6 FT Sharing Slides**<br>
+[P5, P6 FT Sharing.pdf](/files/P5%20and%20P6%20FT%20Slides.pdf)
