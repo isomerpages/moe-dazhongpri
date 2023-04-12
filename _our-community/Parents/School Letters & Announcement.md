@@ -8,18 +8,18 @@ third_nav_title: Parents
 
 | Date 	| Title 	|
 |:---:	|:---:	|
-| 23 Nov 2022 	| [P1 2023 Orientation - Engagement Slides.pdf](/files/P1%202023%20Orientation%20-%20Engagement%20Slides.pdf)	|
-| 08 Feb 2023 	| [P6 Termly Review Letter.pdf](/files/Primary%206.pdf)	|
-| 08 Feb 2023 	| [P5 Termly Review Letter.pdf](/files/Primary%205.pdf)	|
-| 08 Feb 2023 	| [P4 Termly Review Letter.pdf](/files/Primary%204.pdf)	|
-| 08 Feb 2023 	| [P3 Termly Review Letter.pdf](/files/Primary%203.pdf)	|
+| 12 Apr 2023 	| [P6 Term 2 upates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p6%20t2.pdf)	|
+| 12 Apr 2023 	| [P5 Term 2 updates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p5%20t2.pdf)	|
+| 12 Apr 2023 	| [P4 Term 2 updates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p4%20t2.pdf)	|
+| 12 Apr 2023 	| [P3 Term 2 updates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p3%20t2.pdf)	|
+
 
 <!---##### PSLE Examination Timetable
 
 <img src="/images/sil1.png" 
      style="width:100%">--->
 
-### _Parent Engagement Session (PES) 2023 - Resources_
+#### _Parent Engagement Session (PES) 2023 - Resources_
 
 Thank you parents for joining us today  for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.
 
