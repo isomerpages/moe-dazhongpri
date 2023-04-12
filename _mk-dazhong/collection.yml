@@ -2,6 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
+      - MK Highlights/.keep
       - Overview.md
       - About MK.md
       - MOE Kindergarten Staff.md
