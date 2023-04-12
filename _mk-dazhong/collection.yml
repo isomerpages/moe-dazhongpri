@@ -2,7 +2,6 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - Past Events.md
       - Overview.md
       - About MK.md
       - MOE Kindergarten Staff.md
