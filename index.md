@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: "Junior Orchestra YST Children's Concert: Side by Side"
+      description: Dazhong Primary School celebrates 85th Anniversary
       button: See More
       url: https://www.facebook.com/dzpsofficial
-      image: /images/JO_YST.jpg
+      image: /images/2023 banner_v12.jpg
       alt: Image alt text
 ---
