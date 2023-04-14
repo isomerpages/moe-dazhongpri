@@ -18,7 +18,7 @@ sections:
       subtitle: Dazhong Primary School
       description: Dazhong Primary School celebrates 85th Anniversary
       button: See More
-      url: https://www.facebook.com/dzpsofficial
+      url: https://www.facebook.com/100057652470956/posts/pfbid0VHFHvCfG1ns9bCj516e6BCeWWso49ie5svMbCVUxzzB7KimpeLHySqSkt5grPkeEl/?mibextid=Nif5oz
       image: /images/2023 banner_v12.jpg
       alt: Image alt text
 ---
