@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 banner_v12.jpg
+      background: /images/School-Gif-Banner_v2.gif
       title: Dazhong Primary School
   - infopic:
       title: Updates
