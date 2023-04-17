@@ -17,7 +17,7 @@ description: ""
 |  1 Acceptance 	| Ms Foo Li Wei<br>_[foo_li_wei@moe.edu.sg](mailto:foo_li_wei@moe.edu.sg)_   	|  Mdm Nor Hidayah Bte Abdul Rahman <br>_[nor_hidayah_abdul_rahman@moe.edu.sg](mailto:nor_hidayah_abdul_rahman@moe.edu.sg)_ 	|
 |  1 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine_tan_pei_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_ 	| Mr Saharudin B Osman<br>_[saharudin_b_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ 	|
 |  1Gracious 	| Mdm Tan Sini<br>_[tan_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_ 	| Mdm Muneera Bte Abu Bakar<br>_[muneera_abu_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	|
-|  1 Diligence 	| Ms Wydre Kwek Wei Ting<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_   	| Mdm Norlila Bte Abdul Ghani<br>_[norlila_abdul_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_| | | Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  |
+|  1 Diligence 	| Mr Aidil Hakim Bin Zaharuddin<br>_[aidil_hakim_zaharuddin@moe.edu.sg](mailto:aidil_hakim_zaharuddin@moe.edu.sg)_   	| Mdm Norlila Bte Abdul Ghani<br>_[norlila_abdul_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_| | | Ms Ting Ning Xin Jessie<br> _[ting_ning_xin_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_  |
 
 
 #### Primary 2
