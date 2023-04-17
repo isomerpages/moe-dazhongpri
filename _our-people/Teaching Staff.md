@@ -30,10 +30,10 @@ description: ""
 | 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Lin Meiling<br>_[lin_meiling@moe.edu.sg](mailto:lin_meiling@moe.edu.sg)_ 	|
 | 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
-|  2 Acceptance 	| Ms Ng Xin Hui Cloudi<br>_[ng_xin_hui_cloudi@moe.edu.sg ](mailto:ng_xin_hui_cloudi@moe.edu.sg )_  	| Mr Bambang Edy Sugianto B M B<br>_[bambang_edy_sugianto@moe.edu.sg](mailto:bambang_edy_sugianto@moe.edu.sg)_   	|
+|  2 Acceptance 	| Ms Ng Xin Hui Cloudi<br>_[ng_xin_hui_cloudi@moe.edu.sg ](mailto:ng_xin_hui_cloudi@moe.edu.sg )_  	| Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_   	|
 |  2 Perseverance 	| Mr Tan Wee Kiang Jeffrey<br>_[tan_wee_kiang@moe.edu.sg](mailto:tan_wee_kiang@moe.edu.sg)_ 	| Mdm Chen Xiang<br>_[chen_xiang@moe.edu.sg](mailto:chen_xiang@moe.edu.sg)_ 	|
 |  2 Gracious 	| Mdm Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_	| Mr Yan Teck Whye<br>_[yan_teck_whye@moe.edu.sg](mailto:yan_teck_whye@moe.edu.sg)_  	|
-|  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Mr Tan Chin Whee Samuel<br>_[tan_chin_whee@moe.edu.sg](mailto:tan_chin_whee@moe.edu.sg)_  	|
+|  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Ms Kavitha Soundarapandian<br>_[kavitha_soundarapandian@moe.edu.sg](mailto:kavitha_soundarapandian@moe.edu.sg)_  	|
 
 #### Primary 3
 
