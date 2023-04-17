@@ -45,7 +45,7 @@ description: ""
 | 	| Ms Nurul Afiqah Binte Sulaiman<br>_[nurul_afiqah_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ 	|	|
 | 3 Responsibility 	| Ms Justina Tan Hui Ru<br>_[justina_tan_hui_ru@moe.edu.sg](mailto:justina_tan_hui_ru@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
 |    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	| Ms Kewk Wei Ting Wydre<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_ 	|
-|  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Ting Ning Xin Jessie<br>_[ting_ning_xin_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
+|  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Lu Ying<br>_[lu_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_ 	|
 |   3 Perseverance 	| Mr Brandon Huang Kangjun<br>_[brandon_huang_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	|  Mdm Nuraishah Jamal <br>_[nuraishah_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ 	|
 
 #### Primary 4
