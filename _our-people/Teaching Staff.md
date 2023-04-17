@@ -54,7 +54,7 @@ description: ""
 |:---:	|:---:	|:---:	|
 | P4 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|  	|
 |  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
-| 4 Responsibility 	| Mdm Evelyn Tan Lay Keat<br>_[tan_lay_keat@moe.edu.sg](mailto:tan_lay_keat@moe.edu.sg)_<br><br>Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
+| 4 Responsibility 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
 |    4 Excellence 	| Ms Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
 |   4 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu_minli_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_  	| Mdm Shoba D/O Mohan<br>_[shoba_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_ 	|
 |   4 Perseverance 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_   	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ 	|
