@@ -11,12 +11,14 @@ description: ""
 |:---:	|:---:	|:---:	|
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
 |  1 Integrity 	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen_ong_pei_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
+| |Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  | |
 | 1 Responsibility 	| Mdm Humairah Binte Rahman <br>_[humairah_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_ 	| Mrs Dawn Kuah<br>_[chan_wee_teng_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
 |  1 Excellence 	|   Mdm Ang Qiu Ping, Emily<br>_[ang_qiu_ping_emily@moe.edu.sg](mailto:ang_qiu_ping_emily@moe.edu.sg)_  	| Mdm Yap Lay Hong <br>[yap_lay_hong@moe.edu.sg](mailto:yap_lay_hong@moe.edu.sg) 	|
 |  1 Acceptance 	| Ms Foo Li Wei<br>_[foo_li_wei@moe.edu.sg](mailto:foo_li_wei@moe.edu.sg)_   	|  Mdm Nor Hidayah Bte Abdul Rahman <br>_[nor_hidayah_abdul_rahman@moe.edu.sg](mailto:nor_hidayah_abdul_rahman@moe.edu.sg)_ 	|
 |  1 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine_tan_pei_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_ 	| Mr Saharudin B Osman<br>_[saharudin_b_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ 	|
-|  1Gracious 	| Mdm Tan Sini<br>_[tan_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_ 	| Mdm Muneera Bte Abu Bakar<br>_[muneera_abu_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	|
-|  1 Diligence 	| Ms Wydre Kwek Wei Ting<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_   	| Mdm Norlila Bte Abdul Ghani<br>_[norlila_abdul_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_ 	|
+|  1Gracious 	| Mdm Tan Sini<br>_[tan_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_ 	| Mdm Muneera Bte Abu Bakar<br>_[muneera_abu_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ 	| 
+|  1 Diligence 	| Mr Aidil Hakim Bin Zaharuddin<br>_[aidil_hakim_zaharuddin@moe.edu.sg](mailto:aidil_hakim_zaharuddin@moe.edu.sg)_   	| Mdm Norlila Bte Abdul Ghani<br>_[norlila_abdul_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_|
+| | Ms Ting Ning Xin Jessie<br>_[ting_ning_xin_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_   	| |
 
 
 #### Primary 2
@@ -28,10 +30,10 @@ description: ""
 | 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Lin Meiling<br>_[lin_meiling@moe.edu.sg](mailto:lin_meiling@moe.edu.sg)_ 	|
 | 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
-|  2 Acceptance 	| Ms Ng Xin Hui Cloudi<br>_[ng_xin_hui_cloudi@moe.edu.sg ](mailto:ng_xin_hui_cloudi@moe.edu.sg )_  	| Mr Bambang Edy Sugianto B M B<br>_[bambang_edy_sugianto@moe.edu.sg](mailto:bambang_edy_sugianto@moe.edu.sg)_   	|
+|  2 Acceptance 	| Ms Ng Xin Hui Cloudi<br>_[ng_xin_hui_cloudi@moe.edu.sg ](mailto:ng_xin_hui_cloudi@moe.edu.sg )_  	| Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_   	|
 |  2 Perseverance 	| Mr Tan Wee Kiang Jeffrey<br>_[tan_wee_kiang@moe.edu.sg](mailto:tan_wee_kiang@moe.edu.sg)_ 	| Mdm Chen Xiang<br>_[chen_xiang@moe.edu.sg](mailto:chen_xiang@moe.edu.sg)_ 	|
 |  2 Gracious 	| Mdm Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_	| Mr Yan Teck Whye<br>_[yan_teck_whye@moe.edu.sg](mailto:yan_teck_whye@moe.edu.sg)_  	|
-|  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Mr Tan Chin Whee Samuel<br>_[tan_chin_whee@moe.edu.sg](mailto:tan_chin_whee@moe.edu.sg)_  	|
+|  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Ms Kavitha Soundarapandian<br>_[kavitha_soundarapandian@moe.edu.sg](mailto:kavitha_soundarapandian@moe.edu.sg)_  	|
 
 #### Primary 3
 
@@ -40,9 +42,10 @@ description: ""
 | P3 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	| <br>  	|
 | P3 AYH 	| Mr Goh Zong'En Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_   	| <br>  	|
 |  3 Integrity 	| Mr Herman Bin Ponjio<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ 	| Mdm Lee Siew Teng <br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_ 	|
-| 3 Responsibility 	| Mdm Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
-|    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	| Ms Tashalini K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	|
-|  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Ting Ning Xin Jessie<br>_[ting_ning_xin_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
+| 	| Ms Nurul Afiqah Binte Sulaiman<br>_[nurul_afiqah_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ 	|	|
+| 3 Responsibility 	| Ms Justina Tan Hui Ru<br>_[justina_tan_hui_ru@moe.edu.sg](mailto:justina_tan_hui_ru@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
+|    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	| Ms Kewk Wei Ting Wydre<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_ 	|
+|  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Lu Ying<br>_[lu_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_ 	|
 |   3 Perseverance 	| Mr Brandon Huang Kangjun<br>_[brandon_huang_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	|  Mdm Nuraishah Jamal <br>_[nuraishah_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ 	|
 
 #### Primary 4
@@ -51,8 +54,8 @@ description: ""
 |:---:	|:---:	|:---:	|
 | P4 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|  	|
 |  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
-| 4 Responsibility 	| Mdm Evelyn Tan Lay Keat<br>_[tan_lay_keat@moe.edu.sg](mailto:tan_lay_keat@moe.edu.sg)_<br><br>Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
-|    4 Excellence 	| Ms Turinadevi D/O Devarajan<br>_[turinadevi_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
+| 4 Responsibility 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
+|    4 Excellence 	| Ms Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
 |   4 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu_minli_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_  	| Mdm Shoba D/O Mohan<br>_[shoba_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_ 	|
 |   4 Perseverance 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_   	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ 	|
 
@@ -65,9 +68,9 @@ description: ""
 | 5 Integrity  	| Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_  	|
 | 5 Responsibility 	| Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ 	| Mr Chen Xianghao Keith<br>_[chen_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ 	|
 | 5 Excellence  	| Ms Lin Huiyu Vanessa<br>_[lin_huiyu_vanessa@moe.edu.sg](mailto:lin_huiyu_vanessa@moe.edu.sg)_ 	|  Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
-|    5 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_  	| Mdm Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 
+|    5 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_  	| Ms Lee Hon Choo<br>_[lee_hon_choo@moe.edu.sg](mailto:lee_hon_choo@moe.edu.sg)_ 
 |     5 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ 	| Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_  	|
-5 Gracious 	| Ms Muzfirah Aida <br>_[muzfirah_aida_afifah_abdullah@moe.edu.sg ](mailto:muzfirah_aida_afifah_abdullah@moe.edu.sg )_ 	| Ms Ananthy D/O Marimuthu<br>_[ananthy_marimuthu@moe.edu.sg](mailto:ananthy_marimuthu@moe.edu.sg)_  	|
+5 Gracious 	| Ms Muzfirah Aida <br>_[muzfirah_aida_afifah_abdullah@moe.edu.sg ](mailto:muzfirah_aida_afifah_abdullah@moe.edu.sg )_ 	| Ms See Toh Jie Min<br>_[see_toh_jie_min@moe.edu.sg](mailto:see_toh_jie_min@moe.edu.sg)_  	|
 
 #### Primary 6
 
