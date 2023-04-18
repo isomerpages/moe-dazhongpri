@@ -17,3 +17,5 @@ At our 'ASIA Cafe', students were treated to a static display and games about th
 Moreover, in an effort to show appreciation to our international friends for their contributions to Singapore, students wrote appreciation cards to them. Through these activities, students learnt to appreciate these people and demonstrated the school value of acceptance. 
 
 Students were taught to understand the good relations we have forged and never to take such valuable relations for granted. Happy International Friendship Day! Dazhong Dare to Shine!
+
+![](/images/dzifd2023.jpeg)
