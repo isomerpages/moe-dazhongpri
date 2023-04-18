@@ -16,4 +16,3 @@ World Water Day was held on 4 March 2023 at Jurong Lake Garden. Dads For Life pa
 #### Brick! Bond! Build!
 
 A total of 55 parents and children participated in Dazhong Dads for Life first ever Brick! Bond! Build! on Saturday 15 April 2023. Together they designed and constructed Hopper Robots that competed in an exciting race. Great job everyone!
-
