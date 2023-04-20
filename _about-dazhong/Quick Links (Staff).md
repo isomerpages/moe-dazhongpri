@@ -1,5 +1,5 @@
 ---
-title: Quick Links (Staffs)
+title: Quick Links (Staff)
 permalink: /about-dazhong/quick-link-staffs/
 description: ""
 ---
