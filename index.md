@@ -10,8 +10,7 @@ image: /images/DZlogo.png
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/dazhong 85 banner.gif
+  - hero: {}
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
