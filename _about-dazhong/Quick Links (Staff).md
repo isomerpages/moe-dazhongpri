@@ -30,6 +30,8 @@ description: ""
 
 [Parents Gateway (PG)](https://pg.moe.edu.sg/)
 
+[Dazhong ICT](https://go.gov.sg/dzict)
+
 #### Administrative &amp; HR
 
 [iCONNECT](https://icon.moe.edu.sg/)
