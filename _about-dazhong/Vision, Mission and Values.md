@@ -3,7 +3,7 @@ title: Vision, Mission and Values
 permalink: /about-dazhong/vision-mission-values/
 description: ""
 ---
-### Philosophy: Vission, Mission, Values
+### Philosophy: Vision, Mission, Values
 
 <img src="/images/vmv.jpeg" style="width:80%">
 
