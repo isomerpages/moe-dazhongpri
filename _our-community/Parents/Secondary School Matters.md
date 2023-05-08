@@ -23,3 +23,5 @@ Please refer to the following web links for additional resources:
 *	SchoolFinder (for information on secondary schools):  https://www.moe.gov.sg/schoolfinder
 
 [List of Secondary School for Open Houses](/files/list%20of%20secondary%20school%20open%20houses.pdf)
+
+[WE STories Publication 2023](https://go.gov.sg/westories-official)
