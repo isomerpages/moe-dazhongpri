@@ -6,4 +6,4 @@ third_nav_title: Support Services
 ---
 ### School Dental Services
 
-![](/images/Dental-Information-in-School-Website_Term-2-2023_Updated-29-March-2023.jpg)
+![](/images/dental%20information%20in%20school%20website_term%202%202023_updated%2018%20may%2020231024_1.jpg)
