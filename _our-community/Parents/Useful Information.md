@@ -12,4 +12,3 @@ third_nav_title: Parents
 4. [Application Form for MOE-SPED FAS.pdf](/files/Application%20Form%20for%20MOE-SPED%20FAS.pdf) <br>
 5.  &nbsp;[Information sheet for parents_School Transfer Service for Change of Residential Address.pdf](/files/Information%20sheet%20for%20parents.pdf) <br>
 6.  [Request Form_School Bus Services.pdf](/files/Request%20Form_School%20Bus%20Services%202022.pdf)<br>
-7.  [Dazhong Primary School HBL](https://sites.google.com/moe.edu.sg/dzpshbl/home)
