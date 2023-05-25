@@ -7,5 +7,3 @@ third_nav_title: Our Highlights
 #### Minister of State: Ms Gan Siow Huang visit to Dazhong Primary School
 
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="831" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgansiowhuang%2Fposts%2Fpfbid0teDzCwAsQX6Q6PnrBkLNs3NXoZU1RJnhZHvN6MMywtcUoTpK2Bi1HG88gCZJoS77l&amp;show_text=true&amp;width=500"></iframe>
-
-[View here](https://www.facebook.com/gansiowhuang/posts/pfbid02xVfhPc6hG2Jb3s2MzaD7ejHFy5QN1tB5N9wRiFyH3VsJuuhtdvkEDHPMcxd1zewZl)
