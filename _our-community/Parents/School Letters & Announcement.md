@@ -1,5 +1,5 @@
 ---
-title: School Letters &amp; Announcement
+title: School Letters & Announcement
 permalink: /our-community/parents/school-letters-announcement/
 description: ""
 third_nav_title: Parents
@@ -8,6 +8,9 @@ third_nav_title: Parents
 
 | Date 	| Title 	|
 |:---:	|:---:	|
+| 25 May 2023 	| [Start of Term 1 Letter 2023](/files/start%20of%20term%201%20letter.pdf)	|
+| 25 May 2023 	| [End of Term 1 and Start of Term 2 Letter 2023](/files/end%20of%20term%201%20cum%20start%20of%20term%202%20letter%202023.pdf)	|
+| 25 May 2023 	| [End of Term 2 Letter 2023](/files/end%20of%20term%202%20letter%202023.pdf)	|
 | 12 Apr 2023 	| [P6 Term 2 upates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p6%20t2.pdf)	|
 | 12 Apr 2023 	| [P5 Term 2 updates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p5%20t2.pdf)	|
 | 12 Apr 2023 	| [P4 Term 2 updates on academic progress](/files/2023%20updates%20on%20academic%20progress%20p4%20t2.pdf)	|
