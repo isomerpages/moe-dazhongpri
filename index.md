@@ -19,9 +19,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong Primary School celebrates 85th Anniversary
+      description: Affirmation Day Term 2
       button: See More
-      url: https://www.facebook.com/100057652470956/posts/pfbid0VHFHvCfG1ns9bCj516e6BCeWWso49ie5svMbCVUxzzB7KimpeLHySqSkt5grPkeEl/?mibextid=Nif5oz
-      image: /images/2023 banner_v12.jpg
+      url: https://www.facebook.com/photo?fbid=697210882210655&set=pcb.697211008877309
+      image: /images/school-based awards.JPG
       alt: Image alt text
 ---
