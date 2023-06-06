@@ -23,3 +23,5 @@ Funds raised from the event will be channeled to support school-based financial 
 _Book your tickets here! [go.gov.sg/dzcarnival](http://go.gov.sg/dzcarnival) !_ Payment can be done at our school’s General Office between 2pm to 5pm during school days, and 9am to 4pm during the June school holidays.
 
 Hope to see you there!
+
+![](/images/banner%20for%20dazhong%20community%20day%20and%20eco%20carnival%202023%20(1).JPG)
