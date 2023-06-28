@@ -77,8 +77,8 @@ description: ""
 |:---:	|:---:	|:---:	|
 | P6 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_    	|   	|
 |  6 Integrity 	| Mdm Hamidah Bte Hardi<br>[_hamidah_hardi@moe.edu.sg_](mailto:hamidah_hardi@moe.edu.sg) 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
-|  6 Responsibility 	|     Ms Lim Li Hwang Iris<br>_[lim_li_huang_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
-|     6 Excellence 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	| Mr Muhammad Syahriel <br>_[muhammad_syahriel_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|
+|  6 Responsibility 	|     Ms Lim Li Hwang Iris<br>_[lim_li_huang_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_<br><br> Ms Tashalini d/o K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
+|     6 Excellence 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_<br><br> Ms Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	| Mr Muhammad Syahriel <br>_[muhammad_syahriel_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|
 |  6 Acceptance 	| Ms Uma Vicnesvare<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	| Mdm Zhong Dan<br>_[zhong_dan@moe.edu.sg ](mailto:zhong_dan@moe.edu.sg )_  	|
 | 6 Perseverance 	| Mdm Ong Xuan Wan<br>_[ong_xuan_wan@moe.edu.sg ](mailto:ong_xuan_wan@moe.edu.sg )_ 	| Mdm Sun I - Feng<br>_[sun_i-feng@moe.edu.sg ](mailto:sun_i-feng@moe.edu.sg )_ 	|
 
