@@ -8,6 +8,8 @@ third_nav_title: Parents
 
 | Date 	| Title 	|
 |:---:	|:---:	|
+| 30 Jun 2023 	| [Start of Term 3 Letter 2023](/files/start%20of%20term%203%20letter%202023.pdf)	|
+| 30 Jun 2023 	| [Term 3 Calendar 2023](/files/annex%20a-term%203%20calendar.pdf)	|
 | 25 May 2023 	| [Start of Term 1 Letter 2023](/files/start%20of%20term%201%20letter.pdf)	|
 | 25 May 2023 	| [End of Term 1 and Start of Term 2 Letter 2023](/files/end%20of%20term%201%20cum%20start%20of%20term%202%20letter%202023.pdf)	|
 | 25 May 2023 	| [End of Term 2 Letter 2023](/files/end%20of%20term%202%20letter%202023.pdf)	|
