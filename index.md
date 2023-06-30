@@ -12,10 +12,6 @@ notification: ""
 sections:
   - hero:
       background: /images/dazhong-85-banner_latest_01.gif
-      key_highlights:
-        - title: Announcement
-          description: Home Based Learning
-          url: https://sites.google.com/moe.edu.sg/dzpshbl/home
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
