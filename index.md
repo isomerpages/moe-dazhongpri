@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dazhong-85-banner_latest_01.gif
+      background: /images/dazhong-banner-jul23-use this.gif
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
