@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Affirmation Day Term 2
+      description: Start of Term 3
       button: See More
       url: https://www.facebook.com/photo?fbid=697210882210655&set=pcb.697211008877309
-      image: /images/school-based awards.JPG
+      image: /images/start of t3_picture 1.png
       alt: Image alt text
 ---
