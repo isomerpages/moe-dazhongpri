@@ -66,6 +66,15 @@ __________________
 
 **Achievements / Peak of Excellence / CCA in Actions**
 
+**Dazhong Junior Orchestra - SYF Arts Celebrations @ Esplanade Theatre: 1st July 2023**
+
+Singapore Youth Festival (SYF) Arts Celebration 2023@ Esplanade Theatre
+The SYF Arts Celebration is organised by the Ministry of Education annually to provide students with multi-modal and collaborative platforms to get them to express their artistic talents and creative voices and to share their passion for the arts with the wider community. 
+
+On Saturday, 1st July 2023, our Dazhong percussion students performed at the Singapore Youth Festival (SYF) Arts Celebration 2023 at Esplanade Theatres on the Bay.  Our student performers did a brilliant performance while they collaborated with secondary schools in their Ethnic Fusion drumming. We are also happy to meet up with Minister Chan Chun Sing who grace the SYF Arts Celebration opening ceremony. Dazhong Dare to Shine! 😄🤩✨✨✨
+
+![](/images/jo%20syf.jpg)
+
 **Dazhong Junior Orchestra - YST@NUS Children's Concert: Side by Side: 12th March 2023**
 
 It had been a wonderful and great learning journey for our JO students who were mentored by YST students from 4th February to 11th March 2023. A total of 6 mentoring sessions and finally a Children's concert where Dazhong JO students played side by side with their YST mentors at YST Concert Hall on Sunday, 12th March 2023. We celebrated our JO students' success through their performances. Some of our JO students did solo pieces while playing by ear as they listen and respond to the rhythm playing by the main conductor. Parents, JO alumni plus staff also came down to support the event.
