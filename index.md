@@ -18,6 +18,6 @@ sections:
       description: Dazhong Community Day and Eco Carnival
       button: See More
       url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/community-day-and-eco-fair/
-      image: /images/start of t3_picture 1.png
+      image: /images/85ecocarnival1.jpeg
       alt: Image alt text
 ---
