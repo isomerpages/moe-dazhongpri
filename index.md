@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Start of Term 3
+      description: Dazhong Community Day and Eco Carnival
       button: See More
-      url: https://www.facebook.com/photo?fbid=697210882210655&set=pcb.697211008877309
-      image: /images/start of t3_picture 1.png
+      url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/community-day-and-eco-fair/
+      image: /images/85ecocarnival1.jpeg
       alt: Image alt text
 ---
