@@ -4,13 +4,22 @@ permalink: /dazhong-experience/85th-anniversary-celebrations/overview/
 description: ""
 third_nav_title: 85th Anniversary Celebrations
 ---
-#### Overview
+#### 85th Anniversary - Overview
 
-Join us as Dazhong Dares to Shine in our 85th Anniversary with our Community Day & Eco Carnival (1 July 2023) and Dare to Shine Arts Fest (29 July 2023).  
-
-Through these events, Dazhong will be raising Awareness by Exciting the Community with a showcase of our Joy of Learning and our variety of Arts Talents, taking Action to Engage every Dazhong student to Dare to Shine in the Community as Serving Leaders to raise funds for a good cause, and Empower Dazhong students to Advocate towards a more sustainable future for our school and community as Concerned Citizens!  
-
-Link to register for Community Day & Eco Carnival \[1 July, 9am to 4pm, Venue: Dazhong Primary School\]: [https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)  
-Link to register for Dare to Shine Arts Fest \[29 July, 1 to 2.30pm, ACS (Independent)\]: [https://go.gov.sg/dzartfest](https://go.gov.sg/dzartfest)
+In 2023, Dazhong Primary School celebrates our 85th Anniversary themed **DARE TO
+SHINE**. Dazhong kicked-off our 85th Anniversary Celebrations with **Tree Planting** on 19
+January, followed by a **Community Day &amp; Eco Carnival** on 1 July, and the **Dare to
+Shine ARTS Fest** on 29 July.
 
 ![](/images/(overview%20page)%202023%20banner%20for%2085th.JPG)
+
+Through these events, Dazhong will be raising Awareness by Exciting the Community
+with a showcase of our Joy of Learning and our variety of Arts Talents, taking Action to
+Engage every Dazhong student to Dare to Shine in the Community as Serving Leaders
+to raise funds for a good cause, and Empower Dazhong students to Advocate towards a
+more sustainable future for our school and community as Concerned Citizens!
+
+[Tree Planting](https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/tree-planting-day/)<br>
+[Dazhong Community Day and Eco Carnival](https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/community-day-and-eco-fair/)<br>
+Dare to Shine ARTS FEST: [29 July, 1 to 2.30pm, ACS (Independent)]: Register at
+https://go.gov.sg/dzartfest
