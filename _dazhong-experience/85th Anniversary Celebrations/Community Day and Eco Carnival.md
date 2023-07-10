@@ -20,8 +20,10 @@ and contribute towards our school’s fund-raising efforts.
 		
 We were honoured to have Dr. Amy Khor, Senior Minister of State, Ministry of Sustainability and
 the Environment and Ministry of Transport to grace the occasion as the Guest-of-Honour (Link
-to Dr Amy Khor’s Facebook post:<br>
-https://m.facebook.com/story.php?story_fbid=pfbid031wtjacVev5xiER4hLFKTAKqGjywviUwXohD1WZoMTcTUnJ3TPq8TsUAmA67fEDHDl&amp;id=100044620560828&amp;sfnsn=wa&amp;mibextid=RUbZ1f<br> Through her interactions with our students, she learnt about the school’s green and
+to Dr Amy Khor’s Facebook post:
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="767" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAmyKhorPage%2Fposts%2Fpfbid0325YFYyXP6jWfJmHy6cXmMoEQqz6bDVtVrCChVH5pfe386SXrH3cWYAp1eqUgNK8xl&amp;show_text=true&amp;width=500"></iframe>
+
+Through her interactions with our students, she learnt about the school’s green and
 sustainability efforts. In addition, our Peer Support Leaders hosted the seniors from Lions
 Befrienders and together, they took part in the activities at the Carnival. With the support from
 our community and external partners, the Carnival was a roaring success and it allowed our
