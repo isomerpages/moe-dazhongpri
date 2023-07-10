@@ -12,6 +12,10 @@ notification: ""
 sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
+      key_highlights:
+        - title: ARTS FEST Artwork
+          description: Pre-Order here
+          url: https://sites.google.com/moe.edu.sg/arts-fest-art-exhibition/home
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
