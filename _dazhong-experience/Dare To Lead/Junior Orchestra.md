@@ -66,6 +66,15 @@ __________________
 
 **Achievements / Peak of Excellence / CCA in Actions**
 
+**JO &amp; Choir Performances at 85th Anniversary Community &amp; Eco Carnival 2023 (1st July 2023)**
+
+During our 85th Anniversary Community &amp; Eco Carnival Day on Saturday, 1st July 2023, our performing arts groups: Junior Orchestra and Choir students put up a wonderful performance for the school’s Opening ceremony. Junior Orchestra students performed this joyous piece called ‘Ode To Joy’ while Choir students sang ‘Yellow Bus’ and ‘Shining Light’ songs. Well done to our Performing Arts students! Dazhong Dare to Shine! 😄🤩✨✨✨
+
+	
+**JO – SCGS Mentoring and Collaboration 2023 (6th July 2023)**
+
+On 6th July 2023, Dazhong Primary School Junior Orchestra collaborated with Singapore Chinese Girls’ School (SCGS). Students from the strings section were mentored by SCGS girls in preparation for the upcoming 85th Anniversary ARTS Fest 2023 event. Through the SCGS-Dazhong Junior Orchestra Collaboration &amp; Mentoring 2023, our students make new friends with the secondary school girls and they were meaningfully engaged in musical and orchestral activities, developing their self-esteem and confidence in music making. There will also be another mentoring session coming Thursday, 13th July 2023.  
+	
 **Dazhong Junior Orchestra - SYF Arts Celebrations @ Esplanade Theatre: 1st July 2023**
 
 Singapore Youth Festival (SYF) Arts Celebration 2023@ Esplanade Theatre
