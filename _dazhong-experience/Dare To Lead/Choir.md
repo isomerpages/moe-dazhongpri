@@ -41,6 +41,14 @@ ________________________________________________
 
 **Achievements/ Peak of Excellence/ CCA in Actions**
 
+**JO &amp; Choir Performances at 85th Anniversary Community &amp; Eco Carnival 2023 (1st July 2023)**
+
+During our 85th Anniversary Community &amp; Eco Carnival Day on Saturday, 1st July 2023, our performing arts groups: Junior Orchestra and Choir students put up a wonderful performance for the school’s Opening ceremony. Junior Orchestra students performed this joyous piece called ‘Ode To Joy’ while Choir students sang ‘Yellow Bus’ and ‘Shining Light’ songs. Well done to our Performing Arts students! Dazhong Dare to Shine! 😄🤩✨✨✨
+
+![](/images/jo%20ecocarnival01.jpeg)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NhGDHVUOnSk" height="315" width="560"></iframe>
+
 **SYF 2022 Presentation:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bTQNfxMRrGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
