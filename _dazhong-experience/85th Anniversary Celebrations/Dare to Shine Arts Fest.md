@@ -10,7 +10,7 @@ The Dazhong **_Dare to Shine ARTS Fest_** is a platform where our students tal
 
 Our theme of “**Dare to Shine**” aims to build **E**xcitement of the variety of talents learnt through our Learning for Life Programme of Arts Education, **E**ngage every student to Dare to Shine in the Community as Serving Leaders to raise funds for a good cause, and to **E**_mpower_ students to use the Arts to encourage others towards a more sustainable future for our school and community as Concerned Citizens (in line with our Applied Learning Programme of Green Makers @ Dazhong).
 
-Click [here](https://sites.google.com/moe.edu.sg/arts-fest-art-exhibition/home) to view and Pre-Order the Artwork.
+Click [here]() to view and Pre-Order the Artwork.
 
 Join us for our Dare to Shine Arts Fest \[29 July, 1 to 2.30pm, ACS (Independent)\]: [https://go.gov.sg/dzartfest](https://go.gov.sg/dzartfest)
 
