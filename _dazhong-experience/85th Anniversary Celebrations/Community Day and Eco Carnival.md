@@ -31,6 +31,16 @@ students to shine their light and bring joy to their fellow school mates and the
 large – such by doing litter picking around the neighborhood.
 		
 ![](/images/85ecocarnival3.JPG)
+
+Our performing arts groups, namely the Junior Orchestra and Choir students, put up a
+wonderful performance for the Carnival’s opening ceremony. Our Junior Orchestra students
+performed a melodious piece titled, ‘Ode to Joy’ while our Choir students sang two songs,
+‘Yellow Bus’ and ‘Shining Light’. Our talented students dazzled the audience with their
+performances!
+
+Well done to our Performing Arts students!
+
+![](/images/85ecocarnival6.jpg)
 	
 We are thankful to our students, staff, parents, partners and the community for gracing this
 event and being part of this joyous day.
