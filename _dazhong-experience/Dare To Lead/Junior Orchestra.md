@@ -87,7 +87,7 @@ The SYF Arts Celebration is organised by the Ministry of Education annually to p
 
 On Saturday, 1st July 2023, our Dazhong percussion students performed at the Singapore Youth Festival (SYF) Arts Celebration 2023 at Esplanade Theatres on the Bay.  Our student performers did a brilliant performance while they collaborated with secondary schools in their Ethnic Fusion drumming. We are also happy to meet up with Minister Chan Chun Sing who grace the SYF Arts Celebration opening ceremony. Dazhong Dare to Shine! 😄🤩✨✨✨
 
-![](/images/jo%20syf.jpg)
+![](/images/jo%20syf01.jpg)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SESxYaXSnDY" height="315" width="560"></iframe>
 

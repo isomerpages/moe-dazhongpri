@@ -18,6 +18,6 @@ sections:
       description: Dazhong Primary School on The Straits Times
       button: See More
       url: https://www.facebook.com/100068315085098/posts/pfbid0pQDunNKDLgfEXfMcKXkT49UFsN4us3QuJL8HJGFR5FJvvZzXPMioNzjZgZeE2Qc2l/?d=w&mibextid=qC1gEa
-      image: /images/dazhongstraitstimes.jpg
+      image: /images/dazhongstraitstimes01.jpg
       alt: Image alt text
 ---
