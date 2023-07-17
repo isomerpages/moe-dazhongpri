@@ -66,3 +66,17 @@ DZPS 3E  - Excite &amp; Engage**
 	* P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter
 
 ![](/images/cce20.jpg)
+
+3. **Enhanced support for students in Self-Management of Emotions:**
+*  Proactive actions taken to empower all students.
+*  Tier 2/3 Student Adoption Programme  - Teacher-mentors provide proactive support to selected students.
+*  Synergy between various teacher teams (Discipline, Counseling, SEN) to create resources to empower and support students to manage emotions.
+
+4. **Promote Inclusiveness in school community:**
+*  Diversity of student leadership opportunities for all students
+*  Increased platforms to recognise and affirm the efforts and achievement of all students via our Termly Affirmation Days
+*  Driving inclusiveness in school amongst our students and staff:
+	*  Students - Building Bridges Programme (PSLs x ISPR students)
+	*  Staff -   Staff Professional Development SLS e-mods for Case Management
+
+![](/images/cce20.png)
