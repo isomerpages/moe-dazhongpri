@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong Community Day and Eco Carnival
+      description: Dazhong Primary School on The Straits Times
       button: See More
-      url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/community-day-and-eco-fair/
-      image: /images/85ecocarnival1.jpeg
+      url: https://www.facebook.com/100068315085098/posts/pfbid0pQDunNKDLgfEXfMcKXkT49UFsN4us3QuJL8HJGFR5FJvvZzXPMioNzjZgZeE2Qc2l/?d=w&mibextid=qC1gEa
+      image: /images/dazhongstraitstimes.jpg
       alt: Image alt text
 ---
