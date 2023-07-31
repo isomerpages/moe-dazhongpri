@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong Primary School on The Straits Times
+      description: 85th Anniversary Dare to Shine ARTS Fest
       button: See More
-      url: https://www.dazhongpri.moe.edu.sg/about-dazhong/the-dazhong-story/our-news/
-      image: /images/dazhongstraitstimes01.jpg
+      url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/dare-to-shine-arts-fest/
+      image: /images/artsfest01.jpg
       alt: Image alt text
 ---
