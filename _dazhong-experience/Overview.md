@@ -14,7 +14,7 @@ The Dazhong Experience (DZE) was developed in 2022 for the students, by the teac
 
 It was designed to attain the school vision, as indicated in the Pupil Outcome Standard 2.0 (POS2.0) – “Self-directed Learners, Serving Leaders and Concerned Citizens”. 
 
-The DZE provides designers of all curricular and co-curricular programmes and activities the 3Es Design Approach, to “Engage, Excite and Empower” students, so as to attain the 3 tiers of student outcomes – “Awareness, Action and Advocacy” (The 3As).
+The DZE provides designers of all curricular and co-curricular programmes and activities the 3Es Design Approach, to “Engage, Excite and Empower” students, so as to attain the 3 tiers of student outcomes – “Awareness, Action and Advocacy” (The 3As).<br><br>
 
 
 
