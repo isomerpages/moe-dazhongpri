@@ -21,5 +21,4 @@ more sustainable future for our school and community as Concerned Citizens!
 
 [Tree Planting](https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/tree-planting-day/)<br>
 [Dazhong Community Day and Eco Carnival](https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/community-day-and-eco-fair/)<br>
-Dare to Shine ARTS FEST: [29 July, 1 to 2.30pm, ACS (Independent)]: Register at
-https://go.gov.sg/dzartfest
+[Dare to Shine ARTS Fest](https://www.dazhongpri.moe.edu.sg/dazhong-experience/85th-anniversary-celebrations/dare-to-shine-arts-fest/)
