@@ -6,9 +6,12 @@ third_nav_title: 85th Anniversary Celebrations
 ---
 #### Dare To Shine ARTS FEST
 
-The Dazhong **_Dare to Shine ARTS Fest_** is a platform where our students talented in the Arts showcase their perseverance in practice, and celebrate their passion and success in mastering the fine skills in the Arts. The concert will feature our students from Junior Orchestra, Dance, Choir, Wushu, and MOE Kindergarten students. There will be special performances by the Tang Quartet and invited students from Annubusansem School, our twinning-programme school from Bangkok. There will also be on-site **sale of students’ artworks**.
+Dazhong Dare to Shine! On 29 July, we had our Dare to Shine ARTS Fest, a platform where our students talented in the Arts showcased their IREAP values such as Perseverance in practice, and Excellence in mastering the fine skills in the Arts. The concert featured our students from Junior Orchestra, Dance, Choir, Wushu, and MOE Kindergarten students. There was a special performance by the T’ang Quartet and invited students from Annubusansem School, our twinning-programme school from Bangkok. There was also the on-site sale of teacher and student Artworks from our Art Talent Student Development Programme.
 
-Our theme of “**Dare to Shine**” aims to build **E**xcitement of the variety of talents learnt through our Learning for Life Programme of Arts Education, **E**ngage every student to Dare to Shine in the Community as Serving Leaders to raise funds for a good cause, and to **E**_mpower_ students to use the Arts to encourage others towards a more sustainable future for our school and community as Concerned Citizens (in line with our Applied Learning Programme of Green Makers @ Dazhong).
+![](/images/artsfest01.jpg)
 
+Our theme of “Dare to Shine” aims to build Excitement of the variety of talents learnt through our Learning for Life Programme of Arts Education, Engage every student to Dare to Shine in the Community as Serving Leaders to raise funds for a good cause, and to Empower students to use the Arts to encourage others towards a more sustainable future for our school and community as Concerned Citizens (in line with our Applied Learning Programme of Green Makers @ Dazhong).
 
-![](/images/arts%20fest%20graphic.JPG)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fBRLEeW7F_8" height="315" width="560"></iframe>
+
+Dazhong Dare to Shine in our 85th!
