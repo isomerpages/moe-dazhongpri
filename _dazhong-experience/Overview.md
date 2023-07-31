@@ -45,3 +45,21 @@ The DZE provides designers of all curricular and co-curricular programmes and ac
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   background:#FBDFD0;padding:3.0pt 5.25pt 3.0pt 5.25pt;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Georgia&quot;,serif;mso-fareast-font-family:Georgia;
   mso-bidi-font-family:Georgia;color:#414042;mso-ansi-language:EN-GB">Action and Advocacy</span></p></td></tr></tbody></table>
+	
+With this DZE design framework, students would be assured with opportunities and guidance to achieve the POS2.0, school values (IREAP), 21st century skills and the following as indicated on the 8 spokes on the DZE Diagram above:
+
+	1)	Habits of a Self-directed Learner
+	2)	Collaboration, Communication and Critical (&amp; Inventive) Thinking Skills
+	3)	Character Development 
+	4)	Support for Diverse Learners 
+	5)	Joyful Learning with Technology 
+	6)	Authentic Learning - Environmental Sustainability and Arts Education 
+	7)	Leadership of Self and Others
+	8)	Interdisciplinary Connections across the Total Curriculum
+
+To further guide staff and management in designing programmes, event and activities that are aligned to the DZE and POS2.0, there is a Termly Focus for each school term:
+
+* Term 1: “Dare to Learn” (to develop Self-directed Learners)
+* Term 2: “Dare to Lead” (to develop Serving Leaders)
+* Term 3: “Dare to Care” (to develop Concerned Citizens)
+* Term 4: “Dare to Celebrate” (to affirm students’ successes big and small and develop school pride and belonging)
