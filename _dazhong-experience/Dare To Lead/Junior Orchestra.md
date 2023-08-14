@@ -66,6 +66,18 @@ __________________
 
 **Achievements / Peak of Excellence / CCA in Actions**
 
+**PAssionArts Festival Village and National Day Carnival at Hong Kah North Community Club**
+
+In honour of our nation's 58th Birthday, our talented Dazhong Junior Orchestra Strings students delivered an awe-inspiring performance at the Hong Kah North Community Club on 5 August 2023, Saturday. The event was graced by Dr. Amy Khor, Adviser to Hong Kah North Grassroots Organisations.
+
+This event serves as a wonderful platform for our Dazhong students to spread joy and foster a love for the Arts within the community.🎶🎻l
+
+We take this moment to celebrate and acknowledge the small yet significant successes of our students in the realm of performing arts. We firmly believe that our students involved in the Performing Arts CCA are poised to strive for even greater musical excellence. They have indeed become more self-directed, poised, confident, and engaged musicians, consistently serving beyond themselves every step of the way. 🎵🌟
+
+Dazhong, let your brilliance SHINE forth! 🌟
+
+#DazhongDareToShine #PassionForTheArts
+
 **JO – SCGS Mentoring and Collaboration 2023 (6th July 2023)**
 
 On 6th July 2023, Dazhong Primary School Junior Orchestra collaborated with Singapore Chinese Girls’ School (SCGS). Students from the strings section were mentored by SCGS girls in preparation for the upcoming 85th Anniversary ARTS Fest 2023 event. Through the SCGS-Dazhong Junior Orchestra Collaboration &amp; Mentoring 2023, our students make new friends with the secondary school girls and they were meaningfully engaged in musical and orchestral activities, developing their self-esteem and confidence in music making. There will also be another mentoring session coming Thursday, 13th July 2023.  
