@@ -80,6 +80,12 @@ Dazhong, let your brilliance SHINE forth! 🌟
 
 ![](/images/jo140823.jpeg)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_gEX1kAGs-s" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x60f14-P6lM" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ANOeve4xeaw" height="315" width="560"></iframe>
+
 **JO – SCGS Mentoring and Collaboration 2023 (6th July 2023)**
 
 On 6th July 2023, Dazhong Primary School Junior Orchestra collaborated with Singapore Chinese Girls’ School (SCGS). Students from the strings section were mentored by SCGS girls in preparation for the upcoming 85th Anniversary ARTS Fest 2023 event. Through the SCGS-Dazhong Junior Orchestra Collaboration &amp; Mentoring 2023, our students make new friends with the secondary school girls and they were meaningfully engaged in musical and orchestral activities, developing their self-esteem and confidence in music making. There will also be another mentoring session coming Thursday, 13th July 2023.  
