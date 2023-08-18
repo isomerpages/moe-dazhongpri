@@ -50,7 +50,8 @@ Mdm Humairah Rahman<br>
 Miss Charmaine Chia<br>
 Miss Lee Hon Choo<br>
 Miss Justina Tan Hui Ru<br>
-Mr Nasrul Bin Roslin
+Mr Nasrul Bin Roslin<br>
+Mdm Hamidah Hardi
 
 **Instructors:**<br>
 Mr Adrian Chiang, Main Conductor<br>
