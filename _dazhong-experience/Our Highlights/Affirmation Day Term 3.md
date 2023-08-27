@@ -10,3 +10,6 @@ Affirmation Day is here again! It is an occasion to recognise and celebrate our 
 
 Congratulations to all student awardees! Dazhong, Dare to Shine!
 
+![](/images/2023%20term%203-school-based.jpg)
+![](/images/2023%20term%203-national.jpg)
+
