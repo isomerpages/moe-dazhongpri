@@ -5,8 +5,10 @@ description: ""
 ---
 ### School Management Team
 
-|S/N  	| Designation 	|Name / Email 	|
-|:---:	|:---:	|:---:	|
+
+
+| S/N | Designation | Name / Email |
+| -------- | -------- | -------- |
 | 1 	| Principal 	| Mrs Rina Liang<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 2 	| Vice-Principal 	| Mrs Boey Lim Seow Khim, Serene<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 3 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
@@ -19,7 +21,7 @@ description: ""
 | 10 	| HOD MTL   	| Mdm Low Tan Ying<br>[*low_tan_ying@moe.edu.sg*](mailto:low_tan_ying@moe.edu.sg)  	|
 | 11 	| HOD MATH 	| Mdm Siti Mariam<br>_[siti_mariam_abdullah@moe.edu.sg](mailto:siti_mariam_abdullah@moe.edu.sg)_	|
 | 12 	| HOD SCI 	| Mr Leong Wei Ming Caleb<br>_[leong\_wei\_ming\_caleb@moe.edu.sg](mailto:leong_wei_ming_caleb@moe.edu.sg)_ 	|
-|  13 	| HOD PE<br>  	|  Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_|
+|  13 	| HOD PE  	|  Ms Shannen Lim Puay Ching<br>_[lim\_puay\_ching@moe.edu.sg](mailto:lim_puay_ching@moe.edu.sg)_|
 |  14 	| HOD SM  	|  Mr Wu Zongbing<br>[*wu_zongbing@moe.edu.sg*](mailto:wu_zongbing@moe.edu.sg)  	|
 | 15 	| HOD CCE  	|  Ms Ananthy Marimuthu<br>[*ananthymarimuthu@moe.edu.sg*](mailto:ananthy_marimuthu@moe.edu.sg) 	|
 | 16	| School Staff Developer 	| Miss Turinadevi Devarajan <br>_[turinadevi\_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	|
@@ -37,4 +39,5 @@ description: ""
 | 28 	| ST ART 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	|
 | 29 	| ST CCE 	| Mdm Suriatie Bte Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	|
 | 30 	| ST EL 	| Ms Uma Vicnesvare D/O Thurairaj<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	|
-| 31 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
+| 31 	| ST CL 	| Mdm Sun I-Feng<br>_[sun_i-feng@moe.edu.sg](mailto:sun_i-feng@moe.edu.sg)_ 	|
+| 32 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ |
