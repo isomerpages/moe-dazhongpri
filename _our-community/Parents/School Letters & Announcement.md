@@ -8,8 +8,8 @@ third_nav_title: Parents
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| 04 Sep 2023 	| 	|
-| 04 Sep 2023 	| 	|
+| 04 Sep 2023 	| [Term 4 Calendar](/files/2023%20term%204%20calendar.pdf)	|
+| 04 Sep 2023 	| [End of Term 3 and Start of Term 4 Letter](/files/end%20of%20term%203%20cum%20start%20of%20term%204%20letter%202023.pdf)	|
 | 26 Jul 2023 	| [Updates on Academic Progress P5](/files/updates%20on%20academic%20progress_p5_2023.pdf)	|
 | 26 Jul 2023 	| [Updates on Academic Progress P4](/files/updates%20on%20academic%20progress_p4_2023.pdf)	|
 | 26 Jul 2023 	| [Updates on Academic Progress P3](/files/updates%20on%20academic%20progress_p3_2023.pdf)	|
