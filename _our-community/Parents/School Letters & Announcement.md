@@ -4,10 +4,14 @@ permalink: /our-community/parents/school-letters-announcement/
 description: ""
 third_nav_title: Parents
 ---
+
+
+
+
 ### School Infomation &amp; Announcement
 
-| Date 	| Title 	|
-|:---:	|:---:	|
+| Column 1 | Column 2 | 
+| -------- | -------- | 
 | 26 Jul 2023 	| [Preliminary Examination Letter](/files/preliminary_examinations_letter_2023.pdf)	|
 | 26 Jul 2023 	| [Updates on Academic Progress P5](/files/updates%20on%20academic%20progress_p5_2023.pdf)	|
 | 26 Jul 2023 	| [Updates on Academic Progress P4](/files/updates%20on%20academic%20progress_p4_2023.pdf)	|
