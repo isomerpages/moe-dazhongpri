@@ -7,8 +7,10 @@ description: ""
 
 #### Primary 1
 
-| Class 	| Name of Staff<br> 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+
+
+| Class 	| Name of Staff 	| Name of Staff 	|
+| -------- | -------- | -------- |
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
 |  1 Integrity 	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen_ong_pei_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
 | |Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  | |
