@@ -25,19 +25,17 @@ description: ""
 |  14 	| HOD SM  	|  Mr Wu Zongbing<br>[*wu_zongbing@moe.edu.sg*](mailto:wu_zongbing@moe.edu.sg)  	|
 | 15 	| HOD CCE  	|  Ms Ananthy Marimuthu<br>[*ananthymarimuthu@moe.edu.sg*](mailto:ananthy_marimuthu@moe.edu.sg) 	|
 | 16	| School Staff Developer 	| Miss Turinadevi Devarajan <br>_[turinadevi\_devarajan@moe.edu.sg](mailto:turinadevi_devarajan@moe.edu.sg)_ 	|
-| 17 	|  SH CL 	| Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_ 	|
-| 18 |  HOD ICT 	|  Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_	|
-|  19	|  SH Data Management 	|  Mdm V Swarna Leela<br>_[V\_swarna\_leela@moe.edu.sg](mailto:V_swarna_leela@moe.edu.sg)_|
-| 20 |  SH SWB 	|  Mr Herman Bin Ponijo<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_	|
-| 21 |  SH PE &amp; CCA 	|  Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_	|
-|  22 	| LH EL 	| Mdm Choo Xue Er Danica <br>_[choo\_xue\_er\_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_ 	|
-|  23 	| LH SCI 	| Ms Ong Xuan Wan<br>_[ong_xuan_wan@moe.edu.sg](mailto:ong_xuan_wan@moe.edu.sg)_ 	|
-|  24	|  LT PE 	| Mr Wee Boon Nee<br>_[Wee\_boon\_nee@moe.edu.sg](mailto:Wee_boon_nee@moe.edu.sg)_   	|
-| 25 	| LT MUSIC 	| Mdm Chan Wee Teng Dawn<br>_[*chan_wee_teng_dawn@moe.edu.sg*](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
-| 26 	| LT CL 	| Mdm Ng Boon Shuen<br>_[ng\_boon\_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
-| 27 	| ST SCI 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
-| 28 	| ST ART 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	|
-| 29 	| ST CCE 	| Mdm Suriatie Bte Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	|
-| 30 	| ST EL 	| Ms Uma Vicnesvare D/O Thurairaj<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	|
-| 31 	| ST CL 	| Mdm Sun I-Feng<br>_[sun_i-feng@moe.edu.sg](mailto:sun_i-feng@moe.edu.sg)_ 	|
-| 32 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ |
+| 17 |  HOD ICT 	|  Miss Ting Ning Xin Jessie<br>_[ting\_ning\_xin\_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_	|
+| 18 |  SH SWB 	|  Mr Herman Bin Ponijo<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_	|
+| 19 |  SH PE &amp; CCA 	|  Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_	|
+|  20 	| LH EL 	| Mdm Choo Xue Er Danica <br>_[choo\_xue\_er\_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_ 	|
+|  21 	| LH SCI 	| Ms Ong Xuan Wan<br>_[ong_xuan_wan@moe.edu.sg](mailto:ong_xuan_wan@moe.edu.sg)_ 	|
+|  22	|  LT PE 	| Mr Wee Boon Nee<br>_[Wee\_boon\_nee@moe.edu.sg](mailto:Wee_boon_nee@moe.edu.sg)_   	|
+| 23	| LT MUSIC 	| Mdm Chan Wee Teng Dawn<br>_[*chan_wee_teng_dawn@moe.edu.sg*](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
+| 24 	| LT CL 	| Mdm Ng Boon Shuen<br>_[ng\_boon\_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	|
+| 25 	| ST SCI 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ 	|
+| 26 	| ST ART 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ 	|
+| 27 	| ST CCE 	| Mdm Suriatie Bte Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	|
+| 28 	| ST EL 	| Ms Uma Vicnesvare D/O Thurairaj<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	|
+| 29 	| ST CL 	| Mdm Sun I-Feng<br>_[sun_i-feng@moe.edu.sg](mailto:sun_i-feng@moe.edu.sg)_ 	|
+| 30 	| ST SEN 	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ |

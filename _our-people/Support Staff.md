@@ -6,8 +6,8 @@ description: ""
 ### Support Staff
 
 | S/N	| Designation	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
-| 1  	| Admin Manager 	| Miss Tan Geok Hwa<br>_[tan\_geok\_hwa@moe.edu.sg](mailto:tan_geok_hwa@moe.edu.sg)_ 	|
+| -------- | -------- | -------- |
+| 1  	| Admin Manager 	|  	|
 | 2 	| Operations Manager 	| Mr V Manoharan<br>[v\_manoharan@moe.edu.sg](mailto:v_manoharan@moe.edu.sg) 	|
 | 3 	| Operations Manager 	| Mr Simon Lim Boon Poh <br>_[lim_boon_poh_simon@moe.edu.sg](mailto:lim_boon_poh_simon@moe.edu.sg)_ 	|
 | 4 	| FAJT (SC)  	| Mdm Mas'amah Binte Ruah<br>_[masamah\_ruah@moe.edu.sg](mailto:masamah_ruah@moe.edu.sg)_ 	|
@@ -24,6 +24,5 @@ description: ""
 |  16 	|  Desktop Engineer  	|   Mr Dhamiri Zuhri Bin Thahir 	|
 | 17 	| Operations Support Officer 	| Mdm Nancy Teo Lee Choo  	|
 | 18 	| Operations Support Officer 	| Mr Salleh Bin Talib  	|
-| 19 	| Operations Support Officer 	| Mr Tamilmohan S/O Veerachamy	|
-| 20 	| Operations Support Officer 	| Mdm T Magaswari  	|
-| 21 	| Operations Support Officer 	| Mdm Jamie Koh Siang Cher	|
+| 19 	| Operations Support Officer 	| Mdm T Magaswari  	|
+| 20 	| Operations Support Officer 	| Mdm Jamie Koh Siang Cher	|

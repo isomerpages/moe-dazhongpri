@@ -7,8 +7,10 @@ description: ""
 
 #### Primary 1
 
-| Class 	| Name of Staff<br> 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+
+
+| Class 	| Name of Staff 	| Name of Staff 	|
+| -------- | -------- | -------- |
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
 |  1 Integrity 	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen_ong_pei_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
 | |Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  | |
@@ -23,8 +25,9 @@ description: ""
 
 #### Primary 2
 
+
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+| -------- | -------- | -------- |
 | P2 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_<br> 	|  	|
 | P2 AYH 	| Ms Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_<br> 	|  	|
 | 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Nur Zulaikha Binte Mohamed Rohaidzat<br>_[Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg](mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg)_ |
@@ -38,7 +41,7 @@ description: ""
 #### Primary 3
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+| -------- | -------- | -------- |
 | P3 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	| <br>  	|
 | P3 AYH 	| Mr Goh Zong'En Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_   	| <br>  	|
 |  3 Integrity 	| Mr Herman Bin Ponjio<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ 	| Ms Nurul Afiqah Binte Sulaiman<br>_[nurul_afiqah_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ 	|	|
@@ -50,7 +53,7 @@ description: ""
 #### Primary 4
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+| -------- | -------- | -------- |
 | P4 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_ 	|  	|
 |  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
 | 4 Responsibility 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
@@ -62,7 +65,7 @@ description: ""
 #### Primary 5
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+| -------- | -------- | -------- |
 | P5 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_    	|  	|
 | 5 Integrity  	| Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mr Tan Weifeng Benny<br>_[tan_weifeng_benny@moe.edu.sg](mailto:tan_weifeng_benny@moe.edu.sg)_  	|
 | 5 Responsibility 	| Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ 	| Mr Chen Xianghao Keith<br>_[chen_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ 	|
@@ -74,7 +77,7 @@ description: ""
 #### Primary 6
 
 | Class 	| Name of Staff 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
+| -------- | -------- | -------- |
 | P6 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_    	|   	|
 |  6 Integrity 	| Mdm Hamidah Bte Hardi<br>[_hamidah_hardi@moe.edu.sg_](mailto:hamidah_hardi@moe.edu.sg) 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
 |  6 Responsibility 	|     Ms Lim Li Hwang Iris<br>_[lim_li_huang_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_<br><br> Ms Tashalini d/o K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
@@ -85,7 +88,7 @@ description: ""
 #### Other Teaching Staff
 
 | S/N 	| Name of staff 	|
-|:---:	|:---:	|
+| -------- | -------- |
 | 1 	| Mr Low Heng Chong (FAJT)<br>_[low\_heng\_chong@schools.gov.sg](mailto:low_heng_chong@schools.gov.sg)_	|
 | 2 	| Mdm Goh Li-Ping (FAJT) <br>_[goh\_li-ping@moe.edu.sg](mailto:goh_li-ping@moe.edu.sg)_  	|
 | 3 	| Mdm Mary Ang (FAJT) <br>_[ang\_mary@moe.edu.sg](mailto:ang_mary@moe.edu.sg)_ 	|
