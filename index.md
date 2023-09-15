@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
       key_highlights:
-        - title: HBL Website
+        - title: Home-based Learning
           description: Click here
           url: https://sites.google.com/moe.edu.sg/dzpshbl/home
   - infopic:
