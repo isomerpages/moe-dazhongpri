@@ -142,8 +142,11 @@ Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top Brain (Sin
 
 Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 3. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Lead and Shine!
 
-***River Valley Mathematics Challenge 2023***
+***River Valley Mathematics Challenge 2023***<br>
+Most Creative Entry - Snap &amp; Win Challenge
 
+![](/images/dzmath15.jpg)
+![](/images/dzmath16.png)
 
 ***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
 1 Silver Awardee<br>
