@@ -148,6 +148,19 @@ Most Creative Entry - Snap &amp; Win Challenge
 ![](/images/dzmath15.jpg)
 ![](/images/dzmath16.png)
 
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023***<br>
+2 Bronze Awardees         
+
+***Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023***<br>
+Junior Category - 3 Certificates of Merit<br>
+Open Category – 1 Certificate of Distinction, 2 Certificates of Merit<br>
+
+***KooBits Challenge - Top Brain (Singapore) Award***
+
+![](/images/dzmath17.png)
+
+Zhuo Yuheng from 1 Perseverance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 1. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Learn and Shine!
+
 ***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
 1 Silver Awardee<br>
 1 Bronze Awardee<br>
