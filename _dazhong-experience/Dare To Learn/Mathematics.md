@@ -57,6 +57,9 @@ Our key pedagogical approaches include:
 
 ***Metacognitive Strategies:*** Metacognition, or the ability to think about one's own thinking, is a crucial skill in the realm of Mathematics teaching and learning. When teaching problem solving, students engage in group discussions to share their thought processes as well as reflect on their problem-solving strategies and decisions, promoting metacognitive awareness. By monitoring their own thinking processes, students gained self-awareness, essential for ongoing learning and growth. Additionally, it supported metacognitive regulation by enabling adjustments based on feedback and experience.
 
+![](/images/dzmath06.png)
+![](/images/dzmath07.png)
+
 **_George Polya’s 4-Step Approach to Problem Solving_**: The S.T.E.P Thinking Routine was adopted from George Polya’s four-step approach for problem solving. It was intentionally created to scaffold our students’ critical and problem solving skills when tackling heuristics and problem sums. Students will make use of the four steps in the S.T.E.P Thinking Routine when solving Mathematics problems –&nbsp;**S**tudy the problem,&nbsp;**T**hink of a plan,&nbsp;**E**xecute the plan,&nbsp;**P**ause and reflect. The steps emphasize 4 key principles:
 
 \-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Understand the problem<br>
