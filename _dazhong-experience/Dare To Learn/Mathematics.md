@@ -47,13 +47,15 @@ Our key pedagogical approaches include:
 **Concrete-Pictorial-Abstract Approach**: The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
 
 ![](/images/dzmath02.png)
+![](/images/dzmath03.png)
 
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of&nbsp;promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
- | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:60%"> 	|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/dzmath04.png)
+![](/images/dzmath05.png)
+
+***Metacognitive Strategies:*** Metacognition, or the ability to think about one's own thinking, is a crucial skill in the realm of Mathematics teaching and learning. When teaching problem solving, students engage in group discussions to share their thought processes as well as reflect on their problem-solving strategies and decisions, promoting metacognitive awareness. By monitoring their own thinking processes, students gained self-awareness, essential for ongoing learning and growth. Additionally, it supported metacognitive regulation by enabling adjustments based on feedback and experience.
 
 **_George Polya’s 4-Step Approach to Problem Solving_**: The S.T.E.P Thinking Routine was adopted from George Polya’s four-step approach for problem solving. It was intentionally created to scaffold our students’ critical and problem solving skills when tackling heuristics and problem sums. Students will make use of the four steps in the S.T.E.P Thinking Routine when solving Mathematics problems –&nbsp;**S**tudy the problem,&nbsp;**T**hink of a plan,&nbsp;**E**xecute the plan,&nbsp;**P**ause and reflect. The steps emphasize 4 key principles:
 
