@@ -6,7 +6,7 @@ third_nav_title: Dare To Learn
 ---
 ### Mathematics
   
-<img src="/images/math1.png" style="width:100%">
+![](/images/dzmath01.png)
 
 <font size="+1"><u><b>Mathematics Department Directions &amp; Philosophy</b></u></font>
 
@@ -15,9 +15,9 @@ third_nav_title: Dare To Learn
 <b>Mission</b>:<br>To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
 
 <b>Key Approaches:</b><br>
-●	To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
-●	To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
-●	To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
+* To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
+* To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
+* To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
 
 Mathematics in Dazhong is shaped by our direction of Mastery of Maths for Life. This takes place in two ways: (1) Cultivating the Joy of Learning, and (2) Building Confidence through Mastery. Along this direction, key milestone programmes are designed to promote conceptual understanding by sense-making through stories.
 
@@ -45,14 +45,20 @@ Teaching is an interactive and iterative process that is focused on students’ 
 Our key pedagogical approaches include:
 
 **Concrete-Pictorial-Abstract Approach**: The Concrete-Pictorial-Abstract (C-P-A) Approach engages our students in the process of deep and active learning and the mastery of mathematical concepts and skills in our classrooms. Students participate in activities involving the use of concrete materials and pictorial representations or diagrams to acquire full conceptual understanding in Mathematics, moving through the three stages – enactive, iconic and symbolic – as posited in a research-based Theory of Cognitive Development by Jerome Bruner.
-<img src="/images/math3.png" style="width:80%"> 
+
+![](/images/dzmath02.png)
+![](/images/dzmath03.png)
 
   
 **Authentic learning experiences**: In line with our Mathematics Department’s approach of&nbsp;promoting the love for Mathematics learning through authentic learning experiences and our belief that our students learn best through purposeful play, we provide a wide range of learning experiences for students in our Mathematics classrooms. For instance, when teaching the topic of ‘Angles’ to middle-primary students, we provide our students with opportunities to find angles in the environment and use a ‘paper right angle’ to identify right angles, obtuse angles and acute angles.
 
- | <img src="/images/math6.png" style="width:80%"> 	|  <img src="/images/math7.png" style="width:80%">	| <img src="/images/math8.png" style="width:60%"> 	|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/dzmath04.png)
+![](/images/dzmath05.png)
+
+***Metacognitive Strategies:*** Metacognition, or the ability to think about one's own thinking, is a crucial skill in the realm of Mathematics teaching and learning. When teaching problem solving, students engage in group discussions to share their thought processes as well as reflect on their problem-solving strategies and decisions, promoting metacognitive awareness. By monitoring their own thinking processes, students gained self-awareness, essential for ongoing learning and growth. Additionally, it supported metacognitive regulation by enabling adjustments based on feedback and experience.
+
+![](/images/dzmath06.png)
+![](/images/dzmath07.png)
 
 **_George Polya’s 4-Step Approach to Problem Solving_**: The S.T.E.P Thinking Routine was adopted from George Polya’s four-step approach for problem solving. It was intentionally created to scaffold our students’ critical and problem solving skills when tackling heuristics and problem sums. Students will make use of the four steps in the S.T.E.P Thinking Routine when solving Mathematics problems –&nbsp;**S**tudy the problem,&nbsp;**T**hink of a plan,&nbsp;**E**xecute the plan,&nbsp;**P**ause and reflect. The steps emphasize 4 key principles:
 
@@ -63,10 +69,7 @@ Our key pedagogical approaches include:
 
 The S.T.E.P Thinking Routine is incorporated into the design of our Progressive Approach to Teaching Heuristic and Skills (P.A.T.H.S) Package, a termly package that introduces two or three heuristic skills to students progressively.  
 
-
-| <img src="/images/math9.png" style="width:80%"> 	|  <img src="/images/math10.png" style="width:80%">	|
-|---	|---	|
-|  	|  	|
+![](/images/dzmath08.png)
 
 **_Student Learning Space Pedagogical Scaffold (SLS PS)_**:&nbsp;The department also adopts the SLS PS in lesson planning and delivery. Relevant ICT platforms/tools are used to activate learning, promote thinking and discussion, and to visualise students’ thinking are researched and designed via our Professional Learning Time (PLT) and implemented in our lessons.
 
@@ -82,12 +85,15 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 All students were engaged in deep and joyful learning as they participated in the various Mathematics recess booth activities to learn more about Singapore as well as the environmental issues delineating the SG Green Plan 2030.
 
 ![](/images/Math12.png)
+![](/images/dzmath09.png)
+
+***Mathematics Recess Play:*** The Mathematics Recess Play programme seeks to promote Maths factual fluency among our students. Selected Mathematics monitors were empowered to engage students in learning Mathematical concepts using a Maths app and also explain how they could improve their Maths skills. Many students were excited to participate in the experience to learn and improve their Maths skills in a fun way.
+
+![](/images/dzmath10.png)
 
 **_Mathematics Trails &amp; Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
 
-| <img src="/images/math17.png" style="width:80%"> 	|  <img src="/images/math18.png" style="width:80%">	|  <img src="/images/math19.png" style="width:80%">	|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/dzmath11.png)
 
 **_Differentiated programmes for different student segments:_**
 
@@ -110,11 +116,50 @@ All students were engaged in deep and joyful learning as they participated in th
 \-&nbsp; Singapore Mathematical Olympiad for Primary Schools (SMOPS)<br>
 \-&nbsp; Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br>
 \-&nbsp; National Mathematical Olympiad of Singapore (NMOS)<br>
-\-&nbsp; River Valley Mathematics Challenge
+\-&nbsp; River Valley Mathematics Challenge<br>
+\-&nbsp; Primary Mathematics Project Competition
 
 ![](/images/Math23.png)
 
 <font size="+1"><b><u>Peaks of Excellence</u></b></font>
+
+***KooBits Challenge - Top Brain (Singapore) Award***
+
+
+
+| ![](/images/dzmath12a.png) | ![](/images/dzmath12b.png) |
+| -------- | -------- | 
+
+Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 3. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Lead and Shine!
+
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2023***<br>
+3 Bronze Awardees<br>
+7 Honourable Mentions Awardees
+
+***KooBits Challenge - Top Brain (Singapore) Award***
+
+![](/images/dzmath13.png)
+
+Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 3. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Lead and Shine!
+
+***River Valley Mathematics Challenge 2023***<br>
+Most Creative Entry - Snap &amp; Win Challenge
+
+![](/images/dzmath15.jpg)
+![](/images/dzmath16.png)
+
+***Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023***<br>
+2 Bronze Awardees         
+
+***Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023***<br>
+Junior Category - 3 Certificates of Merit<br>
+Open Category – 1 Certificate of Distinction, 2 Certificates of Merit<br>
+
+***KooBits Challenge - Top Brain (Singapore) Award***
+
+![](/images/dzmath17.png)
+
+Zhuo Yuheng from 1 Perseverance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 1. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Learn and Shine!
 
 ***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
 1 Silver Awardee<br>
