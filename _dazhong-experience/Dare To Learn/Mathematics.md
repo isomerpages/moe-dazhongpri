@@ -6,7 +6,7 @@ third_nav_title: Dare To Learn
 ---
 ### Mathematics
   
-<img src="/images/math1.png" style="width:100%">
+![](/images/dzmath01.png)
 
 <font size="+1"><u><b>Mathematics Department Directions &amp; Philosophy</b></u></font>
 
@@ -15,9 +15,9 @@ third_nav_title: Dare To Learn
 <b>Mission</b>:<br>To nurture self-directed, thinking individuals with a passion and love for Mathematics learning and problem-solving.
 
 <b>Key Approaches:</b><br>
-●	To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
-●	To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
-●	To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
+* To develop students’ competencies in Maths problem-solving holistically using the Concrete-Pictorial-Abstract approach. [**Engage**]<br>
+* To engage students in the learning of Mathematics and to promote the love for Mathematics learning through authentic learning experiences. [**Engage/Excite**]<br>
+* To empower Maths learners to be self-directed learners through timely feedback of their learning, and differentiated and timely support for different student segments. [**Empower**]
 
 Mathematics in Dazhong is shaped by our direction of Mastery of Maths for Life. This takes place in two ways: (1) Cultivating the Joy of Learning, and (2) Building Confidence through Mastery. Along this direction, key milestone programmes are designed to promote conceptual understanding by sense-making through stories.
 
