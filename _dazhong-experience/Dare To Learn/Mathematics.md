@@ -116,11 +116,26 @@ All students were engaged in deep and joyful learning as they participated in th
 \-&nbsp; Singapore Mathematical Olympiad for Primary Schools (SMOPS)<br>
 \-&nbsp; Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br>
 \-&nbsp; National Mathematical Olympiad of Singapore (NMOS)<br>
-\-&nbsp; River Valley Mathematics Challenge
+\-&nbsp; River Valley Mathematics Challenge<br>
+\-&nbsp; Primary Mathematics Project Competition
 
 ![](/images/Math23.png)
 
 <font size="+1"><b><u>Peaks of Excellence</u></b></font>
+
+***KooBits Challenge - Top Brain (Singapore) Award***
+
+
+
+| ![](/images/dzmath12a.png) | ![](/images/dzmath12b.png) |
+| -------- | -------- | 
+
+Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top Brain (Singapore) Award in Term 3. The award is presented to the top 3 students per level with the highest Challenge Points for the term <u>**across all Singapore schools**</u>. Congratulations on your achievement! Dazhong, Dare to Lead and Shine!
+
+***National Mathematical Olympiad of Singapore (NMOS) Competition 2023***<br>
+3 Bronze Awardees<br>
+7 Honourable Mentions Awardees
+
 
 ***National Mathematical Olympiad of Singapore (NMOS) Competition 2022***<br>
 1 Silver Awardee<br>
