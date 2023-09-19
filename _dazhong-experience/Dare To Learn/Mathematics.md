@@ -69,10 +69,7 @@ Our key pedagogical approaches include:
 
 The S.T.E.P Thinking Routine is incorporated into the design of our Progressive Approach to Teaching Heuristic and Skills (P.A.T.H.S) Package, a termly package that introduces two or three heuristic skills to students progressively.  
 
-
-| <img src="/images/math9.png" style="width:80%"> 	|  <img src="/images/math10.png" style="width:80%">	|
-|---	|---	|
-|  	|  	|
+![](/images/dzmath08.png)
 
 **_Student Learning Space Pedagogical Scaffold (SLS PS)_**:&nbsp;The department also adopts the SLS PS in lesson planning and delivery. Relevant ICT platforms/tools are used to activate learning, promote thinking and discussion, and to visualise students’ thinking are researched and designed via our Professional Learning Time (PLT) and implemented in our lessons.
 
@@ -88,12 +85,15 @@ Learning Mathematics is more than just learning concepts and skills. Equally imp
 All students were engaged in deep and joyful learning as they participated in the various Mathematics recess booth activities to learn more about Singapore as well as the environmental issues delineating the SG Green Plan 2030.
 
 ![](/images/Math12.png)
+![](/images/dzmath09.png)
+
+***Mathematics Recess Play:*** The Mathematics Recess Play programme seeks to promote Maths factual fluency among our students. Selected Mathematics monitors were empowered to engage students in learning Mathematical concepts using a Maths app and also explain how they could improve their Maths skills. Many students were excited to participate in the experience to learn and improve their Maths skills in a fun way.
+
+![](/images/dzmath10.png)
 
 **_Mathematics Trails &amp; Learning Journeys_**: Our Primary 1 and Primary 2 students cultivated the joy of learning as they embarked on a Mathematics Trail around the school, including at our very own Butterfly Garden! They had the opportunity to experience Mathematics in an authentic, real-life environment at the various learning stations around school.
 
-| <img src="/images/math17.png" style="width:80%"> 	|  <img src="/images/math18.png" style="width:80%">	|  <img src="/images/math19.png" style="width:80%">	|
-|---	|---	|---	|
-|  	|  	|  	|
+![](/images/dzmath11.png)
 
 **_Differentiated programmes for different student segments:_**
 
