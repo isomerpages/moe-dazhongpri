@@ -26,4 +26,4 @@ description: ""
 | 17 	| Operations Support Officer 	| Mdm Nancy Teo Lee Choo  	|
 | 18 	| Operations Support Officer 	| Mr Salleh Bin Talib  	|
 | 19 	| Operations Support Officer 	| Mdm T Magaswari  	|
-| 20 	| Operations Support Officer 	| Mdm Jamie Koh Siang Cher	|
+| 20 	| Operations Support Officer 	| Mr Pereira Stanlas	|
