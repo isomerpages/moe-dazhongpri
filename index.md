@@ -15,11 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: |-
-        
-        Dazhong's AEP Violin Programme featured on ZB Schools (早报校园）!
+      description: Dazhong's AEP Violin Programme featured on ZB Schools (早报校园）!
       button: See More
-      url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-learn/aesthetics/
+      url: https://www.zbschools.sg/news/local/stories-28196&issue=105
       image: /images/aep zaobao violin.jpeg
       alt: Image alt text
 ---
