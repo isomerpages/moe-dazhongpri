@@ -15,9 +15,18 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: 85th Anniversary Flipbook
+      description: Our Choir and Junior Orchestra performed for Prize Giving Day! Part 1
       button: See More
-      url: https://go.gov.sg/dzshine
-      image: /images/Screenshot_DZPS_85th_Flipbook.jpg
+      url: https://youtu.be/ZfoJm5ZntKE?si=NKQ57sALBpmoUiWy
+      image: /images/Screenshot_PGD_Part1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Update
+      subtitle: Dazhong Primary School
+      id: infopic
+      description: Our Choir and Junior Orchestra performed for Prize Giving Day! Part 2
+      button: See More
+      url: https://youtu.be/X5m4bzh6g0A?si=-afwrZ5b7WRtRbkR
+      image: /images/Screenshot_PGD_Part2.jpg
       alt: Image alt text
 ---

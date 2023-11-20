@@ -9,6 +9,8 @@ variant: markdown
 
 To view our 85th Anniversary Flipbook, please click **[here](https://go.gov.sg/dzshine)**.
 
+![](/images/Screenshot_DZPS_85th_Flipbook.jpg)
+
 ![](/images/WhatsApp_Image_2023_11_16_at_3_31_23_PM.jpeg)
 
 
