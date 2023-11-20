@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong Primary School 85th Anniversary Flipbook
+      description: 85th Anniversary Flipbook
       button: See More
       url: https://go.gov.sg/dzshine
       image: /images/Screenshot_DZPS_85th_Flipbook.jpg
