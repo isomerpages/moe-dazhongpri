@@ -3,8 +3,14 @@ title: Overview
 permalink: /dazhong-experience/85th-anniversary-celebrations/overview/
 description: ""
 third_nav_title: 85th Anniversary Celebrations
+variant: markdown
 ---
 #### 85th Anniversary - Overview
+
+To view our 85th Anniversary Flipbook, please click **[here](https://go.gov.sg/dzshine)**.
+
+![](/images/WhatsApp_Image_2023_11_16_at_3_31_23_PM.jpeg)
+
 
 In 2023, Dazhong Primary School celebrates our 85th Anniversary themed **DARE TO
 SHINE**. Dazhong kicked-off our 85th Anniversary Celebrations with **Tree Planting** on 19

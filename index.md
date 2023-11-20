@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Updates
       subtitle: Dazhong Primary School
-      description: Dazhong's AEP Violin Programme featured on ZB Schools (早报校园）!
+      description: 85th Anniversary Flipbook
       button: See More
-      url: https://www.zbschools.sg/news/local/stories-28196&issue=105
-      image: /images/aep zaobao violin.jpeg
+      url: https://go.gov.sg/dzshine
+      image: /images/Screenshot_DZPS_85th_Flipbook.jpg
       alt: Image alt text
 ---
