@@ -3,12 +3,13 @@ title: Group Personal Accident Insurance for Students
 permalink: /partnerships/School-Information-and-Letters/group-personal-accident-insurance-for-students/
 description: ""
 third_nav_title: Support Services
+variant: markdown
 ---
 ### Group Personal Accident Insurance for Students
 
-**Student Group Personal Accident Insurance (GPA) 2023**
+**Student Group Personal Accident Insurance (GPA) 2024**
 
-MOE has procured a Group Personal Accident Insurance (GPA) for our students for the period from 1 January 2021 to 31 December 2023. The contracted insurance service provider is NTUC Income. 
+MOE has procured a Group Personal Accident Insurance (GPA) for our students for the period from 1 January 2021 to 31 December 2024. The contracted insurance service provider is NTUC Income. 
 
 We would like to inform that parents/ guardians are required to submit all student accident insurance claims electronically via the online portal at [https://studentgpa.incomegroupins.com.sg/#/](https://studentgpa.incomegroupins.com.sg/#/). You will be able to check the claims status as well as submit new claims for medical reviews on the same incident through this portal.
 
