@@ -8,7 +8,7 @@ variant: markdown
 ### School Bus Service Provider
   
 
-School Bus Operator for 2023
+School Bus Operator for 2024
 
 The school has appointed **Chang Chen Pte Ltd** for the period of 2 years from **January 2022 to December 2024** to provide the following services:
 
