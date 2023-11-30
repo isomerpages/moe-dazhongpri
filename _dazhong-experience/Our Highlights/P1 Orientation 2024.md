@@ -14,3 +14,9 @@ This time, we also have the Peer Support Leaders (PSLs) who serve beyond self in
 We hope the P1 students and parents had a memorable P1 Orientation Day and we look forward to having them again on the first day of the new school year!
 
 Dazhong, Dare to Shine! =)
+
+![](/images/Slide1.JPG)
+
+![](/images/Slide2.JPG)
+
+![](/images/Slide3.JPG)
