@@ -13,9 +13,8 @@ variant: markdown
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
-|  1 Integrity 	| Mrs Nuraini Binte Abdul Hamid<br>_[nuraini_abdul_hamid@moe.edu.sg](mailto:nuraini_abdul_hamid@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
-| |Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  | |
-| 1 Responsibility 	| Mdm Humairah Binte Rahman <br>_[humairah_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_ 	| Mrs Dawn Kuah<br>_[chan_wee_teng_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
+|  1 Integrity 	| Mrs Nuraini Binte Abdul Hamid<br>_[nuraini_abdul_hamid@moe.edu.sg](mailto:nuraini_abdul_hamid@moe.edu.sg)_ 	|  Mdm Lee Siew Teng<br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_|
+| 1 Responsibility 	|  Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_ | Ms Nur Zulaikha Binte Mohamed Rohaidzat<br>_[Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg](mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg)_ |
 |  1 Excellence 	|   Mdm Ang Qiu Ping, Emily<br>_[ang_qiu_ping_emily@moe.edu.sg](mailto:ang_qiu_ping_emily@moe.edu.sg)_  	| Mr Christopher Teo Ming Jian <br>[christopher_teo_ming_jian@moe.edu.sg](mailto:christopher_teo_ming_jian@moe.edu.sg) 	|
 |  1 Acceptance 	| Ms Foo Li Wei<br>_[foo_li_wei@moe.edu.sg](mailto:foo_li_wei@moe.edu.sg)_   	|  Mdm Nor Hidayah Bte Abdul Rahman <br>_[nor_hidayah_abdul_rahman@moe.edu.sg](mailto:nor_hidayah_abdul_rahman@moe.edu.sg)_ 	|
 |  1 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine_tan_pei_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_ 	| Mr Saharudin B Osman<br>_[saharudin_b_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ 	|
