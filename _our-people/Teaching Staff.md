@@ -51,7 +51,7 @@ variant: markdown
 | -------- | -------- | -------- |
 |  4 Integrity 	| Mr Herman Bin Ponjio<br> _[herman\_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ | Ms Nurul Afiqah Binte Sulaiman<br>_[nurul\_afiqah\_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ |
 | 4 Responsibility 	| Ms Justina Tan Hui Ru<br>_[justina\_tan\_hui\_ru@moe.edu.sg](mailto:justina_tan_hui_ru@moe.edu.sg)_	| Mdm Chen Liqin<br>_[chen\_li\_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_	|
-|    4 Excellence 	| Mr Goh Zong’en Jonathan<br>_[goh\_zong\_en\_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_	| Ms Siti?<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
+|    4 Excellence 	| Mr Goh Zong’en Jonathan<br>_[goh\_zong\_en\_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_	| Ms Siti Nadzirah Bte Hamzah<br>_[siti_nadzirah_hamzah@moe.edu.sg](mailto:siti_nadzirah_hamzah@moe.edu.sg)_ 	|
 |   4 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong\_shi\_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_	| Ms Lu Ying<br>_[lu\_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_	|
 |   4 Perseverance 	| Mr Brandon Huang Kangjuni<br>_[brandon\_huang\_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ <br><br>	| Mrs Lee Hon Choo<br>_[lee_hon_choo@moe.edu.sg](mailto:lee_hon_choo@moe.edu.sg)_ 	|
 
@@ -60,8 +60,7 @@ variant: markdown
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
-| P5 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_    	|  	|
-| 5 Integrity  	| Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mr Tan Weifeng Benny<br>_[tan_weifeng_benny@moe.edu.sg](mailto:tan_weifeng_benny@moe.edu.sg)_  	|
+| 5 Integrity  	|Mdm Hamidah Bte Hardi<br>_[hamidah_hardi@moe.edu.sg](mailto:hamidah_hardi@moe.edu.sg)_ 	| Mr Tan Weifeng Benny<br>_[tan_weifeng_benny@moe.edu.sg](mailto:tan_weifeng_benny@moe.edu.sg)_  	|
 | 5 Responsibility 	| Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ 	| Mr Chen Xianghao Keith<br>_[chen_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ 	|
 | 5 Excellence  	| Ms Lin Huiyu Vanessa<br>_[lin_huiyu_vanessa@moe.edu.sg](mailto:lin_huiyu_vanessa@moe.edu.sg)_ 	|  Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
 | 5 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_  	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_ | 5 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ 	| Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_  	|
@@ -72,7 +71,7 @@ variant: markdown
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
 | P6 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_    	|   	|
-|  6 Integrity 	| Mdm Hamidah Bte Hardi<br>[_hamidah_hardi@moe.edu.sg_](mailto:hamidah_hardi@moe.edu.sg) 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
+|  6 Integrity 	|  Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
 |  6 Responsibility 	|     Ms Lim Li Hwang Iris<br>_[lim_li_huang_iris@moe.edu.sg](mailto:lim_li_huang_iris@moe.edu.sg)_<br><br> Ms Tashalini d/o K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
 |     6 Excellence 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_<br><br> Ms Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_ 	| Mr Muhammad Syahriel <br>_[muhammad_syahriel_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ 	|
 |  6 Acceptance 	| Ms Uma Vicnesvare<br>_[uma_vicnesvare@moe.edu.sg](mailto:uma_vicnesvare@moe.edu.sg)_ 	| Mdm Zhong Dan<br>_[zhong_dan@moe.edu.sg ](mailto:zhong_dan@moe.edu.sg )_  	|
