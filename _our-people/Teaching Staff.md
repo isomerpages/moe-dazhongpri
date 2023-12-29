@@ -39,8 +39,6 @@ variant: markdown
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
-| P3 YH 	| Mdm Lin Shihua Jan<br>_[lin_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_   	| <br>  	|
-| P3 AYH 	| Mr Goh Zong'En Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_   	| <br>  	|
 |  3 Integrity 	| Mr Herman Bin Ponjio<br>_[herman_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ 	| Ms Nurul Afiqah Binte Sulaiman<br>_[nurul_afiqah_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ 	|	|
 | 3 Responsibility 	| Ms Justina Tan Hui Ru<br>_[justina_tan_hui_ru@moe.edu.sg](mailto:justina_tan_hui_ru@moe.edu.sg)_  	| Mdm Chen Liqin<br>_[chen_li_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_   	|
 |    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	<br><br>Mr Er Wei Leong Leonard<br>_[er_wei_leong_leonard@moe.edu.sg](mailto:er_wei_leong_leonard@moe.edu.sg)_| Ms Wydre Kwek Wei Ting<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_ 	|
