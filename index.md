@@ -12,21 +12,17 @@ notification: ""
 sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
-  - infopic:
-      title: Updates
-      subtitle: Dazhong Primary School
-      description: Our Choir and Junior Orchestra performed for Prize Giving Day! Part 1
-      button: See More
-      url: https://youtu.be/ZfoJm5ZntKE?si=NKQ57sALBpmoUiWy
-      image: /images/Screenshot_PGD_Part1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Update
-      subtitle: Dazhong Primary School
-      id: infopic
-      description: Our Choir and Junior Orchestra performed for Prize Giving Day! Part 2
-      button: See More
-      url: https://youtu.be/X5m4bzh6g0A?si=-afwrZ5b7WRtRbkR
-      image: /images/Screenshot_PGD_Part2.jpg
-      alt: Image alt text
+  - infobar:
+      title: Reporting Time
+      subtitle: Announcement for Primary 1
+      id: infobar
+      description: >-
+        2 Jan - 8:00am to 11:30am (P1 Integrity, Responsibility and Excellence)
+
+        2 Jan - 9:00am to 12:30am (P1 Acceptance, Perseverance, Gracious and Diligence) 
+  - infobar:
+      title: Reporting Time
+      subtitle: Announcement for Primary 1
+      id: infobar
+      description: 3 Jan - 7:30am for All P1 Classes
 ---
