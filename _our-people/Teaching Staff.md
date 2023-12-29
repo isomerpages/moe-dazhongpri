@@ -41,7 +41,7 @@ variant: markdown
 | -------- | -------- | -------- |
 |  3 Integrity 	| Mdm Suriatie Abdul Samat<br>_[suriatie\_abdul\_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_	| Mdm Sun I - Feng<br>_[sun_i-feng@moe.edu.sg ](mailto:sun_i-feng@moe.edu.sg )_ |
 | 3 Responsibility 	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena\_kumaree\_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ | Ms Grace Tan<br>_[grace\_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_    |
-|    3 Excellence 	| Mr Goh Zong'en Jonathan<br>_[goh_zong_en_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_ 	<br><br>Mr Er Wei Leong Leonard<br>_[er_wei_leong_leonard@moe.edu.sg](mailto:er_wei_leong_leonard@moe.edu.sg)_| Ms Wydre Kwek Wei Ting<br>_[wydre_kwek_wei_ting@moe.edu.sg](mailto:wydre_kwek_wei_ting@moe.edu.sg)_ 	|
+|    3 Excellence 	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_ | Ms Izni Nasihah Binte Zulkifli<br>_[inzi_nasihah_zulkifli@moe.edu.sg](mailto:inzi_nasihah_zulkifli@moe.edu.sg)_ 	|
 |  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Lu Ying<br>_[lu_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_ 	|
 |   3 Perseverance 	| Mr Brandon Huang Kangjun<br>_[brandon_huang_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	|  Mdm Nuraishah Jamal <br>_[nuraishah_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ 	|
 
