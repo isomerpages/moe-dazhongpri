@@ -71,10 +71,10 @@ variant: markdown
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
 |  6 Integrity 	|  Mdm V Swarna Leela<br>_[v_swarna_leela@moe.edu.sg](mailto:v_swarna_leela@moe.edu.sg)_ 	| Mdm Xie Shuang<br>_[xie_shuang@moe.edu.sg](mailto:xie_shuang@moe.edu.sg)_   	|
-|  6 Responsibility 	|  Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ | Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ 	|
+|  6 Responsibility 	|  Mdm Raywathi D/O Muthu Kanna<br>_[raywathi_muthu_kanna@moe.edu.sg](mailto:raywathi_muthu_kanna@moe.edu.sg)_ | Mdm He Jingwen<br>_[he\_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_ 	|
 |     6 Excellence 	| Ms Lin Huiyu Vanessa<br>_[lin_huiyu_vanessa@moe.edu.sg](mailto:lin_huiyu_vanessa@moe.edu.sg)_	| Mr Syed Imran Bin Jamaluddin<br>_[syed_imran_jamaludin@moe.edu.sg](mailto:syed_imran_jamaludin@moe.edu.sg)_ 	|
 |  6 Acceptance 	| Ms Swarnapraba Karthigaihini P<br>_[swarnapraba_karthigaihini_poonsolai@moe.edu.sg](mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg)_	| Ms Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_	|
-|  6 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ | Ms Ng Boon Shuen<br>_[ng_boon_shuen@moe.edu.sg](mailto:ng_boon_shuen@moe.edu.sg)_	|
+|  6 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ | Mdm Shoba D/O Mohan<br>_[shoba\_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_	|
 | 6 Gracious 	| Ms Muzfirah Aida <br>_[muzfirah_aida_afifah_abdullah@moe.edu.sg ](mailto:muzfirah_aida_afifah_abdullah@moe.edu.sg )_	| Mr Teo Kuan Ping Amos <br>_[teo_kuan_ping_amos@moe.edu.sg ](mailto:teo_kuan_ping_amos@moe.edu.sg )_	|
 
 #### Other Teaching Staff
