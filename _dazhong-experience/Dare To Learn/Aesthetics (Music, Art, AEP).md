@@ -3,6 +3,7 @@ title: Aesthetics (Music, Art, AEP)
 permalink: /dazhong-experience/dare-to-learn/aesthetics/
 description: ""
 third_nav_title: Dare To Learn
+variant: markdown
 ---
 ### Aesthetics Department
 
@@ -59,11 +60,14 @@ AEP Recitals@Dazhong events were carried out for our P1, P2, P3 and P5 levels. T
 
 **AEP P1 to P3 Violin Ensemble Programme**
 
-<img src="/images/aes5.png" style="width:60%">
-		 
-<img src="/images/aes6.png" style="width:60%">
-		 
-<img src="/images/aes7.png" style="width:60%">
+As part of the Arts Education Programme, AEP@Dazhong, all Primary 1 to 3 students go through the String Ensemble (violin) Music Programme. 
+The videos showcased our Primary 1 and Primary 2 students immersed merrily in the fundamentals of violin playing in our String Ensemble (violin) Music Programme. 
+Students also strengthened their camaraderie with one another by playing together as one class ensemble with their classmates. Amidst smiles, cheer and laughter, students who show an aptitude and interest in the performing arts are invited to further develop their skills and deepen their passion through the school's very own Junior Orchestra, where students can further develop their musical abilities and bring out the best in themselves.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mBHT2bH25rk?si=wGNOXBcuR7V56O0_" height="315" width="560"></iframe>
+<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BiAr_hVyhnA?si=wiYEi7P0rJQzpDaP" height="315" width="560"></iframe>
 
 Pupils learnt musical skills like instrumental playing, listening, performing &amp; ensemble skills, learning how to collaborate &amp; play with confidence.
 
