@@ -33,7 +33,7 @@ variant: markdown
 |  2 Acceptance 	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ | Ms Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_ |
 |  2 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine\_tan\_pei\_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_	| Mr Saharudin B Osman<br>_[saharudin\_b\_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ |
 |  2 Gracious 	| Mdm Tan Sini <br>_[tan\_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_	|
-|  2 Diligence  	| Mr Aidil Hakim Bin Zaharuddin<br>_[aidil\_hakim\_zaharuddin@moe.edu.sg](mailto:aidil_hakim_zaharuddin@moe.edu.sg)_	|  Ms Kavitha Soundarapandian<br>_[kavitha_soundarapandian@moe.edu.sg](mailto:kavitha_soundarapandian@moe.edu.sg)_  	|
+|  2 Diligence  	| Mr Aidil Hakim Bin Zaharuddin<br>_[aidil\_hakim\_zaharuddin@moe.edu.sg](mailto:aidil_hakim_zaharuddin@moe.edu.sg)_	|  Mdm Norlila Bte Abdul Ghani<br>_[norlila\_abdul\_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_ 	|
 
 #### Primary 3
 
