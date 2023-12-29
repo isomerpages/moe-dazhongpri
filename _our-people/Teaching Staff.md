@@ -28,7 +28,7 @@ variant: markdown
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
 | 2 Integrity  	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen\_ong\_pei\_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_ |
-| 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
+| 2 Responsibility 	| Mdm Humairah Binte Rahman<br>_[humairah\_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_	| Mrs Dawn Kuah<br>_[chan\_wee\_teng\_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ |
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
 |  2 Acceptance 	|  Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_   	| Mdm Lee Siew Teng<br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_ |
 |  2 Perseverance 	| Mr Tan Wee Kiang Jeffrey<br>_[tan_wee_kiang@moe.edu.sg](mailto:tan_wee_kiang@moe.edu.sg)_ 	| Mdm Chen Xiang<br>_[chen_xiang@moe.edu.sg](mailto:chen_xiang@moe.edu.sg)_ 	|
