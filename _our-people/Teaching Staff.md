@@ -41,9 +41,9 @@ variant: markdown
 | -------- | -------- | -------- |
 |  3 Integrity 	| Mdm Suriatie Abdul Samat<br>_[suriatie\_abdul\_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_	| Mdm Sun I - Feng<br>_[sun_i-feng@moe.edu.sg ](mailto:sun_i-feng@moe.edu.sg )_ |
 | 3 Responsibility 	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena\_kumaree\_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ | Ms Grace Tan<br>_[grace\_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_    |
-|    3 Excellence 	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_ | Ms Izni Nasihah Binte Zulkifli<br>_[inzi_nasihah_zulkifli@moe.edu.sg](mailto:inzi_nasihah_zulkifli@moe.edu.sg)_ 	|
-|  3 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong_shi_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_ 	| Ms Lu Ying<br>_[lu_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_ 	|
-|   3 Perseverance 	| Mr Brandon Huang Kangjun<br>_[brandon_huang_kangjun@moe.edu.sg](mailto:brandon_huang_kangjun@moe.edu.sg)_ 	|  Mdm Nuraishah Jamal <br>_[nuraishah_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ 	|
+| 3 Excellence 	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_ | Ms Izni Nasihah Binte Zulkifli<br>_[inzi_nasihah_zulkifli@moe.edu.sg](mailto:inzi_nasihah_zulkifli@moe.edu.sg)_ 	|
+| 3 Acceptance 	| Ms Chang Mei Shan<br>_[chang_mei_shan@moe.edu.sg](mailto:chang_mei_shan@moe.edu.sg)_ | Ms Tashalini d/o K P Sathasivam<br>_[tashalini_k_p_sathasivam@moe.edu.sg](mailto:tashalini_k_p_sathasivam@moe.edu.sg)_ |
+|   3 Perseverance 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_ | Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_ |
 
 #### Primary 4
 
