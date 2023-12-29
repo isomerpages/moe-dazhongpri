@@ -27,9 +27,7 @@ variant: markdown
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
-| P2 YH 	| Mrs Michelle Sim<br>_[loh_jee_yann@moe.edu.sg](mailto:loh_jee_yann@moe.edu.sg)_<br> 	|  	|
-| P2 AYH 	| Ms Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_<br> 	|  	|
-| 2 Integrity  	| Mdm Meena Kumaree D/O Sadasivam<br>_[meena_kumaree_sadasivam@moe.edu.sg](mailto:meena_kumaree_sadasivam@moe.edu.sg)_ 	| Ms Nur Zulaikha Binte Mohamed Rohaidzat<br>_[Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg](mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg)_ |
+| 2 Integrity  	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen\_ong\_pei\_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_ |
 | 2 Responsibility 	| Mr Haziq Bin Zailani<br>_[muhammad_haziq_zailani@moe.edu.sg](mailto:muhammad_haziq_zailani@moe.edu.sg)_ 	| Ms Chu Yun Li Lynnette<br>_[chu_yun_li_lynnette@moe.edu.sg](mailto:chu_yun_li_lynnette@moe.edu.sg)_  	|
 |  2 Excellence 	| Mdm Suriatie Abdul Samat<br>_[suriatie_abdul_samat@moe.edu.sg](mailto:suriatie_abdul_samat@moe.edu.sg)_ 	| Ms Grace Tan<br>_[grace_tan@moe.edu.sg](mailto:grace_tan@moe.edu.sg)_ 	|
 |  2 Acceptance 	|  Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_   	| Mdm Lee Siew Teng<br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_ |
