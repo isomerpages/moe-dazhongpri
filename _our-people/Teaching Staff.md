@@ -31,8 +31,8 @@ variant: markdown
 | 2 Responsibility 	| Mdm Humairah Binte Rahman<br>_[humairah\_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_	| Mrs Dawn Kuah<br>_[chan\_wee\_teng\_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ |
 |  2 Excellence 	| Mdm Ang Qiu Ping, Emily<br>_[ang\_qiu\_ping\_emily@moe.edu.sg](mailto:ang_qiu_ping_emily@moe.edu.sg)_ | Mr Christopher Teo Ming Jian<br>_[christopher\_teo\_ming\_jian@moe.edu.sg](mailto:christopher_teo_ming_jian@moe.edu.sg)_	|
 |  2 Acceptance 	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ | Ms Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_ |
-|  2 Perseverance 	| Mr Tan Wee Kiang Jeffrey<br>_[tan_wee_kiang@moe.edu.sg](mailto:tan_wee_kiang@moe.edu.sg)_ 	| Mdm Chen Xiang<br>_[chen_xiang@moe.edu.sg](mailto:chen_xiang@moe.edu.sg)_ 	|
-|  2 Gracious 	| Mdm Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_	| Mr Yan Teck Whye<br>_[yan_teck_whye@moe.edu.sg](mailto:yan_teck_whye@moe.edu.sg)_  	|
+|  2 Perseverance 	| Mdm Tan Pei Yin Geraldine<br>_[geraldine\_tan\_pei\_yin@moe.edu.sg](mailto:geraldine_tan_pei_yin@moe.edu.sg)_	| Mr Saharudin B Osman<br>_[saharudin\_b\_osman@moe.edu.sg](mailto:saharudin_b_osman@moe.edu.sg)_ |
+|  2 Gracious 	| Mdm Tan Sini <br>_[tan\_sini@moe.edu.sg](mailto:tan_sini@moe.edu.sg)_	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_	|
 |  2 Diligence  	| Miss Deborah Eu Sher Min<br>_[deborah\_eu\_sher\_min@moe.edu.sg](mailto:deborah_eu_sher_min@moe.edu.sg)_ 	|  Ms Kavitha Soundarapandian<br>_[kavitha_soundarapandian@moe.edu.sg](mailto:kavitha_soundarapandian@moe.edu.sg)_  	|
 
 #### Primary 3
