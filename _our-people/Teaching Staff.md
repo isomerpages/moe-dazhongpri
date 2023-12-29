@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /our-people/teaching-staff/
 description: ""
+variant: markdown
 ---
 ### Teaching Staff
 
@@ -12,7 +13,7 @@ description: ""
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
 |  P1 YH 	| Mdm Lin Shihua Jan<br>_[lin\_shihua@moe.edu.sg](mailto:lin_shihua@moe.edu.sg)_ 	|  	|
-|  1 Integrity 	| Mrs Shereen Chan - Ong Pei Zi<br>_[shereen_ong_pei_zi@moe.edu.sg](mailto:shereen_ong_pei_zi@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
+|  1 Integrity 	| Mrs Nuraini Binte Abdul Hamid<br>_[nuraini_abdul_hamid@moe.edu.sg](mailto:nuraini_abdul_hamid@moe.edu.sg)_ 	|  Mdm He Jingwen<br>_[he_jingwen@moe.edu.sg](mailto:he_jingwen@moe.edu.sg)_|
 | |Mr Nasrul Roslin<br> _[Muhammad_Nasrul_Roslin@moe.edu.sg](mailto:Muhammad_Nasrul_Roslin@moe.edu.sg)_  | |
 | 1 Responsibility 	| Mdm Humairah Binte Rahman <br>_[humairah_rahman@moe.edu.sg](mailto:HUMAIRAH_RAHMAN@moe.edu.sg)_ 	| Mrs Dawn Kuah<br>_[chan_wee_teng_dawn@moe.edu.sg](mailto:chan_wee_teng_dawn@moe.edu.sg)_ 	|
 |  1 Excellence 	|   Mdm Ang Qiu Ping, Emily<br>_[ang_qiu_ping_emily@moe.edu.sg](mailto:ang_qiu_ping_emily@moe.edu.sg)_  	| Mr Christopher Teo Ming Jian <br>[christopher_teo_ming_jian@moe.edu.sg](mailto:christopher_teo_ming_jian@moe.edu.sg) 	|
