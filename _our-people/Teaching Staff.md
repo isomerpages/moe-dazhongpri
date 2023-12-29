@@ -19,8 +19,8 @@ variant: markdown
 |  1 Acceptance 	| Ms Evelyn?<br>_[foo_li_wei@moe.edu.sg](mailto:foo_li_wei@moe.edu.sg)_   	|  Mdm Chen Xiang<br>_[chen_xiang@moe.edu.sg](mailto:chen_xiang@moe.edu.sg)_ |
 |  1 Perseverance 	| Ms Siti Noraidah <br>_[siti_noraidah_mohamed_sall@moe.edu.sg](mailto:siti_noraidah_mohamed_sall@moe.edu.sg)_ 	| Mdm Zhong Dan<br>_[zhong_dan@moe.edu.sg ](mailto:zhong_dan@moe.edu.sg )_	|
 |  1Gracious 	| Mr Tan Wee Kiang Jeffrey<br>_[tan_wee_kiang@moe.edu.sg](mailto:tan_wee_kiang@moe.edu.sg)_ | Ms Kavitha Soundarapandian<br>_[kavitha_soundarapandian@moe.edu.sg](mailto:kavitha_soundarapandian@moe.edu.sg)_ | 
-|  1 Diligence 	| Mr Aidil Hakim Bin Zaharuddin<br>_[aidil_hakim_zaharuddin@moe.edu.sg](mailto:aidil_hakim_zaharuddin@moe.edu.sg)_   	| Mdm Norlila Bte Abdul Ghani<br>_[norlila_abdul_ghani@moe.edu.sg](mailto:norlila_abdul_ghani@moe.edu.sg)_|
-| | Ms Ting Ning Xin Jessie<br>_[ting_ning_xin_jessie@moe.edu.sg](mailto:ting_ning_xin_jessie@moe.edu.sg)_   	| |
+|  1 Diligence 	| Mr Yan Teck Whye<br>_[yan_teck_whye@moe.edu.sg](mailto:yan_teck_whye@moe.edu.sg)_	| Mdm Muneera Bte Abu Bakar<br>_[muneera\_abu\_bakar@moe.edu.sg](mailto:muneera_abu_bakar@moe.edu.sg)_ |
+|
 
 
 #### Primary 2
