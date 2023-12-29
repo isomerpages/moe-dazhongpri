@@ -2,6 +2,7 @@
 title: School Management Team (EXCO, LT and ST)
 permalink: /our-people/school-management-team/
 description: ""
+variant: markdown
 ---
 ### School Management Team
 
@@ -9,7 +10,7 @@ description: ""
 
 | S/N | Designation | Name / Email |
 | -------- | -------- | -------- |
-| 1 	| Principal 	| Mrs Rina Liang<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
+| 1 	| Principal 	| Mr Chris Loh<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 2 	| Vice-Principal 	| Mrs Boey Lim Seow Khim, Serene<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 3 	| Vice-Principal 	| Mr Koh Kah Hock<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
 | 4 	| Vice-Principal(Administration)  	| Mr Koh See Choon<br>_[dazhong\_ps@moe.edu.sg](mailto:dazhong_ps@moe.edu.sg)_ 	|
