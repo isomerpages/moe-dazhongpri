@@ -12,7 +12,6 @@ variant: markdown
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
-|  P1 YH 	| 	                         |  	|
 |  1 Integrity 	| Mrs Nuraini Binte Abdul Hamid<br>_[nuraini_abdul_hamid@moe.edu.sg](mailto:nuraini_abdul_hamid@moe.edu.sg)_ 	|  Mdm Lee Siew Teng<br>_[lee_siew_teng@moe.edu.sg](mailto:lee_siew_teng@moe.edu.sg)_|
 | 1 Responsibility 	|  Ms Ang Shi En Rachel<br>_[ang_shi_en_rachel@moe.edu.sg](mailto:ang_shi_en_rachel@moe.edu.sg)_ | Ms Nur Zulaikha Binte Mohamed Rohaidzat<br>_[Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg](mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg)_ |
 |  1 Excellence 	|   Mdm Phua Noi Kheng Gwendolene<br>_[gwendolene_phua_noi_kheng@moe.edu.sg](mailto:gwendolene_phua_noi_kheng@moe.edu.sg)_ | Mr Muhammad Syahriel <br>_[muhammad_syahriel_sukar@moe.edu.sg](mailto:muhammad_syahriel_sukar@moe.edu.sg)_ |
