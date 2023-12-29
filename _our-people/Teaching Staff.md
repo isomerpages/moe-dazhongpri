@@ -49,10 +49,10 @@ variant: markdown
 
 | Class 	| Name of Staff 	| Name of Staff 	|
 | -------- | -------- | -------- |
-|  4 Integrity 	| Mdm Choo Xue Er Danica<br> _[choo_xue_er_danica@moe.edu.sg](mailto:choo_xue_er_danica@moe.edu.sg)_  	| Ms Nur Ain Binti Borhan<br>_[nur_ain_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_ 	|
-| 4 Responsibility 	| Mr Mohamed Bahari Bin Rajab<br>_[mohamed_bahari_rajab@moe.edu.sg](mailto:mohamed_bahari_rajab@moe.edu.sg)_	| Mrs Lim - Tan Jue Ying <br>_[tan_jue_ying@moe.edu.sg](mailto:tan_jue_ying@moe.edu.sg)_<br> 	|
-|    4 Excellence 	| Ms Chia Siow Hoong Charmaine<br>_[chia_siow_hoong@moe.edu.sg](mailto:chia_siow_hoong@moe.edu.sg)_ 	| Mr Tan Sei Hiong<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
-|   4 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu_minli_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_  	| Mdm Shoba D/O Mohan<br>_[shoba_mohan@moe.edu.sg](mailto:shoba_mohan@moe.edu.sg)_ 	|
+|  4 Integrity 	| Mr Herman Bin Ponjio<br> _[herman\_ponijo@moe.edu.sg](mailto:herman_ponijo@moe.edu.sg)_ | Ms Nurul Afiqah Binte Sulaiman<br>_[nurul\_afiqah\_sulaiman@moe.edu.sg](mailto:nurul_afiqah_sulaiman@moe.edu.sg)_ |
+| 4 Responsibility 	| Ms Justina Tan Hui Ru<br>_[justina\_tan\_hui\_ru@moe.edu.sg](mailto:justina_tan_hui_ru@moe.edu.sg)_	| Mdm Chen Liqin<br>_[chen\_li\_qin@moe.edu.sg](mailto:chen_li_qin@moe.edu.sg)_	|
+|    4 Excellence 	| Mr Goh Zong’en Jonathan<br>_[goh\_zong\_en\_jonathan@moe.edu.sg](mailto:goh_zong_en_jonathan@moe.edu.sg)_	| Ms Siti?<br>_[tan_sei_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_ 	|
+|   4 Acceptance 	| Mrs Yap - Ong Shi Ting<br>_[ong\_shi\_ting@moe.edu.sg](mailto:ong_shi_ting@moe.edu.sg)_	| Ms Lu Ying<br>_[lu\_ying@moe.edu.sg](mailto:lu_ying@moe.edu.sg)_	|
 |   4 Perseverance 	| Mr Choy Yu Wai<br>_[choy_yu_wai@moe.edu.sg](mailto:choy_yu_wai@moe.edu.sg)_<br><br>Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_   	| Ms Crystalbelle Chang<br>_[crystalbelle_chang@moe.edu.sg](mailto:crystalbelle_chang@moe.edu.sg)_ 	|
 
 
