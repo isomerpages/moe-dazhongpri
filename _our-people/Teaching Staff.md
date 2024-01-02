@@ -63,8 +63,7 @@ variant: markdown
 | 5 Integrity  	|Mdm Hamidah Bte Hardi<br>_[hamidah_hardi@moe.edu.sg](mailto:hamidah_hardi@moe.edu.sg)_ 	| Mr Wee Boon Nee<br>_[wee_boon_nee@moe.edu.sg](mailto:wee_boon_nee@moe.edu.sg)_ |
 | 5 Responsibility 	| Mdm Ong Xuan Wan<br>_[ong_xuan_wan@moe.edu.sg ](mailto:ong_xuan_wan@moe.edu.sg )_	| Ms Nur Ain Binti Borhan<br>_[nur\_ain\_borhan@moe.edu.sg](mailto:nur_ain_borhan@moe.edu.sg)_	|
 | 5 Excellence  	| Mr Chen Xianghao Keith<br>_[chen\_xianghao@moe.edu.sg](mailto:chen_xianghao@moe.edu.sg)_ | Mdm Nuraishah Jamal<br>_[nuraishah\_jamal@moe.edu.sg](mailto:nuraishah_jamal@moe.edu.sg)_ |
-| 5 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu\_minli\_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_ | 
-5 Perseverance 	| Mr Lim Wei Heng, Edwin <br>_[lim_wei_heng_edwin@moe.edu.sg](mailto:lim_wei_heng_edwin@moe.edu.sg)_ 	| Ms Lim Ai Ying Angie<br>_[lim_ai_ying@moe.edu.sg](mailto:lim_ai_ying@moe.edu.sg)_  	|
+| 5 Acceptance 	| Ms Yu Minli Emmeline<br>_[yu\_minli\_emmeline@moe.edu.sg](mailto:yu_minli_emmeline@moe.edu.sg)_	| Mdm Sun Ming Ming<br>_[sun_mingming@moe.edu.sg](mailto:sun_mingming@moe.edu.sg)_ | |
 5 Perseverance 	| Mdm Lim Lihui Hannah <br>_[lim_lihui_hannah@moe.edu.sg ](mailto:lim_lihui_hannah@moe.edu.sg )_	| Mr Tan Sei Hiong<br>_[tan\_sei\_hiong@moe.edu.sg](mailto:tan_sei_hiong@moe.edu.sg)_	|
 
 #### Primary 6
