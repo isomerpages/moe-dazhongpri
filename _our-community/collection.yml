@@ -1,0 +1,24 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Parents/.keep
+      - Parents/Calendar.md
+      - Parents/School Letters & Announcement.md
+      - Parents/Financial Matters.md
+      - Parents/Parent Support Group.md
+      - Parents/Dads for Life.md
+      - Parents/Useful Information.md
+      - Parents/Secondary School Matters.md
+      - Parents/Home Based Learning.md
+      - Alumni/.keep
+      - Alumni/Overview.md
+      - Alumni/Our Amazing Dazhong Alumni (Success Stories).md
+      - Stakeholders/.keep
+      - Support Services/.keep
+      - Support Services/Books and Uniform Vendor.md
+      - Support Services/School Bus Service Provider.md
+      - Support Services/School Dental Services.md
+      - Support Services/Group Personal Accident Insurance for Students.md
+      - Support Services/School Canteen Stall Application.md
+      - Support Services/Student Care Center @ Dazhong.md

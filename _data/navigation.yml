@@ -1,0 +1,12 @@
+logo: /images/DZlogo.png
+links:
+  - title: About Dazhong
+    collection: about-dazhong
+  - title: Our People
+    collection: our-people
+  - title: Dazhong Experience
+    collection: dazhong-experience
+  - title: Our Community
+    collection: our-community
+  - title: MK @ Dazhong
+    collection: mk-dazhong

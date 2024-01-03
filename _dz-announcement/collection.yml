@@ -1,0 +1,7 @@
+collections:
+  dz-announcement:
+    output: true
+    order:
+      - Overview.md
+      - Announcements.md
+      - Highlights and Updates.md

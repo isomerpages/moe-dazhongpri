@@ -1,0 +1,6 @@
+collections:
+  character-excellence:
+    output: true
+    order:
+      - Student Management.md
+      - Outdoor Education Programme.md
