@@ -2,10 +2,10 @@
 title: Principal's Message
 permalink: /about-dazhong/principals-message/
 description: ""
+variant: markdown
 ---
 ### Principal's Message
 
-<img src="/images/principal.png" style="width:80%">
 
 Welcome to Dazhong Primary School, where all Dazhong students develop holistically in their six-year primary school journey as&nbsp;**Self-Directed Learners, Serving Leaders and Concerned Citizens**!&nbsp;
 
@@ -37,10 +37,5 @@ Dazhong Primary School will celebrate her 85th anniversary in 2023. Our parents 
 
 With pride we excel!
 
-  
-
-**Mrs Rina Liang**
-
-**Principal**
 
 <img src="/images/pm1.png" style="width:80%">
