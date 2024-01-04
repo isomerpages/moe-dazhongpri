@@ -36,6 +36,3 @@ Dazhong Primary School will celebrate her 85th anniversary in 2023. Our parents 
   
 
 With pride we excel!
-
-
-<img src="/images/pm1.png" style="width:80%">
