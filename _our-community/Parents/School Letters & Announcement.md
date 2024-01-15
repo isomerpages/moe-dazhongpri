@@ -3,45 +3,6 @@ title: School Letters & Announcement
 permalink: /our-community/parents/school-letters-announcement/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
-### School Infomation &amp; Announcement
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| 04 Sep 2023 	| [Term 4 Calendar](/files/2023%20term%204%20calendar.pdf)	|
-| 04 Sep 2023 	| [End of Term 3 and Start of Term 4 Letter](/files/end%20of%20term%203%20cum%20start%20of%20term%204%20letter%202023.pdf)	|
-| 26 Jul 2023 	| [Updates on Academic Progress P5](/files/updates%20on%20academic%20progress_p5_2023.pdf)	|
-| 26 Jul 2023 	| [Updates on Academic Progress P4](/files/updates%20on%20academic%20progress_p4_2023.pdf)	|
-| 26 Jul 2023 	| [Updates on Academic Progress P3](/files/updates%20on%20academic%20progress_p3_2023.pdf)	|
-
-
-
-<!---##### PSLE Examination Timetable
-
-<img src="/images/sil1.png" 
-     style="width:100%">--->
-
-#### _Parent Engagement Session (PES) 2023 - Resources_
-
-Thank you parents for joining us today  for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.
-
-**Principal Address**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L5w4KVZ083o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-**P4 YH Sharing Slides**<br>
-[P4 YH Sharing.pdf](/files/P4%20YH%20Sharing_01.pdf)
-
-**P5 YH Sharing Slides**<br>
-[P5 YH Sharing.pdf](/files/P5%20YH%20Sharing_01.pdf)
-
-**P6 VP Sharing Slides**<br>
-[P6 VP Sharing.pdf](/files/P6%20VP%20Sharing%20(latest).pdf)
-
-**P1, P2 FT Sharing Slides**<br>
-[P1, P2 FT Sharing.pdf](/files/P1%20and%20P2%20FT%20Slides.pdf)
-
-**P3, P4 FT Sharing Slides**<br>
-[P3, P4 FT Sharing.pdf](/files/P3%20and%20P4%20FT%20Slides.pdf)
-
-**P5, P6 FT Sharing Slides**<br>
-[P5, P6 FT Sharing.pdf](/files/P5%20and%20P6%20FT%20Slides.pdf)
+<h3>School Infomation &amp; Announcement</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Column 1</p></th><th rowspan="1" colspan="1"><p>Column 2</p></th></tr><tr><td rowspan="1" colspan="1"><p>05 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/Termly_Calendar_Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Calendar</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>05 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/Start_of_Term_1_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>04 Sep 2023</p></td><td rowspan="1" colspan="1"><p><a href="/files/2023%20term%204%20calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4 Calendar</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>04 Sep 2023</p></td><td rowspan="1" colspan="1"><p><a href="/files/end%20of%20term%203%20cum%20start%20of%20term%204%20letter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 3 and Start of Term 4 Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>26 Jul 2023</p></td><td rowspan="1" colspan="1"><p><a href="/files/updates%20on%20academic%20progress_p5_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P5</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>26 Jul 2023</p></td><td rowspan="1" colspan="1"><p><a href="/files/updates%20on%20academic%20progress_p4_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P4</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>26 Jul 2023</p></td><td rowspan="1" colspan="1"><p><a href="/files/updates%20on%20academic%20progress_p3_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P3</a></p></td></tr></tbody></table><h4><em>Parent Engagement Session (PES) 2023 - Resources</em></h4><p>Thank you parents for joining us today for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.</p><p><strong>Principal Address</strong><br></p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L5w4KVZ083o"></iframe></div><p><strong>P4 YH Sharing Slides</strong><br><a href="/files/P4%20YH%20Sharing_01.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 YH Sharing.pdf</a></p><p><strong>P5 YH Sharing Slides</strong><br><a href="/files/P5%20YH%20Sharing_01.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 YH Sharing.pdf</a></p><p><strong>P6 VP Sharing Slides</strong><br><a href="/files/P6%20VP%20Sharing%20(latest).pdf" rel="noopener noreferrer nofollow" target="_blank">P6 VP Sharing.pdf</a></p><p><strong>P1, P2 FT Sharing Slides</strong><br><a href="/files/P1%20and%20P2%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 FT Sharing.pdf</a></p><p><strong>P3, P4 FT Sharing Slides</strong><br><a href="/files/P3%20and%20P4%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, P4 FT Sharing.pdf</a></p><p><strong>P5, P6 FT Sharing Slides</strong><br><a href="/files/P5%20and%20P6%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P5, P6 FT Sharing.pdf</a></p>
