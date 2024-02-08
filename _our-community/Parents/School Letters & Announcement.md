@@ -5,4 +5,122 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3>School Information &amp; Announcement</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Column 1</p></th><th rowspan="1" colspan="1"><p>Column 2</p></th></tr><tr><td rowspan="1" colspan="1"><p>05 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/Termly_Calendar_Term_1_2024__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Calendar</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>05 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/Start_of_Term_1_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>15 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/2040_001.pdf" rel="noopener noreferrer nofollow" target="_blank">LOA Form</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/P6_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Termly Review Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/P5_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Termly Review Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/P4_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Termly Review Letter</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>19 Jan 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/P3_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Termly Review Letter</a></p></td></tr></tbody></table><h4><em>Parent Engagement Session (PES) 2023 - Resources</em></h4><p>Thank you parents for joining us today for Parents Engagement Session. For those, who have missed it, please find the Principal's address video and the slides for the different levels . If you have any queries, please feel free to contact your child's form teacher.</p><p><strong>Principal Address</strong><br></p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L5w4KVZ083o"></iframe></div><p><strong>P4 YH Sharing Slides</strong><br><a href="/files/P4%20YH%20Sharing_01.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 YH Sharing.pdf</a></p><p><strong>P5 YH Sharing Slides</strong><br><a href="/files/P5%20YH%20Sharing_01.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 YH Sharing.pdf</a></p><p><strong>P6 VP Sharing Slides</strong><br><a href="/files/P6%20VP%20Sharing%20(latest).pdf" rel="noopener noreferrer nofollow" target="_blank">P6 VP Sharing.pdf</a></p><p><strong>P1, P2 FT Sharing Slides</strong><br><a href="/files/P1%20and%20P2%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 FT Sharing.pdf</a></p><p><strong>P3, P4 FT Sharing Slides</strong><br><a href="/files/P3%20and%20P4%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, P4 FT Sharing.pdf</a></p><p><strong>P5, P6 FT Sharing Slides</strong><br><a href="/files/P5%20and%20P6%20FT%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P5, P6 FT Sharing.pdf</a></p>
+<h3>School Information &amp; Announcement</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Column 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Column 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>05 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Termly_Calendar_Term_1_2024__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Calendar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>05 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Start_of_Term_1_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2040_001.pdf" rel="noopener noreferrer nofollow" target="_blank">LOA Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P6_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Termly Review Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P5_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Termly Review Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P4_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Termly Review Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P3_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Termly Review Letter</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><em>Parent Engagement Session (PES) 2024 - Resources</em></h4>
+<p>Thank you parents for joining us today for Parents Engagement Session.
+For those, who have missed it, please find the Principal's address video
+and the slides for the different levels . If you have any queries, please
+feel free to contact your child's form teacher.</p>
+<p><strong>Principal Address for P1 and P2</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LORcrIevY6I?si=pFgB-dw5s0TOVXyn"></iframe>
+</div>
+<p><strong>Principal Address for P3 and P4</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bn2rE2Qd2Do?si=ZOQzmCW_7V0G_Dk-"></iframe>
+</div>
+<p></p>
+<p><strong>P1 and P2 YH Sharing Slides</strong> 
+<br><a href="/files/P1P2_YH_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P1_and_P2_YH_Slides.pdf</a>
+</p>
+<p><strong>P3 and P4 YH Sharing Slides</strong> 
+<br><a href="/files/P3_and_P4_YH_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P3_and_P4_YH_Slides.pdf</a>
+</p>
+<p><strong>P5 and P6 YH Sharing Slides</strong> 
+<br><a href="/files/P5_and_P6_YH_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P5_and_P6_YH_Slides.pdf</a>
+</p>
+<p><strong>P1 FT Sharing Slides</strong>
+<br><a href="/files/P1_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1_FT_Slides.pdf</a>
+</p>
+<p><strong>P2 FT Sharing Slides</strong> 
+<br><a href="/files/P2_FT_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P2_FT_Slides.pdf</a>
+</p>
+<p><strong>P3 FT Sharing Slides</strong> 
+<br><a href="/files/P3_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3_FT_Slides.pdf</a>
+</p>
+<p><strong>P4 FT Sharing Slides</strong>
+<br><a href="/files/P4_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4_FT_Slides.pdf</a>
+</p>
+<p><strong>P5 FT Sharing Slides</strong>
+<br><a href="/files/P5_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5_FT_Slides.pdf</a>
+</p>
+<p><strong>P6 FT Sharing Slides</strong>
+<br><a href="/files/P6_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6_FT_Slides.pdf</a>
+</p>
