@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Past Events.md
       - 2022.md
       - MK Virtual Tour.md
       - Curriculum Goals.md
