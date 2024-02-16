@@ -2,7 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - Overview.md
+      - MK@Dazhong.md
       - About MK.md
       - MOE Kindergarten Staff.md
       - Curriculum Goals.md
