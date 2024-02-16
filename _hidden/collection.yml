@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Quick Links (Staff).md
       - Heritage Gallery.md
       - Past Events.md
       - 2022.md
