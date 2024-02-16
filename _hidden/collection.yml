@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - MK@DZ Learning Environment.md
       - Calendar.md
       - Quick Links (Staff).md
       - Heritage Gallery.md
