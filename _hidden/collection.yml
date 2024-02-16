@@ -2,5 +2,6 @@ collections:
   hidden:
     output: true
     order:
+      - MK Virtual Tour.md
       - Curriculum Goals.md
       - About MK.md
