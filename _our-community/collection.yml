@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Calendar.md
       - Parents/School Letters & Announcement.md
       - Parents/Financial Matters.md
       - Parents/Parent Support Group.md
