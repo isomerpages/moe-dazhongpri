@@ -2,6 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
+      - MK @ Dazhong/2024 Open House.md
       - MK @ Dazhong/DZ Kindergarten Care.md
       - MK @ Dazhong/MOE Kindergarten Staff.md
       - MK @ Dazhong/MK@Dazhong.md
