@@ -5,26 +5,241 @@ description: ""
 third_nav_title: MK @ Dazhong
 variant: tiptap
 ---
-### MOE Kindergarten Staff
-
-| S/N 	| Designation 	| Name of Staff 	|
-|:---:	|:---:	|:---:	|
-|  1 	| Centre Head  	| Mrs Serene Chan Lai Theng<br>_[serene_chan_lai_theng@moe.edu.sg](mailto:serene_chan_lai_theng@moe.edu.sg)_  	|
-| 2 	| Senior EL Teacher 	| Mdm Wu Fei Chin Cynthia<br>_[wu_fei_chin@moe.edu.sg](mailto:wu_fei_chin@moe.edu.sg)_ 	|
-| 3 	| EL Teacher 	| Mdm Chin Mei Ling Cindy<br>_[chin_mei_ling_cindy@moe.edu.sg](mailto:chin_mei_ling_cindy@moe.edu.sg)_ 	|
-| 4 	| EL Teacher 	| Mdm Shanthi D/O Chandra<br>_[shanthi_chandra@moe.edu.sg](mailto:shanthi_chandra@moe.edu.sg)_ 	|
-| 5 	| EL Teacher 	| Mdm Sarah Parveen B M Sulaiman<br>_[sarah_parveen_muhammed_sulaiman@moe.edu.sg](mailto:sarah_parveen_muhammed_sulaiman@moe.edu.sg)_ 	|
-| 6 	| EL Teacher 	| Ms Nur Allisa Mohamad Halim<br>_[nur_allisa_mohamad_halim@moe.edu.sg](mailto:nur_allisa_mohamad_halim@moe.edu.sg)_ 	|
-| 7 	| EL Teacher 	| Ms Nur Riahan Binte Aziz Aziz<br>_[nur_riahan_aziz@moe.edu.sg](mailto:nur_riahan_aziz@moe.edu.sg)_ 	|
-| 8 	| EL Teacher 	| Ms Vaeshanavi Manoharan<br>_[vaeshanavi_manoharan@moe.edu.sg](mailto:vaeshanavi_manoharan@moe.edu.sg)_ 	|
-| 9 	| EL Teacher 	| Ms Amily Ng Hui Hoon<br>_[amily_ng_hui_hoon@moe.edu.sg](mailto:amily_ng_hui_hoon@moe.edu.sg)_ 	|
-| 10 	| EL Teacher 	| Ms Michelle Choy Yee Mun<br>_[choy_yee_mun_michelle@moe.edu.sg](mailto:choy_yee_mun_michelle@moe.edu.sg)_ 	|
-| 11 	| CL Teacher 	| Mdm Zhang Rongshun<br>_[zhang_rongshun@moe.edu.sg](mailto:zhang_rongshun@moe.edu.sg)_ 	|
-| 12 	| CL Teacher 	| Mdm Xing Naiyue<br>_[xing_naiyue@moe.edu.sg](mailto:xing_naiyue@moe.edu.sg)_ 	|
-| 13 	| CL Teacher 	| Ms Jiang Yu Ling<br>_[jiang_yu_ling@moe.edu.sg](mailto:jiang_yu_ling@moe.edu.sg)_ 	|
-| 14 	| CL Teacher 	| Ms Yang Xiao Ying<br>_[yang_xiao_ying@moe.edu.sg](mailto:yang_xiao_ying@moe.edu.sg)_ 	|
-| 15  	| CL Teacher  	| Ms Peh Hwee Boon<br>_[peh_hwee_boon@moe.edu.sg](mailto:peh_hwee_boon@moe.edu.sg)_ 	|
-| 16 	| ML Teacher 	| Ms Rahayu Binte Osman<br>_[rahayu_osman@moe.edu.sg](mailto:rahayu_osman@moe.edu.sg)_  	|
-| 17 	| ML Teacher 	| Ms Siti Nur Humairah Binte Waled<br>_[siti_nur_humairah_waled@moe.edu.sg](mailto:siti_nur_humairah_waled@moe.edu.sg)_ 	|
-| 18 	| TL Teacher 	| Ms Nasrin Banu Mohammed Ali<br>_[nasrin_banu_mohammed_ali@moe.edu.sg](mailto:nasrin_banu_mohammed_ali@moe.edu.sg)_ 	|
-| 19  	| Senior EL Teacher 	| Ms Wu Fei Chin Cynthia<br>_[wu_fei_chin@moe.edu.sg](mailto:wu_fei_chin@moe.edu.sg)_ 	|
+<h3>MOE Kindergarten Staff</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Staff</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Serene Chan Lai Theng
+<br><em><a href="mailto:serene_chan_lai_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_chan_lai_theng@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Centre Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mayuri D/O Loganathan
+<br><em><a href="mayuri_loganthan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mayuri_loganthan@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wu Fei Chin Cynthia
+<br><em><a href="mailto:wu_fei_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_fei_chin@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Child Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Mei Ling Cindy
+<br><em><a href="mailto:chin_mei_ling_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_mei_ling_cindy@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amily Ng Hui Hoon
+<br><em><a href="mailto:amily_ng_hui_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amily_ng_hui_hoon@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Riahan Binte Aziz
+<br><em><a href="mailto:nur_riahan_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_riahan_aziz@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vaeshanavi Manoharan
+<br><em><a href="mailto:vaeshanavi_manoharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaeshanavi_manoharan@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Allisa Mohamad Halim
+<br><em><a href="mailto:nur_allisa_mohamad_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_allisa_mohamad_halim@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarah Parveen B M Sulaiman
+<br><em><a href="mailto:sarah_parveen_muhammed_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_parveen_muhammed_sulaiman@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Peh Hwee Boon
+<br><em><a href="mailto:peh_hwee_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hwee_boon@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Xing Naiyue
+<br><em><a href="mailto:xing_naiyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xing_naiyue@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Xiao Ying
+<br><em><a href="mailto:yang_xiao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_xiao_ying@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Rongshun
+<br><em><a href="mailto:zhang_rongshun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_rongshun@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jiang Yu Ling
+<br><em><a href="mailto:jiang_yu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yu_ling@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ML Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dinah Izyana Binte Hanafia
+<br><em><a href="dinah_izyana_hanafia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dinah_izyana_hanafia@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ML Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur Humairah Binte Waled
+<br><em><a href="mailto:siti_nur_humairah_waled@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_humairah_waled@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nasrin Banu Mohammed Ali
+<br><em><a href="mailto:nasrin_banu_mohammed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nasrin_banu_mohammed_ali@moe.edu.sg</a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
