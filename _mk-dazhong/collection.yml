@@ -2,6 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
+      - MK @ Dazhong/MK@DZ Learning Environment.md
       - MK @ Dazhong/.keep
       - MK @ Dazhong/2024 Open House.md
       - MK @ Dazhong/Welcome.md
