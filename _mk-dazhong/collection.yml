@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MK @ Dazhong/.keep
-      - MK@Dazhong.md
       - About MK.md
       - MOE Kindergarten Staff.md
       - Curriculum Goals.md
