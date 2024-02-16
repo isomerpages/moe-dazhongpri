@@ -1,7 +1,9 @@
 ---
-title: DZ Kindergarten Care
-permalink: /mk-at-dazhong/dz-kindergarten-care
+title: KCare@DZ
+permalink: /mk-at-dazhong/kcare-dz/
 description: ""
+third_nav_title: MK @ Dazhong
+variant: tiptap
 ---
 ### DZ Kindergarten Care
 

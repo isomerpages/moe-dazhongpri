@@ -2,12 +2,9 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - Overview.md
-      - About MK.md
-      - MOE Kindergarten Staff.md
-      - Curriculum Goals.md
-      - MK Virtual Tour.md
-      - DZ Kindergarten Care.md
-      - MK Highlights/.keep
-      - MK Highlights/2022.md
-      - MK Highlights/Past Events.md
+      - MK @ Dazhong/.keep
+      - MK @ Dazhong/2024 Open House.md
+      - MK @ Dazhong/Welcome.md
+      - MK @ Dazhong/MK@DZTeam.md
+      - MK @ Dazhong/MK@DZ Learning Environment.md
+      - MK @ Dazhong/KCare@DZ.md

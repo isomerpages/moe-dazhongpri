@@ -12,7 +12,7 @@ Weblink to Virtual Tours of MK @ Dazhong:
 
 |  	|  	|
 |---	|---	|
-| Garden Area & Pond 	|  [https://goo.gl/maps/v9MPha9PLY3muZLC6](https://goo.gl/maps/v9MPha9PLY3muZLC6) 	|
+| Garden Area &amp; Pond 	|  [https://goo.gl/maps/v9MPha9PLY3muZLC6](https://goo.gl/maps/v9MPha9PLY3muZLC6) 	|
 | Classroom 	|  [https://goo.gl/maps/Zv1mapBeGj4rF6XM6](https://goo.gl/maps/Zv1mapBeGj4rF6XM6) 	|
 | KCare Classroom 	|  [https://goo.gl/maps/wcDbKD4wdaN6vHtUA](https://goo.gl/maps/wcDbKD4wdaN6vHtUA) 	|
 | Playground 	|  [https://goo.gl/maps/3pDZ3hB3LmXqZe2k6](https://goo.gl/maps/3pDZ3hB3LmXqZe2k6) 	|

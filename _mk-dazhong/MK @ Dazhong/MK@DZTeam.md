@@ -1,7 +1,9 @@
 ---
-title: MOE Kindergarten Staff
+title: MK@DZTeam
 permalink: /about-dazhong/moe-kindergarten-staff/
 description: ""
+third_nav_title: MK @ Dazhong
+variant: tiptap
 ---
 ### MOE Kindergarten Staff
 
