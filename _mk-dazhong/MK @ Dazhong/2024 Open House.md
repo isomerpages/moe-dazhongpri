@@ -13,3 +13,18 @@ third_nav_title: MK @ Dazhong
 <p></p>
 <p>Tour around the MK premises will be free and easy and by different locations.
 <br>Meet our MK educators and know more about us!</p>
+<p></p>
+<p>Refer to more information on 2024 Open House below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide1.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide2.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide3.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.JPG">
+</div>
+<p></p>
