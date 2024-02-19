@@ -5,28 +5,29 @@ variant: tiptap
 description: ""
 third_nav_title: MK @ Dazhong
 ---
-<h3>2024 MK Open House</h3>
+<h3>2024 Open House</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_MK_Open_House_Poster_2024__1_.jpg">
+<p><strong>Thank you for visiting MK@Dazhong 2024 Open House</strong>
+</p>
+<p>You can find the Welcome Address by Principal of Dazhong Primary School
+and 2024 Open House Briefing videos below.</p>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eZr4BJ5nlp8?si=jZtjs8aohrBYvdoa"></iframe>
 </div>
-<p></p>
 <p>Tour around the MK premises will be free and easy and by different locations.
 <br>Meet our MK educators and know more about us!</p>
 <div class="iframe-wrapper">
 <iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JQqrmgObpR8?si=4Fa_0xVAb_stB9Ko"></iframe>
 </div>
-<p>Refer to more information on 2024 Open House below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide1.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide2.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSlide3.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.JPG">
-</div>
-<p></p>
+<p><strong>Online Registration</strong>
+</p>
+<p>Online registration for 2025 K1 admissions for both Open Admissions (OA)
+and Early Years Centre (EYC) children is opened from 9am on Friday, 16
+February 2024 and close at 4pm on Tuesday, 20 February 2024.</p>
+<p><strong>Registration outcome</strong>
+</p>
+<p>You will be notified of the registration outcome via e-mail by <strong>Monday, 15 April 2024.</strong>
+</p>
+<p><strong>To register, click on the link provided.</strong>
+<br><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
+</p>
