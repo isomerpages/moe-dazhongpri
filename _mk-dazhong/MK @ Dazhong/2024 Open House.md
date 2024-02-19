@@ -14,8 +14,8 @@ and 2024 Open House Briefing videos below.</p>
 <div class="iframe-wrapper">
 <iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eZr4BJ5nlp8?si=jZtjs8aohrBYvdoa"></iframe>
 </div>
-<p>Tour around the MK premises will be free and easy and by different locations.
-<br>Meet our MK educators and know more about us!</p>
+<p><strong>MKDZ MKOH Briefing slides</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JQqrmgObpR8?si=4Fa_0xVAb_stB9Ko"></iframe>
 </div>
@@ -28,6 +28,6 @@ February 2024 and close at 4pm on Tuesday, 20 February 2024.</p>
 </p>
 <p>You will be notified of the registration outcome via e-mail by <strong>Monday, 15 April 2024.</strong>
 </p>
-<p><strong>To register, click on the link provided.</strong>
+<p><strong>To register, click on the link provided.</strong> 
 <br><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
