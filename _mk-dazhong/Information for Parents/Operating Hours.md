@@ -20,14 +20,13 @@ third_nav_title: Information for Parents
 <td rowspan="1" colspan="1">
 <p>8:00am - 12:00pm</p>
 <p></p>
-<p>Arrival and Health Check:
+<p><strong>Arrival and Health Check:</strong> 
 <br>7:50am - 8:00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1:00pm - 5:00pm</p>
 <p></p>
-<p>Arrival and Health Check:
-<br>12:50pm - 1:00pm</p>
+<p><strong>Arrival and Health Check: <br></strong>12:50pm - 1:00pm</p>
 </td>
 </tr>
 </tbody>
