@@ -6,6 +6,14 @@ third_nav_title: MK @ Dazhong
 variant: tiptap
 ---
 <h3>MOE Kindergarten Staff</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKStaff01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKStaff02.jpg">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
