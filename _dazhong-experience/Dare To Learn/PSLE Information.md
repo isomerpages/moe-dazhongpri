@@ -13,11 +13,11 @@ third_nav_title: Dare To Learn
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screen_Shot_2019_07_25_at_6_19_37_PM.png">
 </div>
-<p>Welcome to PSLE Information 2024, your guide to navigating the Primary
-School Leaving Examination (PSLE) journey for the year 2024. Whether you're
-a student preparing for the exam or a parent seeking information about
-the process, we've got you covered.</p>
-<p><strong>PSLE 2024 Schedule</strong>
+<p>Welcome to PSLE Information, your guide to navigating the Primary School
+Leaving Examination (PSLE) journey for the year. Whether you're a student
+preparing for the exam or a parent seeking information about the process,
+we've got you covered.</p>
+<p><strong>PSLE Schedule</strong>
 </p>
 <p>Stay up-to-date with the PSLE 2024 schedule. Know the important dates
 for the examination papers, and result release. Plan your preparation and
