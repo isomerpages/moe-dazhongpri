@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Dare To Learn/PSLE Information.md
       - Dare To Learn/.keep
       - Dare To Learn/English Language.md
       - Dare To Learn/Mother Tongue Language.md
