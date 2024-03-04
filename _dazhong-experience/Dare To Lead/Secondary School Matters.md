@@ -2,7 +2,7 @@
 title: Secondary School Matters
 permalink: /our-community/parents/ssm/
 description: ""
-third_nav_title: Parents
+third_nav_title: Dare To Lead
 ---
 #### Direct School Admission for Secondary Schools (DSA-Sec)
 
