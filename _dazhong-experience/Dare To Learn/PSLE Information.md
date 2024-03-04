@@ -48,4 +48,4 @@ visit their open houses.</p>
 </p>
 <p></p>
 <p></p>
-<p>FAQs</p>
+<p></p>
