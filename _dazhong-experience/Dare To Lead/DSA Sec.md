@@ -31,11 +31,11 @@ for assistance.</p>
 <p>Please refer to the following web links for additional resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>DSA-Sec Website (for more information): <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> 
+<p>DSA-Sec Website (for more information): <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </li>
 <li>
-<p>DSA-Sec Portal (for DSA application): <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a> 
+<p>DSA-Sec Portal (for DSA application): <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a>
 </p>
 </li>
 <li>
