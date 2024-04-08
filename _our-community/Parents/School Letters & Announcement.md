@@ -18,24 +18,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>05 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Termly_Calendar_Term_1_2024__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Calendar</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>05 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Start_of_Term_1_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>15 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,37 +27,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Jan 2024</p>
+<p>08 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P6_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Termly Review Letter</a>
+<p><a href="/files/2024_Updates_on_Academic_Progress__P6__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P6 Term 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Jan 2024</p>
+<p>08 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P5_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Termly Review Letter</a>
+<p><a href="/files/2024_Updates_on_Academic_Progress__P5__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P5 Term 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Jan 2024</p>
+<p>08 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Termly Review Letter</a>
+<p><a href="/files/2024_Updates_on_Academic_Progress__P4__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P4 Term 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Jan 2024</p>
+<p>08 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3_Termly_Review_Letter_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Termly Review Letter</a>
+<p><a href="/files/2024_Updates_on_Academic_Progress__P3__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P3 Term 2</a>
 </p>
 </td>
 </tr>
@@ -106,7 +88,7 @@ feel free to contact your child's form teacher.</p>
 <p><strong>P5 and P6 YH Sharing Slides</strong> 
 <br><a href="/files/P5_and_P6_YH_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P5_and_P6_YH_Slides.pdf</a>
 </p>
-<p><strong>P1 FT Sharing Slides</strong>
+<p><strong>P1 FT Sharing Slides</strong> 
 <br><a href="/files/P1_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1_FT_Slides.pdf</a>
 </p>
 <p><strong>P2 FT Sharing Slides</strong> 
@@ -115,12 +97,12 @@ feel free to contact your child's form teacher.</p>
 <p><strong>P3 FT Sharing Slides</strong> 
 <br><a href="/files/P3_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3_FT_Slides.pdf</a>
 </p>
-<p><strong>P4 FT Sharing Slides</strong>
+<p><strong>P4 FT Sharing Slides</strong> 
 <br><a href="/files/P4_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4_FT_Slides.pdf</a>
 </p>
-<p><strong>P5 FT Sharing Slides</strong>
+<p><strong>P5 FT Sharing Slides</strong> 
 <br><a href="/files/P5_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5_FT_Slides.pdf</a>
 </p>
-<p><strong>P6 FT Sharing Slides</strong>
+<p><strong>P6 FT Sharing Slides</strong> 
 <br><a href="/files/P6_FT_Slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6_FT_Slides.pdf</a>
 </p>
