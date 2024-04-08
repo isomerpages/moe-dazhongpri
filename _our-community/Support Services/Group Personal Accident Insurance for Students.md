@@ -13,7 +13,7 @@ for the period from 1 January 2021 to 31 December 2024. The contracted
 insurance service provider is NTUC Income.</p>
 <p>We would like to inform that parents/ guardians are required to submit
 all student accident insurance claims electronically via the online portal
-at&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>.
+at&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.
 You will be able to check the claims status as well as submit new claims
 for medical reviews on the same incident through this portal.</p>
 <p>If you require any assistance with regard to claim matters, please do
