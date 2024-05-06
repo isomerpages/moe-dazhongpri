@@ -9,9 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/contactus00.jpg">
 </div>
-<p><strong>Nearest MRT Station:</strong>
+<p><strong>Nearest MRT Station:</strong> 
 <br>Bukit Gombak MRT Station (NS3)
-<br><strong>Nearest Bus Stop:</strong>
+<br><strong>Nearest Bus Stop:</strong> 
 <br>Block 306 (Bus no.: 187, 188, 188e, 868E, 947, 985)
 <br>Opp Block 305 (Bus no.: 187, 188, 947, 985)</p>
 <p><strong>Contact Number:</strong> 6565 8002
