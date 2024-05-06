@@ -12,18 +12,12 @@ notification: ""
 sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
+      url: https://www.instagram.com/dazhong_primary_school/
   - infopic:
-      title: "Connect with Us! "
+      title: Connect with Us!
       id: infopic
       description: Follow Us on Our Social Media
-      button: Our facebook page
+      button: OUR FACEBOOK PAGE
       url: https://www.facebook.com/dzpsofficial
       image: /images/DZ_FB_Page.png
-      alt: Image alt text
-  - infopic:
-      id: infopic
-      button: OUR INSTAGRAM PAGE
-      url: https://www.instagram.com/dazhong_primary_school/
-      image: /images/DZ_IG_Page.png
-      alt: Image alt text
 ---
