@@ -35,16 +35,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_FB_Page.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/dzpsofficial/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_FB_Page.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_IG_Page.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/dazhong_primary_school/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_IG_Page.png"></a>
 </td>
 </tr>
 </tbody>
