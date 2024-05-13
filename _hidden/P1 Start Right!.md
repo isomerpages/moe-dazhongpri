@@ -2,7 +2,6 @@
 title: P1 Start Right!
 permalink: /dazhong-experience/our-highlight/p1-start-right/
 description: ""
-third_nav_title: Our Highlights
 ---
 ### P1 Start Right! 
 

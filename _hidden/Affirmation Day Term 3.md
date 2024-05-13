@@ -2,7 +2,6 @@
 title: Affirmation Day Term 3
 permalink: /dazhong-experience/our-highlights/affirmation-day-term3-2023/
 description: ""
-third_nav_title: Our Highlights
 ---
 #### Affirmation Day Term 3
 
@@ -12,4 +11,3 @@ Congratulations to all student awardees! Dazhong, Dare to Shine!
 
 ![](/images/2023%20term%203-school-based.jpg)
 ![](/images/2023%20term%203-national.jpg)
-
