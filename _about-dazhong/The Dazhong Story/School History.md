@@ -6,30 +6,27 @@ third_nav_title: The Dazhong Story
 variant: tiptap
 ---
 <h4>School History</h4>
-<p>Tai Cheong School was started in 1938 by Chinese immigrants, and was named
-after its founding principal, Mr Chew Tai Cheong. The school stopped operations
-briefly during the Japanese Occupation and resumed after the Japanese had
-surrendered.</p>
-<p>With the help of a member of Parliament, Mr Cao Yu Ying, a plot of land
-was identified on a small hilltop, and in 1973, Tai Cheong school reopened
-with 12 classrooms. In 1977, Tai Cheong Public School moved to its new
-building at Track 7 Chua Chu Kang Road and was officially declared open
-by Mr Chai Chong Yii, the Senior Minister of State for Education. The school
-played a pivotal role in promoting the spirit of togetherness [‘Gotong
-Royong’] in the community. On 1 April 1983, the school converted its status
-from a Chinese village school to an English-medium government school. In
-1989, Chua Chu Kang Primary School merged with Dazhong Primary. A new CCKPS
-was established in 1994 for children in the Chua Chu Kang area. The school
-was temporarily relocated from 2009 to 2010 during the PRIME upgrading,
-and returned to its Bukit Batok premises in December 2011. In 2014, Dazhong
-Primary School became the first school in Singapore to have a Ministry
-of Education kindergarten co-sited within its premises. The school also
-had its official opening ceremony on 1 August 2014.</p>
-<p>Arts Education Programme@Dazhong is Dazhong Primary’s Learning for Life
-Programme since 2014. It aims to develop 21st-century competencies in students
-and prepare them to be future-ready. The school’s Junior Orchestra Talent
-Development programme is supported by the Ministry of Education’s Arts
-Education Branch.</p>
+<p>Rooted in a rich heritage dating back to 1938, Dazhong Primary School
+has evolved into a vibrant learning community that nurtures the next generation
+of creative thinkers and leaders. Our school's unique journey, overcoming
+historical challenges and embracing change, reflects our commitment to
+resilience and innovation.</p>
+<p>Founded in 1938 by Chinese immigrants, Tai Cheong School was named after
+its first principal, Mr. Chew Tai Cheong. It temporarily closed during
+the Japanese Occupation but reopened in 1973 with support from Member of
+Parliament Mr. Cao Yu Ying. The school moved to a new building in 1977
+and became a vital part of the community, promoting unity and togetherness.
+In 1983, it transitioned from a Chinese village school to an English-medium
+government school. It later merged with Chua Chu Kang Primary School and
+was rebuilt in Bukit Batok after a temporary relocation due to upgrading
+works.</p>
+<p>Today, as the first school in Singapore to house a Ministry of Education
+kindergarten, we offer a seamless educational experience from preschool
+to primary levels. Our renowned Arts Education Programme@Dazhong sets us
+apart, empowering students with essential 21st-century skills through a
+dynamic, holistic approach. Join us in shaping the future, where creativity
+meets academic excellence. Discover the Dazhong difference – where every
+student is a high potential learner!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
@@ -167,5 +164,4 @@ Dare to Shine, and Eco-Carnival in July 2023.</p>
 </tr>
 </tbody>
 </table>
-<p><em>MOE Hertiage Centre. <a href="https://moehc.moe.edu.sg/school-histories/da-zhong-pri/" rel="noopener noreferrer nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/da-zhong-pri/</a></em>
-</p>
+<p><strong>Source of information:</strong> MOE Heritage Centre (<a href="https://moehc.moe.edu.sg/school-histories/da-zhong-pri/" rel="noopener noreferrer nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/da-zhong-pri/</a>)</p>
