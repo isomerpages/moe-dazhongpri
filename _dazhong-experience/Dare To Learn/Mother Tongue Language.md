@@ -57,7 +57,7 @@ Language Learning. It aims to strengthen students' ability to read and
 recite Chinese texts, stimulate students’ enthusiasm and interest in learning
 Chinese and deepen students’ understanding of the texts.</p>
 <p></p>
-<p><strong>National Primary School Picture Book Creation Competition </strong>
+<p><strong>National Primary School Picture Book Creation Competition</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2008.jpg">
@@ -72,7 +72,7 @@ being able to interact face to face with the teachers for guidance. Teachers
 used platforms such as WhatsApp and Padlet to connect with the students,
 in order to guide and scaffold the processes for them. Ultimately, our
 students were self-directed and exhibited both responsibility and excellence.</p>
-<p><strong>‘ Pentas Radio ’ Competition </strong>
+<p><strong>‘ Pentas Radio ’ Competition</strong>
 </p>
 <p>‘Pentas Radio’ Competition is organised by A’art Repertoire Theatre in
 Conjunction with Bulan Bahasa. It helps to recognise students’ talents
@@ -85,7 +85,7 @@ daily lives.
 <p>This Competition aims to recognise students’ talents in writing &amp;
 encourage students to embrace the Malay Language in their daily lives.</p>
 <p></p>
-<p><strong>Vasantham Super Kids </strong>
+<p><strong>Vasantham Super Kids</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2010.jpg">
@@ -113,7 +113,7 @@ appreciate Tamil poets and poems/songs.
 Thanushri from 3 Acceptance received 1st prize for Primary 3 category.
 <br>Our students put in lots of effort, and we would also like to thank the
 parents for their continual guidance and support towards this competition.</p>
-<p><strong>Department Programmes</strong>
+<p><strong>Department Programmes</strong> 
 <br><strong>Cultural Appreciation Programmes</strong>
 </p>
 <p><strong>Mother Tongue Fortnight Programme (MTFP) </strong>
@@ -155,7 +155,7 @@ serve to enhance our school Racial Harmony and cultural interaction index.
 <br>We also hoped that besides understanding and appreciating their own culture
 and language, our students would be more motivated to love and care for
 our environment too.</p>
-<p><strong>Cultural Performance Exposure Scheme (CPES) </strong>
+<p><strong>Cultural Performance Exposure Scheme (CPES)</strong>
 </p>
 <p>Under CPES (CL), schools can choose Chinese performances suitable for
 students from the recommended plays. Students can go out of school and
@@ -213,7 +213,7 @@ and doing hands-on activities such as making shadow puppets and acting
 out the character.</p>
 <p><strong>Other Festive Celebrations</strong>
 </p>
-<p><strong>Chinese New year Celebration </strong>
+<p><strong>Chinese New year Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2018.jpg">
@@ -245,7 +245,7 @@ for the Green Movement.
 citizens and serving leaders for the community, by participating in the
 fundraising for the Lions Clubs of Singapore.
 <br>This was indeed a meaningful and joyous occasion for all in Dazhong!</p>
-<p><strong>Hari Raya Celebration </strong>
+<p><strong>Hari Raya Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2019.jpg">
@@ -266,7 +266,7 @@ in a sustainable way, just like how the school celebrated CNY earlier in
 the year, through Dare to Eidspire video and activities.
 <br>With this, the enduring understanding of celebrating all festivals in
 an inspiring manner through sustainability is inculcated among our students.</p>
-<p><strong>Deepavali Celebration </strong>
+<p><strong>Deepavali Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2024.jpeg">
@@ -285,20 +285,20 @@ also had a mass assembly and celebrated Deepavali in the hall.
 through our celebration. This then would empower everyone to practice the
 value of Acceptance in our speech and actions and uphold the peace and
 harmony in the nation. Dazhong, Dare to Inspire!</p>
-<p><strong>The MTL Reading Programme </strong>
+<p><strong>The MTL Reading Programme</strong>
 </p>
 <p>Aligned to school vision and mission, our department implemented The MTL
-Reading Programme 2022, which consisted of a series of reading activities
-throughout the year for all students. We aimed to 1) excite, engage and
-nurture students’ love and interest for MTL languages so as to establish
-a strong foundation for continual learning; 2) develop students’ awareness
-of practising their self-directed learnings while developing the habits
-of reading MTL books; 3) cultivate critical readings skills and empower
-them to share good reads with peers; 4) broaden students’ language skills
-and hone SEL and 21st CC skills; 5) cultivate students to be serving leaders
-to advocate peers or younger readers; 5) strengthen students’ links to
-our Asian heritage so that they are aware and can better appreciate our
-cultures as a concern citizen.</p>
+Reading Programme, which consisted of a series of reading activities throughout
+the year for all students. We aimed to 1) excite, engage and nurture students’
+love and interest for MTL languages so as to establish a strong foundation
+for continual learning; 2) develop students’ awareness of practising their
+self-directed learnings while developing the habits of reading MTL books;
+3) cultivate critical readings skills and empower them to share good reads
+with peers; 4) broaden students’ language skills and hone SEL and 21st
+CC skills; 5) cultivate students to be serving leaders to advocate peers
+or younger readers; 5) strengthen students’ links to our Asian heritage
+so that they are aware and can better appreciate our cultures as a concern
+citizen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2020.png">
 </div>
@@ -335,7 +335,7 @@ codes will be generated and attached inside the books.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2022.png">
 </div>
-<p><strong>Learn for Life Programme (LLP) </strong>
+<p><strong>Learn for Life Programme (LLP)</strong>
 </p>
 <p>Speech and Drama</p>
 <p>In 2022, we planned to provide opportunities and resources to build joyful
