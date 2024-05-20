@@ -60,11 +60,11 @@ projects as well as activities related to National Education. This workshop
 helped leaders to understand more about their roles and responsibilities.
 Through various activities and reflection, pupils learn more how they can
 be concerned citizens and active contributors.</p>
-<p><strong>Service Learning-Values in Actions </strong>
+<p><strong>Service Learning-Values in Actions</strong>
 </p>
 <p>P3 pupils and their P1-buddies! The P3 pupils learnt to be responsible
 as they helped their P1-friends ease into the new school environment.&nbsp;</p>
-<p><strong>Environmental Projects </strong>
+<p><strong>Environmental Projects</strong>
 </p>
 <p>In partnership with the National Environment Agency, the Clean Singapore
 Learning Trail is designed as an activity-based experiential learning programme.
