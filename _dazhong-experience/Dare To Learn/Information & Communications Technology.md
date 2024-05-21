@@ -13,9 +13,27 @@ is achieved by integrating EdTech into the core curriculum and instructional
 programmes, harnessing ICT to integrate content knowledge with, in particular
 – the development of<strong>&nbsp;Communication, Collaboration and Information Skills</strong>.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overiew_of_e_Pedagogy___60.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overiew_of_e_Pedagogy___61.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/21st_century_competencies.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Central to this approach is the use of <strong>SLS as a one-stop hub</strong>,
 and the strategic development of student <strong>self-directedness</strong> and <strong>collaboration skills</strong> using
 EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
@@ -23,10 +41,28 @@ EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
 which involves the use of technology to facilitate active learning, fostering
 a participatory, connected, and reflective classroom environment to cultivate
 future-ready learners.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_2021__2_.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAT.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>By integrating <strong>active learning with technology</strong>, we prioritise
 learning activities and interactions in our instructional design. We leverage
 suitable e-Pedagogy learning experience types to achieve desired outcomes,
