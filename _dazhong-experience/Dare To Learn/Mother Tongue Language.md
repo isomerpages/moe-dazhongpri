@@ -116,7 +116,7 @@ parents for their continual guidance and support towards this competition.</p>
 <p><strong>Department Programmes</strong> 
 <br><strong>Cultural Appreciation Programmes</strong>
 </p>
-<p><strong>Mother Tongue Fortnight Programme (MTFP) </strong>
+<p><strong>Mother Tongue Fortnight Programme (MTFP)</strong>
 </p>
 <p>Every year, for two weeks, our students delve into the vibrant tapestry
 of language, culture, and identity. From lively drama preparation to immersive
@@ -127,7 +127,7 @@ thrilled to witness the blossoming of cultural pride among our participants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil.jpg">
 </div>
-<p><strong>Cultural Performance Exposure Scheme (CPES)</strong>
+<p><strong>Cultural Performance Exposure Scheme (CPES)</strong> 
 <br>Our school seeks to evoke in pupils a deep interest in the learning of
 the Mother Tongue language through enabling them to appreciate the beauty
 of cultural performances. Through CPES, pupils are provided with opportunities
@@ -136,12 +136,11 @@ recitation, storytelling based on classics, theatre experiences etc. Through
 these cultural activities, the school seeks to enable the pupils to appreciate
 the beauty underlying each language and hence enthuse them to further seek
 to deepen their learning of the language.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES.jpg">
 </div>
 <p>
-<br><strong>MTL Cultural Camp </strong>
+<br><strong>MTL Cultural Camp</strong>
 </p>
 <p>MTL Cultural Camp is one of the platforms to encourage students to appreciate
 their own language and culture and also have exposure to other MTL and

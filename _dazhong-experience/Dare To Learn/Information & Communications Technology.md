@@ -6,8 +6,8 @@ third_nav_title: Dare To Learn
 variant: tiptap
 ---
 <h3>Information &amp; Communications Technology (ICT)</h3>
-<p>In line with the EdTech Masterplan 2030 and the 21st Century Competencies,
-the school aims to cultivate self-directed and collaborative learners who
+<p>In line with the<strong> EdTech Masterplan 2030</strong> and the <strong>21st Century Competencies </strong>framework,
+the school aims to cultivate <strong>self-directed</strong> and <strong>collaborative learners </strong>who
 are actively engaged in their learning and proficient collaborators. This
 is achieved by integrating EdTech into the core curriculum and instructional
 programmes, harnessing ICT to integrate content knowledge with, in particular
@@ -41,6 +41,12 @@ EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
 which involves the use of technology to facilitate active learning, fostering
 a participatory, connected, and reflective classroom environment to cultivate
 future-ready learners.</p>
+<p>We also began to <strong>harness the power of Artificial Intelligence</strong> on
+SLS and other online platforms to enable a <strong>personalised learning experience</strong>.
+AI will provide customised feedback based on student responses. Our aim
+is to develop students to be <strong>self-directed and use the AI feedback to enhance and monitor their learning</strong>,
+as we believe they are high-potential learners who can all succeed. Therefore,
+we use AI to promote equity in success.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,7 +63,7 @@ future-ready learners.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAT.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ict___edtech1.jpg">
 </div>
 </th>
 </tr>
@@ -72,20 +78,57 @@ practices are guided by principles of the <strong>EdTech Pedagogical Scaffold</s
 demonstrating how technology enhances the educational experience. In Dazhong,
 we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
 creating diverse learning contexts for our students.</p>
+<h3>Digital Literacy and Technological Skills (DLTS)</h3>
+<p>In Dazhong, we ensure that students are well-equipped with the digital
+competencies to thrive in an increasingly technology-saturated future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict___edtech.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
 </div>
-<p>This is to ensure that students are well-equipped with the digital competencies
-to thrive in an increasingly technology-saturated future.</p>
-<h4>Primary 1 (Touch Typing Programme)</h4>
+<h4><strong>Tech Explorer Programme (Primary 1 &amp; 2)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ict3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Tech_Explorer1.png">
 </div>
-<p>Our Primary 1 students learn to familiarize their fingers with the keyboard.
-They learn through their own pace and learning happens anytime and anywhere.
-They are not confined by the school hours but can also continue their practice
-at home.</p>
+<p>The <strong>Tech Explorer Programme</strong>, formerly known as the Touch-Typing
+Programme, is designed specifically for our Primary 1 and 2 students. This
+tailored programme aims to equip our young learners with essential online
+skills crucial for their academic journey.</p>
+<p>Through a series of engaging activities, the Tech Explorers programme
+will cover:</p>
+<p>1. Fundamental concepts including <strong>digital citizenship </strong>and <strong>online safety</strong>.</p>
+<p>2. <strong>Safe handling</strong> of school hardware.</p>
+<p>3. <strong>Basic login skills </strong>to school Chromebook and SLS with
+MIMS credentials.</p>
+<p>4. <strong>Touch-typing</strong> proficiency</p>
+<h4><strong>Primary 3 DLTS</strong></h4>
+<p>The P3 DLTS plan develops students' digital skills in several areas: Digital
+Responsibility (internet etiquette, diversity), Device and Software Operations
+(video conferencing, presentation software), Digital Communication and
+Collaboration (visual literacy, digital creation tools, collaborative tools),
+and Participation (online bulletin boards).</p>
+<h4><strong>Primary 4 DLTS</strong></h4>
+<p>The P4 DLTS plan covers: Digital Information Management (search skills,
+data organisation, privacy), Digital Responsibility (communication tools,
+online identity, community participation), Digital Communication and Collaboration
+(creating digital artefacts), Data Competencies (data analysis and presentation),
+and Device and Software Operations (spreadsheets, word processing).</p>
+<h4><strong>Primary 5 DLTS</strong></h4>
+<p>The P5 DLTS plan includes Digital Responsibility, where students learn
+to communicate and share information responsibly and ethically. Our vendor-run
+ALP programme also teach students the basics of block coding, sensor applications,
+and creating models to conserve resources. Under Digital Communication,
+Collaboration, and Participation, students also learn how to plan and evaluate
+digital artefacts, select appropriate mediums and tools, edit video files,
+and share files online to create and share digital content efficiently.</p>
+<h4><strong>Primary 6 DLTS</strong></h4>
+<p>The P6 DLTS plan includes Coding &amp; Programming with vendor-run AI
+lessons by IMDA. In Digital Responsibility, students learn about copyright,
+Creative Commons, and plagiarism, applying ethical and legal understanding
+in digital creation through self-directed pre-learning in IPW. They also
+learn to choose appropriate social media platforms for sharing information
+effectively.</p>
+<p></p>
+<p></p>
 <h4>Science Lesson Learning through the Inquiry and Acquisition Learning Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict4.png">
@@ -98,11 +141,34 @@ at home.</p>
 </div>
 <p><em>Math lesson to encourage students to learn through inductive approach. Students are provided with Acquisition Learning Experience and they learn through finding patterns.</em>
 </p>
-<h4>Countering Fake News&nbsp;</h4>
-<p>Our students embarked on a project to bring more awareness about fake
-news. They did up a video to provide easy ways to identify fake news related
-Covid-19. Have fun learning!</p>
+<h4>Cyber Wellness</h4>
+<p><strong>Good Digital Habits</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hyVOCiXVkJQ"></iframe>
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fvideos%2F7422674647821152%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>In today's digital age, online content is ubiquitous, and there is an
+increased risk and exposure to harmful material. It is more important than
+ever that our students have a strong foundation in cyber wellness. At Dazhong,
+we work diligently within our school to encourage children to take good
+care of devices and use them responsibly. We also involve parents in the
+children's development of good digital habits through our Cyber Wellness
+newsletter, which contains valuable insights and tips for promoting a positive
+online experience for our children.</p>
+<p><strong>Safer Internet Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="800" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D847805210484554%26set%3Da.528950085703403%26type%3D3&amp;show_text=false&amp;width=500&amp;is_preview=true"></iframe>
 </div>
 <p></p>
