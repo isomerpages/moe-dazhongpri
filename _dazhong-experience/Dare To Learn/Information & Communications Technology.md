@@ -78,9 +78,13 @@ practices are guided by principles of the <strong>EdTech Pedagogical Scaffold</s
 demonstrating how technology enhances the educational experience. In Dazhong,
 we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
 creating diverse learning contexts for our students.</p>
-<h3>Digital Literacies and Technological Skills (DLTS)</h3>
+<h3>Digital Literacy and Technological Skills (DLTS)</h3>
 <p>In Dazhong, we ensure that students are well-equipped with the digital
 competencies to thrive in an increasingly technology-saturated future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
+</div>
 <h4><strong>Tech Explorer Programme (Primary 1 &amp; 2)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Tech_Explorer1.png">
