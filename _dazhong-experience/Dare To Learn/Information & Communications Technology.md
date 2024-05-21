@@ -77,12 +77,19 @@ creating diverse learning contexts for our students.</p>
 to thrive in an increasingly technology-saturated future.</p>
 <h4>Tech Explorers Programme</h4>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ict3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Tech_Explorer1.png">
 </div>
-<p>Our Primary 1 students learn to familiarize their fingers with the keyboard.
-They learn through their own pace and learning happens anytime and anywhere.
-They are not confined by the school hours but can also continue their practice
-at home.</p>
+<p>The <strong>Tech Explorers Programme</strong>, formerly known as the Touch-Typing
+Programme, is designed specifically for our Primary 1 and 2 students. This
+tailored programme aims to equip our young learners with essential online
+skills crucial for their academic journey.</p>
+<p>Through a series of engaging activities, the Tech Explorers programme
+will cover:</p>
+<p>1. Fundamental concepts including <strong>digital citizenship </strong>and <strong>online safety</strong>.</p>
+<p>2. <strong>Safe handling</strong> of school hardware.</p>
+<p>3. <strong>Basic login skills </strong>to school Chromebook and SLS with
+MIMS credentials.</p>
+<p>4. <strong>Touch-typing</strong> proficiency</p>
 <h4>Science Lesson Learning through the Inquiry and Acquisition Learning Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict4.png">
@@ -95,7 +102,7 @@ at home.</p>
 </div>
 <p><em>Math lesson to encourage students to learn through inductive approach. Students are provided with Acquisition Learning Experience and they learn through finding patterns.</em>
 </p>
-<h4>Countering Fake News&nbsp;</h4>
+<h4>Cyber Wellness</h4>
 <p>Our students embarked on a project to bring more awareness about fake
 news. They did up a video to provide easy ways to identify fake news related
 Covid-19. Have fun learning!</p>
