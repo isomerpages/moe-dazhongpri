@@ -75,11 +75,11 @@ creating diverse learning contexts for our students.</p>
 <p></p>
 <p>This is to ensure that students are well-equipped with the digital competencies
 to thrive in an increasingly technology-saturated future.</p>
-<h4>Tech Explorers Programme</h4>
+<h4>Tech Explorer Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Tech_Explorer1.png">
 </div>
-<p>The <strong>Tech Explorers Programme</strong>, formerly known as the Touch-Typing
+<p>The <strong>Tech Explorer Programme</strong>, formerly known as the Touch-Typing
 Programme, is designed specifically for our Primary 1 and 2 students. This
 tailored programme aims to equip our young learners with essential online
 skills crucial for their academic journey.</p>
@@ -103,10 +103,33 @@ MIMS credentials.</p>
 <p><em>Math lesson to encourage students to learn through inductive approach. Students are provided with Acquisition Learning Experience and they learn through finding patterns.</em>
 </p>
 <h4>Cyber Wellness</h4>
-<p>Our students embarked on a project to bring more awareness about fake
-news. They did up a video to provide easy ways to identify fake news related
-Covid-19. Have fun learning!</p>
+<p><strong>Good Digital Habits</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hyVOCiXVkJQ"></iframe>
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fvideos%2F7422674647821152%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>In today's digital age, online content is ubiquitous, and there is an
+increased risk and exposure to harmful material. It is more important than
+ever that our students have a strong foundation in cyber wellness. At Dazhong,
+we work diligently within our school to encourage children to take good
+care of devices and use them responsibly. We also involve parents in the
+children's development of good digital habits through our Cyber Wellness
+newsletter, which contains valuable insights and tips for promoting a positive
+online experience for our children.</p>
+<p><strong>Safer Internet Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="800" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D847805210484554%26set%3Da.528950085703403%26type%3D3&amp;show_text=false&amp;width=500&amp;is_preview=true"></iframe>
 </div>
 <p></p>
