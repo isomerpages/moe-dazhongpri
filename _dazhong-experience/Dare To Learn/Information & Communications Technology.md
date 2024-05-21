@@ -41,6 +41,10 @@ EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
 which involves the use of technology to facilitate active learning, fostering
 a participatory, connected, and reflective classroom environment to cultivate
 future-ready learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="student using AI" src="/images/WhatsApp_Image_2024_05_21_at_15_36_12.jpg">
+</div>
 <p>We also began to <strong>harness the power of Artificial Intelligence</strong> on
 SLS and other online platforms to enable a <strong>personalised learning experience</strong>.
 AI will provide customised feedback based on student responses. Our aim
