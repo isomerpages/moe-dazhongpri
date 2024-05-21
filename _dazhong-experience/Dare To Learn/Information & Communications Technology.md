@@ -97,17 +97,33 @@ will cover:</p>
 MIMS credentials.</p>
 <p>4. <strong>Touch-typing</strong> proficiency</p>
 <h4><strong>Primary 3 DLTS</strong></h4>
-<p>The P3 Digital Literacy plan encompasses a comprehensive approach to developing
-students' digital skills across various domains. In Digital Responsibility,
-students will learn internet etiquette and appreciate diversity and social
-cohesion through CCE FTGP lessons. Device and Software Operations will
-cover basic operation of applications, such as using video conferencing
-tools in self-paced SLS lessons and learning to use presentation software
-in Science classes to create reports and presentations. In Digital Communication,
-Collaboration, and Participation, students will understand visual literacy
-and use digital creation tools in Art to efficiently produce digital artefacts.
-They will also learn to work collaboratively using online bulletin boards
-to share information as part of the MTL Reading Programme.</p>
+<p>The P3 DLTS plan develops students' digital skills in several areas: Digital
+Responsibility (internet etiquette, diversity), Device and Software Operations
+(video conferencing, presentation software), Digital Communication and
+Collaboration (visual literacy, digital creation tools, collaborative tools),
+and Participation (online bulletin boards).</p>
+<h4><strong>Primary 4 DLTS</strong></h4>
+<p>The P4 DLTS plan covers: Digital Information Management (search skills,
+data organisation, privacy), Digital Responsibility (communication tools,
+online identity, community participation), Digital Communication and Collaboration
+(creating digital artefacts), Data Competencies (data analysis and presentation),
+and Device and Software Operations (spreadsheets, word processing).</p>
+<h4><strong>Primary 5 DLTS</strong></h4>
+<p>The P5 DLTS plan includes Digital Responsibility, where students learn
+to communicate and share information responsibly and ethically. Our vendor-run
+ALP programme also teach students the basics of block coding, sensor applications,
+and creating models to conserve resources. Under Digital Communication,
+Collaboration, and Participation, students also learn how to plan and evaluate
+digital artefacts, select appropriate mediums and tools, edit video files,
+and share files online to create and share digital content efficiently.</p>
+<h4><strong>Primary 6 DLTS</strong></h4>
+<p>The P6 DLTS plan includes Coding &amp; Programming with vendor-run AI
+lessons by IMDA. In Digital Responsibility, students learn about copyright,
+Creative Commons, and plagiarism, applying ethical and legal understanding
+in digital creation through self-directed pre-learning in IPW. They also
+learn to choose appropriate social media platforms for sharing information
+effectively.</p>
+<p></p>
 <p></p>
 <h4>Science Lesson Learning through the Inquiry and Acquisition Learning Experience</h4>
 <div class="isomer-image-wrapper">
