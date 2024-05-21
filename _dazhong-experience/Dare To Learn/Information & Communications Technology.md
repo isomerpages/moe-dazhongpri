@@ -168,7 +168,16 @@ newsletter, which contains valuable insights and tips for promoting a positive
 online experience for our children.</p>
 <p><strong>Safer Internet Day</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="800" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D847805210484554%26set%3Da.528950085703403%26type%3D3&amp;show_text=false&amp;width=500&amp;is_preview=true"></iframe>
+<p>In conjunction with Total Defence Week and emphasising Digital Defence,
+the school takes part in the annual global initiative aiming to promote
+safer and more responsible technology use among students. While we acknowledge
+the benefits of technology for learning and socialising, it's important
+for students to understand that excessive use can also harm their well-being.
+To foster balance, we recommended a 'Screen-free Weekend', encouraging
+students to use the time for family bonding. Visit <a href="https://www.digitalforlife.gov.sg/Learn/Resources?fbclid=IwZXh0bgNhZW0CMTAAAR02EciY__ZuW4S42c839HfWxms_O2vD3srJiNGpmkJZ8yz08pmM0hyc4ys_aem_AW08U2_0VM9YJ6-E7fErLSHb2u6ooCejYXfWYzJe41k0HtXmFChxDlXPOWY9SYmp9fmhHmRAiwKpR1So1S8PbW1s" rel="noopener noreferrer nofollow" target="_blank">https://www.digitalforlife.gov.sg/Learn/Resources</a> for
+more tips on fostering healthy digital habits!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/screen_free_weekend.jpg">
 </div>
 <p></p>
