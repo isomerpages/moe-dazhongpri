@@ -78,10 +78,10 @@ practices are guided by principles of the <strong>EdTech Pedagogical Scaffold</s
 demonstrating how technology enhances the educational experience. In Dazhong,
 we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
 creating diverse learning contexts for our students.</p>
-<p></p>
-<p>This is to ensure that students are well-equipped with the digital competencies
-to thrive in an increasingly technology-saturated future.</p>
-<h4>Tech Explorer Programme</h4>
+<h3>Digital Literacies and Technological Skills (DLTS)</h3>
+<p>In Dazhong, we ensure that students are well-equipped with the digital
+competencies to thrive in an increasingly technology-saturated future.</p>
+<h4><strong>Tech Explorer Programme (Primary 1 &amp; 2)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Tech_Explorer1.png">
 </div>
@@ -96,6 +96,19 @@ will cover:</p>
 <p>3. <strong>Basic login skills </strong>to school Chromebook and SLS with
 MIMS credentials.</p>
 <p>4. <strong>Touch-typing</strong> proficiency</p>
+<h4><strong>Primary 3 DLTS</strong></h4>
+<p>The P3 Digital Literacy plan encompasses a comprehensive approach to developing
+students' digital skills across various domains. In Digital Responsibility,
+students will learn internet etiquette and appreciate diversity and social
+cohesion through CCE FTGP lessons. Device and Software Operations will
+cover basic operation of applications, such as using video conferencing
+tools in self-paced SLS lessons and learning to use presentation software
+in Science classes to create reports and presentations. In Digital Communication,
+Collaboration, and Participation, students will understand visual literacy
+and use digital creation tools in Art to efficiently produce digital artefacts.
+They will also learn to work collaboratively using online bulletin boards
+to share information as part of the MTL Reading Programme.</p>
+<p></p>
 <h4>Science Lesson Learning through the Inquiry and Acquisition Learning Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict4.png">
