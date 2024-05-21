@@ -10,23 +10,38 @@ variant: tiptap
 the school seeks to develop<strong> self-directed</strong> and<strong> collaborative learners</strong> who
 are engaged and take ownership in their learning through integrating Edtech
 into instructional programmes. ICT is harnessed to integrate content knowledge
-with, in particular – the component of<strong>&nbsp;Communication, Collaboration and Information Skills</strong>&nbsp;–
-to equip students with creating, curating and connecting skills. Integration
-of new media literacies into instructional programmes help students gain
-baseline ICT skills and&nbsp;learn beyond the confines of the classrooms.</p>
-<p>Our school embraces e-Pedagogy, which involves the use of technology to
-facilitate active learning, fostering a participatory, connected, and reflective
-classroom environment to cultivate future-ready learners. This approach
-emphasises that our students are at the core of our educational practices.
-By integrating active learning with technology, we prioritise learning
-activities and interactions in our instructional design. We leverage suitable
-e-Pedagogy learning experience types to achieve desired outcomes, including
-the development of 21st Century Competencies (21CC), Digital Literacy,
-and Technological Skills. Additionally, our teaching and learning practices
-are informed by research in the learning sciences, demonstrating how technology
-enhances the educational experience. Furthermore, our educators seamlessly
-integrate technology into both physical and digital learning spaces, creating
-diverse learning contexts for our students.</p>
+with, in particular – the component of<strong>&nbsp;Communication, Collaboration and Information Skills</strong>.
+This is to ensure that students are well-equipped with the digital competencies
+to thrive in an increasingly technology-saturated future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/21st_century_competencies.png">
+</div>
+<p>Central to this approach is the use of <strong>SLS as a one-stop hub</strong>,
+and the strategic development of student <strong>self-directedness</strong> and <strong>collaboration skills</strong> using
+EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
+<p>Our teachers enables the abovementioned by embracing <strong>e-Pedagogy</strong>,
+which involves the use of technology to facilitate active learning, fostering
+a participatory, connected, and reflective classroom environment to cultivate
+future-ready learners.</p>
+<p></p>
+<p>By integrating <strong>active learning with technology</strong>, we prioritise
+learning activities and interactions in our instructional design. We leverage
+suitable e-Pedagogy learning experience types to achieve desired outcomes,
+including the development of 21st Century Competencies (21CC), Digital
+Literacy, and Technological Skills. Additionally, our teaching and learning
+practices are guided by principles of the <strong>EdTech Pedagogical Scaffold</strong> and <strong>Key Applications of Technology</strong>,
+demonstrating how technology enhances the educational experience. In Dazhong,
+we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
+creating diverse learning contexts for our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict___edtech.jpg">
+</div>
 <h4>Primary 1 (Touch Typing Programme)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict3.png">
