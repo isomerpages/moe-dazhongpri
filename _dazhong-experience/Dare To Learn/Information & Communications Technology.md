@@ -15,12 +15,12 @@ This is to ensure that students are well-equipped with the digital competencies
 to thrive in an increasingly technology-saturated future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overiew_of_e_Pedagogy___60.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/21st_century_competencies.png">
-</div>
 <p>Central to this approach is the use of <strong>SLS as a one-stop hub</strong>,
 and the strategic development of student <strong>self-directedness</strong> and <strong>collaboration skills</strong> using
 EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
