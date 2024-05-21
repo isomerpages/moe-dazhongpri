@@ -6,21 +6,16 @@ third_nav_title: Dare To Learn
 variant: tiptap
 ---
 <h3>Information &amp; Communications Technology (ICT)</h3>
-<p>Aligned with the EdTech Masterplan 2030 and the 21st Century Competencies,
-the school seeks to develop<strong> self-directed</strong> and<strong> collaborative learners</strong> who
-are engaged and take ownership in their learning through integrating Edtech
-into instructional programmes. ICT is harnessed to integrate content knowledge
-with, in particular – the component of<strong>&nbsp;Communication, Collaboration and Information Skills</strong>.
-This is to ensure that students are well-equipped with the digital competencies
-to thrive in an increasingly technology-saturated future.</p>
+<p>In line with the EdTech Masterplan 2030 and the 21st Century Competencies,
+the school aims to cultivate self-directed and collaborative learners who
+are actively engaged in their learning and proficient collaborators. This
+is achieved by integrating EdTech into the core curriculum and instructional
+programmes, harnessing ICT to integrate content knowledge with, in particular
+– the development of<strong>&nbsp;Communication, Collaboration and Information Skills</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overiew_of_e_Pedagogy___60.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
-</div>
-<p></p>
 <p>Central to this approach is the use of <strong>SLS as a one-stop hub</strong>,
 and the strategic development of student <strong>self-directedness</strong> and <strong>collaboration skills</strong> using
 EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
@@ -29,6 +24,9 @@ which involves the use of technology to facilitate active learning, fostering
 a participatory, connected, and reflective classroom environment to cultivate
 future-ready learners.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_2021__2_.png">
+</div>
 <p>By integrating <strong>active learning with technology</strong>, we prioritise
 learning activities and interactions in our instructional design. We leverage
 suitable e-Pedagogy learning experience types to achieve desired outcomes,
@@ -42,6 +40,8 @@ creating diverse learning contexts for our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict___edtech.jpg">
 </div>
+<p>This is to ensure that students are well-equipped with the digital competencies
+to thrive in an increasingly technology-saturated future.</p>
 <h4>Primary 1 (Touch Typing Programme)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict3.png">
