@@ -6,8 +6,8 @@ third_nav_title: Dare To Learn
 variant: tiptap
 ---
 <h3>Information &amp; Communications Technology (ICT)</h3>
-<p>In line with the EdTech Masterplan 2030 and the 21st Century Competencies,
-the school aims to cultivate self-directed and collaborative learners who
+<p>In line with the<strong> EdTech Masterplan 2030</strong> and the <strong>21st Century Competencies </strong>framework,
+the school aims to cultivate <strong>self-directed</strong> and <strong>collaborative learners </strong>who
 are actively engaged in their learning and proficient collaborators. This
 is achieved by integrating EdTech into the core curriculum and instructional
 programmes, harnessing ICT to integrate content knowledge with, in particular
@@ -57,7 +57,7 @@ future-ready learners.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KAT.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ict___edtech1.jpg">
 </div>
 </th>
 </tr>
@@ -73,12 +73,9 @@ demonstrating how technology enhances the educational experience. In Dazhong,
 we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
 creating diverse learning contexts for our students.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict___edtech.jpg">
-</div>
 <p>This is to ensure that students are well-equipped with the digital competencies
 to thrive in an increasingly technology-saturated future.</p>
-<h4>Primary 1 (Touch Typing Programme)</h4>
+<h4>Tech Explorers Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ict3.png">
 </div>
