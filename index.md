@@ -13,11 +13,25 @@ sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
       url: https://www.instagram.com/dazhong_primary_school/
-  - infopic:
-      title: Connect with Us!
-      id: infopic
-      description: Follow Us on Our Social Media
-      button: OUR FACEBOOK PAGE
+  - infobar:
+      title: Facebook
+      subtitle: Connect with Us!
+      id: infobar
+      button: Follow us on Facebook!
       url: https://www.facebook.com/dzpsofficial
-      image: /images/DZ_FB_Page.png
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 24 May 2024
+          announcement: Home-based learning on 24 May
+          link_text: Click here for HBL Schedule
+          link_url: go.gov.sg/dzpshbl
 ---
