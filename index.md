@@ -19,12 +19,6 @@ sections:
       id: infobar
       button: Follow us on Facebook!
       url: https://www.facebook.com/dzpsofficial
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - announcements:
       title: Announcements
       id: announcements
