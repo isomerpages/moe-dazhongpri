@@ -1,5 +1,5 @@
 ---
-title: Home Based Learning
+title: Digital Access & Home Based Learning
 permalink: /home-based-learning/
 description: ""
 variant: tiptap
