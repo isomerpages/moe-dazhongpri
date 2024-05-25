@@ -27,5 +27,5 @@ sections:
           date: 24 May 2024
           announcement: Home-based learning on 24 May
           link_text: Click here for HBL Schedule
-          link_url: go.gov.sg/dzpshbl
+          link_url: https://sites.google.com/moe.edu.sg/dzpshbl/
 ---
