@@ -13,19 +13,31 @@ sections:
   - hero:
       background: /images/dazhong-banner-jul23-use this.gif
       url: https://www.instagram.com/dazhong_primary_school/
+  - textcards:
+      title: Our Dazhong Experience
+      id: textcards
+      cards:
+        - title: Dare to Learn
+          description: Academics
+          linktext: Learn more
+          url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-learn/psleinfo/
+        - title: Dare to Lead
+          description: CCA & Student Development
+          linktext: Learn more
+          url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-lead/dsasec/
+        - title: Dare to Care
+          description: Character & Citizenship Education
+          linktext: Learn more
+          url: https://www.dazhongpri.moe.edu.sg/character-excellence/character-education/
   - infobar:
       title: Facebook
       subtitle: Connect with Us!
       id: infobar
       button: Follow us on Facebook!
       url: https://www.facebook.com/dzpsofficial
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: New Announcement
-          date: 24 May 2024
-          announcement: Home-based learning on 24 May
-          link_text: Click here for HBL Schedule
-          link_url: https://sites.google.com/moe.edu.sg/dzpshbl/
+  - infobar:
+      title: Instagram
+      id: infobar
+      button: Follow us on Instagram!
+      url: https://www.instagram.com/dazhong_primary_school/
 ---
