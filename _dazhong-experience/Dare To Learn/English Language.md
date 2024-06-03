@@ -60,8 +60,6 @@ Tapping on the affordances of the Student Learning Space (SLS) and other ICT too
 
 Our school library is a vibrant hub of activity during recess, with students eagerly delving into the world of audiobooks. To support auditory learning and enhance our students' reading experiences, our library offers devices for students to use during recess.
 
-<img src="/images/el7.png" style="width:80%">
-
 **Thematic Book Display**
 
 <img src="/images/el10.png" style="width:80%">
