@@ -28,7 +28,7 @@ To nurture students to be self-directed and empathetic communicators, discerning
 
 <img src="/images/EL02.jpg" style="width:100%">  
 		   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-UE5D8S4yDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-UE5D8S4yDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
 
 Blended learning and technology-enabled lessons allow our students to learn deeply at their own pace, collaborate with peers and still have the autonomy to pursue their areas of interest. Teachers leverage ICT to cater to students with differing readiness, interests and learning styles.  
 
@@ -38,10 +38,6 @@ Blended learning and technology-enabled lessons allow our students to learn deep
 * Relevant, authentic and personal learning experiences through the discussion of contemporary, environmental and sustainability issues so as to take action and effect change (Excite and Empower)
 
 The school’s Media Resource Library, D’ Safari, reaches out to students through a wide variety of programmes and activities. Parents, grandparents and siblings can also join in the fun with students in some of our programmes which are specially designed to promote bonding and fun.
-
-**Supporting Your Child in Reading**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1yLHSS2m5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 **Avid Reader Card**
@@ -57,6 +53,14 @@ Taking inspiration from the popular Young Scientist Card, the Avid Reader Card w
 <img src="/images/el9.png" style="width:80%">
 
 Tapping on the affordances of the Student Learning Space (SLS) and other ICT tools, the Library Team curates digital stories recorded by teachers and students and assigns “lessons” to students through the English Language teachers. In these lessons, students view book recommendations by Dazhong teachers, listen to stories read by teachers and schoolmates and complete quizzes and activities based on the featured stories.
+
+**Devices in the Library for Reading and Learning**
+
+![Audiobooks](/images/WhatsApp_Image_2024_06_03_at_10_12_56.jpg)
+
+Our school library is a vibrant hub of activity during recess, with students eagerly delving into the world of audiobooks. To support auditory learning and enhance our students' reading experiences, our library offers devices for students to use during recess.
+
+<img src="/images/el7.png" style="width:80%">
 
 **Thematic Book Display**
 
@@ -75,6 +79,10 @@ The library showcases&nbsp;a different author every month. Students read biograp
 <img src="/images/el12.png" style="width:80%">
 
 Don’t judge a book by its cover! Wrapped with recycled paper, students borrow age-appropriate mystery books that are tagged with clues.
+
+**Supporting Your Child in Reading**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/S1yLHSS2m5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
   
 **3.&nbsp;Stories Come Alive (Excite, Engage and Empower)**
 
