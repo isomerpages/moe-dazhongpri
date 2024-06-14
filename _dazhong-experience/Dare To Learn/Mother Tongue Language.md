@@ -206,7 +206,7 @@ interest in Chinese calligraphy.</p>
 Language Learning. It aims to strengthen students' ability to read and
 recite Chinese texts, stimulate students’ enthusiasm and interest in learning
 Chinese and deepen students’ understanding of the texts.</p>
-<h4> Mother Tongue Support Programme (MTSP) </h4>
+<h4>Mother Tongue Support Programme (MTSP)</h4>
 <p>The MTSP is designed to enhance the oracy and literacy skills of students
 in their mother tongue languages. Targeting students identified at Primary
 2, the programme is implemented in Primary 3 and 4. Conducted by trained
