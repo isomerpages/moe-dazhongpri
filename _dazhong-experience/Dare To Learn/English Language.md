@@ -35,7 +35,7 @@ their own learning to develop them into agents of change to lead others.</p>
 </ul>
 <p>*Differentiated instructions will be infused through the 3 key approaches
 above.</p>
-<h4>Milestone Programmes:</h4>
+<h4>Milestone Programmes</h4>
 <p><strong>1. Self-directed learning through ICT-enabled lessons (Excite and Engage)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -159,7 +159,7 @@ and group work and foster commitment and co-operation amongst their peers</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="429" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fvideos%2F319239884464284%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
 </div>
-<h4>Stretch Programmes:</h4>
+<h4>Stretch Programmes</h4>
 <p><strong>1. Students Talk about News at Dazhong (STAND) (Empower)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -186,7 +186,7 @@ developing empathy, and applying understandings to their own lives. Socially,
 students will set learning goals, manage their learning, collaborate with
 others, and appreciate diverse perspectives. The programme fosters curiosity,
 perseverance, and confident communication.</p>
-<h4>Support Programmes:</h4>
+<h4>Support Programmes</h4>
 <p><strong>1. Learning Support Programme (LSP)</strong>
 </p>
 <p>The LSP for English provides specialised early intervention for students
