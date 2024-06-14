@@ -37,7 +37,7 @@ which are anchored on strong school and CCE values.
 </p>
 </li>
 </ul>
-<h4>Department Programmes</h4>
+<h4>Milestone Programmes</h4>
 <p><strong>1. Mother Tongue Fortnight Programme (MTFP)</strong>
 </p>
 <p>Every year, for two weeks, our students delve into the vibrant tapestry
@@ -184,28 +184,34 @@ to learn and embrace the customs and significance of Deepavali.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20231114_115215.jpg">
 </div>
 <p></p>
-<h4>Competitions</h4>
+<h4>Stretch Programmes</h4>
+<p><strong>1. Higher Mother Tongue Languages (HMTL) Bilingualism with Authentic Learning Experiences</strong>
+</p>
+<p>The HMTL programme for Primary 4 and 5 students aims to develop effective
+bilingual communicators and self-directed learners. Students engage in
+projects on disability awareness and explore classic novels, creating digital
+resources and stories that highlight school values. They are also given
+opportunities to discuss and research animal protection and the evolution
+of Chinese characters, using their knowledge to create advocacy materials
+and promote the joy of learning Chinese. The programme encourages students
+to make meaningful connections, explore topics creatively, and develop
+a strong sense of curiosity, commitment, and collaboration.</p>
+<p><strong><u>2. Competitions</u></strong>
+</p>
 <p>Each year, the MTL department offers various platforms for students to
 develop their potential, showcase their talents, and learn from enriching
-experiences. At Dazhong, we believe that every student is a high-potential
+experiences through competitions such as the <strong>National Calligraphy Competition</strong>,
+an annual competition organised by Fo Guang Shan and the <strong>Text Recital Competition</strong>,
+an annual competition organised by the Committee to Promote Chinese Language
+Learning. At Dazhong, we believe that every student is a high-potential
 learner!</p>
-<p><strong>1. National Calligraphy Competition</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2002.jpg">
 </div>
-<p>This is an annual competition organised by Fo Guang Shan. It aims to promote
-the culture and arts of calligraphy in Singapore and help raise students’
-interest in Chinese calligraphy.</p>
-<p><strong>2. Text Recital Competition for Primary Schools</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2006.jpg">
 </div>
-<p>This is an annual competition organised by the Committee to Promote Chinese
-Language Learning. It aims to strengthen students' ability to read and
-recite Chinese texts, stimulate students’ enthusiasm and interest in learning
-Chinese and deepen students’ understanding of the texts.</p>
+<p></p>
 <h4>Mother Tongue Support Programme (MTSP)</h4>
 <p>The MTSP is designed to enhance the oracy and literacy skills of students
 in their mother tongue languages. Targeting students identified at Primary
