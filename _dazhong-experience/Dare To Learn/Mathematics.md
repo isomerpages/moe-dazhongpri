@@ -9,10 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath01.png">
 </div>
-<h4>Vision: </h4>
+<h4>Vision:</h4>
 <p>Self-directed Maths learners, future-ready citizens who can appreciate
 and apply Mathematics in real-world contexts.</p>
-<h4>Mission: </h4>
+<h4>Mission:</h4>
 <p>To nurture self-directed, thinking individuals with a passion and love
 for Mathematics learning and problem-solving.</p>
 <p></p>
