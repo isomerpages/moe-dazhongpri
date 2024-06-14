@@ -195,7 +195,7 @@ who need additional help with English language skills. Identified at Primary
 focused support from trained teachers. The programme involves half-hour
 daily sessions conducted in small groups of 8 to 10 students, ensuring
 personalised attention and effective learning outcomes.</p>
-<p><strong>2. Reading Remediation Programme (RRP) </strong>
+<p><strong>2. Reading Remediation Programme (RRP)</strong>
 </p>
 <p>Our school provides the RRP to support Primary 3 and 4 students with literacy
 difficulties who are not diagnosed with dyslexia. RRP aims to help these
