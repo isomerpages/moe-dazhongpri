@@ -35,6 +35,7 @@ their own learning to develop them into agents of change to lead others.</p>
 </ul>
 <p>*Differentiated instructions will be infused through the 3 key approaches
 above.</p>
+<h4>Milestone Programmes:</h4>
 <p><strong>1. Self-directed learning through ICT-enabled lessons (Excite and Engage)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -142,18 +143,8 @@ favourite books and encourage their peers to read!</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="591" width="269" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F3666789223593025%2F&amp;show_text=true&amp;width=269&amp;t=0"></iframe>
 </div>
-<p><strong>4. Students Talk about News at Dazhong (STAND) (Empower)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL05.jpg">
-</div>
-<p>To develop empathetic communicators, every fortnight, the school tunes
-into STAND during morning assembly. Students are challenged to think critically
-about what they see or hear in the news and report the latest and most
-inspiring news happening in Singapore and around the world. Students acquire
-general knowledge and vocabulary, honing their listening and comprehension
-skills whilst being inspired to create a better Singapore.</p>
-<p><strong>5. Programme for Active Learning (PAL) – Dare to Act (Excite and Engage)</strong>
+<p></p>
+<p><strong>4. Programme for Active Learning (PAL) – Dare to Act (Excite and Engage)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL06.jpg">
@@ -168,4 +159,54 @@ and group work and foster commitment and co-operation amongst their peers</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="429" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fvideos%2F319239884464284%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
 </div>
+<h4>Stretch Programmes:</h4>
+<p><strong>1. Students Talk about News at Dazhong (STAND) (Empower)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL05.jpg">
+</div>
+<p>To develop empathetic communicators, every fortnight, the school tunes
+into STAND during morning assembly. Students are challenged to think critically
+about what they see or hear in the news and report the latest and most
+inspiring news happening in Singapore and around the world. Students acquire
+general knowledge and vocabulary, honing their listening and comprehension
+skills whilst being inspired to create a better Singapore.</p>
+<p><strong>2. Reading Circles</strong>
+</p>
+<p>The Reading Circles programme for selected students in Primary 4 and 5
+focuses on cognitive, affective, and social outcomes. Participants will
+develop an understanding of active reading and inquiry, recognizing that
+reading involves constructing meaning, making connections, and engaging
+in reflective responses. They will learn to consider elements in texts
+and the writer’s purpose, and to develop awareness of language use and
+context. Skills acquired include questioning texts, making connections
+to personal experiences and real-world issues, inferring meaning, and engaging
+in discussions. Affective outcomes include enjoying responses to texts,
+developing empathy, and applying understandings to their own lives. Socially,
+students will set learning goals, manage their learning, collaborate with
+others, and appreciate diverse perspectives. The programme fosters curiosity,
+perseverance, and confident communication.</p>
+<h4>Support Programmes:</h4>
+<p><strong>1. Learning Support Programme (LSP)</strong>
+</p>
+<p>The LSP for English provides specialised early intervention for students
+who need additional help with English language skills. Identified at Primary
+1 through screening conducted upon school entry, these students receive
+focused support from trained teachers. The programme involves half-hour
+daily sessions conducted in small groups of 8 to 10 students, ensuring
+personalised attention and effective learning outcomes.</p>
+<p><strong>2. Reading Remediation Programme (RRP) </strong>
+</p>
+<p>Our school provides the RRP to support Primary 3 and 4 students with literacy
+difficulties who are not diagnosed with dyslexia. RRP aims to help these
+students read with fluency and understanding, and includes those who were
+not previously in the Learning Support Programme (LSP) but are assessed
+to benefit from additional support at the end of Primary 2.</p>
+<p><strong>3. School-based Dyslexia Remediation (SDR) Programme</strong>
+</p>
+<p>We offer the SDR Programme, a specialised and intensive after-school literacy
+intervention for Primary 3 and 4 students with dyslexia. This two-year
+programme, taught by specially trained teachers, focuses on phonics, word
+reading and spelling, text reading fluency, vocabulary, and reading comprehension
+to address individual literacy needs.</p>
 <p></p>
