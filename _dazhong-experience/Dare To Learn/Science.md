@@ -93,15 +93,16 @@ Thermal Camera booth.</p>
 <p>Students use scientific concepts they have learnt to create models and
 toys to demonstrate.</p>
 </li>
-<li>
-<p>Students with greater interest and aptitude in Science are given opportunities
-to further their learning, such as through E2K Science, the NUS High Science
-Oratorical Competition, and the Singapore Primary Science Olympiad.</p>
-</li>
 </ul>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="786" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fposts%2Fpfbid0JoxNFvg88Y5VVHuZMkBDwyRaL7tfefkM8FCVDmxev8nPqVWjt4seTdRkJ9HPasM5l&amp;show_text=true&amp;width=500"></iframe>
+</div>
 </li>
 </ul>
 <h4>Stretch Programmes</h4>
+<p>Students with greater interest and aptitude in Science are given opportunities
+to further their learning, such as through E2K Science, the NUS High Science
+Oratorical Competition, and the Singapore Primary Science Olympiad.</p>
 <p><strong><u>1. E2K Science</u></strong>
 </p>
 <p>The E2K Science Programme aims to develop scientific inquiry skills and
@@ -123,7 +124,7 @@ of learning science by preparing stations for an E2K Challenge Day. The
 cognitive outcomes include discovering interests, developing strengths,
 and making meaningful connections, while affective outcomes focus on curiosity,
 commitment, adaptability, and collaboration.</p>
-<p><strong><u>2.Competitions</u></strong>
+<p><strong><u>2. Competitions</u></strong>
 </p>
 <p>Our school provides students with opportunities to participate in a variety
 of science and environmental competitions, showcasing their passion and
@@ -140,7 +141,4 @@ Community in Bloom programme and the "Nature through Drama" initiative
 helps promote science communication within the community.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sci3.png">
-</div>
 <p></p>
