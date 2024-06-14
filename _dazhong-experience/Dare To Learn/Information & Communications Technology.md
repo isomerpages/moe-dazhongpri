@@ -45,7 +45,7 @@ future-ready learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="student using AI" src="/images/WhatsApp_Image_2024_05_21_at_15_36_12.jpg">
 </div>
-<p>We also began to <strong>harness the power of Artificial Intelligence</strong> on
+<p>In Dazhong, we aim to <strong>harness the power of Artificial Intelligence</strong> on
 SLS and other online platforms to enable a <strong>personalised learning experience</strong>.
 AI will provide customised feedback based on student responses. Our aim
 is to develop students to be <strong>self-directed and use the AI feedback to enhance and monitor their learning</strong>,
@@ -73,15 +73,13 @@ we use AI to promote equity in success.</p>
 </tr>
 </tbody>
 </table>
-<p>By integrating <strong>active learning with technology</strong>, we prioritise
-learning activities and interactions in our instructional design. We leverage
-suitable e-Pedagogy learning experience types to achieve desired outcomes,
-including the development of 21st Century Competencies (21CC), Digital
-Literacy, and Technological Skills. Additionally, our teaching and learning
-practices are guided by principles of the <strong>EdTech Pedagogical Scaffold</strong> and <strong>Key Applications of Technology</strong>,
-demonstrating how technology enhances the educational experience. In Dazhong,
-we aim to <strong>seamlessly integrate technology into both physical and digital learning spaces</strong>,
-creating diverse learning contexts for our students.</p>
+<p>At Dazhong, we prioritise active learning and interactions by integrating
+technology into our instructional design. Using suitable e-Pedagogy, we
+develop 21st Century Competencies, Digital Literacy, and Technological
+Skills. Guided by the EdTech Pedagogical Scaffold and Key Applications
+of Technology, we enhance educational experiences. Our aim is to seamlessly
+blend technology into both physical and digital learning spaces, creating
+diverse and engaging learning contexts for our students.</p>
 <h3>Digital Literacy and Technological Skills (DLTS)</h3>
 <p>In Dazhong, we ensure that students are well-equipped with the digital
 competencies to thrive in an increasingly technology-saturated future.</p>
@@ -131,20 +129,24 @@ Creative Commons, and plagiarism, applying ethical and legal understanding
 in digital creation through self-directed pre-learning in IPW. They also
 learn to choose appropriate social media platforms for sharing information
 effectively.</p>
-<p></p>
-<p></p>
-<h4>Science Lesson Learning through the Inquiry and Acquisition Learning Experience</h4>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ict4.png">
+<h4>Stretch Programmes</h4>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="523" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fposts%2Fpfbid02HX9R17RSbxpHyPF5u1fLsxKPi2TzvWWjABQLhWAvDH6tkAF2mgY8Jb2mK948CXowl&amp;show_text=true&amp;width=500"></iframe>
 </div>
-<p><em>Science lesson to encourage students to learn through investigation. Students experience learning through the Inquiry and Acquisition Learning Experience</em>
-</p>
-<h4>Math Lesson - Learn through inductive approach</h4>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ict5.png">
-</div>
-<p><em>Math lesson to encourage students to learn through inductive approach. Students are provided with Acquisition Learning Experience and they learn through finding patterns.</em>
-</p>
+<p>At our school, we identify and select upper primary students who demonstrate
+a keen interest and ability in harnessing technology. These tech-adept
+students are provided with opportunities to attend competitions such as
+the <strong>National Thinking Challenge,</strong> organised in Singapore
+to foster <strong>critical thinking</strong> and<strong> problem-solving skills using technology</strong>.
+Additionally, our students participate in the <strong>Swift Explorers programme</strong>,
+headed by the <strong>School of Science and Technology (SST)</strong>, which
+introduces young learners to the world of coding and <strong>app development using Swift,</strong> a
+powerful and intuitive programming language. As part of this programme,
+students engage in hands-on projects and challenges that enhance their
+coding skills and creativity. Furthermore, we organise visits to Apple,
+where students gain deeper insights into coding and innovative tech applications.
+Through these experiences, we aim to nurture their technological skills
+and inspire them to become future tech leaders.</p>
 <h4>Cyber Wellness</h4>
 <p><strong>Good Digital Habits</strong>
 </p>
