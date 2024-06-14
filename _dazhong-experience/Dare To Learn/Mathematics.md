@@ -9,34 +9,32 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath01.png">
 </div>
-<p><strong><u>Mathematics Department Directions &amp; Philosophy</u></strong>
-</p>
-<p><strong>Vision</strong>:
-<br>Self-directed Maths learners, future-ready citizens who can appreciate
+<h4>Vision: </h4>
+<p>Self-directed Maths learners, future-ready citizens who can appreciate
 and apply Mathematics in real-world contexts.</p>
-<p><strong>Mission</strong>:
-<br>To nurture self-directed, thinking individuals with a passion and love
+<h4>Mission: </h4>
+<p>To nurture self-directed, thinking individuals with a passion and love
 for Mathematics learning and problem-solving.</p>
-<p><strong>Key Approaches:</strong>
-<br>
-</p>
+<p></p>
+<h4>Key Approaches:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop students’ competencies in Maths problem-solving holistically
-using the Concrete-Pictorial-Abstract approach. [<strong>Engage</strong>]
+<p><strong>Engage</strong>: To develop students’ competencies in Maths problem-solving
+holistically using the Concrete-Pictorial-Abstract approach.
 <br>
 </p>
 </li>
 <li>
-<p>To engage students in the learning of Mathematics and to promote the love
-for Mathematics learning through authentic learning experiences. [<strong>Engage/Excite</strong>]
+<p><strong>Engage/Excite:</strong> To engage students in the learning of Mathematics
+and to promote the love for Mathematics learning through authentic learning
+experiences.
 <br>
 </p>
 </li>
 <li>
-<p>To empower Maths learners to be self-directed learners through timely
-feedback of their learning, and differentiated and timely support for different
-student segments. [<strong>Empower</strong>]</p>
+<p><strong>Empower: </strong>To empower Maths learners to be self-directed
+learners through timely feedback of their learning, and differentiated
+and timely support for different student segments.</p>
 </li>
 </ul>
 <p>Mathematics in Dazhong is shaped by our direction of Mastery of Maths
@@ -45,9 +43,8 @@ and (2) Building Confidence through Mastery. Along this direction, key
 milestone programmes are designed to promote conceptual understanding by
 sense-making through stories.</p>
 <p>The broad aims of Mathematics education in Dazhong are aligned to that
-of the National curriculum. They are to enable students to:
-<br>
-</p>
+of the National curriculum. They are to enable students to:</p>
+<p></p>
 <p>-&nbsp; acquire &amp; apply mathematical concepts &amp; skills;</p>
 <p>-&nbsp; develop cognitive &amp; metacognitive skills through a mathematical
 approach to problem solving; &amp;</p>
@@ -162,6 +159,7 @@ via our Professional Learning Time (PLT) and implemented in our lessons.</p>
 important are the cognitive and metacognitive process skills. The processes
 are learned through carefully constructed learning experiences enacted
 via our department programmes:</p>
+<h4>Milestone Programmes:</h4>
 <p><strong><em>National Day Celebrations with Mathematics Exploration Week (MEW)</em></strong>:&nbsp;As
 part of the school’s National Day celebrations, the Mathematics Department
 collaborated with the CCE Department to help Primary 1 to Primary 6 students:</p>
@@ -197,10 +195,20 @@ around school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath11.png">
 </div>
-<p><strong><em>Differentiated programmes for different student segments:</em></strong>
-</p>
-<p><strong><em>i)&nbsp;E2K Mathematics Programme</em></strong>: Selected
-Primary 4 and Primary 5 students participate in the E2K Mathematics Programme,
+<p><strong><em>KooBits and SLS Adaptive Learning System (ALS)</em></strong>:&nbsp;All
+Primary 1 to 6 students are provided access to KooBits, a Mathematics learning
+portal that empowers students to be self-directed students who learn independently
+with minimal teacher supervision. Additionally, our school closely works
+with parents in promoting the use of the SLS Adaptive Learning System (ALS),
+a system that provides a personalised learning pathway for each student
+according to their strengths and needs.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits_and_ALS.png">
+</div>
+<h4>Stretch Programmes:</h4>
+<p><strong><em>E2K Mathematics Programme</em></strong>: Selected Primary
+4 and Primary 5 students participate in the E2K Mathematics Programme,
 which aims to develop students’ mathematical thinking skills and deepen
 their conceptual understanding through an inquiry approach. Developed by
 the Israel Centre for Excellence through Education (ICEE), students who
@@ -210,107 +218,35 @@ in mathematical thinking skills through this programme. The rich learning
 experiences offered by the programme will help students gain important
 21st century competencies such as critical and inventive thinking and effective
 communication skills.</p>
-<p><strong><em>ii) ICAN</em></strong>:&nbsp;The low-progress student segment
+<p><strong><em>Mathematics Competitions</em></strong>: Selected Primary 4
+to Primary 6 students are invited to participate in Mathematics competitions,
+gaining exposure to intellectually challenging Mathematics questions that
+stretches their inner potential in the subject. Our students have participated
+in the following competitions:</p>
+<p>-&nbsp; Singapore Mathematical Olympiad for Primary Schools (SMOPS)</p>
+<p>-&nbsp; Raffles Institution's Primary Mathematics World Contest (RIPMWC)</p>
+<p>-&nbsp; National Mathematical Olympiad of Singapore (NMOS)</p>
+<p>-&nbsp; River Valley High School Science, Technology, Engineering and
+Mathematics Festival (RV STEM Fest)</p>
+<p>-&nbsp; Primary Mathematics Project Competition</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Merit_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<h4>Support Programmes:</h4>
+<p><strong><em>ICAN</em></strong>:&nbsp;The low-progress student segment
 is taught using the customised Improving Confidence And Numeracy (ICAN)
 approach, which employs 8 guiding principles formulated by MOE. There is
 an emphasis on ensuring that students have the necessary prerequisites
 before learning a new topic, hands-on learning with manipulatives, and
 reasoning and communication in the learning of mathematics.</p>
-<p><strong><em>iii) LSM:</em></strong>&nbsp;The Learning Support for Mathematics
-(LSM) programme is designed to provide early intervention support in mathematics
+<p><strong><em>LSM: </em></strong>The Learning Support for Mathematics (LSM)
+programme is designed to provide early intervention support in mathematics
 to our students who may need additional support in acquiring basic numeracy
-skills when they enter Primary1 and will continue, if deem necessary, in
-Primary 2.</p>
-<p><strong><em>Mathematics Competitions</em></strong>: Selected Primary 2
-to Primary 6 students are invited to participate in Mathematics competitions,
-gaining exposure to intellectually challenging Mathematics questions that
-stretches their inner potential in the subject. Our students have participated
-in the following competitions:</p>
-<p>-&nbsp; Singapore Mathematical Olympiad for Primary Schools (SMOPS)
-<br>-&nbsp; Raffles Institution's Primary Mathematics World Contest (RIPMWC)
-<br>-&nbsp; National Mathematical Olympiad of Singapore (NMOS)
-<br>-&nbsp; River Valley Mathematics Challenge
-<br>-&nbsp; Primary Mathematics Project Competition</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math23.png">
-</div>
-<p><strong><u>Peaks of Excellence</u></strong>
-</p>
-<p><strong><em>KooBits Challenge - Top Brain (Singapore) Award</em></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath12a.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath12b.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top
-Brain (Singapore) Award in Term 3. The award is presented to the top 3
-students per level with the highest Challenge Points for the term <strong><u>across all Singapore schools</u></strong>.
-Congratulations on your achievement! Dazhong, Dare to Lead and Shine!</p>
-<p><strong><em>National Mathematical Olympiad of Singapore (NMOS) Competition 2023</em></strong>
-<br>3 Bronze Awardees
-<br>7 Honourable Mentions Awardees</p>
-<p><strong><em>KooBits Challenge - Top Brain (Singapore) Award</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath13.png">
-</div>
-<p>Wong Yuan Le Marcus from 6 Acceptance achieved 1st in the KooBits Top
-Brain (Singapore) Award in Term 3. The award is presented to the top 3
-students per level with the highest Challenge Points for the term <strong><u>across all Singapore schools</u></strong>.
-Congratulations on your achievement! Dazhong, Dare to Lead and Shine!</p>
-<p><strong><em>River Valley Mathematics Challenge 2023</em></strong>
-<br>Most Creative Entry - Snap &amp; Win Challenge</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath15.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath16.png">
-</div>
-<p><strong><em>Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023</em></strong>
-<br>2 Bronze Awardees</p>
-<p><strong><em>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023</em></strong>
-<br>Junior Category - 3 Certificates of Merit
-<br>Open Category – 1 Certificate of Distinction, 2 Certificates of Merit
+skills when they enter Primary 1 and will continue, if deem necessary,
+in Primary 2.</p>
+<p>
 <br>
 </p>
-<p><strong><em>KooBits Challenge - Top Brain (Singapore) Award</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzmath17.png">
-</div>
-<p>Zhuo Yuheng from 1 Perseverance achieved 1st in the KooBits Top Brain
-(Singapore) Award in Term 1. The award is presented to the top 3 students
-per level with the highest Challenge Points for the term <strong><u>across all Singapore schools</u></strong>.
-Congratulations on your achievement! Dazhong, Dare to Learn and Shine!</p>
-<p><strong><em>National Mathematical Olympiad of Singapore (NMOS) Competition 2022</em></strong>
-<br>1 Silver Awardee
-<br>1 Bronze Awardee
-<br>5 Honourable Mentions Awardees</p>
-<p><strong><em>Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2022</em></strong>
-<br>1 Silver Awardee</p>
-<p><strong><em>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022</em></strong>
-<br>Junior Category - <strong>5 Certificates of Merit</strong>
-<br>Open Category – <strong>1 Certificate of Distinction, 2 Certificates of Merit</strong>
-</p>
-<p><strong><em>National Mathematical Olympiad of Singapore (NMOS) Competition 2021</em></strong>
-<br>1 Bronze Awardee
-<br>11 Honourable Mentions Awardees</p>
-<p><strong><em>Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2021</em></strong>
-<br>2 Bronze Awardees</p>
