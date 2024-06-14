@@ -38,12 +38,8 @@ which are anchored on strong school and CCE values.
 </li>
 </ul>
 <h4>Department Programmes</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Mother Tongue Fortnight Programme (MTFP)</strong>
+<p><strong>1. Mother Tongue Fortnight Programme (MTFP)</strong>
 </p>
-</li>
-</ol>
 <p>Every year, for two weeks, our students delve into the vibrant tapestry
 of language, culture, and identity. From lively drama preparation to immersive
 traditional experiences, every activity served as a gateway to understanding
@@ -53,9 +49,7 @@ thrilled to witness the blossoming of cultural pride among our participants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil.jpg">
 </div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Cultural Performance Exposure Scheme (CPES)</strong> 
+<p><strong>2. Cultural Performance Exposure Scheme (CPES)</strong> 
 <br>Our school seeks to evoke in pupils a deep interest in the learning of
 the Mother Tongue language through enabling them to appreciate the beauty
 of cultural performances. Through CPES, pupils are provided with opportunities
@@ -64,17 +58,11 @@ recitation, storytelling based on classics, theatre experiences etc. Through
 these cultural activities, the school seeks to enable the pupils to appreciate
 the beauty underlying each language and hence enthuse them to further seek
 to deepen their learning of the language.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES.jpg">
 </div>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>MTL Cultural Camp</strong>
+<p><strong>3. MTL Cultural Camp</strong>
 </p>
-</li>
-</ol>
 <p>MTL Cultural Camp is one of the platforms to encourage students to appreciate
 their own language and culture and also have exposure to other MTL and
 traditional cultures. The programme seeks to promote the usage of MTL and
@@ -82,12 +70,8 @@ cultural appreciation in an authentic setting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cultural_camp_1.jpg">
 </div>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>The MTL Reading Programme</strong>
+<p><strong>4. The MTL Reading Programme</strong>
 </p>
-</li>
-</ol>
 <p>Aligned to school vision and mission, our department implemented The MTL
 Reading Programme, which consisted of a series of reading activities throughout
 the year for all students. We aimed to 1) excite, engage and nurture students’
@@ -136,12 +120,8 @@ codes will be generated and attached inside the books.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2022.png">
 </div>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>Learn for Life Programme (LLP) - Speech and Drama</strong>
+<p><strong>5. Learn for Life Programme (LLP) - Speech and Drama</strong>
 </p>
-</li>
-</ol>
 <p>In Dazhong Primary school, we provide opportunities and resources to build
 joyful learning experiences during the Mother Tongue Language lessons.
 Based on the chosen curriculum from P1 to P6, Mother Tongue Language teachers
@@ -154,12 +134,8 @@ a better understanding of their own Mother Tongue Language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wukong.jpg">
 </div>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p><strong>Conversational Chinese and Malay (CCM)</strong>
+<p><strong>6. Conversational Chinese and Malay (CCM)</strong>
 </p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2023.jpg">
 </div>
@@ -170,12 +146,8 @@ hold simple conversations in various common situations with a native Chinese
 Language or Malay Language speaker. CCM also aims to bridge the divide
 between the languages and strengthen racial harmony.</p>
 <h4>Festive Celebrations</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Chinese New year Celebration</strong>
+<p><strong>1. Chinese New year Celebration</strong>
 </p>
-</li>
-</ol>
 <p>At Dazhong Primary School, the Chinese New Year celebration is dazzled
 with colorful performances and engaging classroom activities. Songs and
 martial arts showcased the school's cultural diversity. Students also participated
@@ -185,12 +157,8 @@ and inclusivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY.jpg">
 </div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Hari Raya Celebration</strong>
+<p><strong>2. Hari Raya Celebration</strong>
 </p>
-</li>
-</ol>
 <p>Hari Raya is celebrated annually to advocate the culture of acceptance,
 especially amongst the different racial groups. From engaging in hands-on
 activities like food tasting and trying on traditional Malay costumes during
@@ -204,12 +172,8 @@ diversity and unity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya.jpg">
 </div>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Deepavali Celebration</strong>
+<p><strong>3. Deepavali Celebration</strong>
 </p>
-</li>
-</ol>
 <p>The school celebrates Deepavali every year with vibrant performances and
 engaging handicraft activities. Students showcase their talents through
 traditional dances, music, and drama performances, bringing the festive
@@ -225,24 +189,16 @@ to learn and embrace the customs and significance of Deepavali.</p>
 develop their potential, showcase their talents, and learn from enriching
 experiences. At Dazhong, we believe that every student is a high-potential
 learner!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>National Calligraphy Competition</strong>
+<p><strong>1. National Calligraphy Competition</strong>
 </p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2002.jpg">
 </div>
 <p>This is an annual competition organised by Fo Guang Shan. It aims to promote
 the culture and arts of calligraphy in Singapore and help raise students’
 interest in Chinese calligraphy.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Text Recital Competition for Primary Schools</strong>
+<p><strong>2. Text Recital Competition for Primary Schools</strong>
 </p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT%2006.jpg">
 </div>
@@ -250,3 +206,11 @@ interest in Chinese calligraphy.</p>
 Language Learning. It aims to strengthen students' ability to read and
 recite Chinese texts, stimulate students’ enthusiasm and interest in learning
 Chinese and deepen students’ understanding of the texts.</p>
+<h4> Mother Tongue Support Programme (MTSP) </h4>
+<p>The MTSP is designed to enhance the oracy and literacy skills of students
+in their mother tongue languages. Targeting students identified at Primary
+2, the programme is implemented in Primary 3 and 4. Conducted by trained
+school teachers, MTSP focuses on creating a stronger language foundation
+through small group sessions comprising 8 to 12 students. This targeted
+approach ensures personalised attention and effective learning outcomes
+for the participants.</p>
