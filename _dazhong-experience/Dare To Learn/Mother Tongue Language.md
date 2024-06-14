@@ -29,7 +29,7 @@ their peers, school and the community to be part of the movement. All of
 which are anchored on strong school and CCE values.
 <br>
 </p>
-<h4><strong>Department Programmes </strong></h4>
+<h4><strong>Department Programmes</strong></h4>
 <p><strong>Mother Tongue Fortnight Programme (MTFP)</strong>
 </p>
 <p>Every year, for two weeks, our students delve into the vibrant tapestry
