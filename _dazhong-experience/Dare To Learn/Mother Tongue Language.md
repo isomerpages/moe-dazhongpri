@@ -29,9 +29,7 @@ their peers, school and the community to be part of the movement. All of
 which are anchored on strong school and CCE values.
 <br>
 </p>
-<p><strong>Department Programmes</strong> 
-<br><strong>Cultural Appreciation Programmes</strong>
-</p>
+<h4><strong>Department Programmes </strong></h4>
 <p><strong>Mother Tongue Fortnight Programme (MTFP)</strong>
 </p>
 <p>Every year, for two weeks, our students delve into the vibrant tapestry
@@ -51,8 +49,11 @@ to be exposed to the different ethnic cultures through folk songs, poetry
 recitation, storytelling based on classics, theatre experiences etc. Through
 these cultural activities, the school seeks to enable the pupils to appreciate
 the beauty underlying each language and hence enthuse them to further seek
-to deepen their learning of the language.
-<br><strong>MTL Cultural Camp</strong>
+to deepen their learning of the language.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES.jpg">
+</div>
+<p><strong>MTL Cultural Camp</strong>
 </p>
 <p>MTL Cultural Camp is one of the platforms to encourage students to appreciate
 their own language and culture and also have exposure to other MTL and
@@ -60,45 +61,6 @@ traditional cultures. The programme seeks to promote the usage of MTL and
 cultural appreciation in an authentic setting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cultural_camp_1.jpg">
-</div>
-<p><strong>Other Festive Celebrations</strong>
-</p>
-<p><strong>Chinese New year Celebration</strong>
-</p>
-<p>At Dazhong Primary School, the Chinese New Year celebration is dazzled
-with colorful performances and engaging classroom activities. Songs and
-martial arts showcased the school's cultural diversity. Students also participated
-in classroom activities like making of traditional handicrafts. This helped
-to foster cultural understanding and create cherished memories of unity
-and inclusivity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY.jpg">
-</div>
-<p><strong>Hari Raya Celebration</strong>
-</p>
-<p>Hari Raya is celebrated annually to advocate the culture of acceptance,
-especially amongst the different racial groups. From engaging in hands-on
-activities like food tasting and trying on traditional Malay costumes during
-recess to enjoying a spectacular concert performance during assembly, our
-students were immersed in the joyous festivities. Further enriching their
-understanding of Malay culture, they explored craftwork during CCE periods,
-fostering a deeper appreciation for our diverse society. These experiences
-aim to promote cultural harmony and cross-cultural understanding among
-our students, reinforcing Dazhong Primary School's commitment to celebrating
-diversity and unity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya.jpg">
-</div>
-<p><strong>Deepavali Celebration</strong>
-</p>
-<p>The school celebrates Deepavali every year with vibrant performances and
-engaging handicraft activities. Students showcase their talents through
-traditional dances, music, and drama performances, bringing the festive
-spirit to life. This annual celebration not only fosters a sense of inclusivity
-and appreciation for diversity but also provides a platform for students
-to learn and embrace the customs and significance of Deepavali.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20231114_115215.jpg">
 </div>
 <p><strong>The MTL Reading Programme</strong>
 </p>
@@ -162,6 +124,9 @@ deepen their understanding of history and culture through the cultural
 experiences. With these joyful learning experiences and a firm foundation
 in Mother Tongue Language, every Dazhong student will be motivated to have
 a better understanding of their own Mother Tongue Language.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wukong.jpg">
+</div>
 <p><strong>Conversational Chinese and Malay (CCM)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -173,8 +138,46 @@ formal situations. At the end of the course, students would be able to
 hold simple conversations in various common situations with a native Chinese
 Language or Malay Language speaker. CCM also aims to bridge the divide
 between the languages and strengthen racial harmony.</p>
-<p><strong><u>Competitions</u></strong>
+<h4>Festive Celebrations</h4>
+<p><strong>Chinese New year Celebration</strong>
 </p>
+<p>At Dazhong Primary School, the Chinese New Year celebration is dazzled
+with colorful performances and engaging classroom activities. Songs and
+martial arts showcased the school's cultural diversity. Students also participated
+in classroom activities like making of traditional handicrafts. This helped
+to foster cultural understanding and create cherished memories of unity
+and inclusivity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY.jpg">
+</div>
+<p><strong>Hari Raya Celebration</strong>
+</p>
+<p>Hari Raya is celebrated annually to advocate the culture of acceptance,
+especially amongst the different racial groups. From engaging in hands-on
+activities like food tasting and trying on traditional Malay costumes during
+recess to enjoying a spectacular concert performance during assembly, our
+students were immersed in the joyous festivities. Further enriching their
+understanding of Malay culture, they explored craftwork during CCE periods,
+fostering a deeper appreciation for our diverse society. These experiences
+aim to promote cultural harmony and cross-cultural understanding among
+our students, reinforcing Dazhong Primary School's commitment to celebrating
+diversity and unity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya.jpg">
+</div>
+<p><strong>Deepavali Celebration</strong>
+</p>
+<p>The school celebrates Deepavali every year with vibrant performances and
+engaging handicraft activities. Students showcase their talents through
+traditional dances, music, and drama performances, bringing the festive
+spirit to life. This annual celebration not only fosters a sense of inclusivity
+and appreciation for diversity but also provides a platform for students
+to learn and embrace the customs and significance of Deepavali.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20231114_115215.jpg">
+</div>
+<p></p>
+<h4>Competitions</h4>
 <p>Each year, the MTL department offers various platforms for students to
 develop their potential, showcase their talents, and learn from enriching
 experiences. At Dazhong, we believe that every student is a high-potential
