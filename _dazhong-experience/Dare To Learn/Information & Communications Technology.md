@@ -130,6 +130,9 @@ in digital creation through self-directed pre-learning in IPW. They also
 learn to choose appropriate social media platforms for sharing information
 effectively.</p>
 <h4>Stretch Programmes</h4>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="523" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fposts%2Fpfbid02HX9R17RSbxpHyPF5u1fLsxKPi2TzvWWjABQLhWAvDH6tkAF2mgY8Jb2mK948CXowl&amp;show_text=true&amp;width=500"></iframe>
+</div>
 <p>At our school, we identify and select upper primary students who demonstrate
 a keen interest and ability in harnessing technology. These tech-adept
 students are provided with opportunities to attend competitions such as
