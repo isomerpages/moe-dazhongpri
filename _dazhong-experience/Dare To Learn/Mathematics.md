@@ -159,7 +159,7 @@ via our Professional Learning Time (PLT) and implemented in our lessons.</p>
 important are the cognitive and metacognitive process skills. The processes
 are learned through carefully constructed learning experiences enacted
 via our department programmes:</p>
-<h4>Milestone Programmes:</h4>
+<h4>Milestone Programmes</h4>
 <p><strong><em>National Day Celebrations with Mathematics Exploration Week (MEW)</em></strong>:&nbsp;As
 part of the school’s National Day celebrations, the Mathematics Department
 collaborated with the CCE Department to help Primary 1 to Primary 6 students:</p>
@@ -206,7 +206,7 @@ according to their strengths and needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits_and_ALS.png">
 </div>
-<h4>Stretch Programmes:</h4>
+<h4>Stretch Programmes</h4>
 <p><strong><em>E2K Mathematics Programme</em></strong>: Selected Primary
 4 and Primary 5 students participate in the E2K Mathematics Programme,
 which aims to develop students’ mathematical thinking skills and deepen
@@ -235,7 +235,7 @@ Mathematics Festival (RV STEM Fest)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
-<h4>Support Programmes:</h4>
+<h4>Support Programmes</h4>
 <p><strong><em>ICAN</em></strong>:&nbsp;The low-progress student segment
 is taught using the customised Improving Confidence And Numeracy (ICAN)
 approach, which employs 8 guiding principles formulated by MOE. There is
