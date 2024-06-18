@@ -23,7 +23,7 @@ activities and achievements!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
-<p><a href="https://www.facebook.com/dzpsofficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/dzpsofficial</a> 
+<p><a href="https://www.facebook.com/dzpsofficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/dzpsofficial</a>
 </p>
 <p><a href="https://www.instagram.com/dazhong_primary_school/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/dazhong_primary_school/</a>
 </p>
