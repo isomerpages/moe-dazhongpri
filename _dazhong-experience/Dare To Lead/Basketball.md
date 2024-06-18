@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/Sports/basketball/
 description: ""
 third_nav_title: Dare To Lead
+variant: markdown
 ---
 ### Basketball
 
@@ -16,13 +17,9 @@ In Dazhong Basketball, students work in teams to practice their attack and defen
 
 To build and develop character, we also highlight teachable moments with students to further exemplify the school values of **IREAP (Integrity, Responsibility, Excellence, Acceptance and Perseverance)**.
 
-**CCA Schedule**<br>
-Every Tuesday, 0740 hrs to 0940 hrs at the Indoor Basketball Court (IBC)
+Follow us on Facebook and Instagram to get the latest updates on our CCA activities and achievements!
 
-![](/images/Basketball%2001.png)
+![](/images/Picture6.jpg)
 
+<table style="minWidth: 50px"><colgroup><col><col></colgroup><tbody><tr><th rowspan="1" colspan="1"><p>Facebook</p></th><th rowspan="1" colspan="1"><p>Instagram</p></th></tr><tr><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/dzpsofficial/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_FB_Page.png"></a></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/dazhong_primary_school/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_IG_Page.png"></a></td></tr></tbody></table>
 
-**Teachers-in-Charge:**<br>
-Mr. Tan Sei Hiong (Advisor)<br>
-Ms. Tan Grace (IC)<br>
-Ms. Angie Lim (2IC)<br>
