@@ -8,21 +8,15 @@ variant: tiptap
 <h3>SOAR Programme</h3>
 <p>The SOAR Programme is set up to design a differentiated curriculum to
 stretch the learning of P4 and P5 HA students, that is aligned to the Dazhong
-Experience and the Desired Outcomes of HAL Provisions by GEB. With the
-school leaders charting strategic directions to steer the school to the
-next level of academic excellence, nurturing pupils’ critical and creative
-thinking skills in language learning, problem solving and scientific exploration,
-the Curriculum Leadership Team with the guidance and support of the school
-leaders is proposing our school-based programme to nurture HA students
-through enriching them with wider and deeper learning experiences.</p>
-<p>It shall provide opportunities of giving broader and more in-depth DZE
+Experience and the Desired Outcomes of HAL Provisions by GEB.</p>
+<p>It aims to provide opportunities of giving broader and more in-depth DZE
 learning experiences to these students. Through exposure to this differentiated
 curriculum, students’ critical, creative thinking skills which are essential
 to overcome 21st century challenges would be developed and honed. Embracing
 the spirit of innovative teaching and learning, teachers constantly revise,
 fine-tune and customise the curriculum to stretch the potential of our
 young learners.</p>
-<p>SOAR Programme students are to be engaged to:</p>
+<p>SOAR Programme students are engaged to:</p>
 <p>• Learn beyond the syllabus</p>
 <p>• Work with others to find innovative ways to improve the community (POS2.0
 SL2)</p>
@@ -32,7 +26,7 @@ Spokes)</p>
 Spokes)</p>
 <p>• Be involved in Authentic Learning (8 Spokes)</p>
 <h4>Structure of SOAR Programme</h4>
-<p>SOAR2.0 shall be differentiated and extended from the school’s core mainstream
+<p>The programme is differentiated and extended from the school’s core mainstream
 syllabus in terms of Content, Process, Product and Learning Environment
 (Maker, 1982), and based on students’ readiness, interests and passions
 and their preferred approaches to learning (Tomlinson, 2001).</p>
@@ -79,8 +73,7 @@ after curriculum time</p>
 <p>Reading Circles</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>Within curriculum time</strong>
-</p>
+<p>Within curriculum time</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +92,7 @@ after curriculum time</p>
 <p>E2K Science</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>As per current approach (after curriculum time)</p>
+<p>After curriculum time</p>
 </td>
 </tr>
 <tr>
