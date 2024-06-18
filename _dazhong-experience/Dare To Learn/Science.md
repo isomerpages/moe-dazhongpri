@@ -93,10 +93,7 @@ Thermal Camera booth.</p>
 <p>Students use scientific concepts they have learnt to create models and
 toys to demonstrate.</p>
 </li>
-</ul>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="786" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fposts%2Fpfbid0JoxNFvg88Y5VVHuZMkBDwyRaL7tfefkM8FCVDmxev8nPqVWjt4seTdRkJ9HPasM5l&amp;show_text=true&amp;width=500"></iframe>
-</div>
+</ul><a class="isomer-image-wrapper" href="https://www.facebook.com/dzpsofficial/posts/879550367310038"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earth_day.png"></a>
 </li>
 </ul>
 <h4>Stretch Programmes</h4>

@@ -1,5 +1,5 @@
 ---
-title: SOAR
+title: SOAR Programme
 permalink: /dazhong-experience/dare-to-learn/soar/
 description: ""
 third_nav_title: Dare To Learn
