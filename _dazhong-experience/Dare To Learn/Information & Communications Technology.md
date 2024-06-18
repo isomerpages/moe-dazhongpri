@@ -45,7 +45,7 @@ future-ready learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="student using AI" src="/images/WhatsApp_Image_2024_05_21_at_15_36_12.jpg">
 </div>
-<p>In Dazhong, we aim to <strong>harness the power of Artificial Intelligence</strong> on
+<p>We aim to <strong>harness the power of Artificial Intelligence</strong> on
 SLS and other online platforms to enable a <strong>personalised learning experience</strong>.
 AI will provide customised feedback based on student responses. Our aim
 is to develop students to be <strong>self-directed and use the AI feedback to enhance and monitor their learning</strong>,
@@ -130,14 +130,14 @@ in digital creation through self-directed pre-learning in IPW. They also
 learn to choose appropriate social media platforms for sharing information
 effectively.</p>
 <h4>Stretch Programmes</h4>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="523" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fposts%2Fpfbid02HX9R17RSbxpHyPF5u1fLsxKPi2TzvWWjABQLhWAvDH6tkAF2mgY8Jb2mK948CXowl&amp;show_text=true&amp;width=500"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT.png">
 </div>
-<p>At our school, we identify and select upper primary students who demonstrate
-a keen interest and ability in harnessing technology. These tech-adept
-students are provided with opportunities to attend competitions such as
-the <strong>National Thinking Challenge,</strong> organised in Singapore
-to foster <strong>critical thinking</strong> and<strong> problem-solving skills using technology</strong>.
+<p>Upper primary students who demonstrate a keen interest and ability in
+harnessing technology. These tech-adept students are provided with opportunities
+to attend competitions such as the <strong>National Thinking Challenge,</strong> organised
+in Singapore to foster <strong>critical thinking</strong> and<strong> problem-solving skills using technology</strong>.
 Additionally, our students participate in the <strong>Swift Explorers programme</strong>,
 headed by the <strong>School of Science and Technology (SST)</strong>, which
 introduces young learners to the world of coding and <strong>app development using Swift,</strong> a
@@ -150,20 +150,6 @@ and inspire them to become future tech leaders.</p>
 <h4>Cyber Wellness</h4>
 <p><strong>Good Digital Habits</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fdzpsofficial%2Fvideos%2F7422674647821152%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>In today's digital age, online content is ubiquitous, and there is an
 increased risk and exposure to harmful material. It is more important than
 ever that our students have a strong foundation in cyber wellness. At Dazhong,
