@@ -27,6 +27,48 @@ competencies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_20_170213.png">
 </div>
 <h4>Programme, Project,&nbsp; Activity and Workshop</h4>
+<p><strong>Duck Prints</strong>
+</p>
+<p>Duck Prints is a schoolwide initiative in rewarding students who practice
+self-leadership and demonstrate a positive mindset to learn, Achieve and
+Soar.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>National Education – “NE Current Buzz”</strong>
 </p>
 <p>Pupils learn to generate ideas, share opinions and learn from one another
