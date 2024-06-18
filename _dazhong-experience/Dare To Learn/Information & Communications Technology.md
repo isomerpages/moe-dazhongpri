@@ -129,11 +129,7 @@ Creative Commons, and plagiarism, applying ethical and legal understanding
 in digital creation through self-directed pre-learning in IPW. They also
 learn to choose appropriate social media platforms for sharing information
 effectively.</p>
-<h4>Stretch Programmes</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT.png">
-</div>
+<h4>Stretch Programmes</h4><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/gbYb9iud8XLfsi7R/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT.png"></a>
 <p>Upper primary students who demonstrate a keen interest and ability in
 harnessing technology. These tech-adept students are provided with opportunities
 to attend competitions such as the <strong>National Thinking Challenge,</strong> organised
