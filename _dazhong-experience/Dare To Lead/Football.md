@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/Sports/football/
 description: ""
 third_nav_title: Dare To Lead
+variant: markdown
 ---
 ### Football
 
@@ -20,14 +21,12 @@ Students understand that if they perform well consistently, they may have the ch
 
 Teachable moments are seized to emphasize on the importance of respect and appreciation of diversity.
 
-<img src="/images/sports3.png" style="width:60%">
-		 
-A hearty congratulations to our CCA Football Senior Boys for emerging as West Zone Champions in the National School Games West Zone Football Championship. Throughout the tournament, our boys demonstrated tenacity, grit, perseverance and excellence. This is the first time we achieved such outstanding results since coming to our new site in Bukit Batok. Lim Xuan Hui was stellar throughout the tournament. He was awarded Man of the Match and Top Goal Scorer for the tournament. Congratulations to the Senior Boys and Lim Xuan Hui once again.
-
-<img src="/images/sports4.png" style="width:60%">
-
-<img src="/images/sports5.png" style="width:60%">
-
 The students are able to encourage each other when the going gets tough in a game, and it is evident in their ‘never-say-die’ attitude.&nbsp; The students feel proud to be able to represent their school in the Zonal and National tournaments each year.
 
 <img src="/images/sports6.png" style="width:60%">
+
+Follow us on Facebook and Instagram to get the latest updates on our CCA activities and achievements!
+
+![](/images/Picture6.jpg)
+
+<table style="minWidth: 50px"><colgroup><col><col></colgroup><tbody><tr><th rowspan="1" colspan="1"><p>Facebook</p></th><th rowspan="1" colspan="1"><p>Instagram</p></th></tr><tr><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/dzpsofficial/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_FB_Page.png"></a></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/dazhong_primary_school/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ_IG_Page.png"></a></td></tr></tbody></table>
