@@ -12,6 +12,7 @@ variant: markdown
 Immersion Trips develop the citizenship components under the domain of Civic Literacy, Global Awareness &amp; Cross Cultural Skills (CGC) within the 21st&nbsp;Century Competencies framework
 
 ![](/images/Picture3.png)
+https://www.facebook.com/reel/704690818497810
 
 *   **Civic Literacy:**&nbsp;Students will learn how to actively participate and initiate conversation during the cultural exchange.&nbsp;
 *   **Global Awareness:**&nbsp;Students will learn about the global and cultural perspectives that impact the environmental, social, cultural, political, and economic relations.&nbsp;
