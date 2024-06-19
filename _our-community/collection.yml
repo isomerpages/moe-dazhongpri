@@ -2,12 +2,12 @@ collections:
   our-community:
     output: true
     order:
-      - Parents/Digital Access & Home Based Learning.md
       - Parents/.keep
       - Parents/School Letters & Announcement.md
       - Parents/Financial Matters.md
       - Parents/Parent Support Group.md
       - Parents/Dads for Life.md
+      - Parents/Digital Access & Home Based Learning.md
       - Parents/Useful Information.md
       - Parents/Home Based Learning.md
       - Alumni/.keep
