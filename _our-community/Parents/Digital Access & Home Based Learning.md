@@ -3,12 +3,12 @@ title: Digital Access & Home Based Learning
 permalink: /home-based-learning/
 description: ""
 variant: tiptap
-third_nav_title: Dare To Learn
+third_nav_title: Parents
 ---
 <h3>Digital Access at Home</h3>
 <p>For those <strong>without</strong> devices or Wi-Fi connection at home,
-we recommend <strong>applying for DigitalAccess@home</strong>	(<a href="https://go.gov.sg/digitalaccessinfo" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/digitalaccessinfo</a>)
-to explore subsidised equipment procurement.<strong> Parents may apply using their SingPass credentials.</strong> 
+we recommend <strong>applying for DigitalAccess@home</strong> (<a href="https://go.gov.sg/digitalaccessinfo" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/digitalaccessinfo</a>)
+to explore subsidised equipment procurement.<strong> Parents may apply using their SingPass credentials.</strong>
 </p>
 <p>At Dazhong, we have <strong>devices</strong> stationed <strong>at the library</strong>.
 Students may use the devices in the library for learning during their break
@@ -17,8 +17,6 @@ after school hours. <strong>Students must present a letter from their parent or 
 also note that this would be on a first-come-first served basis, because
 we have limited devices in the library.</p>
 <h3>Home-Based Learning&nbsp;</h3>
-<p><strong>Home-Based Learning Letter</strong>
-</p>
 <p>&nbsp;&nbsp;<a href="https://go.gov.sg/dazhongprisch" rel="noopener noreferrer nofollow" target="_blank">Dazhong HBL Google Site</a>
 </p>
 <div class="isomer-image-wrapper">
