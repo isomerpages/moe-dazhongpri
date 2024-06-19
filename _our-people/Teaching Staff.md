@@ -748,9 +748,10 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Sheau Yun (FAJT)</p>
-<p><a href="mailto:wong_sheau_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sheau_yun@moe.edu.sg</a>
+<p>Ms Wong Sheau Yun (FAJT)
+<br><em><a href="mailto:wong_sheau_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sheau_yun@moe.edu.sg</a></em>
 </p>
+<p></p>
 <p></p>
 </td>
 </tr>
