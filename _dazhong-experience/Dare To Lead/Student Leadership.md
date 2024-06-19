@@ -73,7 +73,7 @@ on the belief ‘Every Dazhong Student is a Student Leader.’</p>
 </li>
 <li>
 <p>Appreciating You @ Dazhong</p>
-<p></p><a class="isomer-image-wrapper" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Freel%2FC45dZZgBn27%2F&amp;h=AT1VRYPGRDh6LH66v3UIXkT0OvyGqWD9MVqNRqXmVLHKzYXOS2cE6fil1iwNAiRYm5J3cCRTrhaBFBXpHUY7saB4Wb5r39my4d1BRT6DtaBxC6RPdyUb62HLV91b8dfAQ6tMeOqykWvLLF-gKg&amp;s=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_leaders.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Freel%2FC45dZZgBn27%2F&amp;h=AT1VRYPGRDh6LH66v3UIXkT0OvyGqWD9MVqNRqXmVLHKzYXOS2cE6fil1iwNAiRYm5J3cCRTrhaBFBXpHUY7saB4Wb5r39my4d1BRT6DtaBxC6RPdyUb62HLV91b8dfAQ6tMeOqykWvLLF-gKg&amp;s=1"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student_leaders.png"></a>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
