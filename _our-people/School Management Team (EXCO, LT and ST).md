@@ -119,7 +119,20 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department PE &amp; Year Head (Primary 5)</p>
+<p>Head of Department (Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Yunus Sunanwi</p>
+<p><a href="mailto:Muhammad_Yunus_sunanwi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_yunus_sunanwi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Physical Education, Art and Music Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shannen Lim Puay Ching
@@ -129,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language)</p>
@@ -142,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mother Tongue Languages)</p>
@@ -155,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
@@ -168,7 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
@@ -181,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Character and Citizenship Education)</p>
@@ -194,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Information and Communications Technology)</p>
@@ -207,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -220,7 +233,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Student Well-being)</p>
@@ -233,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Physical Education and Co-curricular Activities)</p>
@@ -246,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head (English Language)</p>
@@ -259,7 +272,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head (Science)</p>
@@ -272,7 +285,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Physical Education)</p>
@@ -285,7 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Music)</p>
@@ -298,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Chinese Language)</p>
@@ -311,7 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Science)</p>
@@ -324,7 +337,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Art)</p>
@@ -337,7 +350,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Character and Citizenship Education)</p>
@@ -350,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Chinese Language)</p>
@@ -363,7 +376,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Special Educational Needs)</p>
