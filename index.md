@@ -13,6 +13,16 @@ sections:
   - hero:
       background: /images/Final_Banner_v4.jpg
       url: https://www.instagram.com/dazhong_primary_school/
+  - announcements:
+      title: Announcement
+      id: announcements
+      announcement_items:
+        - title: 🎉 DZPS Open House 2024🎉
+          date: 20 June 2024
+          announcement: 📢Calling All Interested Parents Registering Your Child For P1
+            Next Year!📢
+          link_text: Click here for more information!
+          link_url: https://www.facebook.com/share/p/udSFqRQ6L5hZBENM/
   - textcards:
       title: Our Dazhong Experience
       id: textcards
@@ -29,25 +39,18 @@ sections:
           description: Character & Citizenship Education
           linktext: Learn more
           url: https://www.dazhongpri.moe.edu.sg/character-excellence/character-education/
-  - announcements:
-      title: Announcement
-      id: announcements
-      announcement_items:
-        - title: 🎉 DZPS Open House 2024🎉
-          date: 20 June 2024
-          announcement: 📢Calling All Interested Parents Registering Your Child For P1
-            Next Year!📢
-          link_text: Click here for more information!
-          link_url: https://www.facebook.com/share/p/udSFqRQ6L5hZBENM/
-  - infobar:
-      title: Facebook
-      subtitle: Connect with Us!
-      id: infobar
-      button: Follow us on Facebook!
-      url: https://www.facebook.com/dzpsofficial
-  - infobar:
-      title: Instagram
-      id: infobar
-      button: Follow us on Instagram!
-      url: https://www.instagram.com/dazhong_primary_school/
+  - textcards:
+      title: Connect with us
+      id: textcards
+      description: Stay updated with our latest activities and news by following us on
+        social media!
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: Click here
+          url: https://www.facebook.com/dzpsofficial
+        - title: Instagram
+          description: ""
+          linktext: Click here
+          url: https://www.instagram.com/dazhong_primary_school/
 ---
