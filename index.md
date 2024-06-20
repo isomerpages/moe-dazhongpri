@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dazhong-banner-jul23-use this.gif
+      background: /images/Final_Banner_v4.jpg
       url: https://www.instagram.com/dazhong_primary_school/
   - textcards:
       title: Our Dazhong Experience
@@ -22,13 +22,23 @@ sections:
           linktext: Learn more
           url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-learn/psleinfo/
         - title: Dare to Lead
-          description: CCA & Student Development
+          description: Student Development & CCA
           linktext: Learn more
           url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-lead/dsasec/
         - title: Dare to Care
           description: Character & Citizenship Education
           linktext: Learn more
           url: https://www.dazhongpri.moe.edu.sg/character-excellence/character-education/
+  - announcements:
+      title: Announcement
+      id: announcements
+      announcement_items:
+        - title: 🎉 DZPS Open House 2024🎉
+          date: 20 June 2024
+          announcement: 📢Calling All Interested Parents Registering Your Child For P1
+            Next Year!📢
+          link_text: Click here for more information!
+          link_url: https://www.facebook.com/share/p/udSFqRQ6L5hZBENM/
   - infobar:
       title: Facebook
       subtitle: Connect with Us!
