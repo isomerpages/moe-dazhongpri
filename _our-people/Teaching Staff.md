@@ -124,8 +124,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Hidayah Abdul Rahman</p>
-<p><a href="mailto:nor_hidayah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hidayah_abdul_rahman@moe.edu.sg</a>
+<p>Mdm Nor Hidayah Abdul Rahman <a href="mailto:nor_hidayah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hidayah_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -688,8 +687,8 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Li-Ping (FAJT)
-<br><em><a href="mailto:goh_li-ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li-ping@moe.edu.sg</a></em>
+<p>Ms Wong Sheau Yun (FAJT)
+<br><em><a href="mailto:wong_sheau_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sheau_yun@moe.edu.sg</a></em>
 </p>
 </td>
 </tr>
@@ -741,18 +740,6 @@ variant: tiptap
 <p>Mdm Lina Suharjo (RT)
 <br><em><a href="mailto:lina_suharjo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lina_suharjo@moe.edu.sg</a></em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Sheau Yun (FAJT)
-<br><em><a href="mailto:wong_sheau_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sheau_yun@moe.edu.sg</a></em>
-</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
