@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dazhong-banner-jul23-use this.gif
+      background: /images/Final_Banner_v4.jpg
       url: https://www.instagram.com/dazhong_primary_school/
   - textcards:
       title: Our Dazhong Experience
