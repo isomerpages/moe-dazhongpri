@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Final_Banner_v4.jpg
+      background: /images/FINAL_BANNER_.jpg
       url: https://www.instagram.com/dazhong_primary_school/
   - announcements:
       title: Announcement
