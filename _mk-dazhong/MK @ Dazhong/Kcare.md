@@ -1,5 +1,5 @@
 ---
-title: KCare@DZ
+title: Kcare
 permalink: /mk-at-dazhong/kcare-dz/
 description: ""
 third_nav_title: MK @ Dazhong

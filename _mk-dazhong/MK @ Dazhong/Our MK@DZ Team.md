@@ -1,5 +1,5 @@
 ---
-title: MK@DZTeam
+title: Our MK@DZ Team
 permalink: /about-dazhong/moe-kindergarten-staff/
 description: ""
 third_nav_title: MK @ Dazhong
