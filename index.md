@@ -16,13 +16,6 @@ sections:
   - announcements:
       title: Announcement
       id: announcements
-      announcement_items:
-        - title: 🎉 DZPS Open House 2024🎉
-          date: 20 June 2024
-          announcement: 📢Calling All Interested Parents Registering Your Child For P1
-            Next Year!📢
-          link_text: Click here for more information!
-          link_url: https://www.facebook.com/share/p/udSFqRQ6L5hZBENM/
   - textcards:
       title: Our Dazhong Experience
       id: textcards
