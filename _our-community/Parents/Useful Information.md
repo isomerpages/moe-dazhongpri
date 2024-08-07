@@ -12,4 +12,5 @@ variant: tiptap
 <br>4. <a href="/files/Application%20Form%20for%20MOE-SPED%20FAS.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for MOE-SPED FAS.pdf</a> 
 <br>5. <a href="/files/Information%20sheet%20for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Information sheet for parents_School Transfer Service for Change of Residential Address.pdf</a> 
 <br>6. <a href="/files/2040_001.pdf" rel="noopener noreferrer nofollow" target="_blank">Leave of Absent Form.pdf</a>
+<br>7. <a href="/files/Dazhong_Pri_School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Form</a>
 </p>
