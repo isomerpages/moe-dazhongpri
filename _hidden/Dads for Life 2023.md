@@ -1,8 +1,8 @@
 ---
-title: Dads for Life
-permalink: /our-community/parents/dads-for-life/
+title: Dads for Life 2023
+permalink: /our-community/parents/dads-for-life-2023/
 description: ""
-third_nav_title: Parents
+variant: tiptap
 ---
 ### Dads For Life 2023
 
