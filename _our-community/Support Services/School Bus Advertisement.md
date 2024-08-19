@@ -19,6 +19,10 @@ Procedure below.</p>
 <p><a href="/files/T_C_for_School_Bus_Operator_to_Provide.pdf" rel="noopener noreferrer nofollow" target="_blank">T&amp;C for School Bus Operator to Provide</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Request_for_School_Bus_Service_and_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service and T&amp;C</a>
+</p>
+</li>
 </ol>
 <p><strong>Application Procedure</strong>
 </p>
@@ -54,7 +58,8 @@ Procedure below.</p>
 <p>Bukit Gombak MRT Station (NS3) - 10 minutes walking distance</p>
 </li>
 <li>
-<p>Bus Number</p>
+<p>Bus Number: Block 306 (Bus No: 187, 188, 188E, 868E, 947, 985); Opp Block
+305 (Bus No: 187, 188, 947, 985)</p>
 </li>
 </ul>
 <p></p>
