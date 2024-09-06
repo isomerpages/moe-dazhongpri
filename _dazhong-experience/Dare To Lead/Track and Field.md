@@ -1,17 +1,18 @@
 ---
-title: Athletics
-permalink: /cca/Sports/athletics/
+title: Track and Field
+permalink: /cca/sports/trackandfield/
 description: ""
 third_nav_title: Dare To Lead
 variant: tiptap
 ---
-<h3>Athletics</h3>
+<h3>Track and Field</h3>
 <p><strong>CCA Overview</strong>
 </p>
-<p>The Athletics CCA focuses on various variety of Track and field events,
-ranging from the 100m, to the long jump and Shot Put. We believe that each
-Tracker is unique in terms of their potential and aspiration. Thus, a myriad
-of opportunities will be provided for individuals to find their own footing.</p>
+<p>The Track and Field CCA focuses on various variety of Track and field
+events, ranging from the 100m, to the long jump and Shot Put. We believe
+that each Tracker is unique in terms of their potential and aspiration.
+Thus, a myriad of opportunities will be provided for individuals to find
+their own footing.</p>
 <p>The aim of our CCA does not stop at winning medals, but to inculcate and
 impart values that allows them to grow as a Serving leader and Concerned
 citizen. Adding on, the trainings are designed to build student’s mental
