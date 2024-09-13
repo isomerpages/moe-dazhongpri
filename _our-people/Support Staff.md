@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>Support Staff</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,6 +41,19 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Siao Wen
+<br><a href="ng_siao_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_siao_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -59,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (SC)</p>
@@ -72,7 +90,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counselor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pow Yih Ling
+<br><a href="pow_yih_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">pow_yih_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer (SENO)</p>
@@ -85,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer (SENO)</p>
@@ -98,7 +129,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer (SENO)</p>
@@ -111,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Allied educator (T&amp;L)</p>
@@ -124,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -137,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -150,20 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Support Staff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nanthakumari
-<br><em><a href="mailto:nanthakumari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanthakumari@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -176,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -189,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
@@ -202,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -213,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -224,7 +242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -235,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -246,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -257,13 +275,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pereira Stanlas</p>
+<p>Mr Siew Swee Teng</p>
 </td>
 </tr>
 </tbody>
