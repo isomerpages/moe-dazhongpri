@@ -8,6 +8,7 @@ variant: tiptap
 <h3>School Bus Service Provider</h3>
 <p><strong>DKJ TRANSPORT SERVICE</strong>
 </p>
+<p>Contract period: 1 Jan 2025&nbsp; to 31 Dec 2026</p>
 <p>Please contact Operation Manager, Mr Leo Baiming on School Bus transport
 matters.</p>
 <p>If you are unable to contact Mr Leo via call, please send him a message
