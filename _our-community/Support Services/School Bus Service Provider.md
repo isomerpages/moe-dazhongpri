@@ -6,20 +6,92 @@ third_nav_title: Support Services
 variant: tiptap
 ---
 <h3>School Bus Service Provider</h3>
-<p>School Bus Operator for 2024</p>
-<p>The school has appointed <strong>Chang Chen Pte Ltd</strong> for the period
-of 2 years from <strong>January 2022 to December 2024</strong> to provide
-the following services:</p>
-<ul>
+<p><strong>DKJ TRANSPORT SERVICE</strong>
+</p>
+<p>Please contact Operation Manager, Mr Leo Baiming on School Bus transport
+matters.</p>
+<p>If you are unable to contact Mr Leo via call, please send him a message
+via SMS.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Daily School Bus Services (i.e. for sending pupils from home to school
-and vice versa)</p>
+<p><strong>Mobile Number:</strong> 97723370</p>
 </li>
 <li>
-<p>Bus Services for after school activities (i.e. sending P3-P6 students
-home from school for late dismissals on Tuesdays at 3:10 PM).</p>
+<p><strong>Email:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">leodkj@yahoo.com.sg</a>
+</p>
 </li>
 </ul>
-<p>Parents who are interested in taking up the school bus services in 2023,
-please complete the FormSG via <a href="/files/Dazhong_Pri_School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Form</a>.
-The bus operator will liaise with you directly upon receipt of your request.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Up to 15-seater</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>&gt;15-seater</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$105</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$105</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$125</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
