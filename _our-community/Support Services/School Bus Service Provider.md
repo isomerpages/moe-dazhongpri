@@ -9,19 +9,21 @@ variant: tiptap
 <p><strong>DKJ TRANSPORT SERVICE</strong>
 </p>
 <p>Contract period: 1 Jan 2025&nbsp; to 31 Dec 2026</p>
-<p>Please contact Operation Manager, Mr Leo Baiming on School Bus transport
-matters.</p>
-<p>If you are unable to contact Mr Leo via call, please send him a message
-via SMS.</p>
+<p>Please contact Operation Manager,<strong> Mr Liew</strong> on School Bus
+transport matters.</p>
+<p>If you are unable to contact <strong>Mr Liew</strong> via call, please send
+him a message via SMS.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mobile Number:</strong> 97723370</p>
+<p><strong>Mobile Number:</strong> +65 83816324</p>
 </li>
 <li>
-<p><strong>Email:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">leodkj@yahoo.com.sg</a>
+<p><strong>Email:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">dazhong2025@gmail.com</a>
 </p>
 </li>
 </ul>
+<p><strong>Registration link</strong>: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZCusEpWmjmoDZ5IpyOZlf0-VHStBrIyRAPFhEP4gIIPcSQQ/viewform?usp=pp_url" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
