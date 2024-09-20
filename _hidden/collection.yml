@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - School Bus Advertisement.md
       - Dads for Life 2023.md
       - 2024 Open House.md
       - Affirmation Day Term 3.md
