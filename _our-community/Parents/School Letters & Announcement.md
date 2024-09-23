@@ -6,14 +6,18 @@ third_nav_title: Parents
 variant: tiptap
 ---
 <h3>School Information &amp; Announcement</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Column 1</p>
+<p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Column 2</p>
+<p>File</p>
 </th>
 </tr>
 <tr>
@@ -27,37 +31,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08 Apr 2024</p>
+<p>23 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Updates_on_Academic_Progress__P6__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P6 Term 2</a>
+<p><a href="/files/Updates_on_Academic_Progress__P5__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P5 Term 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08 Apr 2024</p>
+<p>23 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Updates_on_Academic_Progress__P5__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P5 Term 2</a>
+<p><a href="/files/Updates_on_Academic_Progress__P4__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P4 Term 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08 Apr 2024</p>
+<p>23 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Updates_on_Academic_Progress__P4__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P4 Term 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>08 Apr 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Updates_on_Academic_Progress__P3__Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">Updates on Academic Progress P3 Term 2</a>
+<p><a href="/files/Updates_on_Academic_Progress__P3__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P3 Term 4</a>
 </p>
 </td>
 </tr>
