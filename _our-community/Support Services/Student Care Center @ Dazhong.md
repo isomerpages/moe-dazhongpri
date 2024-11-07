@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Support Services
 variant: markdown
 ---
-#### COMMIT LEARNING School House
+#### COMMIT LEARNING SCHOOL HOUSE
 
 **Dear Parents/Legal Guardians,**
 
@@ -36,4 +36,3 @@ Management
 Commit Learning SchoolHouse
 ```
 We are committed to bringing out the best in every student
-
