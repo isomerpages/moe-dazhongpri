@@ -36,3 +36,7 @@ Management
 Commit Learning SchoolHouse
 ```
 We are committed to bringing out the best in every student
+
+**Below is the link for registration for new P1 students**
+
+[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For New P1 Students)](https://form.jotform.com/242728921724461)
