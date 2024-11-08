@@ -30,13 +30,13 @@ Our SCC coaches motivate and nurture every student to achieve their best and to 
 Please refer to the FAQs attached for more information about the CLS SCC.
 
 [CLS SCC](/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Dazhong_Primary_School.pdf)[](/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Dazhong_Primary_School.pdf)
+
+**Below is the link for registration for new P1 students**
+
+[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For New P1 Students)](https://form.jotform.com/242728921724461)
 ```
 Yours sincerely,
 Management
 Commit Learning SchoolHouse
 ```
 We are committed to bringing out the best in every student
-
-**Below is the link for registration for new P1 students**
-
-[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For New P1 Students)](https://form.jotform.com/242728921724461)
