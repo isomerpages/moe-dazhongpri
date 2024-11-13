@@ -56,6 +56,60 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P1_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P1 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P2_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P2 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P3_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P3 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P4_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P4 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P5_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P5 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist_P6_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P6 2025</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><em>Parent Engagement Session (PES) 2024 - Resources</em></h4>
