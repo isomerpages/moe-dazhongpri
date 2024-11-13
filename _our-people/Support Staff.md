@@ -174,8 +174,8 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Theanmoli D/O S Kandaiah</p>
-<p><em><a href="k_theanmoli@moe.edu.sg" rel="noopener nofollow" target="_blank">k_theanmoli@moe.edu.sg</a></em>
+<p>Mdm Theanmoli D/O S Kandaiah
+<br><em><a href="k_theanmoli@moe.edu.sg" rel="noopener nofollow" target="_blank">k_theanmoli@moe.edu.sg</a></em>
 </p>
 </td>
 </tr>
