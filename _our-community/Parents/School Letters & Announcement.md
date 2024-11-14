@@ -31,33 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Updates_on_Academic_Progress__P5__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P5 Term 4</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Updates_on_Academic_Progress__P4__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P4 Term 4</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Updates_on_Academic_Progress__P3__2024_Term4.pdf" rel="noopener nofollow" target="_blank">Updates on Academic Progress P3 Term 4</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>13 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,6 +80,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_P6_2025.pdf" rel="noopener nofollow" target="_blank">Booklist P6 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Parent_Handbook_2025__7_Nov__v2.pdf" rel="noopener nofollow" target="_blank">P1 Parent Handbook 2025</a>
 </p>
 </td>
 </tr>
