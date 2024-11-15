@@ -88,7 +88,7 @@ variant: tiptap
 <p>14 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P1_Parent_Handbook_2025__7_Nov__v2.pdf" rel="noopener nofollow" target="_blank">P1 Parent Handbook 2025</a>
+<p><a href="/files/P1_Parent_Handbook_2025_.pdf" rel="noopener nofollow" target="_blank">P1 Parent Handbook 2025</a>
 </p>
 </td>
 </tr>
