@@ -2,6 +2,7 @@ collections:
   dazhong-experience:
     output: true
     order:
+      - P1 Orientation 2025.md
       - Overview.md
       - Dare To Learn/.keep
       - Dare To Learn/PSLE Information.md
