@@ -2,7 +2,6 @@ collections:
   dazhong-experience:
     output: true
     order:
-      - P1 Orientation 2025.md
       - Overview.md
       - Dare To Learn/.keep
       - Dare To Learn/PSLE Information.md
@@ -17,9 +16,9 @@ collections:
       - Dare To Learn/Learning for Life Programme.md
       - Dare To Learn/SOAR Programme.md
       - Dare To Learn/CDAC Tuition.md
+      - Dare To Lead/.keep
       - Dare To Lead/DSA Sec.md
       - Dare To Lead/Student Management.md
-      - Dare To Lead/.keep
       - Dare To Lead/Student Well Being.md
       - Dare To Lead/Student Leadership.md
       - Dare To Lead/Track and Field.md
@@ -42,3 +41,4 @@ collections:
       - 85th Anniversary Celebrations/Tree Planting Day.md
       - 85th Anniversary Celebrations/Community Day and Eco Carnival.md
       - 85th Anniversary Celebrations/Dare to Shine Arts Fest.md
+      - P1 Orientation 2025.md
