@@ -16,16 +16,6 @@ sections:
   - announcements:
       title: Announcement
       id: announcements
-  - infopic:
-      title: MoneySense for Your Child
-      id: infopic
-      description: "Join Institute for Financial Literacy (IFL) in the
-        “Ask-Me-Anything” Facebook Live session.  Note: This workshop is for
-        parents only."
-      button: Click here
-      url: https://go.gov.sg/moneysense-for-your-child
-      image: /images/AMA_MSFYC_EDM.png
-      alt: Image alt text
   - textcards:
       title: Our Dazhong Experience
       id: textcards
