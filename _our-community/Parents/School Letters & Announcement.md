@@ -92,6 +92,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_DZ_School_Tour_2025_compressed.pdf" rel="noopener nofollow" target="_blank">P1 Dazhong School Tour</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/After_school_Checklist__2_.pdf" rel="noopener nofollow" target="_blank">After School Checklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Orientation_Activity_Booklet__15_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Activity Booklet</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><em>Parent Engagement Session (PES) 2024 - Resources</em></h4>
