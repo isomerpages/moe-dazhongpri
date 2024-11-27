@@ -42,3 +42,5 @@ Management
 Commit Learning SchoolHouse
 ```
 We are committed to bringing out the best in every student
+
+For more information please email us (admission_cls_dzps@commitlearning.com.sg)
