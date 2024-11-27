@@ -34,6 +34,8 @@ Please refer to the FAQs attached for more information about the CLS SCC.
 **Below is the link for registration for new P1 students**
 
 [Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For New P1 Students)](https://form.jotform.com/242728921724461)
+
+[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For Existing SCC Student)](https://form.jotform.com/242731822463455)
 ```
 Yours sincerely,
 Management
