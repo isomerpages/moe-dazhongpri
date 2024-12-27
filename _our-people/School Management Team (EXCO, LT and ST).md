@@ -70,7 +70,7 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hui Ya
+<p>Ms Tan Hui Yah
 <br><em><a href="mailto:dazhong_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dazhong_ps@moe.edu.sg</a></em>
 </p>
 </td>
