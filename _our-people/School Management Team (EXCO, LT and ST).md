@@ -70,7 +70,7 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh See Choon
+<p>Ms Tan Hui Ya
 <br><em><a href="mailto:dazhong_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dazhong_ps@moe.edu.sg</a></em>
 </p>
 </td>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Primary 1)</p>
+<p>Assistant Year Head (Lower Block)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Noraidah Bte Mohd Salleh
@@ -106,7 +106,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Primary 3 &amp; 4)</p>
+<p>Assistant Year Head (Lower Block)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Zong'En Jonathan
@@ -366,6 +366,18 @@ variant: tiptap
 <p>27</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Chin Chin</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -376,7 +388,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Special Educational Needs)</p>
