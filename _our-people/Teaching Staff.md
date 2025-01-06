@@ -152,41 +152,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p>Respect 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shereen Chan - Ong Pei Zi
-<br><em><a href="mailto:shereen_ong_pei_zi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shereen_ong_pei_zi@moe.edu.sg</a></em>
+<p>Ms Evelyn - Tan Lay Keat
+<br><a href="tan_lay_keat@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lay_keat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Bahari Bin Rajab
-<br><em><a href="mailto:mohamed_bahari_rajab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_bahari_rajab@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Yinglin
-<br><em><a href="mailto:liu_yinglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yinglin@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Dawn Kuah
-<br><em><a href="mailto:chan_wee_teng_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wee_teng_dawn@moe.edu.sg</a></em>
+<p>Ms Muneera Binte Abu Bakar
+<br><a href="Muneera_Abu_Bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">Muneera_Abu_Bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Excellence</p>
+<p>Respect 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Qiu Ping, Emily
-<br><em><a href="mailto:ang_qiu_ping_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_qiu_ping_emily@moe.edu.sg</a></em>
+<p>Ms Nuraini Binte Abdul Hamid
+<br><a href="nuraini_abdul_hamid@moe.edu.sg" rel="noopener nofollow" target="_blank">nuraini_abdul_hamid@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Siew Teng
+<br><a href="lee_siew_teng@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_siew_teng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respect 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Shi En Rachel
+<br><a href="ang_shi_en_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_shi_en_rachel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,61 +197,61 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Acceptance</p>
+<p>Respect 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystalbelle Chang
-<br><em><a href="mailto:crystalbelle_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystalbelle_chang@moe.edu.sg</a></em>
+<p>Mrs Gwendolene Phua Noi Kheng
+<br><a href="gwendolene_phua_noi_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">gwendolene_phua_noi_kheng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Siow Hoong Charmaine
-<br><em><a href="mailto:chia_siow_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siow_hoong@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Perseverance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Pei Yin Geraldine
-<br><em><a href="mailto:geraldine_tan_pei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_tan_pei_yin@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Saharudin B Osman
-<br><em><a href="mailto:saharudin_b_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saharudin_b_osman@moe.edu.sg</a></em>
+<p>Mrs Chen Xiang
+<br><a href="chen_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Gracious</p>
+<p>Respect 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Sini
-<br><em><a href="mailto:tan_sini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sini@moe.edu.sg</a></em>
+<p>Ms Siti Noraidah
+<br><a href="mailto:siti_noraidah_mohamed_sall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noraidah_mohamed_sall@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Deborah Eu Sher Min
-<br><em><a href="mailto:deborah_eu_sher_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deborah_eu_sher_min@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aidil Hakim Bin Zaharuddin
-<br><em><a href="mailto:aidil_hakim_zaharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_hakim_zaharuddin@moe.edu.sg</a></em>
+<br><a href="mailto:aidil_hakim_zaharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_hakim_zaharuddin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respect 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Wee Kiang - Jeffrey
+<br><a href="tan_wee_kiang@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_wee_kiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norlila Bte Abdul Ghani
-<br><em><a href="mailto:norlila_abdul_ghani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlila_abdul_ghani@moe.edu.sg</a></em>
+<p>Mrs Chan Wee Teng Dawn
+<br><a href="chan_wee_teng_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_wee_teng_dawn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respect 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Afiqah Binte Sulaiman
+<br><a href="nurul_afiqah_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_afiqah_sulaiman@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Zong'En Jonathan
+<br><a href="Goh_ZONGEN_JONATHAN@moe.edu.sg" rel="noopener nofollow" target="_blank">Goh_ZONGEN_JONATHAN@moe.edu.sg</a>
 </p>
 </td>
 </tr>
