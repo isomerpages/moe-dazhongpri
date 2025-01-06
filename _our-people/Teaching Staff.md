@@ -26,105 +26,106 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>Ace 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nuraini Binte Abdul Hamid
-<br><em><a href="mailto:nuraini_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraini_abdul_hamid@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Siew Teng
-<br><em><a href="mailto:lee_siew_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_teng@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Shi En Rachel
-<br><em><a href="mailto:ang_shi_en_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_shi_en_rachel@moe.edu.sg</a></em>
+<p>Ms Ang Qiu Ping, Emily
+<br><a href="ang_qiu_ping_emily@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_qiu_ping_emily@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Zulaikha Binte Mohamed Rohaidzat
-<br><em><a href="mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg</a></em>
+<br><a href="mailto:Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Zulaikha_Mohamed_Rohaidzat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>Ace 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Noi Kheng Gwendolene
-<br><em><a href="mailto:gwendolene_phua_noi_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwendolene_phua_noi_kheng@moe.edu.sg</a></em>
+<p>Mr Goh Shao Le, Jonas
+<br><a href="goh_shao_le_jonas@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_shao_le_jonas@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Syahriel
-<br><em><a href="mailto:muhammad_syahriel_sukar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syahriel_sukar@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Acceptance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lay Keat Evelyn
-<br><em><a href="mailto:tan_lay_keat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_keat@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Xiang
-<br><em><a href="mailto:chen_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiang@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Noraidah
-<br><em><a href="mailto:siti_noraidah_mohamed_sall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noraidah_mohamed_sall@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhong Dan
-<br><em><a href="mailto:zhong_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhong_dan@moe.edu.sg</a></em>
+<br><a href="mailto:siti_noraidah_mohamed_sall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noraidah_mohamed_sall@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1Gracious</p>
+<p>Ace 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Wee Kiang Jeffrey
-<br><em><a href="mailto:tan_wee_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_kiang@moe.edu.sg</a></em>
+<p>Ms Ting Pui Ling
+<br><a href="ting_pui_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">ting_pui_ling@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kavitha Soundarapandian
-<br><em><a href="mailto:kavitha_soundarapandian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_soundarapandian@moe.edu.sg</a></em>
+<p>Ms Izni Nasihah Binte Zulkifli
+<br><a href="izni_nasihah_zulkifli@moe.edu.sg" rel="noopener nofollow" target="_blank">izni_nasihah_zulkifli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Diligence</p>
+<p>Ace 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Muneera Bte Abu Bakar
-<br><em><a href="mailto:muneera_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muneera_abu_bakar@moe.edu.sg</a></em>
+<p>Ms Meena Kumaree D/O Sadasivam
+<br><a href="Meena_Kumaree_Sadasivam@moe.edu.sg" rel="noopener nofollow" target="_blank">Meena_Kumaree_Sadasivam@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Hidayah Abdul Rahman <a href="mailto:nor_hidayah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hidayah_abdul_rahman@moe.edu.sg</a>
+<p>Mdm Lee Hon Choo
+<br><a href="lee_hon_choo@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_hon_choo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ace 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Humairah Binte Rahman
+<br><a href="humairah_rahman@moe.edu.sg" rel="noopener nofollow" target="_blank">humairah_rahman@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Xie Shuang
+<br><a href="xie_shuang@moe.edu.sg" rel="noopener nofollow" target="_blank">xie_shuang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ace 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Pei Yin Geraldine
+<br><a href="mailto:geraldine_tan_pei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_tan_pei_yin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm He Jingwen
+<br><a href="mailto:he_jingwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">he_jingwen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ace 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Shereen Chan - Ong Pei Zi
+<br><a href="mailto:shereen_ong_pei_zi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shereen_ong_pei_zi@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vaithegni Govindan
+<br><a href="Vaithegni_Govindan@moe.edu.sg" rel="noopener nofollow" target="_blank">Vaithegni_Govindan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
