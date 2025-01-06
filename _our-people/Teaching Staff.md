@@ -375,78 +375,76 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity</p>
+<p>Humility 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Herman Bin Ponjio
-<br><em><a href="mailto:herman_ponijo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herman_ponijo@moe.edu.sg</a></em>
+<p>Mrs Chang Mei Shan
+<br><a href="chang_mei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_mei_shan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Afiqah Binte Sulaiman
-<br><em><a href="mailto:nurul_afiqah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_afiqah_sulaiman@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Justina Tan Hui Ru
-<br><em><a href="mailto:justina_tan_hui_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justina_tan_hui_ru@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Liqin
-<br><em><a href="mailto:chen_li_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_li_qin@moe.edu.sg</a></em>
+<p>Mr Loh Yin Shi, Mark
+<br><a href="Loh_Yin_Shi_Mark_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Loh_Yin_Shi_Mark_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Excellence</p>
+<p>Humility 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Zong’en Jonathan
-<br><em><a href="mailto:goh_zong_en_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zong_en_jonathan@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Nadzirah Bte Hamzah
-<br><em><a href="mailto:siti_nadzirah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nadzirah@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Acceptance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Yap - Ong Shi Ting
-<br><em><a href="mailto:ong_shi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_ting@moe.edu.sg</a></em>
+<p>Ms Sun I-Feng
+<br><a href="sun_i-feng@moe.edu.sg" rel="noopener nofollow" target="_blank">sun_i-feng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lu Ying
-<br><em><a href="mailto:lu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_ying@moe.edu.sg</a></em>
+<br><a href="mailto:lu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Perseverance</p>
+<p>Humility 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Huang Kangjuni
-<br><em><a href="mailto:brandon_huang_kangjun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_huang_kangjun@moe.edu.sg</a></em> 
+<p>Mr Chen Xianghao - Keith
+<br><a href="chen_xianghao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xianghao@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Syahriel Bin Sukar
+<br><a href="muhammad_syahriel_sukar@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_syahriel_sukar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humility 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM JY?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Yinglin
+<br><a href="liu_yinglin@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_yinglin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humility 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Ai Ying
+<br><a href="lim_ai_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_ai_ying@moe.edu.sg</a>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Hon Choo
-<br><em><a href="mailto:lee_hon_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hon_choo@moe.edu.sg</a></em>
+<p>Ms Lim Lee Wah Jerrine
+<br><a href="LIM_LEE_WAH_JERRINE@moe.edu.sg" rel="noopener nofollow" target="_blank">LIM_LEE_WAH_JERRINE@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -505,7 +503,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Brandon Huang Kangjuni
-<br><a href="mailto:brandon_huang_kangjun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_huang_kangjun@moe.edu.sg</a> 
+<br><a href="mailto:brandon_huang_kangjun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_huang_kangjun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
