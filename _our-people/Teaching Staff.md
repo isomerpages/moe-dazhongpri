@@ -494,7 +494,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Chin Chin</p>
+<p>Mrs Lee Chin Chin
+<br><a href="chan_khue_hiang@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_khue_hiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -507,7 +509,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sherlyn Tan Sien Ern</p>
+<p>Ms Sherlyn Tan Sien Ern
+<br><a href="tan_sien_ern@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_sien_ern@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -535,7 +539,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kavitha</p>
+<p>Ms Kavitha Soundarapandian
+<br><a href="kavitha_soundarapandian@moe.edu.sg" rel="noopener nofollow" target="_blank">kavitha_soundarapandian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
