@@ -278,7 +278,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p>Curiosity 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suriatie Abdul Samat
@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility</p>
+<p>Curiosity 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Meena Kumaree D/O Sadasivam
@@ -308,7 +308,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Excellence</p>
+<p>Curiosity 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim - Tan Jue Ying
@@ -323,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Acceptance</p>
+<p>Curiosity 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Mei Shan
@@ -338,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Perseverance</p>
+<p>Curiosity 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choy Yu Wai
