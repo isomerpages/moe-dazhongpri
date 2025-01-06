@@ -49,8 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Noraidah
-<br><a href="mailto:siti_noraidah_mohamed_sall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noraidah_mohamed_sall@moe.edu.sg</a>
+<p>Ms Siti Mariam Bte Abdullah
+<br><a href="siti_mariam_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_mariam_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -296,7 +296,9 @@ variant: tiptap
 <p>Curiosity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YAP ST?</p>
+<p>Ms Yap Shi Ting
+<br><a href="ong_shi_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_shi_ting@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Alyfie Bin Mohd Ali
@@ -423,7 +425,9 @@ variant: tiptap
 <p>Humility 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM JY?</p>
+<p>Ms Lim Jue Ying
+<br><a href="tan_jue_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_jue_ying@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Yinglin
