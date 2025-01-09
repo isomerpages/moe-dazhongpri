@@ -251,7 +251,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Zong'En Jonathan
-<br><a href="Goh_ZONGEN_JONATHAN@moe.edu.sg" rel="noopener nofollow" target="_blank">Goh_ZONGEN_JONATHAN@moe.edu.sg</a>
+<br><a href="mailto:goh_zong_en_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zong_en_jonathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
