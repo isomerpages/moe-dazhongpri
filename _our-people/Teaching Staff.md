@@ -380,7 +380,7 @@ variant: tiptap
 <p>Humility 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang Mei Shan
+<p>Ms Chang Mei Shan
 <br><a href="chang_mei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_mei_shan@moe.edu.sg</a>
 </p>
 </td>
@@ -395,7 +395,7 @@ variant: tiptap
 <p>Humility 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sun I-Feng
+<p>Mdm Sun I-Feng
 <br><a href="sun_i-feng@moe.edu.sg" rel="noopener nofollow" target="_blank">sun_i-feng@moe.edu.sg</a>
 </p>
 </td>
