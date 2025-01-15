@@ -13,7 +13,7 @@ to explore subsidised equipment procurement.<strong> Parents may apply using the
 <h3>Devices in the Library</h3>
 <p>Students may use the devices in the library for learning during their
 break times. Chromebooks are also available at the library for students
-to access after school hours. <strong>Students must present a letter from their parent or guardian to the librarian, granting permission for the child to remain in the library for online homework purposes.</strong> 
+to access after school hours. <strong>Students must present a letter from their parent or guardian to the librarian, granting permission for the child to remain in the library for online homework purposes.</strong>
 </p>
 <h3>Home-Based Learning&nbsp;</h3>
 <p>&nbsp;&nbsp;<a href="https://go.gov.sg/dazhongprisch" rel="noopener noreferrer nofollow" target="_blank">Dazhong HBL Google Site</a>
