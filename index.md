@@ -13,25 +13,6 @@ sections:
   - hero:
       background: /images/FINAL_BANNER_.jpg
       url: https://www.instagram.com/dazhong_primary_school/
-  - announcements:
-      title: Announcement
-      id: announcements
-  - textcards:
-      title: Our Dazhong Experience
-      id: textcards
-      cards:
-        - title: Dare to Learn
-          description: Academics
-          linktext: Learn more
-          url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-learn/psleinfo/
-        - title: Dare to Lead
-          description: Student Development & CCA
-          linktext: Learn more
-          url: https://www.dazhongpri.moe.edu.sg/dazhong-experience/dare-to-lead/dsasec/
-        - title: Dare to Care
-          description: Character & Citizenship Education
-          linktext: Learn more
-          url: https://www.dazhongpri.moe.edu.sg/character-excellence/character-education/
   - textcards:
       title: Connect with us
       id: textcards
