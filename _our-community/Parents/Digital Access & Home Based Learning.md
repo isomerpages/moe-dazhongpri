@@ -10,12 +10,11 @@ third_nav_title: Parents
 we recommend <strong>applying for DigitalAccess@home</strong> (<a href="https://go.gov.sg/digitalaccessinfo" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/digitalaccessinfo</a>)
 to explore subsidised equipment procurement.<strong> Parents may apply using their SingPass credentials.</strong>
 </p>
-<p>At Dazhong, we have <strong>devices</strong> stationed <strong>at the library</strong>.
-Students may use the devices in the library for learning during their break
-times. Chromebooks are also available at the library for students to access
-after school hours. <strong>Students must present a letter from their parent or guardian to the librarian, granting permission for the child to remain in the library for online homework purposes.</strong> Please
-also note that this would be on a first-come-first served basis, because
-we have limited devices in the library.</p>
+<h3>Devices in the Library</h3>
+<p>Students may use the devices in the library for learning during their
+break times. Chromebooks are also available at the library for students
+to access after school hours. <strong>Students must present a letter from their parent or guardian to the librarian, granting permission for the child to remain in the library for online homework purposes.</strong> 
+</p>
 <h3>Home-Based Learning&nbsp;</h3>
 <p>&nbsp;&nbsp;<a href="https://go.gov.sg/dazhongprisch" rel="noopener noreferrer nofollow" target="_blank">Dazhong HBL Google Site</a>
 </p>
