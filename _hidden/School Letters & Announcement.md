@@ -2,7 +2,6 @@
 title: School Letters & Announcement
 permalink: /our-community/parents/school-letters-announcement/
 description: ""
-third_nav_title: Parents
 variant: tiptap
 ---
 <h3>School Information &amp; Announcement</h3>

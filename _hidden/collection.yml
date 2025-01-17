@@ -2,6 +2,8 @@ collections:
   hidden:
     output: true
     order:
+      - SOAR Programme.md
+      - School Letters & Announcement.md
       - School Bus Advertisement.md
       - Dads for Life 2023.md
       - 2024 Open House.md

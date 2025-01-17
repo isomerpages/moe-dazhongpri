@@ -2,7 +2,6 @@
 title: SOAR Programme
 permalink: /dazhong-experience/dare-to-learn/soar/
 description: ""
-third_nav_title: Dare To Learn
 variant: tiptap
 ---
 <h3>SOAR Programme</h3>
