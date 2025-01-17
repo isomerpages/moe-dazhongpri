@@ -75,8 +75,6 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Primary 5</strong>
 </p>
 <table style="minWidth: 100px">
@@ -159,14 +157,7 @@ victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 7</p>
@@ -174,13 +165,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
