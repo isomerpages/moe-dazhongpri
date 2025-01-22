@@ -1,5 +1,4 @@
 collections:
   ccas-and-key-programmes:
     output: true
-    order:
-      - Uniformed Groups/.keep
+    order: []
