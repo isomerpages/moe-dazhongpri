@@ -2,5 +2,6 @@ collections:
   85th-anniversary:
     output: true
     order:
+      - Dare to Shine Arts Fest.md
       - Tree Planting Day.md
       - Community Day and Eco Carnival.md
