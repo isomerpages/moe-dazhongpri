@@ -2,5 +2,4 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
-      - Visual and Performing Arts/.keep
       - Uniformed Groups/.keep
