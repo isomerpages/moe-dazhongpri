@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /our-community/parents/parent-support-group/
 description: ""
+variant: markdown
 ---
 ### Parent Support Group&nbsp;
 
@@ -30,3 +31,40 @@ Every year, we look forward to having more parents join our Dazhong PSG. Come an
 Thank you for partnering us and working hand-in-hand to support our students in their holistic education!
 
 ![](/images/PSG_03.png)
+
+Dads for Life 2024
+------------------
+
+**Goat Farm Tour**
+
+The Dads for Life (DfL) Team organised a learning journey to Hay Diaries for our students and their parents on Saturday, 18 May. This event provided another opportunity for all participants to understand more about local produce, goat farms and Singapore's sustainability plan of food sources.
+
+![](/images/dfl2401.jpg)
+
+![](/images/dfl2402.jpg)
+
+![](/images/dfl2403.jpg)
+
+![](/images/dfl2404.jpg)
+
+![](/images/dfl2405.jpg)
+
+![](/images/dfl2406.jpg)
+
+**Sports for All**
+
+A total of 119 parents and children participated in the first edition of our Dads for Life @ Dazhong on 2 March 2024. Sports for All saw parents and children having a great time bonding through the games of badminton, basketball and soccer. A big thank you to all participants who made this event a truly wonderful occasion!
+
+![](/images/dfl2407.jpg)
+
+![](/images/dfl2408.jpg)
+
+![](/images/dfl2409.jpg)
+
+![](/images/dfl2410.jpg)
+
+![](/images/dfl2411.jpg)
+
+![](/images/dfl2412.jpg)
+
+![](/images/dfl2413.jpg)
