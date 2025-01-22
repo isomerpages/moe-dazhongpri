@@ -2,5 +2,6 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
+      - Internationalisation.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
