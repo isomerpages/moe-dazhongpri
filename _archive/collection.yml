@@ -2,5 +2,4 @@ collections:
   archive:
     output: true
     order:
-      - Dare to Shine Arts Fest.md
       - Student Well Being.md
