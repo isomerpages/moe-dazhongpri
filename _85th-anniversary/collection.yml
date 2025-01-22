@@ -2,4 +2,5 @@ collections:
   85th-anniversary:
     output: true
     order:
+      - Tree Planting Day.md
       - Community Day and Eco Carnival.md
