@@ -2,14 +2,14 @@ collections:
   subjects-and-departments:
     output: true
     order:
-      - Character and Citizenship Education.md
-      - Information & Communications Technology.md
-      - Aesthetics (Music, Art, AEP).md
-      - Physical Education.md
-      - Science.md
+      - English Language.md
       - Mathematics.md
       - Mother Tongue Language.md
-      - English Language.md
+      - Science.md
+      - Physical Education.md
+      - Aesthetics (Music, Art, AEP).md
+      - Information & Communications Technology.md
+      - Character and Citizenship Education.md
       - Dare To Lead/.keep
       - Dare To Lead/DSA Sec.md
       - Dare To Lead/Student Management.md
