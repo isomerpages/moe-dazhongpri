@@ -185,3 +185,19 @@ that we share with other countries.</p>
 <img style="width:60%" height="auto" width="100%" src="/images/cce8.png">
 </div>
 <p></p>
+<p><strong>Sexuality Education</strong>
+</p>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+<p></p>
+<p>Click <a href="https://www.dazhongpri.moe.edu.sg/character-excellence/sexuality-education/" rel="noopener nofollow" target="_blank">here</a> to
+view an overview of our school's Sexuality Education Programme.</p>
+<p></p>
