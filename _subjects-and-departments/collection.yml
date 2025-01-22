@@ -2,6 +2,7 @@ collections:
   subjects-and-departments:
     output: true
     order:
+      - Mathematics.md
       - Mother Tongue Language.md
       - English Language.md
       - Dare To Learn/.keep
