@@ -2,7 +2,6 @@ collections:
   subjects-and-departments:
     output: true
     order:
-      - Overview.md
       - Dare To Learn/.keep
       - Dare To Learn/PSLE Information.md
       - Dare To Learn/English Language.md
