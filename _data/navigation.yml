@@ -1,12 +1,14 @@
-logo: /images/DZlogo.png
+logo: /images/DZPS_Letter_Head_2025.png
 links:
   - title: About Dazhong
     collection: about-dazhong
   - title: Our People
     collection: our-people
-  - title: Dazhong Experience
-    collection: dazhong-experience
-  - title: Our Community
-    collection: our-community
+  - title: Subjects / Departments
+    collection: subjects-and-departments
+  - title: CCAs / Key Programmes
+    collection: ccas-and-key-programmes
+  - title: Information For Parents
+    collection: information-for-parents
   - title: MK @ Dazhong
     collection: mk-dazhong

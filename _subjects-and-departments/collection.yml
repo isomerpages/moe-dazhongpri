@@ -1,0 +1,14 @@
+collections:
+  subjects-and-departments:
+    output: true
+    order:
+      - Student Management.md
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue Language.md
+      - Science.md
+      - Physical Education.md
+      - Aesthetics (Music, Art, AEP).md
+      - Information & Communications Technology.md
+      - Character and Citizenship Education.md
+      - Dare To Lead/.keep
