@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Alumni.md
       - School Management Team (EXCO, LT and ST).md
       - Teaching Staff.md
       - Support Staff.md
       - Parent Support Group.md
       - School Advisory Committee.md
+      - Alumni.md
