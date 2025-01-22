@@ -1,5 +1,5 @@
 collections:
-  cca:
+  ccas-and-key-programmes:
     output: true
     order:
       - Sports/.keep
