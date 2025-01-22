@@ -1,4 +1,5 @@
 collections:
   85th-anniversary:
     output: true
-    order: []
+    order:
+      - Community Day and Eco Carnival.md
