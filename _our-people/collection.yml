@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Parent Support Group.md
       - School Management Team (EXCO, LT and ST).md
       - Teaching Staff.md
       - Support Staff.md
