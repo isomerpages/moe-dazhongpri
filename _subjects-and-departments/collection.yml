@@ -2,6 +2,7 @@ collections:
   subjects-and-departments:
     output: true
     order:
+      - Student Management.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue Language.md
