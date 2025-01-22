@@ -1,4 +1,5 @@
 collections:
   ccas-and-key-programmes:
     output: true
-    order: []
+    order:
+      - Applied Learning Programme.md
