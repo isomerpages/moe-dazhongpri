@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Letters and Announcements.md
       - Parents/.keep
       - Parents/Financial Matters.md
       - Parents/Parent Support Group.md
