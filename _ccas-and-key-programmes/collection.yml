@@ -2,6 +2,7 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
+      - Junior Orchestra.md
       - Brownies.md
       - Scouts.md
       - Student Leadership.md
