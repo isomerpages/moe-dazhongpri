@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - The Dazhong Story/Overview.md
       - The Dazhong Story/.keep
       - The Dazhong Story/School History.md
       - Vision, Mission and Values.md
