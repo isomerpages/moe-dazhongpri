@@ -2,6 +2,7 @@ collections:
   hidden:
     output: true
     order:
+      - Overview.md
       - P1 Orientation 2025.md
       - SOAR Programme.md
       - School Letters & Announcement.md
