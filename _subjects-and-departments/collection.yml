@@ -1,5 +1,5 @@
 collections:
-  dazhong-experience:
+  subjects-and-departments:
     output: true
     order:
       - Overview.md
