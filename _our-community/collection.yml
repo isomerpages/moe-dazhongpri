@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Financial Matters.md
       - Parents/.keep
       - Parents/Parent Support Group.md
       - Parents/Dads for Life 2024.md
