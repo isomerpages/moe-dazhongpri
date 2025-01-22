@@ -2,10 +2,10 @@ collections:
   about-dazhong:
     output: true
     order:
-      - The Dazhong Experience.md
       - Principal's Message.md
       - The Dazhong Story/.keep
       - The Dazhong Story/School History.md
       - Vision, Mission and Values.md
+      - The Dazhong Experience.md
       - School Song.md
       - Contact Us.md
