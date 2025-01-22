@@ -2,7 +2,7 @@ collections:
   about-dazhong:
     output: true
     order:
-      - Overview.md
+      - The Dazhong Experience.md
       - Principal's Message.md
       - The Dazhong Story/.keep
       - The Dazhong Story/School History.md
