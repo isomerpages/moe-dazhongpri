@@ -4,7 +4,7 @@ permalink: /our-people/support-staff/
 description: ""
 variant: tiptap
 ---
-<h3>Support Staff</h3>
+<h3>Admin Staff</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,9 +31,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Geok Yian
-<br><a href="lau_geok_yian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_geok_yian@moe.edu.sg</a>
-</p>
+<p>Mdm Lau Geok Yian</p>
 </td>
 </tr>
 <tr>
@@ -44,9 +42,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Siao Wen
-<br><a href="ng_siao_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_siao_wen@moe.edu.sg</a>
-</p>
+<p>Ms Ng Siao Wen</p>
 </td>
 </tr>
 <tr>
@@ -57,9 +53,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Manoharan
-<br><a href="mailto:v_manoharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">v_manoharan@moe.edu.sg</a>
-</p>
+<p>Mr V Manoharan</p>
 </td>
 </tr>
 <tr>
@@ -70,9 +64,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Lim Boon Poh
-<br><em><a href="mailto:lim_boon_poh_simon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_poh_simon@moe.edu.sg</a></em>
-</p>
+<p>Mr Simon Lim Boon Poh</p>
 </td>
 </tr>
 <tr>
@@ -83,74 +75,7 @@ variant: tiptap
 <p>FAJT (SC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mas'amah Binte Ruah
-<br><em><a href="mailto:masamah_ruah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masamah_ruah@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counselor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pow Yih Ling
-<br><a href="pow_yih_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">pow_yih_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer (SENO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Razali Bin Hassan (AED LBS)
-<br><em><a href="mailto:razali_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali_hassan@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer (SENO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zaliza Yunus (AED LBS)
-<br><em><a href="mailto:zaliza_yunus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaliza_yunus@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer (SENO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Madeleine Pang
-<br><em><a href="mailto:pang_jie_ting_madeleine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_jie_ting_madeleine@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sabrina Bte Ismail (AED T&amp;L)
-<br><em><a href="mailto:sabrina_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_ismail@moe.edu.sg</a></em>
-</p>
+<p>Mdm Mas'amah Binte Ruah</p>
 </td>
 </tr>
 <tr>
@@ -161,9 +86,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joyce Ong Bee
-<br><em><a href="mailto:ainon_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_ong_wee_bee@moe.edu.sg</a></em>
-</p>
+<p>Mdm Joyce Ong Bee</p>
 </td>
 </tr>
 <tr>
@@ -174,9 +97,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Theanmoli D/O S Kandaiah
-<br><em><a href="k_theanmoli@moe.edu.sg" rel="noopener nofollow" target="_blank">k_theanmoli@moe.edu.sg</a></em>
-</p>
+<p>Mdm Theanmoli D/O S Kandaiah</p>
 </td>
 </tr>
 <tr>
@@ -187,9 +108,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ainon Bte Syed
-<br><em><a href="mailto:ainon_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ainon_syed@moe.edu.sg</a></em>
-</p>
+<p>Mdm Ainon Bte Syed</p>
 </td>
 </tr>
 <tr>
@@ -200,9 +119,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorliasyqin Binti Mohamed Ramli
-<br><em><a href="mailto:noorliasyqin_mohamed_ramli@moe.edu.sg%5D" rel="noopener noreferrer nofollow" target="_blank">noorliasyqin_mohamed_ramli@moe.edu.sg</a></em>
-</p>
+<p>Ms Noorliasyqin Binti Mohamed Ramli</p>
 </td>
 </tr>
 <tr>
@@ -213,9 +130,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Selina Chow Yuet Chin
-<br><em><a href="mailto:chow_yuet_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yuet_chin@schools.gov.sg</a></em>
-</p>
+<p>Mdm Selina Chow Yuet Chin</p>
 </td>
 </tr>
 <tr>
@@ -226,9 +141,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Zhen Hao Alan
-<br><em><a href="mailto:low_zhen_hao_alan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_zhen_hao_alan@moe.edu.sg</a></em>
-</p>
+<p>Mr Low Zhen Hao Alan</p>
 </td>
 </tr>
 <tr>
