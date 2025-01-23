@@ -32,12 +32,12 @@ Thank you for partnering us and working hand-in-hand to support our students in 
 
 ![](/images/PSG_03.png)
 
-Dads for Life 2024
+Dads for Life
 ------------------
 
 **Goat Farm Tour**
 
-The Dads for Life (DfL) Team organised a learning journey to Hay Diaries for our students and their parents on Saturday, 18 May. This event provided another opportunity for all participants to understand more about local produce, goat farms and Singapore's sustainability plan of food sources.
+The Dads for Life (DfL) Team organised a learning journey to Hay Diaries for our students and their parents on Saturday, 18 May 2024. This event provided another opportunity for all participants to understand more about local produce, goat farms and Singapore's sustainability plan of food sources.
 
 ![](/images/dfl2401.jpg)
 
