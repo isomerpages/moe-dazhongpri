@@ -297,7 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhong Dan
-<br>
 <br>Mr Mohammad Affendy Bin Abdullah
 <br>
 </p>
