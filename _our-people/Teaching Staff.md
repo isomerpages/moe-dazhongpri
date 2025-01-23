@@ -458,6 +458,14 @@ variant: tiptap
 <p>Ms Madeleine Pang Jie Ting</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied educator (T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sabrina Bte Ismail</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Upper Block</h4>
