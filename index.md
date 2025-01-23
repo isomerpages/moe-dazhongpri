@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FINAL_BANNER_.jpg
+      background: /images/FINAL_BANNER_2.png
       url: https://www.instagram.com/dazhong_primary_school/
   - textcards:
       title: Connect with us
