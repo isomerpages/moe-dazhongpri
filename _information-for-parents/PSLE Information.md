@@ -18,10 +18,10 @@ preparing for the exam or a parent seeking information about the process,
 we've got you covered.</p>
 <p><strong>PSLE Schedule</strong>
 </p>
-<p>Stay up-to-date with the PSLE 2024 schedule. Know the important dates
-for the examination papers, and result release. Plan your preparation and
-stay organised with our detailed schedule.</p>
-<p><a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates#board_0" rel="noopener noreferrer nofollow" target="_blank">Click here for 2024 PSLE Examination Calendar</a>
+<p>Stay up-to-date with the PSLE schedule. Know the important dates for the
+examination papers, and result release. Plan your preparation and stay
+organised with our detailed schedule.</p>
+<p><a href="https://www.seab.gov.sg/psle/" rel="noopener nofollow" target="_blank">Click here for the latest updates on this year's PSLE.</a>
 </p>
 <p><strong>Understanding Achievement Levels (AL Scores)</strong>
 </p>
