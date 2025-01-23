@@ -14,15 +14,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 1</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -113,6 +107,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vaithegni Govindan</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -125,15 +121,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 2</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -260,15 +250,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 3</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -339,6 +323,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Ain Binti Borhan</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -351,15 +336,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 4</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -460,7 +439,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied educator (T&amp;L)</p>
+<p>Allied Educator (Teaching &amp; Learning)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sabrina Bte Ismail</p>
@@ -477,15 +456,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 5</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -552,6 +525,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kavitha Soundarapandian</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -564,15 +538,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Primary 6</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
