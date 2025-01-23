@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Teaching Staff</h3>
-<h4>Lower Block </h4>
+<h4>Lower Block</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
