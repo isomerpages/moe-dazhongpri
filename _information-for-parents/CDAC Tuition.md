@@ -14,5 +14,7 @@ community.</p>
 who may benefit from additional academic assistance. By working closely
 with CDAC, we aim to create an enriching educational experience that caters
 to the diverse needs of our students.</p>
-<p>Interested in registering your child for CDAC? Click <a href="https://www.cdac.org.sg/tuition-programme" rel="noopener nofollow" target="_blank">here</a> to
-apply now!</p>
+<blockquote>
+<h4>Interested in registering your child for CDAC? Click <a href="https://www.cdac.org.sg/tuition-programme" rel="noopener nofollow" target="_blank">here</a> to apply now!</h4>
+</blockquote>
+<p></p>
