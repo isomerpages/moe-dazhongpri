@@ -83,8 +83,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Physical Education, Art and Music Education)</p>
+<p>Head of Department (PE, Art &amp; Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shannen Lim Puay Ching</p>
@@ -128,8 +127,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Character and Citizenship Education)</p>
+<p>Head of Department (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ananthy Marimuthu</p>
@@ -140,8 +138,7 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Information and Communications Technology)</p>
+<p>Head of Department (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ting Ning Xin, Jessie</p>
@@ -222,7 +219,7 @@ variant: tiptap
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Muzfirah Aida</p>
+<p>Ms Lin Huiyu Vanessa</p>
 </td>
 </tr>
 <tr>
@@ -241,8 +238,7 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Character and Citizenship Education)</p>
+<p>Subject Head (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Muzfirah Aida</p>
@@ -297,8 +293,7 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-<p>(Character and Citizenship Education)</p>
+<p>Senior Teacher (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suriatie Bte Abdul Samat</p>
@@ -331,8 +326,7 @@ variant: tiptap
 <p>28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-<p>(Special Educational Needs)</p>
+<p>Senior Teacher (Special Educational Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Syed Imran Bin Jamaluddin</p>
