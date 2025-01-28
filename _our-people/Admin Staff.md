@@ -210,6 +210,17 @@ variant: tiptap
 <p>Mr Siew Swee Teng</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Beng Heng</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
