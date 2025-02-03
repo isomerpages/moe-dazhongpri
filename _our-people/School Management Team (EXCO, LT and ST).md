@@ -127,7 +127,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Student Development Team)</p>
+<p>Head of Department (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Yunus Sunanwi</p>
@@ -138,7 +138,8 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (CCE)</p>
+<p>Head of Department</p>
+<p>(Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ananthy Marimuthu</p>
@@ -149,7 +150,8 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (ICT)</p>
+<p>Head of Department</p>
+<p>(Information and Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ting Ning Xin, Jessie</p>
