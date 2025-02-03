@@ -138,8 +138,7 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Character and Citizenship Education)</p>
+<p>Head of Department (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ananthy Marimuthu</p>
@@ -150,8 +149,7 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Information and Communications Technology)</p>
+<p>Head of Department (Information and Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ting Ning Xin, Jessie</p>
@@ -184,8 +182,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-<p>(Covering) (Lower Block)</p>
+<p>Year Head (Covering) (Lower Block)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Zong'En Jonathan</p>
@@ -251,7 +248,7 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (CCE)</p>
+<p>Subject Head (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Muzfirah Aida</p>
@@ -306,7 +303,7 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (CCE)</p>
+<p>Senior Teacher (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suriatie Bte Abdul Samat</p>
