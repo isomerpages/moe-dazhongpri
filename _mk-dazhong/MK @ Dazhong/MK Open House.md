@@ -30,6 +30,13 @@ Open House registration.</p>
 </p>
 <p>Visit this <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener nofollow" target="_blank">link</a><strong> </strong>to
 start registration process.</p>
-<p>
+<p></p>
+<h4><strong>MK Enrollment (For Year 2025 Intake)</strong></h4>
+<p>If your child is a Singapore Citizen (SC) or Permanent Resident (PR) aged
+5 years old this year 2025, you can enroll your child to MK@Dazhong.</p>
+<p>Kindly send us an email at <a href="mailto:mk_dazhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mk_dazhong@moe.edu.sg</u></a> or
+fill up our waitlist form via this <a href="https://form.gov.sg/63f2f4d7b298540011ab2ef1" rel="noopener nofollow" target="_blank">link</a>&nbsp;to register
+your interest.&nbsp;Our admin personnel will get in touch with you. Thank
+you.
 <br>
 </p>
