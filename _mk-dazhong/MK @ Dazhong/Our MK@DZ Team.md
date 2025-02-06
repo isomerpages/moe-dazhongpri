@@ -111,8 +111,8 @@ variant: tiptap
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Allisa Mohamad Halim
-<br><em><a href="mailto:nur_allisa_mohamad_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_allisa_mohamad_halim@moe.edu.sg</a></em>
+<p>Ms Vencia Lee Jie Lei
+<br><a href="vencia_lee_jie_lei@moe.edu.sg" rel="noopener nofollow" target="_blank">vencia_lee_jie_lei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -137,19 +137,6 @@ variant: tiptap
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Peh Hwee Boon
-<br><em><a href="mailto:peh_hwee_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hwee_boon@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CL Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Xing Naiyue
 <br><em><a href="mailto:xing_naiyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xing_naiyue@moe.edu.sg</a></em>
 </p>
@@ -157,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CL Teacher</p>
@@ -170,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CL Teacher</p>
@@ -183,20 +170,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jiang Yu Ling
-<br><em><a href="mailto:jiang_yu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yu_ling@moe.edu.sg</a></em>
+<p>Mdm Cui Wen
+<br><a href="cui_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">cui_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ML Teacher</p>
@@ -209,7 +196,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ML Teacher</p>
@@ -222,7 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TL Teacher</p>
