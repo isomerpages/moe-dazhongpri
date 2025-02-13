@@ -37,6 +37,9 @@ start registration process.</p>
 <p>Kindly send us an email at <a href="mailto:mk_dazhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mk_dazhong@moe.edu.sg</u></a> or
 fill up our waitlist form via this <a href="https://form.gov.sg/63f2f4d7b298540011ab2ef1" rel="noopener nofollow" target="_blank">link</a>&nbsp;to register
 your interest.&nbsp;Our admin personnel will get in touch with you. Thank
-you.
+you.</p>
+<p></p>
+<p>Click <a href="/files/MKOH_Briefing_2025_PDF_pptx_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view briefing slides.
 <br>
 </p>
