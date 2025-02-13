@@ -39,7 +39,5 @@ fill up our waitlist form via this <a href="https://form.gov.sg/63f2f4d7b2985400
 your interest.&nbsp;Our admin personnel will get in touch with you. Thank
 you.</p>
 <p></p>
-<p>Click <a href="/files/MKOH_Briefing_2025_PDF_pptx_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view briefing slides.
-<br>
-</p>
+<h4><strong>Click <a href="/files/MKOH_Briefing_2025_PDF_pptx_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view MK@DZ Open House briefing slides.</strong> <br></h4>
+<p></p>
