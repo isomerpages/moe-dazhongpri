@@ -141,7 +141,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Zhen Hao Alan</p>
+<p>Mr Kenneth Loo Hui Meng</p>
 </td>
 </tr>
 <tr>
