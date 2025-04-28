@@ -12,5 +12,5 @@ third_nav_title: Information for Parents
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mkdazhongwaitlist.png">
 </div>
-<p>Or click <a href="https://form.gov.sg/63f2f4d7b298540011ab2ef1" rel="noopener nofollow" target="_blank">here</a>
+<p>Or click <a href="https://go.gov.sg/mkdazhongwaitlist" rel="noopener nofollow" target="_blank">here</a>
 </p>
