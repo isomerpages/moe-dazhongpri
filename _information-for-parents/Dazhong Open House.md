@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h2>Dazhong Primary School Open House 2025</h2>
-<p><em>                                       Discover, Experience &amp; Belong</em>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL_BANNER__Main_Banner___2__resizeddddddddddddddd.png">
+</div>
+<p><em>Discover, Experience &amp; Belong</em>
 </p>
 <p>Registering your child for Primary 1 next year and like an insider’s look
 of how a school day in Dazhong Primary is like? Wait no further! We warmly
