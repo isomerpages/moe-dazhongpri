@@ -30,12 +30,10 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Dazhong Primary School Open House 2025
           date: 26 June 2025
-          announcement: "🔗 Register here: www.go.gov.sg/dzpsoh   📅 Registration closes
-            on Tuesday, 15 July 2025 at 6pm."
-          link_text: ""
-          link_url: ""
+          announcement: 📅 Registration closes on Tuesday, 15 July 2025 at 6pm.
+          link_text: "Dazhong Open House: Registration and Information"
+          link_url: https://www.dazhongpri.moe.edu.sg/dazhong-open-house/
 ---
