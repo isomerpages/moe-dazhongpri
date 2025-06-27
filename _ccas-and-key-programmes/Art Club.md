@@ -4,7 +4,9 @@ permalink: /art-club/
 variant: tiptap
 description: ""
 ---
-<p><strong>CCA Overview</strong>
+<p><strong>Art Club</strong>
+<br>
+<br><strong>CCA Overview</strong>
 <br>The Art Club nurtures creativity and imagination through a wide variety
 of hands-on art experiences. Students get to explore a range of media from
 drawing, painting, printmaking, and mixed media, while learning about local
@@ -16,4 +18,5 @@ and stories.</p>
 <p>Art Club students have the opportunity to contribute actively to school-wide
 initiatives such as festive displays, mural projects, DZPS Open House illustrations,
 and school library decorations. They also participate in external platforms
-like the biennial SYF Art Exhibition and community art projects.</p>
+like</p>
+<p>the biennial SYF Art Exhibition and community art projects.</p>
