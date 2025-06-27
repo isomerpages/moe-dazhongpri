@@ -2,6 +2,7 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
+      - Art Club/CCA Overview.md
       - Art Club/.keep
       - Track and Field.md
       - Badminton.md
