@@ -13,6 +13,15 @@ sections:
   - hero:
       background: /images/FINAL_BANNER__Main_Banner___2__FINAL_for_uploading.png
       url: https://www.instagram.com/dazhong_primary_school/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Dazhong Primary School Open House 2025
+          date: 26 June 2025
+          announcement: 📅 Registration closes on Tuesday, 15 July 2025 at 6pm.
+          link_text: "Dazhong Open House: Registration and Information"
+          link_url: https://www.dazhongpri.moe.edu.sg/dazhong-open-house/
   - textcards:
       title: Connect with us
       id: textcards
@@ -27,13 +36,4 @@ sections:
           description: ""
           linktext: Click here
           url: https://www.instagram.com/dazhong_primary_school/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Dazhong Primary School Open House 2025
-          date: 26 June 2025
-          announcement: 📅 Registration closes on Tuesday, 15 July 2025 at 6pm.
-          link_text: "Dazhong Open House: Registration and Information"
-          link_url: https://www.dazhongpri.moe.edu.sg/dazhong-open-house/
 ---
