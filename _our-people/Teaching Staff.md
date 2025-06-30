@@ -404,7 +404,7 @@ variant: tiptap
 <p>Name of Staff</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name of Staff</p>
 </th>
 </tr>
 <tr>
@@ -741,7 +741,7 @@ variant: tiptap
 <p>S/N</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Name of staff</p>
+<p>Name of Staff</p>
 </th>
 </tr>
 <tr>
