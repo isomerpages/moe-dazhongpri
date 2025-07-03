@@ -2,35 +2,38 @@
 title: School Song
 permalink: /about-dazhong/school-song/
 description: ""
+variant: markdown
 ---
 ### School Song
 
 #### Verse 1:
 
-We, at Dazhong, strive to be<br>
-The best that we can be<br>
-Always gracious and caring<br>
-Serving others beyond ourselves
+Like an A.R.C.H.E.R we strive to seek<br>
+As far as we can see<br>
+With resilience and curiosity<br>
+We are Ace leaders with great empathy
 
 #### Chorus:
 
-Anchored in the values we believe<br>
-With pride we excel<br>
+High Potential Learners we can be<br>
+Aim for our own peaks<br>
 Soaring beyond limits<br>
-In unity and with perseverance
+We are Archers from Dazhong family
 
 
 #### Verse 2:
 
-We, at Dazhong, strive to be<br>
-The best that we can be<br>
-To bloom and grow<br>
-In our stride towards our goals
+Be the Greenovators we believe<br>
+To strive and to achieve<br>
+Through respect and humility<br>
+Leading others towards our goals
 
 
 #### Chorus:
 
-Anchored in the values we believe<br>
-With pride we excel<br>
+High Potential Learners we can be<br>  
+Aim for our own peaks<br>
 Soaring beyond limits<br>
-In unity and with perseverance
+We are Archers from Dazhong family
+
+[Archers from Dazhong Family (School Song)](https://drive.google.com/file/d/1_D_jBxP4_C--BCBHAdoQe-Q4j3LwIbYz/view?usp=drive_link)
