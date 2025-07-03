@@ -35,3 +35,5 @@ High Potential Learners we can be<br>
 Aim for our own peaks<br>
 Soaring beyond limits<br>
 We are Archers from Dazhong family
+
+[Archers from Dazhong Family (School Song)](https://drive.google.com/file/d/1_D_jBxP4_C--BCBHAdoQe-Q4j3LwIbYz/view?usp=drive_link)
