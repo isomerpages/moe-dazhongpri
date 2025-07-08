@@ -16,7 +16,7 @@ Opportunities are created for students to showcase their talents through interna
 
 Since 2020, five of our Choir members were given a chance to join as members of Voices of Singapore Children’s Choir (VOSCC). The VOSCC seeks to musically develop children as singers, individuals and performers, with great importance placed on character building and inculcating the Singaporean Identity. 
 
-We believe that all these opportunities will excite and engage students and help to develop their stage confidence while having fun and making friends with choristers from different experiences. These will also empower them to be self-directed leaders and serve in our community. Our Choir alumni will also be formed this year 2023. We do welcome all our Choir alumni to come back to serve
+We believe that all these opportunities will excite and engage students and help to develop their stage confidence while having fun and making friends with choristers from different experiences. These will also empower them to be self-directed leaders and serve in our community. Our Choir alumni was formed in 2023 and we welcome all our Choir alumni to come back to serve.
 
 Follow us on Facebook and Instagram to get the latest updates on our CCA activities and achievements!
 
