@@ -31,7 +31,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Geok Yian</p>
+<p>Ms Lau Geok Yian</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Lim Boon Poh</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Salleh Bin Talib</p>
+<p>Mr Yeoh Weng Hwa</p>
 </td>
 </tr>
 <tr>
