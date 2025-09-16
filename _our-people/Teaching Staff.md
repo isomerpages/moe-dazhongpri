@@ -496,7 +496,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pow Yih Ling</p>
+<p>Ms Chern Hui Ying</p>
 </td>
 </tr>
 <tr>
