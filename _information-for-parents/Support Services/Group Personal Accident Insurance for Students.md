@@ -6,10 +6,10 @@ third_nav_title: Support Services
 variant: tiptap
 ---
 <h3>Group Personal Accident Insurance for Students</h3>
-<p><strong>Student Group Personal Accident Insurance (GPA) 2024</strong>
+<p><strong>Student Group Personal Accident Insurance (GPA) 2025</strong>
 </p>
 <p>MOE has procured a Group Personal Accident Insurance (GPA) for our students
-for the period from 1 January 2021 to 31 December 2024. The contracted
+for the period from 1 January 2021 to 31 December 2025. The contracted
 insurance service provider is NTUC Income.</p>
 <p>We would like to inform that parents/ guardians are required to submit
 all student accident insurance claims electronically via the online portal
