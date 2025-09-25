@@ -36,32 +36,6 @@ technology meaningfully across both physical and digital learning spaces.</p>
 <p>Central to this approach is the use of <strong>SLS as a one-stop hub</strong>,
 and the strategic development of student <strong>self-directedness</strong> and <strong>collaboration skills</strong> using
 EdTech from Primary 1 to Primary 6, in gradation to their cognitive growth.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_MYR_2025__3_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_MYR_2025__4_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_MYR_2025__5_.jpg">
-</div>
 <p>Our EdTech journey is guided by the <strong>RAT model</strong>, <strong>EdTech Pedagogical Scaffold</strong>,
 and <strong>Key Applications of Technology (KAT)</strong> to ensure meaningful
 tech integration. We also harness <strong>AI on platforms like SLS</strong> to
@@ -117,10 +91,51 @@ and inspire them to become future tech leaders.</p>
 increased risk and exposure to harmful material. It is more important than
 ever that our students have a strong foundation in cyber wellness. At Dazhong,
 we work diligently within our school to encourage children to take good
-care of devices and use them responsibly. We also involve parents in the
-children's development of good digital habits through our Cyber Wellness
-newsletter, which contains valuable insights and tips for promoting a positive
-online experience for our children.</p>
+care of devices and use them responsibly.</p>
+<p><strong>Supporting Your Child’s Digital Wellness</strong>
+</p>
+<p>We encourage parents to explore the Parenting for Wellness Toolbox (by
+MOE, MSF &amp; HPB).</p>
+<p>It provides practical tips on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understanding the digital landscape</p>
+</li>
+<li>
+<p>Helping your child manage technology use</p>
+</li>
+<li>
+<p>Guiding your child to stay safe online</p>
+</li>
+</ul>
+<p>📲 Visit: <a href="http://go.gov.sg/pfw-toolbox-for-parents" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-toolbox-for-parents</a>
+</p>
+<p>M<strong>OH Guidance on Screen Use (7–12 years old)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Limit screen use to no more than 2 hours daily (except schoolwork).</p>
+</li>
+<li>
+<p>Create a family screen plan to balance study, play and rest.</p>
+</li>
+<li>
+<p>Do not give children unrestricted internet access.</p>
+</li>
+<li>
+<p>Use parental controls to ensure content is safe and age-appropriate.</p>
+</li>
+<li>
+<p>Children should not access social media before age 13.</p>
+</li>
+<li>
+<p>Avoid screen use during meals and one hour before bedtime.</p>
+</li>
+<li>
+<p>Have regular conversations with your child about online risks such as
+cyberbullying, strangers, and harmful content.</p>
+</li>
+</ul>
 <p><strong>Safer Internet Day</strong>
 </p>
 <p>In conjunction with Total Defence Week and emphasising Digital Defence,
