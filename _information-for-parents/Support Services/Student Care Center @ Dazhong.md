@@ -7,35 +7,32 @@ variant: markdown
 ---
 #### COMMIT LEARNING SCHOOL HOUSE
 
-**Dear Parents/Legal Guardians,**
+**Dear Parents/Guardians,**
 
-The management and staff of Commit Learning SchoolHouse (CLS) would like to extend our warmest greetings to the parents/legal guardians and students of Dazhong Primary School. We are happy to inform you that we have been officially appointed as the vendor of the Student Care Centre (SCC) at Dazhong Primary School with effect from 1 January 2025. We will work with the school and the current SCC vendor to ensure a smooth handover and transition process.
+The management and staff of Commit Learning SchoolHouse (CLS) would like to extend our warmest greetings to the parents/guardians and students of Dazhong Primary School. We are looking forward to the opportunity to establish a partnership with you and the school to provide quality care and supervision for your child.
 
-**About Us**
+**About Commit Learning SchoolHouse**
+Commit Learning SchoolHouse (CLS) is a distinguished brand under the Commit Learning Group, a leading provider of quality student care and preschool services. At CLS, we are committed to offering a comfortable, creative, and structured after-school care environment designed to support the holistic development of every child. Our Student Care Centre provides students with enriching, interactive, and engaging learning experiences that foster meaningful and well-rounded growth.
 
-Commit Learning SchoolHouse (CLS) is a brand under Commit Group, a leading provider of quality student care and preschool care services. At CLS, we provide a comfortable, creative, conducive and structured after-school care environment to cater to the developmental needs of our students. In our Student Care Centre (SCC), our students enjoy fun, interactive and engaging learning experiences and are empowered to approach learning in a more meaningful and holistic way.
+**Fostering Confident and Responsible Leaders**
+The well-being and development of our students remain our highest priority. We strive to equip every student with essential character values, skills, and attitudes that will empower them to become confident, responsible leaders of tomorrow.
 
-**Developing Confident Leaders**
+**A Unique and Engaging SCC Experience**
+When students are inspired and motivated to learn, their potential to achieve is maximised. Each week, our curriculum specialists design fresh and engaging lesson materials centred around global themes, cultivating curiosity, enthusiasm, and a love of learning in the SCC environment.
 
-Our students are at the centre of everything we do and their well-being is of utmost priority to us. We want to equip our students with the right character development values, skills and attitudes.
+**Dedicated and Passionate Coaches**
+Our SCC coaches are carefully selected for their passion, professionalism, and dedication to nurturing each student’s growth. They are committed to delivering high-quality learning experiences that encourage students to strive for excellence.
+For your reference, please find attached a set of Frequently Asked Questions (FAQs) which provide additional information about the CLS Student Care Centre.
 
-**Embark On A Journey With A Unique SCC Experience**
-
-When your child/ward is excited about learning, there is a motivation to achieve. Each week, our curriculum specialists create fresh, engaging and captivating lesson materials with global themes to inspire our students to be curious, to learn, and to have fun in the SCC.
-
-**Passionate Coaches That Make A Difference**
-
-Our SCC coaches motivate and nurture every student to achieve their best and to build the right attitudes to ingrain a love for learning. We hire coaches with the right passion and heart, to create amazing classroom experiences for their students. We are looking forward to the opportunity to establish a strong partnership with you and the school to provide quality care and supervision for your child/ward.
+We look forward to building a strong partnership with you and the school to provide quality care and supervision for your child/ward. Thank you for your trust and support.
 
 Please refer to the FAQs attached for more information about the CLS SCC.
 
-[CLS SCC](/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Dazhong_Primary_School.pdf)[](/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Dazhong_Primary_School.pdf)
+[CLS SCC](/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_FAQs___Dazhong_Primary_School_docx.pdf)
 
 **Below is the link for registration for new and existing students**
 
-[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For New Students)](https://form.jotform.com/242728921724461)
-
-[Commit Learning SchoolHouse @ Dazhong Primary School - Interest Application Form (For Existing SCC Student)](https://form.jotform.com/242731822463455)
+[Indication of Interest Form](/files/Dazhong_Primary_School_Interest_Link_.pdf)
 ```
 Yours sincerely,
 Management
