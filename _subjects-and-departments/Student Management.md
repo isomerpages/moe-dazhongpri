@@ -5,208 +5,123 @@ description: ""
 variant: tiptap
 ---
 <h4>Student Management</h4>
-<h4>Vision:</h4>
-<p>Every student with <strong>Self-Leadership</strong> to be a <strong>Self-Directed Learner</strong> and <strong>Serving Leader.</strong>
-</p>
-<h4>Belief:</h4>
-<p>Every child <strong>matters</strong> and every child <strong>can learn.</strong>
-<br>Students are more engaged in learning and behave better when there are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Positive school and classroom environments</strong>
-</p>
-</li>
-<li>
-<p><strong>Positive teacher-student relationships and peer relationships</strong>
-</p>
-</li>
-<li>
-<p><strong>Positive school experiences</strong>
-</p>
-</li>
-</ul>
-<p>Discipline is an <strong>educative</strong> process and it is a <strong>whole-school</strong> effort.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Dare to Lead Protocol: H.O.P.E.</strong> (for teachers)</p>
-</li>
-</ul>
-<p>Guided by <strong>DZPS School Values:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>I . R . E . A . P .</strong>
-</p>
-</li>
-</ul>
-<p>Guided by <strong>DZPS School Vision (POS):</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A Dazhong student is a:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>self-directed learner</strong>
-</p>
-</li>
-<li>
-<p><strong>serving leader</strong>
-</p>
-</li>
-<li>
-<p><strong>concerned citizen</strong>
-</p>
+<p><strong>Vision</strong>
+<br>Dazhong Primary School, a supportive educational environment where students
+with additional needs are empowered to reach their potential.
+<br>
+<br><strong>Mission</strong>
+<br>To develop the ability of every high potential DZPS learners to achieve
+success by empowering them, through collaborative tailored interventions/support,
+and providing the resources &amp; opportunities that address their additional
+needs.</p>
+<p><strong>Beliefs:</strong>
+<br>‘Every learner a high potential learner with teacher’s S.U.P.P.O.R.T’</p>
+<p><strong>S: </strong>Synergy</p>
+<p><strong>U:</strong> Understanding</p>
+<p><strong>P: </strong>Proactive</p>
+<p><strong>P: </strong>Professionalism</p>
+<p><strong>O: </strong>Openness</p>
+<p><strong>R: </strong>Reflection</p>
+<p><strong>T: </strong>Tenacity</p>
+<p></p>
+<p><strong>Approach</strong>
+<br>Model
+<br>Coach
+<br>Care</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CPS.jpg">
 </div>
-</li>
-</ul>
-</li>
-</ul>
-<h4>Key Approaches for Student Management @ DZPS:</h4>
-<p>To bring about the <strong>Holistic Development</strong> of the Dazhong
-Students through the <strong>DZPS 3E (Excite, Engage, Empower) Approach.</strong> This
-is done via the following approaches of the various teams of Student Management
-of DZPS:</p>
-<ol data-tight="true" class="tight">
+<p>
+<br>At Dazhong, we are committed to unlocking every student's potential by
+providing them with the tools and strategies needed for both academic achievement
+and positive character development.</p>
+<p><strong><u>Tier 1: Universal Support</u></strong>
+<br>Our teachers establish clear behavioural expectations and school-wide
+positive reinforcement for all students. We believe in creating a structured
+environment where students thrive through proactively teaching appropriate
+conduct and consistently recognising good behaviour through our High-Potential
+Learner assembly sharings.
+<br>
+<br>The school’s approach to academic excellence centres on three fundamental
+steps: Prepare, Participate, and Practise. Through this structured framework,
+we empower our students to become confident, independent learners who can
+achieve their highest potential.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3PS.jpg">
+</div>
+<p><strong><u>Tier 2: Targeted Support</u></strong>
+<br>Year Heads provide dedicated leadership and pastoral care for each cohort,
+working closely with form teachers to monitor student progress and wellbeing.
+They serve as the key liaison between students, parents, and school leadership,
+ensuring targeted support that meets each year group's developmental needs
+through our Behavioural Support Plans. Through their guidance, Year Heads
+foster a strong sense of community and maintain high standards across their
+cohorts.</p>
+<p><strong><u>Tier 3: Intervention Support</u></strong>
+<br>The Student Management team forms a comprehensive support network that
+addresses the diverse needs of our student community.&nbsp;</p>
+<ul>
 <li>
-<p><strong>Strengthening Culture of Care through Peer Support and Cyber Wellness (Student Well-being):</strong>
+<p>School Welfare Officer (SWO) ensures that students' welfare needs are
+met, creating a safe and nurturing environment where all students can thrive.&nbsp;</p>
+</li>
+<li>
+<p>School Counsellors (SCs) offer essential emotional and social support
+to help students navigate personal challenges and develop resilience.&nbsp;</p>
+</li>
+<li>
+<p>Special Education Needs Officer (SENOs) advocate for inclusive education
+and provide intervention support for students with mild learning needs.</p>
+</li>
+<li>
+<p>Senior teacher in Special Education Needs (ST SEN) conducts professional
+development training for teachers to adapt curriculum and teaching strategies
+for inclusive classroom practices.</p>
+</li>
+<li>
+<p>Head of Department Student Management (HOD SM) oversees the SM department,
+developing school-wide welfare policies and coordinating comprehensive
+student support programmes across all year levels.</p>
+<p>The team is dedicated to supporting our students’ holistic development
+and wellbeing through our DZPS Academies, which provide tailored support
+to nurture selected students’ potential across three key areas.&nbsp;</p>
+</li>
+<li>
+<p>Ace Academy empowers students through our L.E.A.P and G.E.M mentoring
+programmes, pairing them with dedicated mentors to build confidence and
+develop their unique strengths and interests.&nbsp;</p>
+</li>
+<li>
+<p>Curiosity Academy supports students with learning needs through specialised
+Literacy Intervention programmes that enhance their academic foundation.&nbsp;</p>
+</li>
+<li>
+<p>Resilience Academy equips students with essential social-emotional skills
+through engaging Adventure Learning experiences. Together, these academies
+ensure comprehensive support that addresses the diverse developmental needs
+of our student community.
+<br>
 </p>
 </li>
-</ol>
-<p><strong>(Visit the DZPS Student Well-being page for more information) DZPS 3E - Excite &amp; Engage</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strengthening and enhancing Level 1 Peer Support &amp; Relationship (PSR)
-and Cyber Wellness (CW).</p>
-</li>
-<li>
-<p>Infusing and synergising of PSR and CW aspects into school programmes
-and events (eg: School Level Camps, National Education Events)</p>
-</li>
 </ul>
-<p><strong>DZPS 3E - Empower</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Increasing empowerment of Peer Support Leaders and ICT Champions for Level
-2 PSR and CW.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_19_at_14_29_29.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM1.jpg">
 </div>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Strengthening Student Leadership &amp; Student Advocacy as platform for Character Education: (Visit the DZPS Student Leadership page for more information)</strong>
-</p>
-</li>
-</ol>
-<p><strong>DZPS 3E - Excite</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Making all Student Leaders’ roles and responsibilities relevant to their
-learning experiences.</p>
-</li>
-</ul>
-<p><strong>DZPS 3E&nbsp; - Engage</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Explicit teaching of the LE@D Model (M.I.C.E.E.) to guide the actions
-of all students to be strong Serving Leaders.</p>
-</li>
-</ul>
-<p><strong>DZPS 3E&nbsp; - Empower</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Providing platforms for students to grow as strong Serving Leaders by
-leading in various student-led projects:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Catch You Doing Good (CYDG)</p>
-</li>
-<li>
-<p>Appreciating You @ Dazhong</p>
-</li>
-<li>
-<p>EL STAND Morning Sharing</p>
-</li>
-<li>
-<p>After School Programme by DMs - L.E.A.P. Programme</p>
-</li>
-<li>
-<p>P.E.E.R. Projects: Talk POSitiVe, DZ Got Talent, Dazhong Newsletter</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CYDG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM2.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-</li>
-</ul>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Enhanced support for students in Self-Management of Emotions:</strong>
-</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Proactive actions taken to empower all students.</p>
-</li>
-<li>
-<p>Tier 2/3 Student Adoption Programme - Teacher-mentors provide proactive
-support to selected students.</p>
-</li>
-<li>
-<p>Synergy between various teacher teams (Discipline, Counseling, SEN) to
-create resources to empower and support students to manage emotions.</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>Promote Inclusiveness in school community:</strong>
-</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diversity of student leadership opportunities for all students</p>
-</li>
-<li>
-<p>Increased platforms to recognise and affirm the efforts and achievement
-of all students via our Termly Affirmation Days</p>
-</li>
-<li>
-<p>Driving inclusiveness in school amongst our students and staff:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students - Building Bridges Programme (PSLs x ISPR students)</p>
-</li>
-<li>
-<p>Staff - Staff Professional Development SLS e-mods for Case Management</p>
-</li>
-</ul>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SM4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM6.jpg">
 </div>
 <p></p>
