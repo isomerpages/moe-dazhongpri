@@ -48,7 +48,7 @@ steps: Prepare, Participate, and Practise. Through this structured framework,
 we empower our students to become confident, independent learners who can
 achieve their highest potential.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/3PS.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/3PS.jpg">
 </div>
 <p><strong><u>Tier 2: Targeted Support</u></strong>
 <br>Year Heads provide dedicated leadership and pastoral care for each cohort,
