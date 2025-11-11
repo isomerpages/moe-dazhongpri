@@ -64,7 +64,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tony Neo Chin Teng</p>
 </td>
 </tr>
 <tr>
