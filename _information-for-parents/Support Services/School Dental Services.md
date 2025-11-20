@@ -7,4 +7,11 @@ variant: markdown
 ---
 ### School Dental Services
 
-![](/images/Clinic_Closure_SDC_300124.jpg)
+Clinic opens on alternate week
+Operating Hours: 8am – 5pm
+Lunch Break: 1pm-2pm
+Tel: 91145479
+
+For general enquiry, please email: contact_yps@hpb.gov.sg
+
+*May be subjected to change without prior notice due to unforeseen circumstances.
