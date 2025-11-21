@@ -22,5 +22,5 @@ to&nbsp;<a href="mailto:dazhong_ps@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 <p>The updated product factsheet for the NTUC Income Student GPA Insurance
 plan is attached for your reference.</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Product Sheet 2024.pdf</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet 2025</a>
 </p>
