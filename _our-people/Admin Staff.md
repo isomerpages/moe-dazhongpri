@@ -149,10 +149,10 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dhamiri Zuhri Bin Thahir</p>
+<p>Mdm Nancy Teo Lee Choo</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nancy Teo Lee Choo</p>
+<p>Mr Yeoh Weng Hwa</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeoh Weng Hwa</p>
+<p>Mdm T Magaswari</p>
 </td>
 </tr>
 <tr>
@@ -185,23 +185,12 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm T Magaswari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Siew Swee Teng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
