@@ -67,7 +67,7 @@ variant: tiptap
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Jannah juri</p>
+<p>Mdm Nur Jannah Juri</p>
 </td>
 </tr>
 <tr>
