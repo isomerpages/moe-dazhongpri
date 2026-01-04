@@ -75,7 +75,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joyce Ong Bee</p>
+<p>Mdm Joyce Ong Wee Bee</p>
 </td>
 </tr>
 <tr>
