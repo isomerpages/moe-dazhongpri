@@ -144,7 +144,7 @@ variant: tiptap
 <p>Head of Department (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Yunus Sunanwi</p>
+<p>Mr Yunus Sunanwi</p>
 </td>
 </tr>
 <tr>
