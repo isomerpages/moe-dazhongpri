@@ -4,19 +4,22 @@ permalink: /character-excellence/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
-the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships with others, including
-those with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters. SEd is premised on the importance of the
-family as the basic unit of society. This means encouraging healthy, heterosexual
-marriages and stable nuclear family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
-<p>2. The Goals of Sexuality Education are:</p>
+<p><strong>Moe Sexuality Education in Schools</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+aims to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -24,32 +27,37 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3. The Key Messages of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<p></p>
-<p><strong>Overview of dazhong Primary School’s Sexuality Education Programme for 2025</strong>
+more information on MOE Sexuality Education.<strong><br></strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum. The content for Sexuality
-Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+<p><strong>Overview of Dazhong Primary School’s Sexuality Education Programme for 2026</strong>
+</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p></p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
@@ -61,7 +69,6 @@ a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
 sources.</p>
-<p>&nbsp;</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
 taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
 students will learn healthy ways to manage the physiological, social and
@@ -70,9 +77,9 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At DAZHONG Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Dazhong Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -140,7 +147,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +166,7 @@ and how to seek help for themselves and their friends.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -230,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -238,14 +245,14 @@ and learn to behave maturely towards each other.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated &nbsp;to parents through Parent’s Gateway
-by the school. Parents will be notified by the school once the opt-out
-form is uploaded.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents through Parent’s
+Gateway by the school. Parents will be notified by the school once the
+opt-out form is uploaded.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">dazhong_ps@moe.edu.sg</a>or <u>65658002</u> for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
