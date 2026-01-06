@@ -166,7 +166,7 @@ and how to seek help for themselves and their friends.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -220,7 +220,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 3</p>
 </td>
 </tr>
 </tbody>
