@@ -237,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 3</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 </tbody>
