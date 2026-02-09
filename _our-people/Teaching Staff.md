@@ -624,7 +624,7 @@ variant: tiptap
 <p>Mr Brandon Huang Kangjun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Imran Bin Jamaluddin</p>
+<p>Mr Lim Wei Heng, Edwin</p>
 </td>
 </tr>
 <tr>
