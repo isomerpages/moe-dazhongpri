@@ -2,6 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
+      - Our Staff.md
       - About Us/.keep
       - About Us/What MK offers.md
       - About Us/Our Fees.md
