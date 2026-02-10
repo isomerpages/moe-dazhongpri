@@ -2,10 +2,10 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - About Us/Contact Us.md
-      - About Us/Our Fees.md
-      - About Us/What MK offers.md
       - About Us/.keep
+      - About Us/What MK offers.md
+      - About Us/Our Fees.md
+      - About Us/Contact Us.md
       - MK @ Dazhong/.keep
       - MK @ Dazhong/Welcome.md
       - MK @ Dazhong/Our MK@DZ Team.md
