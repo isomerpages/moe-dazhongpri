@@ -2,11 +2,11 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - The MK Experience/Centre Based Programmes.md
-      - The MK Experience/Our Environment.md
-      - The MK Experience/Our Curriculum.md
-      - The MK Experience/MK@Dazhong.md
       - The MK Experience/.keep
+      - The MK Experience/MK@Dazhong.md
+      - The MK Experience/Our Curriculum.md
+      - The MK Experience/Our Environment.md
+      - The MK Experience/Centre Based Programmes.md
       - About Us/.keep
       - About Us/What MK offers.md
       - About Us/Our Fees.md
