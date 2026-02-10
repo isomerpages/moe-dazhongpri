@@ -2,6 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
+      - Our Staff/.keep
       - The MK Experience/.keep
       - The MK Experience/MK@Dazhong.md
       - The MK Experience/Our Curriculum.md
