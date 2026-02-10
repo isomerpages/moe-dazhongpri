@@ -2,7 +2,7 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - Welcome/.keep
+      - About Us/.keep
       - MK @ Dazhong/.keep
       - MK @ Dazhong/Welcome.md
       - MK @ Dazhong/Our MK@DZ Team.md
