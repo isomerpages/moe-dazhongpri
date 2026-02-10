@@ -2,8 +2,6 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - What MK offers/About Us.md
-      - What MK offers/.keep
       - Welcome.md
       - Our Staff.md
       - The MK Experience.md
