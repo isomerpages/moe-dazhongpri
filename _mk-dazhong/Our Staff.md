@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>MOE Kindergarten Staff</strong></h4>
+<p>MOE Kindergarten Staff</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -35,7 +36,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mayuri
-<br><em><a href="mailto:mayuri_loganthan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mayuri_loganthan@moe.edu.sg</a></em>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Child Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy
+<br>
 </p>
 </td>
 </tr>
@@ -44,11 +58,11 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Child Development)</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy
-<br><em><a href="mailto:chin_mei_ling_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_mei_ling_cindy@moe.edu.sg</a></em>
+<p>Ms Amily
+<br>
 </p>
 </td>
 </tr>
@@ -57,25 +71,11 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amily
-<br><em><a href="mailto:amily_ng_hui_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amily_ng_hui_hoon@moe.edu.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syqin</p>
-<p><a href="mailto:mk_dazhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_dazhong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Riahan (Ms Han)
-<br><em><a href="mailto:nur_riahan_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_riahan_aziz@moe.edu.sg</a></em>
+<br>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vaeshanavi (Ms Shana)
-<br><em><a href="mailto:vaeshanavi_manoharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaeshanavi_manoharan@moe.edu.sg</a></em>
+<br>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vencia (Ms Ven)
-<br><a href="mailto:vencia_lee_jie_lei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vencia_lee_jie_lei@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -126,8 +126,123 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarah
-<br><em><a href="mailto:sarah_parveen_muhammed_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_parveen_muhammed_sulaiman@moe.edu.sg</a></em>
+<br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Linda</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xing Laoshi
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Laoshi
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Laoshi
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cui Laoshi
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ML Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cikgu Humairah
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ML Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cikgu Dinah
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asiriyar Fathima
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asiriyar Kiruthika</p>
+<p></p>
 </td>
 </tr>
 </tbody>
