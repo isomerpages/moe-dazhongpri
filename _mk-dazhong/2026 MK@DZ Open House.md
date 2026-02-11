@@ -4,7 +4,7 @@ permalink: /2026-mk-dz-open-house/
 variant: tiptap
 description: ""
 ---
-<h3><strong>MK@Dazhong Open House 2026 </strong></h3>
+<h3><strong>MK@Dazhong Open House 2026</strong></h3>
 <p>Come join us for our 2026 Open House at MOE Kindergarten @ Dazhong! Explore
 our learning environment, meet our team, and discover how learning is made
 fun at our MK.</p>
