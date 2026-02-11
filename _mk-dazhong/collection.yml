@@ -2,14 +2,16 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - MK @ Dazhong/.keep
-      - MK @ Dazhong/Welcome.md
-      - MK @ Dazhong/Our MK@DZ Team.md
-      - MK @ Dazhong/Our Learning Environment.md
-      - MK @ Dazhong/Kcare.md
-      - Information for Parents/.keep
-      - Information for Parents/Operating Hours.md
-      - Information for Parents/Uniforms.md
-      - Information for Parents/Parent's Words.md
-      - Information for Parents/Contact Us.md
-      - Information for Parents/Dazhong MK Waitlist.md
+      - 2026 MK@DZ Open House.md
+      - Welcome.md
+      - About Us/.keep
+      - About Us/What MK offers.md
+      - About Us/Our Fees.md
+      - About Us/Contact Us.md
+      - Our Staff.md
+      - The MK Experience/.keep
+      - The MK Experience/MK@Dazhong.md
+      - The MK Experience/Our Curriculum.md
+      - The MK Experience/Our Environment.md
+      - The MK Experience/Centre Based Programmes.md
+      - Events & Celebrations.md
