@@ -81,7 +81,7 @@ variant: tiptap
 <p>Ace 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Phua Noi Kheng, Gwendolene</p>
+<p>Mrs Gwendolene Martin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheryl Toh Yun Yee</p>
