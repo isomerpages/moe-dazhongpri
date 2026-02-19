@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Parent Support Group&nbsp;
 
-![](/images/IMG_0140.jpg)
+![](/images/DSC_2210.jpg)
 
 In Dazhong Primary School, we strive to develop all our students holistically so that they grow to become <b>Self-Directed Learners, Serving Leaders and Concerned Citizens.</b> Parents are important partners to the school in providing a positive, enriching and holistic education experience for our students. The <b>Parent Support Group (PSG)</b> is a bridge that has strengthened school-home partnership in Dazhong.<br>
 
