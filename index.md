@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/Untitled_design__1_.jpg
       url: https://www.instagram.com/dazhong_primary_school/
-      variant: image
+      variant: center
   - announcements:
       title: Announcements
       id: announcements
