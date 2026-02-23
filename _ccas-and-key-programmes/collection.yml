@@ -2,19 +2,19 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Art Club.md
-      - Track and Field.md
       - Badminton.md
       - Basketball.md
-      - Football.md
-      - Netball.md
-      - Wushu.md
+      - Brownies.md
       - Choir.md
       - Dance Club.md
+      - Football.md
+      - Internationalisation.md
       - Junior Orchestra.md
-      - Brownies.md
+      - Learning for Life Programme.md
+      - Netball.md
       - Scouts.md
       - Student Leadership.md
-      - Internationalisation.md
-      - Applied Learning Programme.md
-      - Learning for Life Programme.md
+      - Track and Field.md
+      - Wushu.md
