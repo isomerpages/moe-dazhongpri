@@ -2,7 +2,6 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
-      - Tchoukball.md
       - Applied Learning Programme.md
       - Art Club.md
       - Badminton.md
@@ -17,5 +16,6 @@ collections:
       - Netball.md
       - Scouts.md
       - Student Leadership.md
+      - Tchoukball.md
       - Track and Field.md
       - Wushu.md
