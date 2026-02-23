@@ -2,6 +2,7 @@ collections:
   ccas-and-key-programmes:
     output: true
     order:
+      - Tchoukball.md
       - Applied Learning Programme.md
       - Art Club.md
       - Badminton.md
