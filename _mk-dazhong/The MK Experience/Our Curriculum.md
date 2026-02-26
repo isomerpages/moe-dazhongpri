@@ -107,7 +107,7 @@ shows and other interactive experiences that extend classroom learning.
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!" src="/images/Picture12.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!" src="/images/Picture12.png">
 </div>
 <p>For more information on MOE Kindergarten and our curriculum, you may also
 wish to visit the&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten website</a>&nbsp;to
