@@ -35,9 +35,7 @@ description: ""
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mayuri
-<br>
-</p>
+<p>Ms Mayuri</p>
 </td>
 </tr>
 <tr>
@@ -48,9 +46,7 @@ description: ""
 <p>Senior Teacher (Child Development)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy
-<br>
-</p>
+<p>Ms Cindy</p>
 </td>
 </tr>
 <tr>
@@ -61,9 +57,7 @@ description: ""
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amily
-<br>
-</p>
+<p>Ms Amily</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +69,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syqin</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -86,9 +79,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Riahan (Ms Han)
-<br>
-</p>
+<p>Ms Riahan (Ms Han)</p>
 </td>
 </tr>
 <tr>
@@ -99,9 +90,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vaeshanavi (Ms Shana)
-<br>
-</p>
+<p>Ms Vaeshanavi (Ms Shana)</p>
 </td>
 </tr>
 <tr>
@@ -112,9 +101,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vencia (Ms Ven)
-<br>
-</p>
+<p>Ms Vencia (Ms Ven)</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +112,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah
-<br>
-</p>
+<p>Ms Sarah</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +124,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Linda</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -150,9 +134,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xing Laoshi
-<br>
-</p>
+<p>Xing Laoshi</p>
 </td>
 </tr>
 <tr>
@@ -163,9 +145,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Laoshi
-<br>
-</p>
+<p>Yang Laoshi</p>
 </td>
 </tr>
 <tr>
@@ -176,9 +156,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Laoshi
-<br>
-</p>
+<p>Zhang Laoshi</p>
 </td>
 </tr>
 <tr>
@@ -189,9 +167,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cui Laoshi
-<br>
-</p>
+<p>Cui Laoshi</p>
 </td>
 </tr>
 <tr>
@@ -202,9 +178,7 @@ description: ""
 <p>ML Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cikgu Humairah
-<br>
-</p>
+<p>Cikgu Humairah</p>
 </td>
 </tr>
 <tr>
@@ -215,9 +189,7 @@ description: ""
 <p>ML Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cikgu Dinah
-<br>
-</p>
+<p>Cikgu Dinah</p>
 </td>
 </tr>
 <tr>
@@ -228,9 +200,7 @@ description: ""
 <p>TL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asiriyar Fathima
-<br>
-</p>
+<p>Asiriyar Fathima</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +212,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Asiriyar Kiruthika</p>
-<p></p>
 </td>
 </tr>
 </tbody>
