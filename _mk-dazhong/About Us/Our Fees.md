@@ -18,7 +18,7 @@ as field trips.</p>
 <p><strong>MK financial assistance</strong>
 </p>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
-under the&nbsp;<a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>  <em>(When parents click that underline link, it should direct to another webpage)</em>.
+under the&nbsp;<a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
 applies only to MK school fees.</p>
 <div class="isomer-image-wrapper">
@@ -46,8 +46,8 @@ KCare subsidy: <a href="https://moe.gov.sg/preschool/moe-kindergarten/kindergart
 </p>
 <p><strong><u>MK Uniform</u></strong>
 </p>
-<p>You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Beau Voix</a> (hyperlink)&nbsp;or&nbsp;
-<a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank">Jeep Sing Fashion</a>&nbsp;(hyperlink)&nbsp; at the following prices:</p>
+<p>You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Beau Voix</a> or&nbsp; <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank">Jeep Sing Fashion</a>&nbsp;at
+the following prices:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_19_150628.jpg">
 </div>
