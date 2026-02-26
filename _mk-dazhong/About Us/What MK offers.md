@@ -12,7 +12,7 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_19_150140.jpg">
 </div>
-<p>MOE kindergarten follows <u>MOE’s calendar of school term and school holidays</u>. <em>(The underlined blue phrase above to be a link that directs parent to this page below - </em><strong><em><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026</a></em></strong>
+<p>MOE kindergarten follows <a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener nofollow" target="_blank">MOE's calendar of school term and school holidays.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
