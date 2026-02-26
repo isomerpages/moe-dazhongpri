@@ -12,10 +12,11 @@ third_nav_title: About Us
 </p>
 <p>The MOE Kindergarten registration exercise for 2026 K1 admission is closed.
 If you wish to place your child in MK@Dazhong, Please submit the waitlist
-form and supporting documents via <u>MK@Dazhong waitlist form </u>or scan
-the QR code below.</p>
-<p>&nbsp;</p>
-<p>QR code to take from our current website</p>
+form and supporting documents via <a href="https://form.gov.sg/68424b345502a40a22296c92" rel="noopener nofollow" target="_blank">MK@Dazhong Waitlist Form </a>or
+scan the QR code below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKwaitlist.jpg">
+</div>
 <p></p>
 <p><strong><u>Contact Us</u></strong>
 </p>
@@ -33,6 +34,6 @@ the QR code below.</p>
 <p><strong><u>Locate Us</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_19_150718.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_19_150718.jpg">
 </div>
 <p></p>
