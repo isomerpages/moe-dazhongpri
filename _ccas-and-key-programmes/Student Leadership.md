@@ -123,19 +123,19 @@ character development</p>
 skills, teamwork and empathy, while learning to serve others with respect
 and responsibility.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureSL2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureSL3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureSL4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureSL5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL5.jpg">
 </div>
 <p><strong><u>Our Aspiration</u></strong>
 <br>
