@@ -6,6 +6,11 @@ description: ""
 ---
 <p><strong>Tchoukball</strong>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB.jpg">
+</div>
+<p>
 <br>The Tchoukball CCA provides students with opportunities to learn and participate
 in a team sport in a structured and supportive environment.</p>
 <p>The CCA emphasises sports values such as teamwork, respect, perseverance,
