@@ -2,7 +2,6 @@ collections:
   mk-dazhong:
     output: true
     order:
-      - 2026/Events & Celebrations.md
       - 2026/.keep
       - Welcome.md
       - About Us/.keep
