@@ -6,7 +6,7 @@ third_nav_title: Support Services
 variant: tiptap
 ---
 <h3>Group Personal Accident Insurance for Students</h3>
-<p><strong>Student Group Personal Accident Insurance (GPA) 2025</strong>
+<p><strong>Student Group Personal Accident Insurance (GPA) 2026</strong>
 </p>
 <p>The Ministry of Education (MOE) has established a contract for GPA Insurance
 for Students. This contract is awarded to NTUC Income Insurance Co-operative
@@ -22,5 +22,5 @@ to&nbsp;<a href="mailto:dazhong_ps@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 <p>The updated product factsheet for the NTUC Income Student GPA Insurance
 plan is attached for your reference.</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet 2025</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet 2026</a>
 </p>
