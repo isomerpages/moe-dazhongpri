@@ -5,7 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Character &amp; Citizenship Education</h3>
-<h4>Philosophy</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_20_170213.png">
+</div>
+<h4><strong>Character and Citizenship Education (CCE)</strong> is embedded throughout the school experience and is not confined to a single subject or period. While <strong>Character and Citizenship Education Form Teacher Guidance Period </strong>&nbsp;<strong>(CCE FTGP) </strong>provides a dedicated space for discussion, reflection, and student voice, and <strong>Character and Citizenship Education Mother Tongue Language </strong>&nbsp;<strong>(CCE MTL)</strong>&nbsp;reinforces values through language and culture, CCE is also lived out through VIA, school programmes, daily interactions, and teacher–student relationships. When approached holistically, students experience CCE as part of everyday learning and life, leading to deeper understanding and meaningful application of values.</h4>
+<p>&nbsp;</p>
+<p><strong><u>Philosophy</u></strong>
+</p>
 <p>The school believes that it is not only important to develop in pupils
 a strong moral fibre grounded on sound values but they must also be equipped
 with the competencies to enable them to live out their beliefs. As the
@@ -22,170 +29,78 @@ provided also for these pupils to live out their beliefs and influence
 their peers to be the individuals with the desired values, attitudes and
 competencies.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_20_170213.png">
-</div>
-<h4>Programme, Project,&nbsp; Activity and Workshop</h4>
-<p><strong>Duck Prints</strong>
+<p><strong><u>Duck Stamp</u></strong>
 </p>
-<p>Duck Prints is a schoolwide initiative in rewarding students who practice
+<p>Duck Stamp is a schoolwide initiative in rewarding students who practice
 self-leadership and demonstrate a positive mindset to learn, Achieve and
 Soar.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Why_Duck_Stamps.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp4.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>National Education – “NE Current Buzz”</strong>
+<p><strong><u>National Education (NE)</u></strong>
 </p>
-<p>Pupils learn to generate ideas, share opinions and learn from one another
-as they discuss current affairs during their English Language periods.</p>
-<p><strong>National Education – Total Defence Day</strong>
+<p>NE in Dazhong Primary School aims to nurture students who understand Singapore’s
+story, value our shared identity, and feel a sense of responsibility towards
+the nation. Through age-appropriate learning experiences integrated across
+the curriculum and school programmes, students develop an appreciation
+of Singapore’s challenges and strengths, cultivate social cohesion, and
+learn the importance of resilience, care for others, and contributing to
+the common good. These experiences help students grow as informed, caring,
+and committed citizens of Singapore.</p>
+<p><strong><u>Social Studies (SS)</u></strong>
 </p>
-<p>Through the various activities, pupils learnt more about the five pillars
-of Total Defence. During recess, pupils learnt about the resilience and
-perseverance experienced by our pioneers during the World War II. Like
-previous years, we managed to partner the Neighbourhood Police and the
-pupils learnt more about civil defence and not take our home security for
-granted.</p>
-<p>In conjunction with Total Defence Week and emphasising Digital Defence,
-the school takes part in the annual global initiative aiming to promote
-safer and more responsible technology use among students. While we acknowledge
-the benefits of technology for learning and socialising, it's important
-for students to understand that excessive use can also harm their well-being.
-To foster balance, we recommend a 'Screen-free Weekend'. We hope that the
-time can be used for family bonding. Visit <a href="https://www.digitalforlife.gov.sg/Learn/Resources" rel="noopener noreferrer nofollow" target="_blank">https://www.digitalforlife.gov.sg/Learn/Resources</a> for
-more tips on fostering healthy digital habits!</p>
+<p><strong>SS</strong> in Dazhong Primary School helps students understand
+Singapore and the world by exploring how people, communities, and societies
+interact and make decisions. Through inquiry, discussion, and real-life
+contexts, students examine social issues, consider multiple perspectives,
+and develop critical and responsible decision-making skills. These learning
+experiences nurture informed, thoughtful students who are able to relate
+classroom learning to everyday life and contribute meaningfully to society.</p>
+<p><strong><u>Values-in-Action (VIA)</u></strong>
+</p>
+<p><strong>VIA </strong>in Dazhong Primary School provides students with
+authentic opportunities to practise values through meaningful service and
+action. Through age-appropriate programmes across the levels, students
+learn to care for others, contribute to the community, and take responsibility
+for their actions. These experiences help students translate values into
+action, fostering empathy, respect, resilience, and a sense of social responsibility
+as they grow.</p>
 <p></p>
-<p><strong>Pupil Leadership – “Training for Prefects &amp; CCA Leaders”</strong>
-</p>
-<p>Pupil-leaders learnt more about their roles and responsibilities from
-this workshop. Through role-playing, the leaders also learnt how to manage
-their friends and perform their roles as servant leaders.</p>
-<p><strong>Pupil Leadership – “Training for CCE Leaders”</strong>
-</p>
-<p>The ‘CCE Leaders’ are in charge and responsible in the school’s environmental
-projects as well as activities related to National Education. This workshop
-helped leaders to understand more about their roles and responsibilities.
-Through various activities and reflection, pupils learn more how they can
-be concerned citizens and active contributors.</p>
-<p><strong>Service Learning-Values in Actions</strong>
-</p>
-<p>Primary 1: Care for Self and Family (Little Helpers at Home)</p>
-<p>Primary 2: Care for Friends - Be a Secret Care Friend</p>
-<p>Primary 3: Care for School - Values Project</p>
-<p>Primary 4: Care for School - P1-P4 Buddy Programme</p>
-<p>Primary 5: Care for Community - Understanding and Supporting Migrant Workers
-in Singapore</p>
-<p>Primary 6: Care for Community - External Organisation</p>
-<p><strong>Environmental Projects</strong>
-</p>
-<p>In partnership with the National Environment Agency, the Clean Singapore
-Learning Trail is designed as an activity-based experiential learning programme.
-This programme seeks to cultivate respectful and ethical minds in our pupils
-as pupils will</p>
-<p>-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Gain an appreciation of what it
-takes to keep Singapore clean,
-<br>-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Learn about the consequences of
-littering (e.g. pest infestation, breeding of mosquitoes)&nbsp;and how
-their personal behaviour affects the environment,&nbsp;
-<br>-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Reflect on how their everyday actions
-can have an impact on their immediate environment,
-<br>-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Be encouraged to be concerned citizens&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NE Current Buzz
+<ul>
+<li>
+<p><strong>Ace (P1)</strong>: <em>Little Helpers at Home</em>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cce2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Total Defence Day
+</li>
+<li>
+<p><strong>Respect (P2)</strong>: <em>My Secret Care Friends</em>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_20_at_17_12_31.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Caring Buddies</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_20_at_17_14_11.jpg">
-</div>
-<p>
+</li>
+<li>
+<p><strong>Curiosity (P3)</strong>: <em>Values Project</em>
 <br>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>International Friendship Day</strong>
+</li>
+<li>
+<p><strong>Humility (P4)</strong>: <em>P1 Buddy Programme</em>
+<br>
 </p>
-<p>Singapore works with our ASEAN neighbours for peace and collaboration
-in the region. As we are part of this community, we need to develop our
-cross-cultural skills and relate to one another respectfully and effectively.
-We need to remain open to the international flow of trade, ideas and talent
-which is critical to ASEAN’s growth as a region, and Singapore’s continued
-success as a nation.</p>
-<p>Together with the Parents Support Group (PSG), a series of exciting activities
-had been lined up for students to deepen their understanding of the relations
-that we share with other countries.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cce8.png">
-</div>
+</li>
+<li>
+<p><strong>Empathy (P5)</strong>: <em>Lions Befrienders Programme</em>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Resilience (P6)</strong>: <em>Care Home Engagement</em>
+</p>
 <p></p>
-<p><strong>Sexuality Education</strong>
+</li>
+</ul>
+<p><strong><u>Sexuality Education (Growing Years)</u></strong>
 </p>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
@@ -197,7 +112,5 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p></p>
-<p>Click <a href="https://www.dazhongpri.moe.edu.sg/character-excellence/sexuality-education/" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click&nbsp;<a href="https://www.dazhongpri.moe.edu.sg/character-excellence/sexuality-education/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view an overview of our school's Sexuality Education Programme.</p>
-<p></p>
