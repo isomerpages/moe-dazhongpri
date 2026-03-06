@@ -62,6 +62,6 @@ students’ learning (than test scores alone)</p>
 </ol>
 <h4>Desired Dazhong Culture</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/vmv2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/vmv2.png">
 </div>
 <p></p>
