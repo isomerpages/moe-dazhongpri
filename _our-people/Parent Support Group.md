@@ -8,7 +8,7 @@ variant: markdown
 
 ![](/images/DSC_2210.jpg)
 
-In Dazhong Primary School, we strive to develop all our students holistically so that they grow to become <b>Self-Directed Learners, Serving Leaders and Concerned Citizens.</b> Parents are important partners to the school in providing a positive, enriching and holistic education experience for our students. The <b>Parent Support Group (PSG)</b> is a bridge that has strengthened school-home partnership in Dazhong.<br>
+In Dazhong Primary School, we strive to develop all our students holistically so that they grow to become <b> High Potential Learners, Ace Leaders and Greenovators.</b> Parents are important partners to the school in providing a positive, enriching and holistic education experience for our students. The <b>Parent Support Group (PSG)</b> is a bridge that has strengthened school-home partnership in Dazhong.<br>
 
 We are thankful to have dedicated PSG members, led by the PSG Executive Committee (EXCO), who collaborate with the school and contribute to the development of our students through their active participation and co-planning of a range of school activities and curricular programmes. <br>
 
