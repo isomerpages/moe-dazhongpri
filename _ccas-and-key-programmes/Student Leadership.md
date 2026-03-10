@@ -122,21 +122,11 @@ character development</p>
 <p>Through these experiences, students develop confidence, communication
 skills, teamwork and empathy, while learning to serve others with respect
 and responsibility.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL2.jpg">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGBSGFnq9bGsuH0n5VDnhr69vIhSoWSv2GgnkbnfmR-yX234__7Bl_BsU-smIJtMjdC_yY1FHEDvoz/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PictureSL5.jpg">
-</div>
 <p><strong><u>Our Aspiration</u></strong>
 <br>
 <br>Through a strong culture of Student Leadership, we aspire to nurture <strong>responsible citizens and compassionate leaders</strong> who
