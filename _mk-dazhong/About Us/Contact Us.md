@@ -14,10 +14,10 @@ third_nav_title: About Us
 If you wish to place your child in MK@Dazhong, Please submit the waitlist
 form and supporting documents via <a href="https://form.gov.sg/68424b345502a40a22296c92" rel="noopener nofollow" target="_blank">MK@Dazhong Waitlist Form </a>or
 scan the QR code below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKwaitlist.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026_MK_Dazhong_Waitlist.png">
+</div>
 <p><strong><u>Contact Us</u></strong>
 </p>
 <p><strong>MK-Related Matters</strong>
