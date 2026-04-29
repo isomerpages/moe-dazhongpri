@@ -63,9 +63,9 @@ Action and Advocacy” (The 3As).
 </tbody>
 </table>
 <p>With this DZE design framework, students would be assured with opportunities
-and guidance to achieve the POS2.0, school values (A.R.C.H.E.R.), 21st
-century skills and the following as indicated on the 8 spokes on the DZE
-Diagram above:</p>
+and guidance to achieve the POS2.0, school values (ARCHER), 21st century
+skills and the following as indicated on the 8 spokes on the DZE Diagram
+above:</p>
 <p>1) Habits of a Self-directed learner</p>
 <p>2) Collaboration, Communication and Critical Thinking Skills</p>
 <p>3) Character Development</p>
