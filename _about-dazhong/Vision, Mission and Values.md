@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Philosophy: Vision, Mission, Values</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_06_165704.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_logo_with_8_spokes_and_updated_VMV_v2.png">
 </div>
 <h4>Vision</h4>
 <p>Every Dazhong Student a High Potential Learner, an Ace Leader and a Greenovator</p>
