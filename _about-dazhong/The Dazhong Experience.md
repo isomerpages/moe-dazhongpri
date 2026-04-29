@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h4>The Dazhong Experience</h4>
 <h5>What is the Dazhong Experience?</h5>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dzexp01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_logo_with_8_spokes_and_updated_VMV_v2.png">
 </div>
 <p>The Dazhong Experience (DZE) was developed in 2022 for the students, by
 the teachers. Its implementation started in 2023, and it maps out the holistic
@@ -63,7 +64,7 @@ Action and Advocacy” (The 3As).
 </tbody>
 </table>
 <p>With this DZE design framework, students would be assured with opportunities
-and guidance to achieve the POS2.0, school values (IREAP), 21st century
+and guidance to achieve the POS2.0, school values (ARCHER), 21st century
 skills and the following as indicated on the 8 spokes on the DZE Diagram
 above:</p>
 <p>1) Habits of a Self-directed learner</p>
