@@ -1,6 +1,6 @@
 ---
-title: 2026 MK@DZ Open House
-permalink: /2026-mk-dz-open-house/
+title: Dazhong Primary School Open House 2026
+permalink: /dzpsopenhouse2026/
 variant: tiptap
 description: ""
 ---
