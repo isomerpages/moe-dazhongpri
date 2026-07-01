@@ -18,7 +18,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Dazhong Primary School Open House 2026
+        - title: Dazhong Primary School Open House 2026 (13 & 14 July)
           date: 13 July 2026
           announcement: 📅 Registration closes on Monday, 6 July 2026 at 6pm.
           link_text: "Dazhong Primary School Open House 2026: Registration and
